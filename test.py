@@ -9,18 +9,22 @@ lang_en = "Primary Language"
 
 #Group class
 class Group:
-    def __init__(self):
-        self.groupname=""
-        self.groupurl=""
-        self.groupup=0
-        self.groupdown=0
-        self.groupshows=[]
+    def __init__(self, name, url, up, down, shows):
+        self.groupname=name
+        self.groupurl=url
+        self.groupup=up
+        self.groupdown=down
+        self.groupshows=shows
+    def __repr__(self):
+        return "Group: "+self.groupname+"\nRating: "+(str)(self.groupup)+"/"+(str)(self.groupdown)+"\nShows:"+(str)(self.groupshows)
 
 class Show:
-    def __init__(self):
-        self.showname=""
-        self.showup=0
-        self.showdown=0
+    def __init__(self, name, up, down):
+        self.showname=name
+        self.showup=up
+        self.showdown=down
+    def __repr__(self):
+        return ""+self.showname
 
 
 def getGroups(letter):
@@ -51,7 +55,6 @@ Details: (Primary Language: English)
 Group Name, List of Shows, Rating per show
 '''
 def getGroupData(groupname, groupurl):
-    group = Group()
     page = requests.get(baseurl+groupurl)
     soup = BeautifulSoup(page.content, 'html.parser')
     
@@ -62,16 +65,11 @@ def getGroupData(groupname, groupurl):
         return "NotEnglish"
 
     (up,down,total) = getTotalRatings(text)
-    shows = getShows(text)
-    #print(shows)
+    shows = getShows(soup)
 
     #Create the group object using this data
-    group.groupname = groupname
-    group.groupurl = groupurl
-    group.groupdown = down
-    group.groupup = up
-    group.shows = shows
-
+    group = Group(groupname, groupurl, up, down, shows)
+    print (group)
 
     return (soup)
 
@@ -97,18 +95,14 @@ def getTotalRatings(text):
     return (up,down,tr)
 
 '''Helper to get Shows and Rating data'''
-def getShows(text):
-    show = Show()
-    startpos = text.find("Group Projects")+len("Group Projects")
-    finalpos = text.find("MoreTop Anime")
-    currpos = startpos
-    endpos = text.find("episodes")
-    currtext = text[startpos:endpos]
-    # while (currpos < finalpos):
-    #     showname = text[startpos:endpos]
-    #     (up,down) = getShowRatings(showname)
-    #     print(showname)
-    return ""
+def getShows(soup):
+    shows=[]
+    shownames = getShowNames(soup)
+    # (up,down) = getShowRatings(soup.get_text())
+    for i in range(0, len(shownames)):
+        shows.append(Show(shownames[i], 2, 3))
+    return shows
+
 
 
 '''Helper to get show ratings'''
@@ -124,7 +118,8 @@ def getShowRatings(text):
 def getShowNames(soup):
     names = []
     nametags = soup.find_all('strong')
-    for name in nametags:
+    #Hardcoded - remove first 2 names as those are ratings
+    for name in nametags[2:]:
         name = (str)(name)
         name = name.replace("<strong>","")
         name = name.replace("</strong>","")
@@ -142,6 +137,8 @@ def main():
     with io.open("groupdata.txt", "w", encoding="utf-8") as f:
         f.write(groupsoup.get_text())
     f.close()
+
+    # print(getShowNames(groupsoup))
 
 
 #Run main
