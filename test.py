@@ -110,12 +110,6 @@ def getShows(text):
     #     print(showname)
     return ""
 
-'''Helper to get Show name and number of episodes'''
-def getShowNames(text):
-    
-    positions = [m.start() for m in re.finditer('episodes', text)]
-    for pos in positions:
-        print(text[pos-50:pos])
 
 '''Helper to get show ratings'''
 def getShowRatings(text):
@@ -128,8 +122,14 @@ def getShowRatings(text):
 
 '''Getting show names'''
 def getShowNames(soup):
-    names = soup.find_all("strong")
-    return "shows: "+(str)(names)
+    names = []
+    nametags = soup.find_all('strong')
+    for name in nametags:
+        name = (str)(name)
+        name = name.replace("<strong>","")
+        name = name.replace("</strong>","")
+        names.append(name)
+    return names
 
 
 def main():
@@ -137,11 +137,12 @@ def main():
     getGroups('.')
     groupsoup = getGroupData("8thSin Fansubs","https://myanimelist.net/fansub-groups.php?id=3375")  #English
     #groupdata = getGroupData("https://myanimelist.net/fansub-groups.php?id=5870") #German
+
+    
     with io.open("groupdata.txt", "w", encoding="utf-8") as f:
-        f.write((str)(groupsoup.get_text()))
+        f.write(groupsoup.get_text())
     f.close()
 
-    print(getShowNames(groupsoup))
 
 #Run main
 main()
