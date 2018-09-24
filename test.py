@@ -1,5 +1,6 @@
 import io
 import re
+import pickle
 import requests
 from bs4 import BeautifulSoup
 
@@ -103,6 +104,7 @@ def getTotalRatings(text):
     return (up,down,tr)
 
 '''Helper to get Shows and Rating data'''
+#TODO : Make this return a list of show objects with rating
 def getShows(soup):
     shows=[]
     shownames = getShowNames(soup)
@@ -138,12 +140,21 @@ def getShowNames(soup):
 def main():
     print ("Starting..")
     
+    ''' Pickling test
     groups = getGroups(".")
+    #Dump the groups of '.' in a pickle
+    fp = open("groupsOfDot.obj", "wb")
+    pickle.dump(groups,fp)
+    '''
+
+    with open('groupsOfDot.obj', 'rb') as f:
+        mynewlist = pickle.load(f)
+        print(mynewlist)
+
     #groupsoup = getGroupData("8thSin Fansubs","https://myanimelist.net/fansub-groups.php?id=3375")  #English 1
     #groupsoup = getGroupData("English2", "https://myanimelist.net/fansub-groups.php?id=3607") # English 2
     #groupdata = getGroupData("https://myanimelist.net/fansub-groups.php?id=5870") #German
     #https://myanimelist.net/fansub-groups.php?id=514 # Spanish
-
 
     
     # with io.open("groupdata.txt", "w", encoding="utf-8") as f:
