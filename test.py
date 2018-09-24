@@ -29,25 +29,33 @@ class Show:
 
 def getGroups(letter):
     print("Getting Group Names and URLs for group '"+letter+"'")
-    fname = 'data.txt'
+    fname = 'groupsdata.txt'
     url = baseurl+"?letter="+letter
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
     data = soup.find_all("td", class_="borderClass", width="300")
     links = []
+    groups = []
     for td in data:
         groupname = td.text
         child=td.findChildren("a")
         groupurl = (str)(child[0])
         groupurl = groupurl[groupurl.find("?") : groupurl.find(">")-1]
-        links.append((groupname, groupurl))
+        #links.append((groupname, groupurl))
         
-        #getGroupData(groupname, groupurl)
+        #Get the data of the group as a string
+        group = getGroupData(groupname, groupurl)
         #Build data structure
+        if(not group == "NotEnglish"):
+            #print(group)
+            groups.append(group)
 
-    with io.open(fname, "w", encoding="utf-8") as f:
-        f.write((str)(links))
-    f.close()
+    # print(groups)
+    # with io.open(fname, "w", encoding="utf-8") as f:
+    #     f.write((str)(groups))
+    # f.close()
+
+    return groups
 
 
 '''
@@ -69,9 +77,9 @@ def getGroupData(groupname, groupurl):
 
     #Create the group object using this data
     group = Group(groupname, groupurl, up, down, shows)
-    print (group)
+    #print (group)
 
-    return (soup)
+    return group
 
 
 '''Helper to check sub language'''
@@ -129,14 +137,18 @@ def getShowNames(soup):
 
 def main():
     print ("Starting..")
-    getGroups('.')
-    groupsoup = getGroupData("8thSin Fansubs","https://myanimelist.net/fansub-groups.php?id=3375")  #English
+    
+    groups = getGroups(".")
+    #groupsoup = getGroupData("8thSin Fansubs","https://myanimelist.net/fansub-groups.php?id=3375")  #English 1
+    #groupsoup = getGroupData("English2", "https://myanimelist.net/fansub-groups.php?id=3607") # English 2
     #groupdata = getGroupData("https://myanimelist.net/fansub-groups.php?id=5870") #German
+    #https://myanimelist.net/fansub-groups.php?id=514 # Spanish
+
 
     
-    with io.open("groupdata.txt", "w", encoding="utf-8") as f:
-        f.write(groupsoup.get_text())
-    f.close()
+    # with io.open("groupdata.txt", "w", encoding="utf-8") as f:
+    #     f.write(groupsoup.get_text())
+    # f.close()
 
     # print(getShowNames(groupsoup))
 
