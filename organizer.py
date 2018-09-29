@@ -8,6 +8,9 @@ from bs4 import BeautifulSoup
 baseurl = "https://myanimelist.net/fansub-groups.php"
 lang_en = "Primary Language"
 
+#Master list of shows and groups that translated them
+showmaster = {}
+
 #Group class
 class Group:
     def __init__(self, name, url, up, down, shows):
@@ -24,8 +27,11 @@ class Show:
         self.showname=name
         self.showup=up
         self.showdown=down
+        self.groups = []
     def __repr__(self):
         return ""+self.showname
+    def belongsTo(self,group):
+        self.groups.append(group)
 
 
 def getGroups(letter):
@@ -46,15 +52,19 @@ def getGroups(letter):
         
         #Get the data of the group as a string
         group = getGroupData(groupname, groupurl)
+        
+
         #Build data structure
         if(not group == "NotEnglish"):
             #print(group)
+            for s in group.groupshows:
+                s.belongsTo(group)
             groups.append(group)
 
     # print(groups)
-    # with io.open(fname, "w", encoding="utf-8") as f:
-    #     f.write((str)(groups))
-    # f.close()
+    with io.open(fname, "w", encoding="utf-8") as f:
+        f.write((str)(groups))
+    f.close()
 
     return groups
 
@@ -107,49 +117,72 @@ def getTotalRatings(text):
 #TODO : Make this return a list of show objects with rating
 def getShows(soup):
     shows=[]
+    up = down = 0
     shownames = getShowNames(soup)
+    ratings = getShowRatings(soup)
     # (up,down) = getShowRatings(soup.get_text())
     for i in range(0, len(shownames)):
-        shows.append(Show(shownames[i], 2, 3))
+        shows.append(Show(shownames[i], up, down))
     return shows
 
 
 
 '''Helper to get show ratings'''
-def getShowRatings(text):
-    vote_pos = text.find("approve")
-    vote_str = text[vote_pos-20:vote_pos]
-    votes = (re.findall(r'\d+', vote_str))
-    up = (int)(votes[0])
-    down = (int)(votes[1])-up
-    return (up,down)
+# def getShowRatings(text):
+#     vote_pos = text.find("approve")
+#     vote_str = text[vote_pos-20:vote_pos]
+#     votes = (re.findall(r'\d+', vote_str))
+#     up = (int)(votes[0])
+#     down=0
+#     # down = (int)(votes[1])-up
+#     return (up,down)
 
 '''Getting show names'''
 def getShowNames(soup):
+    #Get the name
     names = []
     nametags = soup.find_all('strong')
-    #Hardcoded - remove first 2 names as those are ratings
+    #Hardcoded - remove first 2 names as those are total group ratings
     for name in nametags[2:]:
         name = (str)(name)
         name = name.replace("<strong>","")
         name = name.replace("</strong>","")
         names.append(name)
+    print(str(len(names))+ " names")
+    print(names)
     return names
+
+'''Helper to get show ratings'''
+def getShowRatings(soup):
+    #Get the ratings of a show
+    approve = "users approve"
+    ratings = []
+    ratingtags = soup.find_all('small')
+    for rating in ratingtags:
+        rating = (str)(rating)
+        rating = rating.replace("<small>","")
+        rating = rating.replace("</small>","")
+        if(approve in rating):
+            ratingpos = rating.find(approve)
+            ratings.append(rating[:ratingpos])
+    print(str(len(ratings))+" ratings")
+    print(ratings)
+    return ratings
+
 
 
 def main():
     print ("Starting..")
     
-    ''' Pickling test
     groups = getGroups(".")
     #Dump the groups of '.' in a pickle
-    fp = open("groupsOfDot.obj", "wb")
-    pickle.dump(groups,fp)
-    '''
+    # fp = open("groupsOfDot.obj", "wb")
+    # pickle.dump(groups,fp)
+    
 
-    with open('groupsOfDot.obj', 'rb') as f:
-        mynewlist = pickle.load(f)
-        print(mynewlist)
+    # with open('groupsOfDot.obj', 'rb') as f:
+    #     mynewlist = pickle.load(f)
+    #     print(mynewlist)
 
     #groupsoup = getGroupData("8thSin Fansubs","https://myanimelist.net/fansub-groups.php?id=3375")  #English 1
     #groupsoup = getGroupData("English2", "https://myanimelist.net/fansub-groups.php?id=3607") # English 2
