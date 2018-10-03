@@ -1,6 +1,6 @@
 ## MAL Fansub data organizer
 
-Organizes fansub data for anime that has since been removed by myanimelist.net ([Original page]).(https://myanimelist.net/fansub-groups.php?letter= )
+Organizes fansub data for anime that has since been removed by myanimelist.net ([Original page])(https://myanimelist.net/fansub-groups.php?letter= ).
 
 Website data courtesy of Reddit User [u/Fireraga](https://www.reddit.com/user/Fireraga) who scraped & organized it before the site went down.
 
