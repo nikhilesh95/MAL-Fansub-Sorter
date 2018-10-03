@@ -40,7 +40,7 @@ def parse_data(data):
         else:
             shows[showname] = [group]
 
-    print (shows)
+    #print (shows)
 
 def main():
     #Open file and read one group's data
@@ -48,9 +48,16 @@ def main():
         data = json.load(f)
     parse_data(data)
 
-    #Open a different file that shares some shows
+    #Open a different file that has unique shows
     with open("data/Gayako.json") as f:
         data = json.load(f)
     parse_data(data)
+
+    #Open a file that has 2 shows in common and update the shows dict
+    with open("data/Mixed.json") as f:
+        data = json.load(f)
+    parse_data(data)
+
+    print(shows)
 
 main()
