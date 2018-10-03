@@ -1,3 +1,4 @@
+import glob
 import json
 from operator import attrgetter
 from pprint import pprint
@@ -15,10 +16,10 @@ class Group:
         self.showname = showname
         self.groupname = groupname
         self.grouplang = grouplang
-        self.showup = str(show_approval[0])
-        self.showdown = str(show_approval[1])
+        self.showup = show_approval[0]
+        self.showdown = show_approval[1]
     def __repr__(self):
-        return "\nGroup: "+self.groupname+"\nRating: "+self.showup+"/"+self.showdown   
+        return "\nGroup: "+self.groupname+"\nRating: "+str(self.showup)+"/"+str(self.showdown)
 
 
 
@@ -45,12 +46,24 @@ def getShowRatings(approval_str):
     return (nums[0], nums[1])
     
 def sortShowsByRating():
+    print("Sorting shows")
     for show, groups in shows.items():
         #sort this show's ratings 
         keyUp = attrgetter("showup")
-        groups.sort(key=keyUp)
+        groups.sort(key=keyUp,reverse=True)
 
-def main():
+#Make shows dict output not look like ass
+def prettify():
+    output = ""
+    for show, groups in shows.items():
+        output+="\n\n"+show+":"
+        for group in groups:
+            output+=str(group)
+    return output
+
+def tests():
+
+    # Test sample data
     #Open file and read one group's data
     with open("data/3x3m.json") as f:
         data = json.load(f)
@@ -66,10 +79,28 @@ def main():
         data = json.load(f)
     parse_data(data)
 
-    with open('data/unsorted', 'w') as f:
-        f.write(str(shows))
+    # Test Sorting
+    # with open('data/unsorted.txt', 'w') as f:
+    #     f.write(str(shows))
+    # sortShowsByRating()
+    # with open('data/sorted.txt', 'w') as f:
+    #     f.write(str(shows))
+
+    #Test Prettify
+    # with open('data/pretty.txt', 'w') as f:
+    #     f.write(prettify())
+    # f.close()
+
+def main(): 
+    for filename in glob.glob('data/*.json'):
+        with open(filename, 'r') as f:
+            data = json.load(f)
+            parse_data(data)
+        f.close()
     sortShowsByRating()
-    with open('data/sorted', 'w') as f:
-        f.write(str(shows))
+    with open("output.txt", "w") as outfile:
+        outfile.write(prettify())
+    outfile.close()
+
 
 main()
