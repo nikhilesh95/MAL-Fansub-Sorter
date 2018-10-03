@@ -6,9 +6,10 @@ Website data courtesy of Reddit User [u/Fireraga](https://www.reddit.com/user/Fi
 
 The output is a big `.txt` file organized as :
 ```
+-----
 <Show name>
-<Group1> - <Rating>
-<Group2> - <Rating>
+<Group1> (Language) - <Rating>
+<Group2> (Language) - <Rating>
 ...
 ```
 Free to fork and modify code as needed. 
