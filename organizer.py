@@ -1,5 +1,6 @@
 import glob
 import json
+import timeit
 from operator import attrgetter
 from pprint import pprint
 
@@ -19,7 +20,7 @@ class Group:
         self.showup = show_approval[0]
         self.showdown = show_approval[1]
     def __repr__(self):
-        return "\nGroup: "+self.groupname+"\nRating: "+str(self.showup)+"/"+str(self.showdown)
+        return "\n"+self.groupname+" - "+str(self.showup)+"/"+str(self.showdown)
 
 
 
@@ -95,17 +96,19 @@ def tests():
     f.close()
 
 def main(): 
+    start = timeit.timeit()
     filepath = 'data/**/*.json'
     for filename in glob.glob(filepath):
         with open(filename, 'r', encoding="utf-8") as f:
-            print(filename)
             data = json.load(f)
             parse_data(data)
         f.close()
     sortShowsByRating()
-    with open("output.txt", "w", encoding="utf-8") as outfile:
+    with open("Fansub.txt", "w", encoding="utf-8") as outfile:
         outfile.write(prettify())
     outfile.close()
+    end = timeit.timeit()
+    print("Time elapsed: "+str(end-start))
 
 
 main()
