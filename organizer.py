@@ -1,4 +1,5 @@
 import json
+from operator import attrgetter
 from pprint import pprint
 
 #TODO
@@ -10,17 +11,14 @@ shows = {}
 #Holds a group's details and its rating for a particular show
 #Multiple Group objects can share a name for different shows
 class Group:
-    def __init__(self, groupname, grouplang, showname, show_approval, show_comments):  
+    def __init__(self, groupname, grouplang, showname, show_approval):  
         self.showname = showname
         self.groupname = groupname
         self.grouplang = grouplang
-        if ',' in show_approval:
-            self.show_approval = show_approval[0:show_approval.find(',')]
-        else:
-            self.show_approval = show_approval
-        self.show_comments = show_comments 
+        self.showup = str(show_approval[0])
+        self.showdown = str(show_approval[1])
     def __repr__(self):
-        return "\nGroup: "+self.groupname+"\nRating: "+self.show_approval
+        return "\nGroup: "+self.groupname+"\nRating: "+self.showup+"/"+self.showdown   
 
 
 
@@ -31,9 +29,9 @@ def parse_data(data):
 
     for show in data["Subbed Projects"]:
         showname = show["Show Name"]
-        show_approval = show["User Approval"]
-        show_comments = show["Comments"]
-        group = Group(groupname, grouplang, showname, show_approval, show_comments)
+        approval_str = show["User Approval"]
+        show_approval = getShowRatings(approval_str)
+        group = Group(groupname, grouplang, showname, show_approval)
         #append current group to list of groups for a show
         if (showname in shows):
             shows[showname].append(group)
@@ -41,6 +39,16 @@ def parse_data(data):
             shows[showname] = [group]
 
     #print (shows)
+
+def getShowRatings(approval_str):
+    nums = [int(s) for s in approval_str.split() if s.isdigit()]    
+    return (nums[0], nums[1])
+    
+def sortShowsByRating():
+    for show, groups in shows.items():
+        #sort this show's ratings 
+        keyUp = attrgetter("showup")
+        groups.sort(key=keyUp)
 
 def main():
     #Open file and read one group's data
@@ -58,6 +66,10 @@ def main():
         data = json.load(f)
     parse_data(data)
 
-    print(shows)
+    with open('data/unsorted', 'w') as f:
+        f.write(str(shows))
+    sortShowsByRating()
+    with open('data/sorted', 'w') as f:
+        f.write(str(shows))
 
 main()
