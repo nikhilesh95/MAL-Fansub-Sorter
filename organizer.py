@@ -30,8 +30,12 @@ def parse_data(data):
 
     for show in data["Subbed Projects"]:
         showname = show["Show Name"]
-        approval_str = show["User Approval"]
-        show_approval = getShowRatings(approval_str)
+        #Try catch the case that a show has no rating
+        try:
+            approval_str = show["User Approval"]
+            show_approval = getShowRatings(approval_str)
+        except KeyError as e:
+            show_approval = (0,0)
         group = Group(groupname, grouplang, showname, show_approval)
         #append current group to list of groups for a show
         if (showname in shows):
@@ -46,7 +50,6 @@ def getShowRatings(approval_str):
     return (nums[0], nums[1])
     
 def sortShowsByRating():
-    print("Sorting shows")
     for show, groups in shows.items():
         #sort this show's ratings 
         keyUp = attrgetter("showup")
@@ -56,7 +59,7 @@ def sortShowsByRating():
 def prettify():
     output = ""
     for show, groups in shows.items():
-        output+="\n\n"+show+":"
+        output+="\n-----\n"+show+":"
         for group in groups:
             output+=str(group)
     return output
@@ -65,40 +68,42 @@ def tests():
 
     # Test sample data
     #Open file and read one group's data
-    with open("data/3x3m.json") as f:
+    with open("test_data/3x3m.json") as f:
         data = json.load(f)
     parse_data(data)
 
     #Open a different file that has unique shows
-    with open("data/Gayako.json") as f:
+    with open("test_data/Gayako.json") as f:
         data = json.load(f)
     parse_data(data)
 
     #Open a file that has 2 shows in common and update the shows dict
-    with open("data/Mixed.json") as f:
+    with open("test_data/Mixed.json") as f:
         data = json.load(f)
     parse_data(data)
 
     # Test Sorting
-    # with open('data/unsorted.txt', 'w') as f:
-    #     f.write(str(shows))
-    # sortShowsByRating()
-    # with open('data/sorted.txt', 'w') as f:
-    #     f.write(str(shows))
+    with open('test_data/unsorted.txt', 'w') as f:
+        f.write(str(shows))
+    sortShowsByRating()
+    with open('test_data/sorted.txt', 'w') as f:
+        f.write(str(shows))
 
     #Test Prettify
-    # with open('data/pretty.txt', 'w') as f:
-    #     f.write(prettify())
-    # f.close()
+    with open('test_data/pretty.txt', 'w') as f:
+        f.write(prettify())
+    f.close()
 
 def main(): 
-    for filename in glob.glob('data/*.json'):
-        with open(filename, 'r') as f:
+    filepath = 'data/**/*.json'
+    for filename in glob.glob(filepath):
+        with open(filename, 'r', encoding="utf-8") as f:
+            print(filename)
             data = json.load(f)
             parse_data(data)
         f.close()
     sortShowsByRating()
-    with open("output.txt", "w") as outfile:
+    with open("output.txt", "w", encoding="utf-8") as outfile:
         outfile.write(prettify())
     outfile.close()
 

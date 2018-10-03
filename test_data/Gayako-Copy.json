@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Gay",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs and video look good, didn't have noticeable mistakes. Hopefully they'll keep up the pace."
+                ],
+                "Bad Comments": [
+                    "quality is average. translation seems a bit off."
+                ]
+            }
+        },
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lolgay"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Working'!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "50 of 70 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Avengers",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "200 of 5000 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Konosuba S3",
+            "Show Type": "TV - 0 episodes",
+            "User Approval": "5 of 25 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Made in Abyss S2",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "235 of 123245 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

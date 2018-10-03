@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "3x4m",
+        "Short Name": "3x4m",
+        "IRC": "#3x3m@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shin Tennis no Ouji-sama",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working'!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Working'!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 50 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Avengers",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 5000 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Konosuba S3",
+            "Show Type": "TV - 0 episodes",
+            "User Approval": "0 of 25 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Made in Abyss S2",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "235 of 12345 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

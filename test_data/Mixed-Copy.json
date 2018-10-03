@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "FakeGroup1337",
+        "Short Name": "FG1337",
+        "IRC": "#fg1@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "12",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "15 of 19 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Tennis no Ouji-sama",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "17 of 21 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Working'!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 20 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Avengers",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5000 of 5000 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Konosuba S3",
+            "Show Type": "TV - 0 episodes",
+            "User Approval": "25 of 25 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Made in Abyss S2",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "235 of 121345 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        },
+		{
+            "Show Name": "Made in Abyss S2",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "235 of 12345 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kara~"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}
