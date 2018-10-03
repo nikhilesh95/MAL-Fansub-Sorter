@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "3z-subs",
+        "Short Name": "3z",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "9",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Devil Survivor 2 The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji 2nd Season",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama': Enchousen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Shiroyasha Koutan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haikyuu!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter (2011)",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

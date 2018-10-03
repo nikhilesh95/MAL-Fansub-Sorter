@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "765 subs",
+        "Short Name": "765subs",
+        "IRC": "#765subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "3",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "The iDOLM@STER Shiny Festa",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "19 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than Commie.",
+                    "Every person has their own colored font, ~, ne, and other weeb stuff in the subs. Man these guys were having fun while subbing this.",
+                    "Nice font, different colours for characters to keep things from being too confusing and dialogue that flows well."
+                ],
+                "Bad Comments": [
+                    "Subs the songs!",
+                    "Bad translation. Worse typesetting."
+                ]
+            }
+        }
+    ]
+}

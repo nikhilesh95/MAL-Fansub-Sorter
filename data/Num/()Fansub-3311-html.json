@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "ヽ(*ﾟдﾟ)ノFansub",
+        "Short Name": "ヽ(*ﾟдﾟ)ノ",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mirai Nikki",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Su calidad de codificación y neutralidad usada en el español, lo convierte en un buen fansub"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

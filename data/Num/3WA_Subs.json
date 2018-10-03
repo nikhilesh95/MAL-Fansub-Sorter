@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "3WA Subs",
+        "Short Name": "3wA",
+        "IRC": "#3wasubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "0",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gokujou Seitokai",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate translation, good timing, typesetting, etc.",
+                    "There were no grammatical errors in this sub. They were the only group to sub Gokujou Seitokai, an unknown gem of anime."
+                ],
+                "Bad Comments": [
+                    "Excellent job! I'm very glad they included so much useful info on sayings and cultural things -- it was very useful! Thank you! ^-^",
+                    "Nice font choice, smooth translation, cute TN notes."
+                ]
+            }
+        }
+    ]
+}
