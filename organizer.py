@@ -107,10 +107,11 @@ def main():
     start = timeit.timeit()
     filepath = 'data/**/*.json'
     for filename in glob.glob(filepath):
-        with open(filename, 'r', encoding="utf-8") as f:
-            data = json.load(f)
-            parse_data(data)
-        f.close()
+        if(("html") in filename):   #Proper data files
+            with open(filename, 'r', encoding="utf-8") as f:
+                data = json.load(f)
+                parse_data(data)
+            f.close()
     sortGroups()
     sortShows()
     with open("Fansubs.txt", "w", encoding="utf-8") as outfile:
