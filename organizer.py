@@ -104,11 +104,12 @@ def main():
             parse_data(data)
         f.close()
     sortShowsByRating()
-    with open("Fansub.txt", "w", encoding="utf-8") as outfile:
+    with open("Fansubs.txt", "w", encoding="utf-8") as outfile:
         outfile.write(prettify())
     outfile.close()
     end = timeit.timeit()
-    print("Time elapsed: "+str(end-start))
+    print("Time elapsed: ")
+    print(end-start)
 
 
 main()
