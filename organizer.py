@@ -1,4 +1,5 @@
 import glob
+import collections
 import json
 import timeit
 from operator import attrgetter
@@ -50,11 +51,18 @@ def getShowRatings(approval_str):
     nums = [int(s) for s in approval_str.split() if s.isdigit()]    
     return (nums[0], nums[1])
     
-def sortShowsByRating():
+#Sort groups by ratings 
+def sortGroups():
     for show, groups in shows.items():
         #sort this show's ratings 
         keyUp = attrgetter("showup")
         groups.sort(key=keyUp,reverse=True)
+
+#Sort shows  alphabetically
+def sortShows():
+    global shows
+    shows = collections.OrderedDict(sorted(shows.items()))
+    
 
 #Make shows dict output not look like ass
 def prettify():
@@ -103,7 +111,8 @@ def main():
             data = json.load(f)
             parse_data(data)
         f.close()
-    sortShowsByRating()
+    sortGroups()
+    sortShows()
     with open("Fansubs.txt", "w", encoding="utf-8") as outfile:
         outfile.write(prettify())
     outfile.close()
