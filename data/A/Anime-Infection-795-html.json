@@ -1,0 +1,425 @@
+{
+    "Group": {
+        "Group Name": "Anime-Infection",
+        "Short Name": "AIF",
+        "IRC": "#Anime-Infection@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "3",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Intermezzo",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//Sign",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": ".hack//Unison",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Avenger",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ayashi no Ceres",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Basilisk: Kouga Ninpou Chou",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Choubatsu Yobikou",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Coyote Ragtime Show",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Final Fantasy VII: Advent Children",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Gantz",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Gantz 2nd Stage",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Ghost in the Shell",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Ghost in the Shell 2: Innocence",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Gokudou-kun Manyuuki",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Grappler Baki (TV)",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Grappler Baki: Saidai Tournament-hen",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Gunslinger Girl",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Hadashi no Gen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Hikaru no Go",
+            "Show Type": "TV - 75 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Initial D First Stage",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Kai Doh Maru",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Madlax",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Ninin ga Shinobuden",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Missing Songs/Signs subtitle track for English audio. Subtitle formatting gets completely jumbled by .srt subs, to the point of unwatchability. Vobsubs would've been better."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Papuwa",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "RahXephon",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Rekka no Honoo",
+            "Show Type": "TV - 42 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "s.CRY.ed",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Jashin Eris",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Kamigami no Atsuki Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Shinku no Shounen Densetsu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Tenkai-hen Josou - Overture",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Sexy Sailor Soldiers",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Shihaisha no Tasogare",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Solty Rei",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Speed Grapher",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Spiral: Suiri no Kizuna",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "TL and timing issues are  due to them using the dubtitle track instead of the right subtitles."
+                ],
+                "Bad Comments": [
+                    "Sometimes bad translation. Bad timing. Some lines were not translated."
+                ]
+            },
+            "User Approval": "0 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Star Ocean EX",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Street Fighter Alpha: Generations",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Teizokurei Daydream",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tokkou",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Witch Hunter Robin",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

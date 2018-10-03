@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "OldAge Subs",
+        "Short Name": "OldAge",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Prince of Stride: Alternative",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sushi Police",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sweat Punch",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

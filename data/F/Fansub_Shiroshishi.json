@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "Fansub Shiroshishi",
+        "Short Name": "FSS",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Buddy Complex",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D-Frag!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/kaleid liner Prisma☆Illya",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Build Fighters",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minna Atsumare! Falcom Gakuen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mokei Senshi Gunpla Builders Beginning G",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: The Origin",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupipo!",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

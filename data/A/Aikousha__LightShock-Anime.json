@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "Aikousha & LightShock-Anime",
+        "Short Name": "Aikou & LS-A",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chou Henshin Cosprayers",
+            "Show Type": "TV - 8 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Panda-Z: The Robonimation",
+            "Show Type": "TV - 30 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Phantom The Animation",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

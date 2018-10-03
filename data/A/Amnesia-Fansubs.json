@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Amnesia-Fansubs",
+        "Short Name": "A-F",
+        "IRC": "#amnesia-fansubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs are great and the quality is badass!"
+                ],
+                "Bad Comments": [
+                    "Translation doesn't flow, grammar mistakes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hajime no Ippo: New Challenger",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

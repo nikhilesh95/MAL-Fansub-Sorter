@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "X_X-re-enc Fansubs",
+        "Short Name": "X_X",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "21",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 19 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "some grammar mistakes, lots of unnecessary notes and edits.",
+                    "it's not 100% thorough or accurate, but it's certainly watchable",
+                    "Some Big Typos Or Grammar Problems",
+                    "their translations suck balls",
+                    "bad translation."
+                ],
+                "Bad Comments": [
+                    "God, it's horrible. They're newbies, or just idiots, (i prefer the first) their subs hellish.",
+                    "nothx",
+                    "Absolutely horrible.  Overly literal, grammar/spelling mistakes, bizzarely occasional dropping of punctuation. . .bleh.",
+                    "Absolutely atrocious at spellchecking, screwed up the ED in their AVIs, and lower video quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yotsunoha",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lack of spellchecking, literal translation ruins any impact of things being said, unnecessary notes and inside comments, low video quality."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

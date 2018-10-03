@@ -1,0 +1,405 @@
+{
+    "Group": {
+        "Group Name": "AniChar",
+        "Short Name": "AniChar",
+        "IRC": "#Anichar@irc.rizon.net",
+        "Primary Language": "Dutch",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "4",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "niet slect, alhoewel ik normaal engelse subs kijk, was dit wel een geinige afwisseling.\nBest dutch subs for AnoHana."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Arslan Senki (TV)",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Arslan Senki (TV): Fuujin Ranbu",
+            "Show Type": "TV - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Azumanga Daioh",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Azumanga Daioh: Gekijou Tanpen",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Baccano!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Barakamon",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Crystal",
+            "Show Type": "ONA - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Black★Rock Shooter (TV)",
+            "Show Type": "TV - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai! Lite",
+            "Show Type": "ONA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai! Ren",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "D.N.Angel",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Death Billiards",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Haikyuu!!",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Haikyuu!! Second Season",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Goede film, goed vertaald!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Hunter x Hunter (2011)",
+            "Show Type": "TV - 148 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Hunter x Hunter Movie 1: Phantom Rouge",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Hunter x Hunter Movie 2: The Last Mission",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken (TV)",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "K-On! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "K-On!!",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "K-On!: Live House!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kyoukai no Kanata",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Nichijou",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tonari no Seki-kun",
+            "Show Type": "TV - 21 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Vampire Knight: Gekiai no Portrait",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Arc-V",
+            "Show Type": "TV - 148 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

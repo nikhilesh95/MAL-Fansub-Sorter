@@ -1,0 +1,111 @@
+{
+    "Group": {
+        "Group Name": "Ramen-Team",
+        "Short Name": "R-T",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "3",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blassreiter",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Drop: Tenshi-tachi no Gikyoku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chrome Shelled Regios",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "well the letters are really clear. so you dont have any problems reading them. and the sentences are also very short so it doesnot hide the drawings"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 1: Fukan Fuukei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 2: Satsujin Kousatsu (Zen)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurokami The Animation",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "you are too slow translating i had to watch an english sub instead."
+                ],
+                "Bad Comments": [
+                    "good team Vostfr"
+                ]
+            }
+        },
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Knight: Guilty",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Edanluth Fansub",
+        "Short Name": "EDL",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bastard!!: Ankoku no Hakaishin",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "crap"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hajimari no Boukensha-tachi: Legend of Crystania",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Omoide Poroporo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikai no Monshou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

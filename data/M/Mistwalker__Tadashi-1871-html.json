@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Mistwalker & Tadashi",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "6",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "8 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, translation seemed accurate.",
+                    "Site doesn't seem to work?"
+                ],
+                "Bad Comments": [
+                    "Great job"
+                ]
+            }
+        }
+    ]
+}

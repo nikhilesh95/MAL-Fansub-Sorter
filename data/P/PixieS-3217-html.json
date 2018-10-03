@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "PixieS",
+        "Short Name": "PixieS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Elf Hime Nina",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "at the moment, they're the only group who sub this anime."
+                ],
+                "Bad Comments": [
+                    "Decent subbing and good timesetting"
+                ]
+            }
+        },
+        {
+            "Show Name": "Haramasete Seiryuu-kun!",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rei Zero",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rinkan Club",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "KuroNeko & IY4Ever",
+        "Short Name": "Kuroneko - IY-F",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shakugan no Shana",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The translations and font are easy to understand. The font is always chosen in a color to match the pictures while being visible. The font even dances..lol",
+                    "Extensive notes with background information is useful and interesting."
+                ],
+                "Bad Comments": [
+                    "kept original meaning and typos were scarce, plenty of translator notes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana II (Second)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "Group": {
+        "Group Name": "DNAnime",
+        "Short Name": "dna",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "12",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "\"Bungaku Shoujo\" Memoire",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "\"Bungaku Shoujo\" Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hay alguna traducción errónea del inglés, no conocen en complemento indirecto (dicen \"entregar a tí\" en vez de \"entregarte\") y uso excesivo del español de América (aunque esto ya depende del gusto, por ejemplo, incluso los personajes cercanos se tra"
+                ],
+                "Bad Comments": [
+                    "page down"
+                ]
+            }
+        },
+        {
+            "Show Name": "Asura Cryin'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asura Cryin' 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Golgo 13 (TV)",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "page down"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroic Age",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juushin Enbu: Hero Tales",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lodoss-tou Senki: Eiyuu Kishi Den",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 2 - Kizuna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiki",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Souten Kouro",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Star Driver: Kagayaki no Takuto",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Super Robot Taisen OG: The Inspector",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Tethe'alla-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uragiri wa Boku no Namae wo Shitteiru",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

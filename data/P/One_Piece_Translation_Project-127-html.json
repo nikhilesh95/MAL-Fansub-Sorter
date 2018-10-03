@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "One Piece Translation Project",
+        "Short Name": "OPTP",
+        "IRC": "#OPTP@irc.enterthegame.com",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

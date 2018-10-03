@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "AnimeLink",
+        "Short Name": "",
+        "IRC": "#AnimeLink@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blurry encode, couple of tiny editing mistakes, overall a very simple use of language that doesn't flow too well.",
+                    "nice karaoke"
+                ],
+                "Bad Comments": [
+                    "Good encode, editing (after episode 1, anyway) and overall very cleancut."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

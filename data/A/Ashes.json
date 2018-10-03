@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "Ashes",
+        "Short Name": "ashes",
+        "IRC": "#Ashes @ IRC.Rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "3",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "MapleStory",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The first episode has no karaoke, and there are occasional mistakes, but overall they do a decent job."
+                ],
+                "Bad Comments": [
+                    "Very good subbing had karaoke and they add special effects to some things"
+                ]
+            }
+        },
+        {
+            "Show Name": "RD Sennou Chousashitsu",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strait Jacket",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

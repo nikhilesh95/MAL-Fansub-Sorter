@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "YSAnime",
+        "Short Name": "YSA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baka to Test to Shoukanjuu",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Basquash!",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yojouhan Shinwa Taikei",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "j-pwq subs with blu-ray!!!",
+                    "No karaoke(who likes that, seriously), also you can tell that the translation was done by a literate person."
+                ],
+                "Bad Comments": [
+                    "Good quality 1080p blu-ray rips. Although the opening and ending aren't subbed."
+                ]
+            },
+            "User Approval": "2 of 2 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Zegapain",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Seicher",
+        "Short Name": "Seicher",
+        "IRC": "seicher.fansubs.com.br",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "0",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Death Billiards",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Death Parade",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Houseki no Kuni",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Traducao de altissima qualidade.",
+                    "Ótima legenda"
+                ],
+                "Bad Comments": [
+                    "The words used were top quality, not some childish wording that other subs tend to do"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter (2011)",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiseijuu: Sei no Kakuritsu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Owarimonogatari",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

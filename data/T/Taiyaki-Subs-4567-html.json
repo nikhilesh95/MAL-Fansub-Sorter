@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "Taiyaki-Subs",
+        "Short Name": "Taiyaki-Subs",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amagi Brilliant Park",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ushinawareta Mirai wo Motomete",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

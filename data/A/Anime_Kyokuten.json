@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "Anime Kyokuten",
+        "Short Name": "A-KYO",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cosplay Complex",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "G-On Riders",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate Keepers 21",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginsoukikou Ordian",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "InuYasha",
+            "Show Type": "TV - 167 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kai Doh Maru",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project ARMS",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Underground",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

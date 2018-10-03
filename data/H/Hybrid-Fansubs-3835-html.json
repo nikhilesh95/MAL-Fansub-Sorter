@@ -1,0 +1,180 @@
+{
+    "Group": {
+        "Group Name": "Hybrid-Fansubs",
+        "Short Name": "Hybrid",
+        "IRC": "#hybrid@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "110",
+            "Users Disapprove": "32",
+            "Total": "142"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Accel World: Acchel World.",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "23 of 32 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wrong episode titles, typos, poor translation notes, horrible fonts.",
+                    "Font was easy to ride, and the grammar seemed alright.",
+                    "Garbage, there's no QC (their QCer can't be bothered) so rife with spelling errors and mistranslations."
+                ],
+                "Bad Comments": [
+                    "Mediocre, but they are the only ones subbing this.",
+                    "Good job. Good subs and video quality.",
+                    "excelent translating"
+                ]
+            }
+        },
+        {
+            "Show Name": "Akachan to Boku",
+            "Show Type": "TV - 35 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Clean and they're just overall amazing!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 16 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good accurate sub with a nice font that's easy on the eyes ~Rewston",
+                    "the only good fansub for now",
+                    "Dialogue font is cancer, stiff lines in places."
+                ],
+                "Bad Comments": [
+                    "Slow as hell",
+                    "Translation is missing a lot of nuance, grab a CR edit or Hatsuyuki instead.",
+                    "My fav subs for this anime out of the lot :3"
+                ]
+            }
+        },
+        {
+            "Show Name": "Amnesia OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Brothers Conflict",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chitose Get You!!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol @ staff upvoting? Allowed to make mistakes? Not if the group in question can't even spell their name correctly in the release file.",
+                    "Kept the joke about the small puppy in (unlike some others), required v2 because of a font screwup, but they are a new fansub group, they are allowed to make mistakes aren't they?  I only found 2 errors in their entire script, but dialog font needs to cha"
+                ],
+                "Bad Comments": [
+                    ">Comic Sans font  >Engrish  >crappy AT-X raw  >v3 for a 3min show.   AVOID"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dog Days'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nicely translated, karaoke also very solid."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genshiken Nidaime Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "6 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "thank you",
+                    "Only group that's bothered to translate them."
+                ],
+                "Bad Comments": [
+                    "What happened? Where are you? Are you going to leave it in episode 1?",
+                    "Only = Best"
+                ]
+            }
+        },
+        {
+            "Show Name": "Go! Go! 575",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "32 of 32 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "surprisingly not bad",
+                    "Good translation, nicely typsetted, awesome karaoke. ++++++++"
+                ],
+                "Bad Comments": [
+                    "That it's also legal.",
+                    "It's in English. What else can I say?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Go! Go! 575: Meippai ni, Hajiketeru?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushibugyou OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oda Nobuna no Yabou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 12 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

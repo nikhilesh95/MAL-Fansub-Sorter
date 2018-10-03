@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Ryuu-Rogue & Saizen Fansubs",
+        "Short Name": "RyRo-Saizen",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

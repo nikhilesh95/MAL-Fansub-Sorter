@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Next Team",
+        "Short Name": "N6XT",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/Zero",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona 4 the Animation",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Phi Brain: Kami no Puzzle",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UN-GO",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

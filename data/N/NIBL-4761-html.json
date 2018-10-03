@@ -1,0 +1,58 @@
+{
+    "Group": {
+        "Group Name": "NIBL",
+        "Short Name": "NIBL",
+        "IRC": "#nibl@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Afro Samurai",
+            "Show Type": "TV - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Afro Samurai Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Age: Blood Mage no Seisen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 14: Kami to Kami",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Giniro no Kami no Agito",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

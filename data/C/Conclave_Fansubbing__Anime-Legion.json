@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Conclave Fansubbing & Anime-Legion",
+        "Short Name": "Conclave-Legion",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akane Maniax",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some stuff were not translated such as posts, otherwise would have been good."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

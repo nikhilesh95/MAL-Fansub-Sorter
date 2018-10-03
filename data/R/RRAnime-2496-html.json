@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "RRAnime",
+        "Short Name": "RRA",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//G.U. Trilogy",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanon",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Senkan Nadesico",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One: Kagayaku Kisetsu e",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Shirayuki-hime Densetsu Prétear",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

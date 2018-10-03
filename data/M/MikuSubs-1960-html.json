@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "MikuSubs",
+        "Short Name": "MikuSubs",
+        "IRC": "#MikuSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they're awesome.",
+                    "You guys are epic. :3"
+                ],
+                "Bad Comments": [
+                    "I FAP TO THIS"
+                ]
+            }
+        }
+    ]
+}

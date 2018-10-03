@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Anime Nichijou",
+        "Short Name": "AN",
+        "IRC": "#animenichijou@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "0",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amaama to Inazuma",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoiga",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagato Yuki-chan no Shoushitsu",
+            "Show Type": "TV - 16 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sousei no Onmyouji",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Fānyì zhě traducciones",
+        "Short Name": "Fanyi zhe",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Huyao Xiao Hongniang",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Live! Sunshine!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

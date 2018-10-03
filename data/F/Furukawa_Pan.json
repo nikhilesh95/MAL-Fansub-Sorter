@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Furukawa Pan",
+        "Short Name": "Furukawa",
+        "IRC": "#furukawapan@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "15",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Soredemo Machi wa Mawatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 27 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No matter how bad gg is, Furukawa managed to be even worse. Almost didn't watch it further after the failure that were the first two lines, but then still decided to give it a chance. I shouldn't have.",
+                    "includes closed captions also",
+                    "lol",
+                    "Even worse than gg... They really need to actually QC and fix the errors they find.  Translation may have been better but this is localised too so who cares. Go for gg or wait for a decent group :|",
+                    "without gg's subs this show loses all humor.",
+                    "Good subs, not gg"
+                ],
+                "Bad Comments": [
+                    "Still using honorifics in 2011?",
+                    "shitsubs",
+                    "smaller avi option",
+                    "mm",
+                    "gg doesn't include \"^_^\" in their subs, so go for gg. And I laughed a little at how Furukawa handled the first two lines.",
+                    "needs some QC"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

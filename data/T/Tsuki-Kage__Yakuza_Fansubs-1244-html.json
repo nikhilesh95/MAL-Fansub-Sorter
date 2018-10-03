@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Tsuki-Kage & Yakuza Fansubs",
+        "Short Name": "TK-Y",
+        "IRC": "#yakuza@irc.rizon.net - #tk@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "4",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamen no Maid Guy",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "34 of 38 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation is ok, but horrible timing.  Double line entries are only up for only a few seconds.  Lines appear before the person has spoken and disappear before they even start sometimes.",
+                    "Ugly, hard-to-read font, numerous typos, nonsensical grammar, still using incorrect song lyrics. Unfortunately, they're the only group working on KnMG.",
+                    "The only one sub Kamen no Maid Guy (for now), but their source are very true to the original quality.",
+                    "Best translation",
+                    "Ugly, hard-to-read font, numerous typos, nonsensical grammar, still using incorrect song lyrics. Unfortunately, they're the only group working on KnMG.",
+                    "accurate"
+                ],
+                "Bad Comments": [
+                    "complete fail.",
+                    "Lots of translation mistakes and awkward English.",
+                    "Only group working on Kamen no Maid Guy, so I love them for that",
+                    "not too bad for nthe first ep. have to see more of their work tho.",
+                    "complete"
+                ]
+            }
+        }
+    ]
+}

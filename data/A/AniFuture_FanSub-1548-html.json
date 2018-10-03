@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "AniFuture FanSub",
+        "Short Name": "AnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juushin Enbu: Hero Tales",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

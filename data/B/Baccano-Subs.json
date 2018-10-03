@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Baccano!-Subs",
+        "Short Name": "B!",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "3",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Girls & Panzer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Girls & Panzer: Shoukai Shimasu!",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D Fifth Stage",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Group is death"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: The Labyrinth of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

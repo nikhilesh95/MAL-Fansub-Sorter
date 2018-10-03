@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Hoshi ga Mitsu",
+        "Short Name": "HgM",
+        "IRC": "#HgM@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "2",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hitohira",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dunno why they stopped suddenly. like wth"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo Mashimaro OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well subbed, clearly readable subtitles. (I had trouble with other versions where they were unclear.)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

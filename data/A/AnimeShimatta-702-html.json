@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "AnimeShimatta",
+        "Short Name": "AS*",
+        "IRC": "#animeshimatta@irc.de.euirc.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Speed Grapher",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu Danzai Skelter+Heaven",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta Kata",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta Kata Special",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zipang",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

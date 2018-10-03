@@ -1,0 +1,78 @@
+{
+    "Group": {
+        "Group Name": "Qubeley Fansubs",
+        "Short Name": "Qubeley",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "2",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente trabalho deste novo fansub. Espero que peguem mais séries classicas",
+                    "pra quem ta procurando o anime legendando por essa fansub e não tá achando, aqui vai o site : http://animesrmz.blogspot.com.br/2014/07/mobile-suit-gundam-legendado-pt-br.html"
+                ],
+                "Bad Comments": [
+                    "O Trabalho desse grupo foi simplesmente fantástico. Uma pena agora muitos dos projetos deles estarem sendo \"Privatizados\""
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Special Edition",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Projeto \"Privatizado\". Até agora não vi a cor deste, apesar de terem dito que eles lançaram."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam ZZ",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muito lentos. Lançam um episódio a cada 2 meses praticamente."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Turn A Gundam I Movie: Earth Light",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Turn A Gundam II Movie: Moonlight Butterfly",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

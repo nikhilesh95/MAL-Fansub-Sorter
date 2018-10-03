@@ -1,0 +1,91 @@
+{
+    "Group": {
+        "Group Name": "WiKi",
+        "Short Name": "WiKi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Evangelion: 1.0 You Are (Not) Alone",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Evangelion: 2.0 You Can (Not) Advance",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Shoushitsu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tibet Inu Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Zegapain",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Fantastic."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        }
+    ]
+}

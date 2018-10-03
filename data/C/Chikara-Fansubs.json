@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Chikara-Fansubs",
+        "Short Name": "Chikara",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Sign",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Abenobashi Mahou☆Shoutengai",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Final Fantasy: Unlimited",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Overman King Gainer",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Deeper Kyou",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

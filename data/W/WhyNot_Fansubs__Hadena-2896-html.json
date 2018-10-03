@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "WhyNot? Fansubs & Hadena",
+        "Short Name": "WhyNot-Hadena",
+        "IRC": "#WhyNot?@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "10",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "18 of 21 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "480p..."
+                ],
+                "Bad Comments": [
+                    "Great release. Skeptical about Hadena, but it seems WhyNot? did most of the work so it turned out great."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama'",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "10 of 17 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CR edit, nope",
+                    "CR edit but they did a great job. OP/ED look awesome and it was awesome overall.",
+                    "I choose whynot-hadena because of their good subbing."
+                ],
+                "Bad Comments": [
+                    "drop?",
+                    "Dropped."
+                ]
+            }
+        }
+    ]
+}

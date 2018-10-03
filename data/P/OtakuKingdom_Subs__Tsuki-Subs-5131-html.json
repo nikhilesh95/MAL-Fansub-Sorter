@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "OtakuKingdom Subs & Tsuki-Subs",
+        "Short Name": "Otaku&Tsuki",
+        "IRC": "#otakukingdom@irc.euirc.net #Tsuki-Subs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-Channel",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "A-Channel: +A-Channel",
+            "Show Type": "Special - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

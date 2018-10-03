@@ -1,0 +1,953 @@
+{
+    "Group": {
+        "Group Name": "Lake Fansub",
+        "Short Name": "Lake",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "83",
+            "Users Disapprove": "4",
+            "Total": "87"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amada Anime Series: Super Mario Brothers",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arcade Gamer Fubuki Extra",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aru Tabibito no Nikki",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aru Tabibito no Nikki Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ashiaraiyashiki no Juunin-tachi.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakemonogatari Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Chuugakusei: Basket Army",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Ótimo."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canaan: Minorikawa Report 201X Shanghai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chirin no Suzu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chiryokumaru",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chocotan!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza",
+            "Show Type": "Special - 11 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2 Flash Specials",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "AAAAAAAAAAAAAAAAAAAA"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch Special Edition Black Rebellion",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dead Heat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denshinbashira Elemi no Koi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ef: A Tale of Melodies. - Prologue",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ef: A Tale of Memories. - Prologue",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Egao no Hana",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven AO: Aratanari Fukaki Ao",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven: New Order",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic! The Second Raid Episode 000",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakumon!: Ookami Shoujo wa Kujikenai",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama x Mameshiba",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Dai Hanseikai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simplesmente demais, bem diferenciado"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gokujo.: Souda Onsen ni Ikou!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Handsome Girl",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hello Harinezumi: Satsui no Ryoubun",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing: The Dawn",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroman Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden: Air Communication",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hoshikuzu Paradise",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter Pilot",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bom!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: TCG CM NG-shuu",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ippatsu Hicchuu!! Devander",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Itsuka Tenma no Kuro Usagi Picture Drama",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Itsuka Tenma no Kuro Usagi Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!: Ura-On!",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katsugeki Shoujo Tanteidan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kobato.: Hajimete no Kobato.",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Loups=Garous Picture Drama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Madobe Nanami no Windows 7 de PC Jisaku Ouen Commercial!!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Sonico★Magica",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai-HiME Specials",
+            "Show Type": "Special - 27 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai-Otome Special: Otome no Inori",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makasete Iruka!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Victory Gundam",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Ótimo fansub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moonrakers",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nana Toshi Monogatari: Hokkyokukai Sensen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good (:"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Needless Specials",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Esses sim é um bom fansub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nexus",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary",
+            "Show Type": "Special - 16 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Well... Actually they still didn't released it yet. But I'm voting favorably as an incentive to their work!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Peaceful Times (F02) Petit Film",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Planetes Picture Drama",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rain Town",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Red Garden: Dead Girls",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Relic Armor Legaciam",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekiranun Graffiti",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana II (Second) Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana III (Final) Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiawasette Naani",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku! Ika Musume: Ika Ice Tabena-ika?",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soratobu Yuureisen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sorette♡Dakara ne!",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sougen no Ko Tenguri",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater: Late Night Show",
+            "Show Type": "Special - 51 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space Neko Theater",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stranger: Mukou Hadan Pilot",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sukitte Ii na yo.: Mei and Marshmallow",
+            "Show Type": "Special - 10 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Gekijou",
+            "Show Type": "Special - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann Movie: Lagann-hen Special - Viral no Amai Yume",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann: Kirameki★Yoko Box - Pieces of Sweet Stars",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann: Parallel Works",
+            "Show Type": "Music - 8 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann: Parallel Works 2",
+            "Show Type": "Music - 7 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index-tan II",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toki no Tabibito: Time Stranger",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toki wa Meguru: Tokyo Station",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Trava: Fist Planet",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears Epilogue",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears Specials",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears: Raigomaru to Jibeta no Monogatari",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Twilight Q",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Twinkle Heart: Gingakei made Todokanai",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Utopia",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not wrong language. This fansub is Brazilian Portuguese."
+                ],
+                "Bad Comments": [
+                    "Wrong language."
+                ]
+            }
+        },
+        {
+            "Show Name": "Watashi no Coffee Samurai: Jihanki-teki na Kareshi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yurumates wa?",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuu☆Yuu☆Hakusho Picture Drama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zan Sayonara Zetsubou Sensei Bangaichi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

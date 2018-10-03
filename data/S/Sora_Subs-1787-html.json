@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Sora Subs",
+        "Short Name": "Sora",
+        "IRC": "#sora@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "8",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Isekai no Seikishi Monogatari",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "8 of 16 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pretty good. No spelling or grammar errors.",
+                    "Dropped, apparently.",
+                    "the only one out there who subs this",
+                    "The fansub is dead now"
+                ],
+                "Bad Comments": [
+                    "Dead",
+                    "Only attempted to sub one episode, than \"disbanded.\"",
+                    "I have no problems with these subs so far and they are the only ones that picked up the show so props to them",
+                    "not living"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kurau Phantom Memory",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 16 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

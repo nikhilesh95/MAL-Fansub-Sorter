@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "GotWoot Fansubs & Lag Subs",
+        "Short Name": "GotLag",
+        "IRC": "#gotwoot@irc.rizon.net #Lag@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "9",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 18 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "July instead of June, but good fansubbing.",
+                    "Only notice small minor mistake. Other than that an excellent sub",
+                    "Slow as hell, but if you are from the future when it's actually finished, go ahead.",
+                    "Actually typeset everything well"
+                ],
+                "Bad Comments": [
+                    "shit",
+                    "http://notredrevie.ws/2013/05/08/gotlag-yahari-ore-no-seishun-love-come-wa-machigatteiru-02/",
+                    ">still pirating anime\n>2013",
+                    "Years from now, when they're finally done, this group's will be the release to archive."
+                ]
+            }
+        }
+    ]
+}

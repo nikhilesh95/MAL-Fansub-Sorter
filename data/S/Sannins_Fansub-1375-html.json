@@ -1,0 +1,84 @@
+{
+    "Group": {
+        "Group Name": "Sannins Fansub",
+        "Short Name": "S-F",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amatsuki",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I'm from Romania and this is like the 1st fan sub from romania! all they do is great!",
+                    "I watched it completely, and i think they did a wonderful job. See if u know romanian before downloading )"
+                ],
+                "Bad Comments": [
+                    "calitate destul de buna a videoului, si fontul subtitrarii dragut ^^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Crying Freeman",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gradient color subtitles woot"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genshiken",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I'm from Romania and this is like the 1st fan sub from romania! all they do is great!",
+                    "This group rocks. Dunno if there are any other groups to sub One Piece in romanian, but this is theonly reason i started watching One Piece. So, thank u Sannins"
+                ],
+                "Bad Comments": [
+                    "they're good",
+                    "Romania, watchig . thank you!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This is a really nice romanian sub, i love'it"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

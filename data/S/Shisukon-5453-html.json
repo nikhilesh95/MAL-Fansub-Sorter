@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Shisukon",
+        "Short Name": "Shisukon",
+        "IRC": "#Shisukon@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "6",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mekakucity Actors",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They used Underwater's overly localised subs. And that is why they failed.",
+                    "Good quality BD rips with Underwater's subs",
+                    "Underwater shitsubs"
+                ],
+                "Bad Comments": [
+                    "Improved Underwater subs",
+                    "The quality of the encoding, the subs and the overall work was really good and satisfactory."
+                ]
+            }
+        }
+    ]
+}

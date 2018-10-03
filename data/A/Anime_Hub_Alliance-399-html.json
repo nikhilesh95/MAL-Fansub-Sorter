@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "Anime Hub Alliance",
+        "Short Name": "AHA",
+        "IRC": "#aha@irc.rizon.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kazemakase Tsukikage Ran",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project ARMS",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Their english sub for this is pretty bad. I'd say 90% is mistranslated or grammatically wrong."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Project ARMS: The 2nd Chapter",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Vandread: Gekitou-hen",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        }
+    ]
+}

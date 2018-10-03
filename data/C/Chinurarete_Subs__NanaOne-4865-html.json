@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "Chinurarete Subs & NanaOne",
+        "Short Name": "ChiNo",
+        "IRC": "#chinurarete@irc.euirc.net #nanaone@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Toaru Kagaku no Railgun S",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun S: Motto Marutto Railgun",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "High quality anime subs for a couple years now, they never disappoint"
+                ],
+                "Bad Comments": [
+                    "Very consistent quality, quick, hardly any mistakes and they're subbing since almost 7 years with an amazing output. Give these people an award! :d"
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index Movie: Endymion no Kiseki Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

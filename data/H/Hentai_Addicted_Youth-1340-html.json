@@ -1,0 +1,85 @@
+{
+    "Group": {
+        "Group Name": "Hentai Addicted Youth",
+        "Short Name": "HAY",
+        "IRC": "irc://irc.otakubox.de/HAY",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai Shimai 2: Futari no Kajitsu",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ai Shimai: Futari no Kajitsu",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakunyuu Oyako",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Darling",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kuro Ai: Hitoyozumakan Inkou Rannyuuroku",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Nikutai Ten'i",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Stainless Night",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Yarima Queen",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        }
+    ]
+}

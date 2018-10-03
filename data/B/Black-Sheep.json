@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Black-Sheep",
+        "Short Name": "Black-Sheep",
+        "IRC": "#black-sheep@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "0",
+            "Total": "60"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Jyu Oh Sei",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "14 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great video resolution, font is very legible and easy on the eyes. The translation is very fluid and easy to read.",
+                    "great translation and awesome release, as with Mononoke."
+                ],
+                "Bad Comments": [
+                    "HD and great subs.",
+                    "great translations and HD quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mononoke",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "46 of 46 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very little (if any at all) grammatical mistakes or typos. Cultural background notes. Good translation.",
+                    "Included a vast amount of cultural notation in attached pdf files and all around did amazingly.",
+                    "Great quality and readable subs.",
+                    "Very accurate translation, plus their notes are amazing. They should translate more anime.",
+                    "The translations felt very detailed and the extra pdfs that explain cultural references were a nice touch.",
+                    "Some of the best fan subbing you'll come across!",
+                    "I'm no judge for sub quality, but the PDF files for each chapter thoroughly explain symbolism and references (with pictures). Shame this group haven't done other works."
+                ],
+                "Bad Comments": [
+                    "excellent encoding, very good translation and a immense plus are the notes",
+                    "Not only are the details in the translation stunning, but also the attached pdf files provide you great knowledge about what's hidden or implied in the anime, one of the most overwhelming pieces of art I've ever witnessed.",
+                    "group that did the best job on TL",
+                    "Good quality and good pfd notes",
+                    "The only downside is that it is hardsubbed.",
+                    "Great translation. The notes were very informative and insightful"
+                ]
+            }
+        }
+    ]
+}

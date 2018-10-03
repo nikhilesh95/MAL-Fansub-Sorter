@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Fly Release Group",
+        "Short Name": "FRG",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

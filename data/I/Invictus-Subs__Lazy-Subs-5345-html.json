@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Invictus-Subs & Lazy-Subs",
+        "Short Name": "Invictus & L-S",
+        "IRC": "#Invictus-Subs@irc.rizon.net #Lazy-Subs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Usagi Drop",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usagi Drop Specials",
+            "Show Type": "Special - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

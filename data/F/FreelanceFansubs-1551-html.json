@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "FreelanceFansubs",
+        "Short Name": "FLF",
+        "IRC": "#flf@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "4",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Macross Fufonfia",
+            "Show Type": "ONA - 20 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dead group"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they think it sucked! and they dropped it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mister Ajikko",
+            "Show Type": "TV - 99 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I don't like this groups subbing because they are horribly slow. \nThey have the show listed as \"stalled\" on their site now, but I would like them to either drop it entirely or finish what they started!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

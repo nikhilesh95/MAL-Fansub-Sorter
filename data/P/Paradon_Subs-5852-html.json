@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Paradon Subs",
+        "Short Name": "Paradon",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Sekai no Chuushin de",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Danchigai",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Danchigai: Juusan Goutou Sentou Ikitai!!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Prince of Stride: Alternative",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

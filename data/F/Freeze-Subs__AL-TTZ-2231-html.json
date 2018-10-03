@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Freeze-Subs & AL-TTZ",
+        "Short Name": "Freeze-Subs & AL-TTZ",
+        "IRC": "turokzone@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "8",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "7 of 14 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group for fairy tail",
+                    "SUCKS",
+                    "Best group for Fairy Tail, hands down.",
+                    "lost group so basically = dropped"
+                ],
+                "Bad Comments": [
+                    "Nice video quality, great choices with fonts and colors, don't really know about the translation quality but looks fine for a shounen :P",
+                    "Great Video Quality, Nice Font.",
+                    "Great work"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Sensei Negima! Mou Hitotsu no Sekai",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "10 of 11 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs. No spelling or grammar errors.",
+                    "shitty encoded but who cares",
+                    "Awesomesauce."
+                ],
+                "Bad Comments": [
+                    "unlocalized",
+                    "Weeaboo translation + typos. Leaving words in japanese doesn't make you cool."
+                ]
+            }
+        }
+    ]
+}

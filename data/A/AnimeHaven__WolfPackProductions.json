@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "AnimeHaven & WolfPackProductions",
+        "Short Name": "AH&WPP",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lime-iro Senkitan",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Overman King Gainer",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rockman.EXE",
+            "Show Type": "TV - 56 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Saint Beast: Seijuu Kourin-hen",
+            "Show Type": "TV - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

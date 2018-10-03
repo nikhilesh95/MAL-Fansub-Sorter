@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Akari Fansubs",
+        "Short Name": "af",
+        "IRC": "none",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "5",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Collection",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Romanization is not translation.",
+                    "True quality there. I think my Japanese skill has gone up drastically watching these subs.",
+                    "Great subs and the closest to the original, A++++ would watch again"
+                ],
+                "Bad Comments": [
+                    "Very accurate subs, shows exactly what the writers intended to convey.",
+                    "Bad video, bad timing, left tons of Japanese phrases untranslated, mixed up Onee-chan/Onii-chan.  Go for another group.",
+                    "10/10 would watch again"
+                ]
+            },
+            "User Approval": "6 of 11 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Recorder to Randoseru Mi☆",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 11 users approve, 6 comments"
+        }
+    ]
+}

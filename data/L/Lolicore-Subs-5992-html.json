@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Lolicore-Subs",
+        "Short Name": "Lolicore",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kanojo x Kanojo x Kanojo: Sanshimai to no DokiDoki Kyoudou Seikatsu",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Resort Boin",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

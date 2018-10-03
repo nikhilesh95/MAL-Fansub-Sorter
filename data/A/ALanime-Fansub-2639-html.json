@@ -1,0 +1,370 @@
+{
+    "Group": {
+        "Group Name": "ALanime-Fansub",
+        "Short Name": "ALanime",
+        "IRC": "#ALanime-Fansub@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "129",
+            "Users Disapprove": "8",
+            "Total": "137"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "07-Ghost",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arashi no Yoru ni",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baccano!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "بأول كم حلقة مرت على جمل كثير ما تطابق الكلام الياباني",
+                    "there translate for this series didnt match the english translate or the japanees known such as hontone that they translate it right ?"
+                ],
+                "Bad Comments": [
+                    "awesome"
+                ]
+            }
+        },
+        {
+            "Show Name": "Baccano! Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blade of the Immortal",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Break Blade 1: Kakusei no Toki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bus Gamer",
+            "Show Type": "TV - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cencoroll",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home: Atarashii Ouchi",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fractale",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice~"
+                ],
+                "Bad Comments": [
+                    "cause it's clean and good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Freedom",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freedom Previsited",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hadashi no Gen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hadashi no Gen 2",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyouge Mono",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jungle Taitei: Yuuki ga Mirai wo Kaeru",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Michiko to Hatchin",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strait Jacket",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stranger: Mukou Hadan",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Takane no Jitensha",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Sky Crawlers",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko: Jump Super Anime Tour 2009 Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "افضل فريق يترجمه"
+                ],
+                "Bad Comments": [
+                    "great sub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Shunraiki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Tokyo Revelations",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "World Destruction: Sekai Bokumetsu no Rokunin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! 5D's",
+            "Show Type": "TV - 154 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal",
+            "Show Type": "TV - 73 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

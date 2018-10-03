@@ -1,0 +1,487 @@
+{
+    "Group": {
+        "Group Name": "Anisekai Fansub",
+        "Short Name": "Anisekai",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "110",
+            "Users Disapprove": "56",
+            "Total": "166"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arcana Famiglia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beelzebub",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Binbougami ga!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blassreiter",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Brave 10",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Encode kalitesi mükemmel."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chitose Get You!!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dakara Boku wa, H ga Dekinai.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "en saçma çevirilerden."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven AO",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail OVA",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gyo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hagure Yuusha no Aesthetica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I don't know them"
+                ],
+                "Bad Comments": [
+                    "bad"
+                ]
+            }
+        },
+        {
+            "Show Name": "Haiyore! Nyaruko-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakushaku to Yousei Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gerçekten müthiş bir çeviri ürünü"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD New",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kalite dolu bölümler sundukları için."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hoshi no Koe",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakka Ryouran: Samurai Girls",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Itsuka Tenma no Kuro Usagi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Itsuka Tenma no Kuro Usagi OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jormungand",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!: Live House!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke 2nd Season Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kino no Tabi: The Beautiful World",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kino no Tabi: The Beautiful World - Tou no Kuni",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka? of the Dead",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka? OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maburaho",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maken-Ki!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sapık insanların sapık çevirilerinden"
+                ],
+                "Bad Comments": [
+                    "izlerken iyi yaprak"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maken-Ki! OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sapık insanların sapık çevirilerinden"
+                ],
+                "Bad Comments": [
+                    "izlerken iyi yaprak"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maken-Ki! Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sapık insanların sapık çevirilerinden"
+                ],
+                "Bad Comments": [
+                    "izlerken iyi yaprak"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maoyuu Maou Yuusha",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oban Star-Racers",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Poyopoyo Kansatsu Nikki",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Queen's Blade: Rebellion",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sankarea",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement Episode 0",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigurui",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shining Hearts: Shiawase no Pan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shounen Onmyouji",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "SKET Dance",
+            "Show Type": "TV - 77 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "11 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was good translate with notes",
+                    "BEtter than other fansubs. Good vocabulary and story telling skills. Was easy to follow"
+                ],
+                "Bad Comments": [
+                    "Meh."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tanken Driland",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tasogare Otome x Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

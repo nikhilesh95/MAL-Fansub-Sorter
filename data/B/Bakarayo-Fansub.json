@@ -1,0 +1,587 @@
+{
+    "Group": {
+        "Group Name": "Bakarayo-Fansub",
+        "Short Name": "Bakarayo",
+        "IRC": "#Bakarayo-Fansub@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "71",
+            "Users Disapprove": "28",
+            "Total": "99"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 14 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subtitles (for the entire series) don't match the original meaning.",
+                    "eu não sabia que um fansub poderia ser tão ruim",
+                    "péssimo, é melhor assistir em inglês",
+                    "This is the worst Portuguese translated I've ever seen hands down. Wrong genders, words not translated correctly (or not translated at all) from English to Portuguese."
+                ],
+                "Bad Comments": [
+                    "Assista em inglês ou não vai entender nada",
+                    "Horrível",
+                    "Tradução horrível, veja em inglês mesmo."
+                ]
+            }
+        },
+        {
+            "Show Name": "Aria The Natural",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ora,ora = Meu,meu... +_+"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aria The Origination",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Their subs don't make any sense. I'm glad I only downloaded the first episode... ¬¬"
+                ],
+                "Bad Comments": [
+                    "Translated from an english sub, some phrases make no sense in portuguese and almost none match the meanings of the japanese language."
+                ]
+            }
+        },
+        {
+            "Show Name": "Aria The Origination: Sono Choppiri Himitsu no Basho ni...",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aria The OVA: Arietta",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baccano!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it's good ya know"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bamboo Blade",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code-E",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cross Game",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Deadman Wonderland",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doujin Work",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragonaut: The Resonance",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They still have not finished it but their subs have really good quality.",
+                    "puro lixo. deviam aprender portugues primeiro \"da ca cinco\"? q porra eh essa?"
+                ],
+                "Bad Comments": [
+                    "o cara que estranhou \"da ca cinco\" nunca ouviu português de portugal e não deve saber que tem um português no staff do sub",
+                    "It's a great quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Final Fantasy VII: Last Order",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fractale",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freezing",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freezing Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Giant Killing",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Highschool of the Dead",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "27 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have been subbing the series since the begining and they keep it up so far.",
+                    "They r doing a great job on this one. Their subs for this anime is one of the reasons they r my fav fansub.",
+                    "A Legenda é muito boa, o tamanho da fonte e a tradução são \"perfeitos\"."
+                ],
+                "Bad Comments": [
+                    "Muito bom!!!",
+                    "PQ EU QUERO",
+                    "É um ótimo fansubber!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kenkou Zenrakei Suieibu Umishou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "27 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "27 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koutetsu Sangokushi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "27 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuragehime",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke Betsubara",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "virus"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okaeri",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mission-E",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushi-Uta",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oh! Edo Rocket",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Outs",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Legendas em formato e cores que ajudam a ser visualizadas em comparação ao cenário do anime. Suas notas são claras e objetivas para quem não entende sobre as regras."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muitos erros de colocação verbal e ausência de artigos. Não legendam \"A determinação de Ruffy\", mas legendam \"Determinação de Ruffy\". Só porque não tem artigos em japoneses vocês acham que não precisam colocar também?A única boa nesse fansub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "*o*"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World Episode 0",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "*-*"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 5: Norowareta Seiken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Over Drive",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Potemayo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Potemayo Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Quiz Magic Academy: The Original Animation",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ray The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ristorante Paradiso",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire Capu2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Beast: Kouin Jojishi Tenshi Tan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seihou Tenshi Angel Links",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigurui",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sola",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sola Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toki wo Kakeru Shoujo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wangan Midnight",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yozakura Quartet: Hoshi no Umi",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zombie-Loan",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

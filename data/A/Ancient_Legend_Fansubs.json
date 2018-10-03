@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Ancient Legend Fansubs",
+        "Short Name": "Ancient Legend Fansubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Jikuu Tantei Genshi-kun",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome stuff."
+                ],
+                "Bad Comments": [
+                    "Appreciate that they are subbing some of these lesser known older shows."
+                ]
+            }
+        }
+    ]
+}

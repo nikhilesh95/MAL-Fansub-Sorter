@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Mendoi Fansubs & Shinsen-Subs",
+        "Short Name": "Mendoi & SHS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "2",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Inukami!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "32 of 34 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job.",
+                    "nice subs"
+                ],
+                "Bad Comments": [
+                    "No comments available."
+                ]
+            }
+        },
+        {
+            "Show Name": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

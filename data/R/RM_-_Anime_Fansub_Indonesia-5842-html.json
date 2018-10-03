@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "RM - Anime Fansub Indonesia",
+        "Short Name": "RM - Anime",
+        "IRC": "rm-anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ouran Koukou Host Club",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

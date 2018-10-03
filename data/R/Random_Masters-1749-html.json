@@ -1,0 +1,118 @@
+{
+    "Group": {
+        "Group Name": "Random Masters",
+        "Short Name": "Random Masters",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anne no Nikki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "misleading link"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Antique Heart",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoki Honoo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy Candy (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cool Cool Bye",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Clean old style subtitles, maybe slightly too large."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dr. Slump Movie 04: Arale-chan Hoyoyo! Nanaba Shiro no Hihou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hana yori Dango (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiatari Ryoukou!",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Celebi Toki wo Koeta Deai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Mizu no Miyako no Mamorigami Latias to Latios",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

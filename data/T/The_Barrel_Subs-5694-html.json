@@ -1,0 +1,115 @@
+{
+    "Group": {
+        "Group Name": "The Barrel Subs",
+        "Short Name": "TBS",
+        "IRC": "#tbsubs@irc.rizon.net",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "21",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Charlotte",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Memes, totally changed meaning, subs for mindless people."
+                ],
+                "Bad Comments": [
+                    "Memy, wszędzie memy! Zmienione dialogi, brak nawiązań kulturowych. Na co komu takie \"tłumaczenie\"?"
+                ]
+            }
+        },
+        {
+            "Show Name": "High School DxD BorN",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nisekoi:",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Scriptwriters, not translators. Memes, changed dialogues, almost everything is cut from original. Localised shit for dumb teenagers. Can you imagine something worse than commie? Well this definitely is worse."
+                ],
+                "Bad Comments": [
+                    "Powinniście swoje książki pisać, a nie zmieniać dialogi i żarty w tłumaczeniach. To jest generalnie żałosne i tyle."
+                ]
+            }
+        },
+        {
+            "Show Name": "Rakudai Kishi no Cavalry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament Burst",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Typowa polska fuszera z memami, wolę nie oglądać, niż oglądać takie badziewie."
+                ],
+                "Bad Comments": [
+                    "Zmienione znaczenie, czasem całkowicie całe zdania, brak nawiązań kulturowych. Nie jest to dobre tłumaczenie, nawet blisko dobrego nie stało."
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty scriptwriters who wants to be funny by inserting memes and other crap which has nothing to  do with original meaning. Cancer liberal shit.",
+                    "Kolejne dzieciaki bawiące się w skryptwiriterów. Pisać własne książki a nie zmieniać dialogi! Słabo jak cholera."
+                ],
+                "Bad Comments": [
+                    "gay"
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty scriptwriters who wants to be funny by inserting memes and other crap which has nothing to  do with original meaning. Cancer liberal shit."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

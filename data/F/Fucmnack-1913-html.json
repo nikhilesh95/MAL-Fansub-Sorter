@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Fucmnack",
+        "Short Name": "Fucmnack",
+        "IRC": "#fucmnack@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "3",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Golgo 13 (TV)",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "24 of 27 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kudos! Good quality.",
+                    "These guys are awesome",
+                    "Best grammar ever.",
+                    "Internet Heroes.",
+                    "Done 18-26 subs were good."
+                ],
+                "Bad Comments": [
+                    "Only group subbing Golgo.",
+                    "I'm gar for Golgo",
+                    "Good tl.",
+                    "SRS BNS"
+                ]
+            }
+        }
+    ]
+}

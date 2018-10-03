@@ -1,0 +1,117 @@
+{
+    "Group": {
+        "Group Name": "Anime-Miako",
+        "Short Name": "A-F",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blade of the Immortal",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Quality low~middle, some missing endings, sometimes no subs in previews"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Bleach Movie 1: Memories of Nobody",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Detective Conan Movie 12: Full Score of Fear",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Nabari no Ou",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They dont get the translations right. I can speak japanese a bit, and even I could have done better."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Suzuka",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

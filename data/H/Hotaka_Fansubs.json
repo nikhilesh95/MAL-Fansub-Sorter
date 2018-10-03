@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "Hotaka Fansubs",
+        "Short Name": "HF",
+        "IRC": "#Hotaka@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "2",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Magnificent Quality And Arabic Sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BRILLIANT+ PERFECT !! :\")"
+                ],
+                "Bad Comments": [
+                    "The best Arabic Subs ever"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dogs: Bullets & Carnage",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nekomonogatari: Kuro",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Great Translation & Perfect Group. I wish they come back soon"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "AniDojo Project Fansub",
+        "Short Name": "AniDojo",
+        "IRC": "#anidojo@irc.rizon.net",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gungrave",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

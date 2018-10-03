@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Anivision Fansubs",
+        "Short Name": "ANF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cosplay Complex",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "Group": {
+        "Group Name": "Mt Fansub",
+        "Short Name": "MT",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "58",
+            "Users Disapprove": "8",
+            "Total": "66"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama! (2011)",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aa! Megami-sama!: Sorezore no Tsubasa",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Amaenaide yo!!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Amaenaide yo!! Katsu!!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Amaenaide yo!!: Yasumanaide yo!!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Azumanga Daioh",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "traduzione pessima e pigra (seriamente, avete messo nelle note in alto che sensei vuol dire prof, perché non metterlo direttamente nei sottotitoli!?) Però hanno fatto un buon karaoke"
+                ],
+                "Bad Comments": [
+                    "lol no"
+                ]
+            },
+            "User Approval": "2 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Blassreiter",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve"
+        },
+        {
+            "Show Name": "Bleach Movie 1: Memories of Nobody",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Bleach: Memories in the Rain",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Bleach: The Sealed Sword Frenzy",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "D.C.: Da Capo",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "D.N.Angel",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "DearS",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Gokujou Seitokai",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Hottarake no Shima: Haruka to Mahou no Kagami",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Innocent Venus",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kumo no Mukou, Yakusoku no Basho",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Loveless",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve"
+        },
+        {
+            "Show Name": "Mononoke",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Overman King Gainer",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Alcune imprecisioni nella traduzione."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Prism Ark",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ray The Animation",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "School Rumble",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "School Rumble Ichi Gakki Hoshuu",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "School Rumble Ni Gakki",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "School Rumble San Gakki",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Cambiate mestiere."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Shakugan no Shana",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great care for details"
+                ],
+                "Bad Comments": [
+                    "ottima qualità"
+                ]
+            },
+            "User Approval": "4 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Shakugan no Shana II (Second)",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Shakugan no Shana Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Strait Jacket",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Suzuka",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Tactics",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tenchi Muyou! GXP",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tokyo Majin Gakuen Kenpucho: Tou",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "xxxHOLiC",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ottima qualità"
+                ],
+                "Bad Comments": [
+                    "nice professional fansub group, recommended~"
+                ]
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "xxxHOLiC Kei",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

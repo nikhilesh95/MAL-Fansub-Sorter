@@ -1,0 +1,683 @@
+{
+    "Group": {
+        "Group Name": "Anime-Heart",
+        "Short Name": "A-H",
+        "IRC": "irc://irc.recycled-irc.net/Anime-Heart",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Beyblade Burst",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Danball Senki Wars: All Star Battle",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu",
+            "Show Type": "OVA - 110 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu Gaiden",
+            "Show Type": "OVA - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu Gaiden (1999)",
+            "Show Type": "OVA - 28 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Go! Go! Ackman",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Build Fighters: Battlogue",
+            "Show Type": "ONA - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Evolve",
+            "Show Type": "OVA - 15 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Gyakuten Saiban 6 Prologue",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "It's Phoenix Wright in French and uses the French names"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Inazuma Eleven: Chou Jigen Dream Match",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Only group using the full version (with opening)."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Irregular Hunter X: The Day of Sigma",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Juusou Kikou Dancougar Nova",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kenyuu Densetsu Yaiba",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "King of Fighters: Another Day",
+            "Show Type": "ONA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kore ga UFO da! Soratobu Enban",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross",
+            "Show Type": "TV - 36 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross 7",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross 7 Encore",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross 7 Plus",
+            "Show Type": "Special - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross Dynamite 7",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross F Movie 1: Itsuwari no Utahime",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross F Movie 2: Sayonara no Tsubasa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross F Music Clip Shuu: Nyankuri",
+            "Show Type": "Music - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross FB7: Ore no Uta wo Kike!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross II: Lovers Again",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good, easy to read. But some foreign terms are translated/adapted."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Macross Plus",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good, easy to read."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Macross Plus Movie Edition",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross XX",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross Zero",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Macross: Do You Remember Love?",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good style and translation, except for the loss of some terms like \"fold\", a weird adaptation choice with \"old sport\" for \"senpai\" and the invisibility of zentradi words in their japanese dialogues later in the movie."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mai-Otome",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mai-Otome 0: S.ifr",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mai-Otome Zwei",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 Special Edition",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 0080: War in the Pocket",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 0083: Stardust Memory",
+            "Show Type": "OVA - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam F91",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam I",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam III: Encounters in Space",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Enfin du sub français sur Gundam ça fait plaisir, sub de qualité."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny Special Edition",
+            "Show Type": "Special - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Special Edition",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Wing: Endless Waltz",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Wing: Endless Waltz Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Wing: Operation Meteor",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam: Char's Counterattack",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Easy to read, usually fitting."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ring ni Kakero 1",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ring ni Kakero 1 Pilot",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ring ni Kakero 1: Kage Dou-hen",
+            "Show Type": "TV - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ring ni Kakero 1: Nichibei Kessen-hen",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ring ni Kakero 1: Sekai Taikai-hen",
+            "Show Type": "TV - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Rockman Hoshi ni Negai wo",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Rockman.EXE Movie: Hikari to Yami no Program",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms: Koei Futatabi",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Toei Robot Girls",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh!: Hikari no Pyramid",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Underwater & Doremi-Fansubs",
+        "Short Name": "Underwater-Doremi",
+        "IRC": "#underwater@irc.rizon.net, #doremi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "5",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ichigo Mashimaro Encore",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awful speedsub, translation not very good either. Wait for a better sub."
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        }
+    ]
+}

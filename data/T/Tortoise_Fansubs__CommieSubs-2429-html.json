@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Tortoise Fansubs & CommieSubs",
+        "Short Name": "Tortoise-Commie",
+        "IRC": "#tortoise@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "7",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wat",
+                    "fuck"
+                ],
+                "Bad Comments": [
+                    "the"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Nice-Boat Fansubs",
+        "Short Name": "Nice-Boat",
+        "IRC": "#nice-boat @ irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kanokon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

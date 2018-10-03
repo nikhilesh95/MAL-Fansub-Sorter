@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Black Frost Subs",
+        "Short Name": "BFS",
+        "IRC": "blackfrostsubs@gmail.com",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yamato Nadeshiko Shichihenge♥",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

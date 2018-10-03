@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Houshi-Roshi-Subs",
+        "Short Name": "HRS",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "B'T X",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya",
+            "Show Type": "TV - 114 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They take the word fan in fansubs serious."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Saint Seiya: Kamigami no Atsuki Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

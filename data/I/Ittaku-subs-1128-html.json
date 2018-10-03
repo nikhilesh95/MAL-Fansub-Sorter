@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Ittaku-subs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yatterman",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "2 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs are trying to be funny by translating incorrectly and changing the context of what they're actually saying. Which for this anime is very unsuiting especially because they change it to rather vulgar sayings.",
+                    "i had to drop yatterman because of these stupid subs"
+                ],
+                "Bad Comments": [
+                    "Can't get worse than this, too bad this is the only option."
+                ]
+            }
+        }
+    ]
+}

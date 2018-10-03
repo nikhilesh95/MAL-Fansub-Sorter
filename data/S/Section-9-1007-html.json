@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Section-9",
+        "Short Name": "S9",
+        "IRC": "#S9@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Erementar Gerad",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Rather than just present the literal translations of the various attacks used, research was done and the most appropriate name for the attack then used.",
+                    "very good quality"
+                ],
+                "Bad Comments": [
+                    "Great subs.",
+                    "Best group, they had superb subs with honorifics and everything was translated nicely. To bad they stopped subbing after episode 9."
+                ]
+            }
+        }
+    ]
+}

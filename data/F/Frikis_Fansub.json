@@ -1,0 +1,127 @@
+{
+    "Group": {
+        "Group Name": "Frikis Fansub",
+        "Short Name": "FF",
+        "IRC": "#frikisfansub@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "7",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach Movie 1: Memories of Nobody",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Premium Collection",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Font is hard to read"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Innocent Venus",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "NHK ni Youkoso!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden: Ouvertüre",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "School Rumble Ni Gakki",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shining Tears X Wind",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinreigari: Ghost Hound",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tactical Roar",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokkou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

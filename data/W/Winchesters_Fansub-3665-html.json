@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Winchesters Fansub",
+        "Short Name": "Winchesters",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "FLCL",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Nekojiru-sou",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

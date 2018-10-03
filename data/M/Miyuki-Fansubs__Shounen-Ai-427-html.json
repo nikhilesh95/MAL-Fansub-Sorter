@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Miyuki-Fansubs & Shounen-Ai",
+        "Short Name": "Miyuki&S-Ai",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saint Beast: Seijuu Kourin-hen",
+            "Show Type": "TV - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tantei Gakuen Q",
+            "Show Type": "TV - 45 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

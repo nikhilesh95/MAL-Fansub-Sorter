@@ -1,0 +1,613 @@
+{
+    "Group": {
+        "Group Name": "Orphan Fansubs",
+        "Short Name": "Orphan",
+        "IRC": "#frostii@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "87",
+            "Users Disapprove": "1",
+            "Total": "88"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-Girl",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Adachi-ga Hara",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akuemon",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality and no grammar mistakes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Al Caral no Isan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amatsuki",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amefuri Kozou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bavi Stock",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bronze: Kouji Nanjo Cathexis",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chameleon (OVA)",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chouon Senshi Borgman 2: Shin Seiki 2058",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cleopatra",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D4 Princess",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only ones to finish it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dallos",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doukyuusei (OVA): Climax",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doukyuusei 2 (OVA)",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doukyuusei 2 (OVA) Special: Sotsugyousei",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fumoon",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Grimm Douwa: Kin no Tori",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hand Maid May",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hi-Speed Jecy",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari no Ki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks for the hard work, no problem detected in any form."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Honoo no Tenkousei",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hoshi Neko Fullhouse",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Joker: Marginal City",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Junod",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kage (OVA)",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great release",
+                    "Many inaccuracies to be honest..."
+                ],
+                "Bad Comments": [
+                    "everytinhg just fine"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kaguya-hime no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only good quality English fansub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kouryuu no Mimi: Mina no Shou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maroko",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maze☆Bakunetsu Jikuu: Hot Springs",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Meisou-Ou Border",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Midori no Neko",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagasarete Airantou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thoroughly checked and updated Polished/Ayako subs, often with major corrections. Best possible release for this series."
+                ],
+                "Bad Comments": [
+                    "Using Polished's encodes, but fixing the subs..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Neko nanka Yondemo Konai.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Looked professional and the style they used even blended in with the show they were subbing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neko Neko Fantasia",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Next Senki Ehrgeiz",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ninkuu: Knife no Bohyou",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nora",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Parol no Miraijima",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rainbow Signal: Hi-Fi Set",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sanctuary",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice english translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Satsujin Kippu wa Heart-iro",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sei Michaela Gakuen Hyouryuuki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Nice encode, nice timing, no complaints."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikima II Humane Society: Jinrui Ai ni Michita Shakai",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senya Ichiya Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinkai no Kantai: Submarine 707",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiroi Kiba White Fang Monogatari",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shirokuma Cafe",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space Neko Theater",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stop!! Hibari-kun!",
+            "Show Type": "TV - 35 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tomoe ga Yuku!",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good typesetting and translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsuki ga Noboru made ni",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They subbed it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Twinkle Nora Rock Me!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "What's Michael?",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wolf Guy",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yamatarou Kaeru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality and no grammar mistakes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yamato 2520",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yume Tsukai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuukan Club",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only available subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

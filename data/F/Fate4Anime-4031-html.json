@@ -1,0 +1,598 @@
+{
+    "Group": {
+        "Group Name": "Fate4Anime",
+        "Short Name": "F4A",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "260",
+            "Users Disapprove": "22",
+            "Total": "282"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aiura",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akame ga Kill!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing quality and dedication, this group is great!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akame ga Kill! Theater",
+            "Show Type": "ONA - 24 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aki no Kanade",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ben-To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boruto: Naruto the Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Shinki Moon Angel",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Corpse Party: Missing Footage",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only fansub to sub it in Portuguese! Good quality also.\n--\nUnico fansub de boa qualidade e em PT-PT!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cuticle Tantei Inaba",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "User Approval": "12 of 16 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 14: Kami to Kami",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fastening Days",
+            "Show Type": "ONA - ? episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Prototype",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing quality and dedication, this group is great!"
+                ],
+                "Bad Comments": [
+                    "Quality work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works - Prologue",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "9 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing quality and dedication, this group is great!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Flying Witch",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Flying Witch Petit",
+            "Show Type": "ONA - 9 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ga-Rei: Zero",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "One of the few PT-PT fansub to sub this anime with quality.\n\nUma das únicas fansubs PT-pT a fazer este anime, e com qualidade."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genshiken",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genshiken OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji 2nd Season",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Kikoutai Majestic Prince",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakkenden: Touhou Hakken Ibun",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hal",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hametsu no Mars",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hinata no Aoshigure",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kakumeiki Valvrave",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizuna Ichigeki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only fansub, to sub this anime in Portuguese from Portugal.\n\nO único fansub, a legendar este anime em Português de Portugal."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia (TV)",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Momo e no Tegami",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neko no Ongaeshi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neppuu Kairiku Bushi Road",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Omoide no Marnie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookii 1 Nensei to Chiisana 2 Nensei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Orange",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Coisa mai linda! Best anime EVER!"
+                ],
+                "Bad Comments": [
+                    "Quality work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupipo!",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Legend of Sanctuary",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingeki no Bahamut: Genesis",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stand By Me Doraemon",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike the Blood",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike the Blood: Valkyria no Oukoku-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Taifuu no Noruda",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Thermae Romae",
+            "Show Type": "TV - 3 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo ESP",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Utopa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

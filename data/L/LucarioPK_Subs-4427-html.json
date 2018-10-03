@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "LucarioPK Subs",
+        "Short Name": "LucarioPK Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "64",
+            "Total": "84"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 16 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mistranslations, sometimes skips lines entirely.",
+                    "Translation are not accurate. The meaning of what each character says is lost and therefore confuses watchers. Lag in timing causes me to be furious.",
+                    "Great subbing group, fast as well.",
+                    "Suddenly disappeared",
+                    "Closed captions run through Google Translate and tidied up a bit does not result in accurate translations, unlike what this clown seems to think. Pure garbage.",
+                    "the guy is just totally clueless"
+                ],
+                "Bad Comments": [
+                    "Consistent release schedule. From a technical standpoint the quality isn't very good, but the subs are clear and understandable.",
+                    "Shit",
+                    "Well, he subbed stuff!",
+                    "this groups sucks",
+                    "Google is not a substitute for a translator, and editing it to hell and back does not make it a good translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon XY",
+            "Show Type": "TV - 93 episodes",
+            "User Approval": "4 of 32 users approve, 18 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Group seems to have completely disappeared after their poor effort.",
+                    "timing and translation errors all over the place, awful release",
+                    "Awkward english everywhere",
+                    "avoid like the plague",
+                    "Terrible job, you can feel how rushed it is.",
+                    "very poor timing, and while others may disagree, i'd like the town names and maybe the pokemon names to be their english versions. but nope. at least they're translating, though.",
+                    "hasty, inaccurate translations",
+                    "Seriously the worst fansubs I've ever seen. The \"translator\" literally does not know Japanese, and just makes things up constantly. Just LOOK at this: http://i41.tinypic.com/5n3epz.jpg",
+                    "Quite frankly the worst Pokemon sub I've ever come across. This guy has ZERO knowledge of japanese and it really shows. I feel sad for people watching this"
+                ],
+                "Bad Comments": [
+                    "Not that good but I'll take it over PM any day.",
+                    "Fast but way too many errors",
+                    "Speed subs, Google translate, poor timing",
+                    "fabulous~ ;)",
+                    "Fast but terrible",
+                    "google translate, only watch if you're ok with that",
+                    "Because he does it extremely fast. Always in time",
+                    "Google is not a substitute for a translator, and editing it to hell and back does not make it a good translation.",
+                    "Terrible trainwreck."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon: The Origin",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "11 of 36 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No subs for text, only spoken lines. Not very consistent with translated names. And no subs for the special at end of the episode.",
+                    "The only ones who would you use these are mouthbreathing pieces of shit who don't care or realize how bad it is",
+                    "oak not orchid",
+                    "No English names",
+                    "Utter shit.",
+                    "Closed captions run through Google Translate and tidied up a bit does not result in accurate translations, unlike what this clown seems to think. Pure garbage.",
+                    "Google translate... LOL"
+                ],
+                "Bad Comments": [
+                    "Awful.",
+                    "Speed subs, Google translate, poor timing",
+                    "Subs are quite off time. Subs appear too early and leave the screen too early.",
+                    "takeshi? cmon..",
+                    "didn't translate the japanese names of pokemon/towns",
+                    "Google is not a substitute for a translator, and editing it to hell and back does not make it a good translation."
+                ]
+            }
+        }
+    ]
+}

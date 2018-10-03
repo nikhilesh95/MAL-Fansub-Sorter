@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Static-Subs & BSSubs",
+        "Short Name": "SS-BSS",
+        "IRC": "#static-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "3",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "32 of 35 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the best",
+                    "Nice file size that is full of win even though they didn't TL what the characters for the sound effects meant (Ayako did).",
+                    "No problems :)"
+                ],
+                "Bad Comments": [
+                    "Much better than Ayako.",
+                    "uncensored version!"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Waku-subs & Oyatsu Fansubs",
+        "Short Name": "Waku-Oyatsu",
+        "IRC": "#waku@irc.rizon.net | #oyatsu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "5",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ushinawareta Mirai wo Motomete",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "17 of 22 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Saving us from Funi",
+                    "Not Funi",
+                    "Minor grammar in Ep2 (2 lines) that's about it. Overall it's all right from Ep1-3 if you do not mind waiting a few days/weeks for them with karaoke and decent typeset. Up to you though, I'd just watch FUNimation though their subs are OK.",
+                    "Fine but going really slow right now. Not really worth the wait in my opinion."
+                ],
+                "Bad Comments": [
+                    "Not Funi, but ESL-subs.",
+                    "Fuck Funi. They shit compared to hadena. Good thing we have these guys and not hadena.",
+                    "Like always, rater literal + honorifics = worth watchnig. Keep doing good work!"
+                ]
+            }
+        }
+    ]
+}

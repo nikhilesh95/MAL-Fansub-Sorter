@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Hybrid Subs & Kaitou Fansubs & tmusubs",
+        "Short Name": "Kaibrid-TMU",
+        "IRC": "#hybrid@irc.rizon.net; #kaitou-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials",
+            "Show Type": "Special - 5 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

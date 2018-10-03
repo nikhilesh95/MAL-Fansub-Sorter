@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Arabanime",
+        "Short Name": "Arabanime",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Owari no Seraph",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Shokugeki no Souma",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Vampire Holmes",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

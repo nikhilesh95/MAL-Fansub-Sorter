@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Mistwalker",
+        "Short Name": "Mistwalker",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "5",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "AnimeYoshi > Mistwalker",
+                    "Great job on the subtitles. Uses soft subtitles, but works just fine with the CCCP software."
+                ],
+                "Bad Comments": [
+                    "dead group"
+                ]
+            }
+        }
+    ]
+}

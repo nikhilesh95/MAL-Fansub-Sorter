@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "Haiyaku Fansubs",
+        "Short Name": "Haiyaku",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Full Metal Panic!",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Comic sans, small font, no ED TL, OP TL replaced with jokesubs about other groups being slow and Kaname looking good naked. Avoid if possible."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

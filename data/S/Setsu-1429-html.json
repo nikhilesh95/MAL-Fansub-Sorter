@@ -1,0 +1,100 @@
+{
+    "Group": {
+        "Group Name": "Setsu",
+        "Short Name": "Setsu",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blade of the Immortal",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very nice"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blassreiter",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cencoroll",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cobra The Animation: The Psycho-Gun",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon X-Evolution",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rockman Hoshi ni Negai wo",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente trabalho!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

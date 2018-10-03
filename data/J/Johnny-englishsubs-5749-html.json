@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "Johnny-englishsubs",
+        "Short Name": "Johnny-englishsubs",
+        "IRC": "#Johnny-englishsubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ace wo Nerae! 2",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing work, the translation was in my opinion on spot."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Attacker You!",
+            "Show Type": "TV - 58 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow release but done well."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou no Idol Pastel Yumi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UFO Robo Grendizer",
+            "Show Type": "TV - 74 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yume Senshi Wingman",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

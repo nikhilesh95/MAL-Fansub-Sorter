@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Aoi-Anime & Wasurenai-Fansubs",
+        "Short Name": "Aoi-Wasurenai",
+        "IRC": "#aoi-anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The timing is great...The combination is good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Les Misérables: Shoujo Cosette",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

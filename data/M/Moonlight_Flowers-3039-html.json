@@ -1,0 +1,58 @@
+{
+    "Group": {
+        "Group Name": "Moonlight Flowers",
+        "Short Name": "MF",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuttsukiboshi",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuri Seijin Naoko-san",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "brazilians"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve, 1 comments"
+        }
+    ]
+}

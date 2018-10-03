@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "SleepingKitties",
+        "Short Name": "SleepingKitties",
+        "IRC": "#SleepingKitties@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kotoura-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesomesauce."
+                ],
+                "Bad Comments": [
+                    "It's Fast, almost as Fast as HoribleSub, but with a better video they captured from japan tv and Styled Ass Subtitle plus Karaoke.   ~sukanime"
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Collection",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tari Tari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

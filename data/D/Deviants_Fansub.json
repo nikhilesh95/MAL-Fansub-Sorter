@@ -1,0 +1,454 @@
+{
+    "Group": {
+        "Group Name": "Deviants Fansub",
+        "Short Name": "DvF",
+        "IRC": "#deviantsfansub@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "186",
+            "Users Disapprove": "11",
+            "Total": "197"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aachi wa Ssipak",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bokura ga Ita",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dennou Coil",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "25 of 30 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dios que grande esta serie y que gran trabajo de DvF. Fdo: Flashk",
+                    "Excellent compression, text styles, grammar and Spanish adaptation.",
+                    "Un trabajo de edición y traducción acojonante.",
+                    "Muy buen trabajo.",
+                    "good translating."
+                ],
+                "Bad Comments": [
+                    "Buen curro pero los primeros caps tienen over 9000 notas de traducción, muchas innecesarias.",
+                    "Very Good translation. Good quality, nice colors and a good quality lenguage.",
+                    "*bows*",
+                    "Well... i just love your style cuz you use stuff like \" Dita sea\" or Que Porras...\" lol i mean your subbing is clear and funny ,)",
+                    "Putos coñazos"
+                ]
+            }
+        },
+        {
+            "Show Name": "Freedom",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "25 of 30 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ga-Rei: Zero",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "17 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "El unico fansub decente que curro esta serie...",
+                    "Perfecto.",
+                    "Simplemente perfecto"
+                ],
+                "Bad Comments": [
+                    "Único fansub en Castellano (de España) que curró esta serie, gran trabajo en general, sobre todo en edición de carteles. DVDRip - Sin Censura. La mejor opción para ver este anime en español y no Athena no Seinto.",
+                    "decente y sin censura, que valgamedios lo que hicieron con la otra versión D:"
+                ]
+            }
+        },
+        {
+            "Show Name": "Glass no Kantai: La Legende du Vent de l'Univers",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "17 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haruwo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hataraki Man",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gran colaboración :3"
+                ],
+                "Bad Comments": [
+                    "Quality work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Heroic Age",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gran trabajo, la mejor en español"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotori: Tada Saiwai wo Koinegau",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Joshikousei: Girl's High",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jyu Oh Sei",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Le Chevalier D'Eon",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moonlight Mile 1st Season: Lift Off",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moyashimon",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "15 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "la caña de españa"
+                ],
+                "Bad Comments": [
+                    ":)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Murder Princess",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nijuu Mensou no Musume",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nitaboh",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Noein: Mou Hitori no Kimi e",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Outs",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ouran Koukou Host Club",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 17 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "upsize, pero gran trabajo en la edicion y adaptacion"
+                ],
+                "Bad Comments": [
+                    "Excelente versión chicos un pequeño error en ;no recuerdo cual episodio pero se les agradece."
+                ]
+            }
+        },
+        {
+            "Show Name": "Potemayo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "coooooooooool"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Potemayo Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rean no Tsubasa",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Romeo x Juliet",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A very good job. Deviants = awesome."
+                ],
+                "Bad Comments": [
+                    "AWESOME!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sakurasou no Pet na Kanojo",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "c:"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoubushi Densetsu Tetsuya",
+            "Show Type": "TV - 20 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Simoun",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Third: Aoi Hitomi no Shoujo",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Marble Chocolate",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Tribe 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gracias por este serión. No entiendo por qué es tan poco conocido.",
+                    "colaboración con tanoshii :3"
+                ],
+                "Bad Comments": [
+                    "Goosh, goosh"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tonagura!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zegapain",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perfecto, gran trabajo!!!!!!!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor en español!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "perfecto, como las anteriores temporadas!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "9 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

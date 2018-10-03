@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "TweakAnime",
+        "Short Name": "TweakAnime",
+        "IRC": "#tweakanime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+            "Show Type": "ONA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy☆Boy: Side Story For Archive",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good karaoke. Good encoding and TL.",
+                    "undefined",
+                    "Hosting DDL links on their own site = awesome guys"
+                ],
+                "Bad Comments": [
+                    "A new group but already top-notch! Keep up the great work.",
+                    "very good translation and nice background notes on jap culture"
+                ]
+            },
+            "User Approval": "6 of 7 users approve, 5 comments"
+        }
+    ]
+}

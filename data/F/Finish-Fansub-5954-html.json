@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Finish-Fansub",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fresh Precure!",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

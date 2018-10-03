@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "GNU-Fansubs & Shinsen-Subs",
+        "Short Name": "GNU & SHS",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Otome wa Boku ni Koishiteru",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome wa Boku ni Koishiteru Special",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Venus Versus Virus",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve"
+        }
+    ]
+}

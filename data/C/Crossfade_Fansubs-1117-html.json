@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Crossfade Fansubs",
+        "Short Name": "crossfade",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "2",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Oniisama e...",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Chou Kyou Ryo: Condor Hero",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Chou Kyou Ryo: Condor Hero II",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Forever With You",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I didn't watch all of it, but in the first 40 seconds, there are 3 references to the name of the school: \"Kirameki High School\" which were all subbed as \"Tokimeki High\" How did that happen? o_O"
+                ],
+                "Bad Comments": [
+                    "maybe it's because Tokimeki is the name of the show"
+                ]
+            },
+            "User Approval": "3 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Touch",
+            "Show Type": "TV - 101 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Yokoyama Mitsuteru Sangokushi",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Translation seemed fairly sound and there wasn't much error in the way of grammer or spelling. They also left notes explaining things to people who aren't familiar with the Romance of the Three Kingdoms, such as who the 12 Eunichs were, etc."
+                ],
+                "Bad Comments": [
+                    "ridiculously bad english, grammar was frequently incorrect"
+                ]
+            },
+            "User Approval": "3 of 4 users approve, 2 comments"
+        }
+    ]
+}

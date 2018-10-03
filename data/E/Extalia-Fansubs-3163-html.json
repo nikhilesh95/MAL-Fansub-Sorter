@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Extalia-Fansubs",
+        "Short Name": "Extalia",
+        "IRC": "#extalia-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "15",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Speedsub."
+                ],
+                "Bad Comments": [
+                    "\"Wtf does yuhei mean?\" it's the translator jobs to know that, not the viewers."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nurarihyon no Mago: Sennen Makyou",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 9 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This is RIDICULOUS! How is it possible for one to have the courage to release such a poor job, is completely beyond me!",
+                    "don't like the way they translate",
+                    "Fast release, but bad subs quality"
+                ],
+                "Bad Comments": [
+                    "shit",
+                    "Poor subtitles with typos.",
+                    "They're just complete shit."
+                ]
+            }
+        }
+    ]
+}

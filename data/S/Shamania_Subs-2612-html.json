@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Shamania Subs",
+        "Short Name": "S-Subs",
+        "IRC": "#Shamania@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hyakka Ryouran: Samurai Girls",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nurarihyon no Mago",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Strike Witches OVA",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "because GabbaDante"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

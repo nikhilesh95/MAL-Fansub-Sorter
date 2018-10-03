@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kiira Subs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "Dutch",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Brothers Conflict",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good Dutch translation, grammar is okay, good timing for the subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

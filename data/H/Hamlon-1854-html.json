@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Hamlon",
+        "Short Name": "Hamlon",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're putting Eclipse-Subs on a R2DVD-Release. Get this if you can!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

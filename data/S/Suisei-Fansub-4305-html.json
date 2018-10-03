@@ -1,0 +1,58 @@
+{
+    "Group": {
+        "Group Name": "Suisei-Fansub",
+        "Short Name": "S-F",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Date A Live",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Sub de très mauvaise qualité... A éviter !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: Chrono Stone",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: Galaxy",
+            "Show Type": "TV - 43 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Sensou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yondemasu yo, Azazel-san. Z",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

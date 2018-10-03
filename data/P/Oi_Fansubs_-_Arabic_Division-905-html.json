@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Oi! Fansubs - Arabic Division",
+        "Short Name": "Oi!",
+        "IRC": "#oi-arabic@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Binbou Shimai Monogatari",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenpou Ibun: Ayakashi Ayashi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

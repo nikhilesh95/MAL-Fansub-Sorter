@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Lililicious & Anime-Source",
+        "Short Name": "",
+        "IRC": "#lililicious@irc.mirc-x.com & #Anime-Source@irc.mirc-x.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "45",
+            "Users Disapprove": "3",
+            "Total": "48"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria-sama ga Miteru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "45 of 48 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Inaccurate at times, but still good.",
+                    "High Quality",
+                    "I've only watched episodes subbed by this group, so far it's been very clear...",
+                    "Understandable, clear, descriptive. Subs everything including the OPs and EDs."
+                ],
+                "Bad Comments": [
+                    "They managed to capture and convey the elegance of Marimite A ",
+                    "My ears was bleeding",
+                    "Consistently do a wonderful job in all their fansubs I've seen. Excellent work and great use of words.",
+                    "They got there first so :)"
+                ]
+            }
+        }
+    ]
+}

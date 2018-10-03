@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Penguin",
+        "Short Name": "Penguin",
+        "IRC": "#penguin@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "9",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ushinawareta Mirai wo Motomete",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 20 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped.",
+                    "dropped...why... T.T",
+                    "commie & friends",
+                    "dropped. *sighs*"
+                ],
+                "Bad Comments": [
+                    "They dropped the show",
+                    "Dropped",
+                    "Are you stupid? Literally no one working on this has ever had any involvement with a Commie release. Look at Commie's Showtimes page and compare it with Penguin's staff; there's no overlap whatsoever. The release is fine."
+                ]
+            }
+        }
+    ]
+}

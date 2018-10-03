@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Anime-Share Fansubs & Oyatsu Fansubs",
+        "Short Name": "ASF-Oyatsu",
+        "IRC": "#AS-Fansubs@irc.rizon.net | #Oyatsu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "5",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.C.III: Da Capo III",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "23 of 28 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subtitles don't show up in scenes when there are Japanese text on the screen. The quality of the subs actually get worse in later episodes culminating in characters speaking in two different fonts at the same time.",
+                    ">COMMIE IS LIKE 1000x TIMES BETTER YOU IGNORANT FUCKS!!\n'sup, commie staff?",
+                    "Subs the OP & ED",
+                    "greet...",
+                    "decent enough",
+                    "Noteworthy, Aaeru who is translating the Da Capo 3 eroge is TL'n this for this group.  Meaning they have access to understanding the story tons better then Commie."
+                ],
+                "Bad Comments": [
+                    ">aaeru",
+                    "Very solid.",
+                    ">Aaeru",
+                    "COMMIE IS LIKE 1000x TIMES BETTER YOU IGNORANT FUCKS!!",
+                    "Nice Subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "D.C.III: Da Capo III Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

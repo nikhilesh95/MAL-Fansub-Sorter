@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "Ryoumi Subs",
+        "Short Name": "Ryo",
+        "IRC": "#ryoumi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "36",
+            "Users Disapprove": "5",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chocotto Sister",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "9 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shameless censorship",
+                    "Plenty translation notes left."
+                ],
+                "Bad Comments": [
+                    "I love how they translated all the signs and put translator's notes in, but not too often. Top-notch quality!",
+                    "Clean, easy to read subs.  To bad they had to bite the dust."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gakuen Utopia Manabi Straight!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fabulous karaoke effects, plus a very cool and readable custom-made font."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sky Girls OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Only Love",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tonagura!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "15 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Overused font, timing flashes, nonexistent padding, irritatingly literal translation and editing.",
+                    "good",
+                    "ReDone. ReDone all the way... I don't mean to discredit Ryo here, but they're just so awesome! :D\nTRY IT. YOU'LL LIKE IT."
+                ],
+                "Bad Comments": [
+                    "some translation errors, often subtitles are too long and broke the dialogues",
+                    "Easy to read, well translated. Excellent use of dynamic subtitle techniques, such as spiraling and shrinking a line of text to follow a character that's being dragged away at high speed or the fading of the text in-sync with the dialogue at the moments th"
+                ]
+            }
+        },
+        {
+            "Show Name": "Venus Versus Virus",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "15 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

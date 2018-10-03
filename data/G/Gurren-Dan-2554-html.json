@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "Gurren-Dan",
+        "Short Name": "G-D",
+        "IRC": "#gurren-dan@irc.rizon.net",
+        "Primary Language": "Finnish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detroit Metal City",
+            "Show Type": "OVA - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koe de Oshigoto! The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Mitsudomoe",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Nana to Kaoru",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Nichijou: Nichijou no 0-wa",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Subtitled with good sense of humour. Jokes were translated so that they made sense in Finnish."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "One Piece Film: Strong World",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good video quality and nice subs."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

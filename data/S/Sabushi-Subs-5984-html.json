@@ -1,0 +1,97 @@
+{
+    "Group": {
+        "Group Name": "Sabushi-Subs",
+        "Short Name": "Sabu",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "18if",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aria The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crusher Joe",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They used the best encode available (from OnDeed) and made a beautifull german sub to this classic anime movie."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu",
+            "Show Type": "OVA - 110 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gokusen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice Encode, nice softsub with good typeset and karaoke."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Honobono Log",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They used the DameDesuYo-videosource and made a fantastic karaoke."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vassalord.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zetman",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best german fansub available."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

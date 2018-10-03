@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "KiteSeekers & Pervert Fansubs",
+        "Short Name": "KiteSeekers-PFSubs",
+        "IRC": "kiteseekers@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shin Koihime†Musou OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not a great translation because too much detail from the dialogue is lost in the process, which is very evident in some scenes. Sadly nobody else did this OVA so on this occasion anime fans have little choice but to accept a sub-standard translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Koihime†Musou: Live Revolution",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

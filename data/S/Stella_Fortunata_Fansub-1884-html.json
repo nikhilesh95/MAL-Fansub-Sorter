@@ -1,0 +1,124 @@
+{
+    "Group": {
+        "Group Name": "Stella Fortunata Fansub",
+        "Short Name": "SF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "4",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amaenaide yo!! Katsu!!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji II",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Nodame Cantabile",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Nodame Cantabile Finale",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Omamori Himari",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Ookamikakushi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Shakugan no Shana S",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bad font, many typos and no karaoke."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Traduzione mezza copiata dai kona, karaoke di base, styling orrendo e typesetting altrettando orrido. C'è da dire altro?"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        }
+    ]
+}

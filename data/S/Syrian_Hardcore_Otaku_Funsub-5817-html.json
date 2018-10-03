@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Syrian Hardcore Otaku Funsub",
+        "Short Name": "S.H.O",
+        "IRC": "waseemsama97@gmail.com",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Adventure tri. 1: Saikai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "cool sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikagura Gakuen Kumikyoku (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

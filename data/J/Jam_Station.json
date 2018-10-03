@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Jam Station",
+        "Short Name": "Y²JS",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gakkou no Kaidan",
+            "Show Type": "TV - 19 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Getsumen To Heiki Mina",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Golden Boy",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamen Rider SD Kaiki?! Kumo Otoko",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyattou Ninden Teyandee",
+            "Show Type": "TV - 54 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

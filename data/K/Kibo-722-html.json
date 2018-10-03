@@ -1,0 +1,135 @@
+{
+    "Group": {
+        "Group Name": "Kibo",
+        "Short Name": "Kibo",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bannou Bunka Neko-Musume (1998)",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Claymore",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Gunparade Orchestra",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Fighter G Gundam",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Victory Gundam",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The subtitles colour makes it often hard to read on the white/pale pictures.\nTranslates lots of in-text english terms."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Innaccurate translation."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Natsume Yuujinchou Shi",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tactical Roar",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Wangan Midnight",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Zoku Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

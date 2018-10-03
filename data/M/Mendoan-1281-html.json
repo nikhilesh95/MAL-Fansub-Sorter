@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Mendoan",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//G.U. Trilogy",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss Dum: Engage Planet",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow but constant progress.",
+                    "In some episodes with Roki it was really badly translated"
+                ],
+                "Bad Comments": [
+                    "I like the subing,but vere the episodes from 19 to 26 translated too?"
+                ]
+            }
+        }
+    ]
+}

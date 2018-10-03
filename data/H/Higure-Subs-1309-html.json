@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Higure-Subs",
+        "Short Name": "H-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "2",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "10 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great Translation, Excellent Quailty and Great staff.",
+                    "Best ever!!!!"
+                ],
+                "Bad Comments": [
+                    "since the partnership with rumbel i really liked the translation especially since yuurisan gets Lero's name wrong."
+                ]
+            }
+        }
+    ]
+}

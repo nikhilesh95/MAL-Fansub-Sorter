@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Saizen Fansubs & Shinsen Subs",
+        "Short Name": "Saizen & Shinsen Subs",
+        "IRC": "#saizen@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Captain Tsubasa: Road to 2002",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "much better than the random subs floating out there"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

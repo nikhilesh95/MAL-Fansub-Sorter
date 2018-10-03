@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Koharubi Fansubs & Mango Subs",
+        "Short Name": "Koharubi-Mango",
+        "IRC": "#mango@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "timing is not as perfect as gg's",
+                    "Best encode :>"
+                ],
+                "Bad Comments": [
+                    "Nice opening lyrics, it was well put. Great typesetting. The styles are attractive. Translations seem decent. Can't wait for more releases from this joint."
+                ]
+            }
+        }
+    ]
+}

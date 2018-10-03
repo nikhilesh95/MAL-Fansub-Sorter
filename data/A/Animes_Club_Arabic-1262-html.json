@@ -1,0 +1,106 @@
+{
+    "Group": {
+        "Group Name": "Animes Club Arabic",
+        "Short Name": "A.C.A",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Nadja",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Cat",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bad quality and typesetting"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Fushigi Yuugi",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Hellsing",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "One Piece Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "POS-Encodes",
+        "Short Name": "POS",
+        "IRC": "#pos-encodes@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kenpuu Denki Berserk",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Senkan Nadesico",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuusha-Ou GaoGaiGar Final",
+            "Show Type": "OVA - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

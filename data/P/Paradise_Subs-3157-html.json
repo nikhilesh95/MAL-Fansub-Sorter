@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Paradise Subs",
+        "Short Name": "P-S",
+        "IRC": "",
+        "Primary Language": "Hebrew",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "everything is so perfect! i just love all they do."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.N.Angel",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pandora Hearts",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

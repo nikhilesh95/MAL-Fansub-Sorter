@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Toki-Fansubs & Doremi-Fansubs",
+        "Short Name": "Toki-Doremi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sketchbook: Full Color's",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

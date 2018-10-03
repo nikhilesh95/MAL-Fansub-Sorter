@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Tsuri-Fansub",
+        "Short Name": "Tsuri-fansub",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Makura no Danshi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "le baguette le big mac croissant amis eifel towa petit"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

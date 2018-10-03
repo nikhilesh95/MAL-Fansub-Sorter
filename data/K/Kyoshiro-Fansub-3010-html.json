@@ -1,0 +1,98 @@
+{
+    "Group": {
+        "Group Name": "Kyoshiro-Fansub",
+        "Short Name": "Kyoshiro",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "3",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Beelzebub",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very Good!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing: The Dawn",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece 3D: Mugiwara Chase",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko",
+            "Show Type": "TV - 147 episodes",
+            "User Approval": "12 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Único fansub brasileiro que legenda Toriko melhor que o Punch.",
+                    "Quem não tem Punch caça com Kyoshiro",
+                    "BRAZILIAN NIGHT PLS GO"
+                ],
+                "Bad Comments": [
+                    "=p",
+                    "Muito Bom!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Trigun: Badlands Rumble",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

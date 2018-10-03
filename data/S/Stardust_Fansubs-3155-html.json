@@ -1,0 +1,142 @@
+{
+    "Group": {
+        "Group Name": "Stardust Fansubs",
+        "Short Name": "Stardust",
+        "IRC": "#stardust@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "12",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Jewelpet",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not relevant to this release but: Awful website design. If I wanted to look at 1997 Geocities homepages, I'd use a freakin' time machine.",
+                    "Crossing my fingers they finish it. I don't know why web design matters?"
+                ],
+                "Bad Comments": [
+                    "Incomplete."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kamikaze Kaitou Jeanne",
+            "Show Type": "TV - 44 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kigurumikku V3",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou no Angel Sweet Mint",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finally, someone subs this."
+                ],
+                "Bad Comments": [
+                    "dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Metal Fight Beyblade",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good"
+                ],
+                "Bad Comments": [
+                    "picked up where ZP-YuS, still slow, but the fight continues!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Metal Fight Beyblade 4D",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Metal Fight Beyblade Zero G",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushrambo",
+            "Show Type": "TV - 32 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushrambo (2008)",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Onegai♪My Melody Kirara★",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I personally don't like this season but they did a good job subbing it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore-sama Kingdom",
+            "Show Type": "OVA - 14 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku☆Paradise Kiwami",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This group keeps making sure that no anime is left behind and I love them for it!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

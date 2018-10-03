@@ -1,0 +1,78 @@
+{
+    "Group": {
+        "Group Name": "Senkai Fansub",
+        "Short Name": "Senkai",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night TV Reproduction",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 7: Satsujin Kousatsu (Kou)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji: Sono Shitsuji, Kougyou",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pandora Hearts Specials",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

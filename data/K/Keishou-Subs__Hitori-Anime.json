@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Keishou-Subs & Hitori-Anime",
+        "Short Name": "KSH-Hitori",
+        "IRC": "#keishou-subs@irc.﻿rizon.﻿net & #Hitori-Anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

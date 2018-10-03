@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Mayu-Subs",
+        "Short Name": "Mayu-subs",
+        "IRC": "#mayu-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "12",
+            "Total": "44"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akaneiro ni Somaru Saka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They dont even have this show..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakko",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "this group sucks when it comes to speed."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star: Original na Visual to Animation",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "stall"
+                ],
+                "Bad Comments": [
+                    "mayu sucks"
+                ]
+            }
+        },
+        {
+            "Show Name": "World Destruction: Sekai Bokumetsu no Rokunin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "24 of 29 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group doing the show, but it's not really saying too much.",
+                    "Good TL, clean typesetting etc XD",
+                    "Very well done, unfortunately they're fairly slow, for various reasons.",
+                    "karaoke, good translation, high quality",
+                    "The best, it's have prefix ~kuma from episode 2-13 ~sukanime"
+                ],
+                "Bad Comments": [
+                    "indeed, this group srsly suck",
+                    "The higher quality is just obvious.",
+                    "Accurate translation and good quality",
+                    "they suck seriously",
+                    "Good translation and typesetting overall."
+                ]
+            }
+        }
+    ]
+}

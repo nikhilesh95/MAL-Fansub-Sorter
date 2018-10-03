@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "AviXMaN Fansubs",
+        "Short Name": "AviXMaN",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "7",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Druaga no Tou: The Aegis of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No need"
+                ],
+                "Bad Comments": [
+                    "having AVI in its name it just a fail by itself"
+                ]
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very accurate, and good sub layout and everything, but it lacked certain punctuations like apostrophes. Also the coding in the subs were done poorly."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

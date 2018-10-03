@@ -1,0 +1,78 @@
+{
+    "Group": {
+        "Group Name": "VegeakNoFansub",
+        "Short Name": "VNF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "3",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Accel World: Acchel World.",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Puchitto Gargantia",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Sword Art Offline",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

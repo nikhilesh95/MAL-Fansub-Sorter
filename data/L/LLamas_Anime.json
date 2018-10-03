@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "LLama`s Anime",
+        "Short Name": "LL-A",
+        "IRC": "#llamas-anime@irc.rakka.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Legend of Basara",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

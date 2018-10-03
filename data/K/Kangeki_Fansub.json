@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Kangeki Fansub",
+        "Short Name": "kangeki",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Claymore",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shonan Junai Gumi!",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bonne qualité dans l’ensemble"
+                ],
+                "Bad Comments": [
+                    "Good quality (even in the subtitles of the opening and ending). Never got a problem with their subs."
+                ]
+            },
+            "User Approval": "1 of 1 users approve, 2 comments"
+        }
+    ]
+}

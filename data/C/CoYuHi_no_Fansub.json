@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "CoYuHi no Fansub",
+        "Short Name": "CoYuHinF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blue Drop: Tenshi-tachi no Gikyoku",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+            "Show Type": "ONA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy☆Boy: Side Story For Archive",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai-Otome 0: S.ifr",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

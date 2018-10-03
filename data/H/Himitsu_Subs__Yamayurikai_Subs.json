@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Himitsu Subs & Yamayurikai Subs",
+        "Short Name": "Himi&YKS",
+        "IRC": "#himitsu-subs@euirc.net #yks@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chocotan!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsuyuki Rendezvous",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

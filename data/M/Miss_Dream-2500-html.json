@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Miss Dream",
+        "Short Name": "MD",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon",
+            "Show Type": "TV - 46 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No longer listed."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Memorial",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sailor Moon Memorials ;)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

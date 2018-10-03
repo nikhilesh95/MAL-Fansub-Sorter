@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "CPfansub",
+        "Short Name": "CPf",
+        "IRC": "#cpfansub@irc.otaku-irc.fr",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "3",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hourou Musuko",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 6 users approve"
+        }
+    ]
+}

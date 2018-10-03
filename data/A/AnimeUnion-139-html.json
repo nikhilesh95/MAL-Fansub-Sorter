@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "AnimeUnion",
+        "Short Name": "AU\t\t\t\tAU",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "3",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fushigi Yuugi",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Rekka no Honoo",
+            "Show Type": "TV - 42 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The timing and quality check for this series are atrocious to the point that I've doubted the translation script more than I should. TL is not terrible. Still I'm grateful for the subbing."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 3 users approve, 1 comments"
+        }
+    ]
+}

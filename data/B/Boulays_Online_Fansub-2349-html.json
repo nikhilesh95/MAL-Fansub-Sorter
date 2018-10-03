@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Boulays Online Fansub",
+        "Short Name": "BOF",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan Specials",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

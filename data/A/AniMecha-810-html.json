@@ -1,0 +1,647 @@
+{
+    "Group": {
+        "Group Name": "AniMecha",
+        "Short Name": "AM",
+        "IRC": "#animecha@excel.anime-chat.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "3",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Abenobashi Mahou☆Shoutengai",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Air",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Air Master",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amon Saga",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Appleseed",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Appleseed (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Area 88 (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wrong AR (set 16:9 manually), but at least they preserved both subtitle tracks from the DVDs."
+                ],
+                "Bad Comments": [
+                    "best ive seen for Area 88"
+                ]
+            }
+        },
+        {
+            "Show Name": "Armitage III",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Armitage III: Dual-Matrix",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Assemble Insert",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuretsu Hunters",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bannou Bunka Neko-Musume",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bannou Bunka Neko-Musume DASH!",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beck",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Big Wars: Kami Utsu Akaki Kouya ni",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Yuugekitai Battle Skipper",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Seed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Seed 2",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Seed Omake",
+            "Show Type": "Special - 14 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boogiepop wa Warawanai: Boogiepop Phantom",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Burn Up Excess",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Burn Up Scramble",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chikyuu Bouei Kigyou Dai-Guard",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chouon Senshi Borgman: Lovers Rain",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop: Tengoku no Tobira",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dark Cat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dennou Sentai Voogie's★Angel",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gall Force 1: Eternal Story",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gall Force 2: Destruction",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gall Force 3: Stardust War",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gall Force: Chikyuu Shou",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gall Force: New Era",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gasaraki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gokujou Seitokai",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "576x432, but at least they left the DVD subs as-is, thus not turning the subtitles into an unreadable mess. Along with Arigatou, one of the only competent DVD-rips out there for this series."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haja Kyosei G Dangaiou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hana yori Dango",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "I: Wish You Were Here",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D Second Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad encoding, some typos, especially in the last 3 eps, but it's watcheable"
+                ],
+                "Bad Comments": [
+                    "Terrible encoding, choppy video."
+                ]
+            }
+        },
+        {
+            "Show Name": "Karas",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karin",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kishin Heidan",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kodomo no Omocha (TV)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only group to produce rips of the Funimation R1 release. Okay quality, competent translation, only issue is the JP audio drops in some issues due to music rights issues."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyuuketsuhime Miyu (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Marmalade Boy",
+            "Show Type": "TV - 76 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some OCR errors on top of TokyoPop's already fail subs. Encode could be better, but this 1994 shoujo anime wasn't HQ to begin with, and AM was the only group to release all of it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Marmalade Boy Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam: The 08th MS Team",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neo Ranga",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Overall, decent subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "NHK ni Youkoso!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Power Dolls",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dual audio with jap subtitles"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ranma ½",
+            "Show Type": "TV - 161 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent video quality and efficiency resulting in a very reasonable filesize."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rhea Gall Force",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seihou Tenshi Angel Links",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seisenshi Dunbine",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seishoujo Kantai Virgin Fleet",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shichinin no Nana",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shichinin no Nana: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinkon Gattai Godannar!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinkon Gattai Godannar!! 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tattoon Master",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Borgman: Last Battle",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ultra Maniac",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Virus: Virus Buster Serge",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

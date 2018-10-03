@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "Tondemonai Fansubs",
+        "Short Name": "Tonde",
+        "IRC": "Tondemonai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "59",
+            "Users Disapprove": "19",
+            "Total": "78"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anyamal Tantei Kiruminzoo",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Astarotte no Omocha!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Occasional mistakes, but still the best choice for this series.",
+                    "Original, signs and other background things translated nicely.",
+                    "the translations seem perfectly accurate, the text is styled nicely, and it's available in mp4, mkv, and avi."
+                ],
+                "Bad Comments": [
+                    "Best group subbing this",
+                    "Boring typesetting, some grammar mistakes, and emoticons in the eyecatches."
+                ]
+            }
+        },
+        {
+            "Show Name": "Astarotte no Omocha! EX",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 23 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slower than aids.",
+                    "http://www.whiners.pro/2011/07/fansub-review-tonde-yuruyuri-episode-01/",
+                    "They fixed the mistakes after whiners opinion.\nBest but slow.",
+                    "Slow but still the best."
+                ],
+                "Bad Comments": [
+                    "horrible.",
+                    "They've greatly improved since episode 1.",
+                    "Their v2s have fixed previous typos and typesetting."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri♪♪",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "15 of 18 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I just like what I like. Period.",
+                    "Nice clean subs",
+                    "8 bit, CR rip",
+                    "Not SHiN.",
+                    "Has some good lines, but overall, not the best. Will wait for SHiN-gx."
+                ],
+                "Bad Comments": [
+                    "p cool",
+                    "I'm thoroughly satisfied with their release.",
+                    "yay",
+                    "possibly the best group for this series",
+                    "The best release. Not americanized."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yutori-chan",
+            "Show Type": "ONA - 25 episodes",
+            "User Approval": "19 of 19 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "+ because its good",
+                    "Yuurisan-subs stopped subbing.",
+                    "+1 for only english group still doing it"
+                ],
+                "Bad Comments": [
+                    "They completed it.",
+                    "they actually completed it."
+                ]
+            }
+        }
+    ]
+}

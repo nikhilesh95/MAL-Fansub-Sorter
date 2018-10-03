@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Anime-Empire & Ureshii Anime Fansub",
+        "Short Name": "A-E_Ureshii",
+        "IRC": "#ureshii@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "53",
+            "Users Disapprove": "2",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mnemosyne: Mnemosyne no Musume-tachi",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "53 of 55 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "additional informationgood grammar",
+                    "they put text over text so you cant read the subs",
+                    "Good quality. I wouldn't have chosen them, but Doremi dropped it so I had no choice.",
+                    "amazing anime, amazing subs ^^"
+                ],
+                "Bad Comments": [
+                    "really good, plus they're going back through releasing the dvdrips in h264 ",
+                    "They didn't drop the series.",
+                    "Outstanding quality. They also translated on-screen words very nicely."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Kagami",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "You were the first to do Ep 02, and that saved me some waiting. Though i guess because of your speed you ha some timing erros (sometimes text vanished too quickly). And nor Karaoke. Oh screw karaoke."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

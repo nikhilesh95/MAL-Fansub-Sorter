@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Amurrica",
+        "Short Name": "Amurrica",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Versailles no Bara",
+            "Show Type": "TV - 40 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "BD"
+                ],
+                "Bad Comments": [
+                    "Way too bloated for an anime like this, but it is the very few BDs out there so it's not like there's much of a choice. It's good though, but 2 gb per episode is overkill"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        }
+    ]
+}

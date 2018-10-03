@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Anime-Fury & Anime-Network",
+        "Short Name": "A-Fury&ani-net",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chobits",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "s.CRY.ed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Small resolution, \"color-bleeding\", old filtering.. overall: bad product"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

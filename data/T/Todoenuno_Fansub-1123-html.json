@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Todoenuno Fansub",
+        "Short Name": "TeUF",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Adventure",
+            "Show Type": "TV - 54 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muy, muy bien!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Savers",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Exelent :D"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

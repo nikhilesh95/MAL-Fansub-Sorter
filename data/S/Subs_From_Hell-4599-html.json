@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Subs From Hell",
+        "Short Name": "SubsFromHell",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Chi no Kokuin - Eien no Mermaid",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Medarot",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

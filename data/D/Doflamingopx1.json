@@ -1,0 +1,89 @@
+{
+    "Group": {
+        "Group Name": "Doflamingopx1",
+        "Short Name": "Px1",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Densetsu",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chameleon (OVA)",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dark Cat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jigoku Sensei Nube",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koukou Butouden Crows",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyou kara Ore wa!!",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fantastic :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toushinden",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Urayasu Tekkin Kazoku",
+            "Show Type": "TV - 33 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

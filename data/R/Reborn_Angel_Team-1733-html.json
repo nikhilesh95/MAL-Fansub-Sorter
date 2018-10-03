@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Reborn Angel Team",
+        "Short Name": "AniRAT",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Battle Programmer Shirase",
+            "Show Type": "TV - 15 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ga-Rei: Zero",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

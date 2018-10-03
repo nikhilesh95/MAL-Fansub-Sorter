@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "HoshiFansubs",
+        "Short Name": "HoshiFS",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "7",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "2 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good translation!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Weiß Survive",
+            "Show Type": "TV - 16 episodes",
+            "User Approval": "2 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

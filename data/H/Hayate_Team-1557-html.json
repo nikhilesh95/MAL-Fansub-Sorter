@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Hayate Team",
+        "Short Name": "Hayate",
+        "IRC": "",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bokusatsu Tenshi Dokuro-chan 2",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home: Atarashii Ouchi",
+            "Show Type": "TV - 104 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "piece of shit"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

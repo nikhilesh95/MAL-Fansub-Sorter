@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Hanami! Fansub",
+        "Short Name": "H!F",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Genji Monogatari Sennenki",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Work really hard to release this!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Knight: Gekiai no Portrait",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

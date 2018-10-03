@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "TotalAnimePT",
+        "Short Name": "TAPT",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "3",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akame ga Kill!",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Galilei Donna",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online II",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Sword Art Online II: Sword Art Offline II",
+            "Show Type": "Special - 9 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        },
+        {
+            "Show Name": "Terra Formars",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        },
+        {
+            "Show Name": "Terra Formars: Bugs 2-hen",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        },
+        {
+            "Show Name": "Yowamushi Pedal",
+            "Show Type": "TV - 38 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        },
+        {
+            "Show Name": "Yowamushi Pedal: Grande Road",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        }
+    ]
+}

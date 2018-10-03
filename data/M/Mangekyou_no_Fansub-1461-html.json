@@ -1,0 +1,78 @@
+{
+    "Group": {
+        "Group Name": "Mangekyou no Fansub",
+        "Short Name": "MKnF",
+        "IRC": "#MKnF@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "1",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Adaptación horrible y encodeo asqueroso.",
+                    "excelente calidad y traduccion"
+                ],
+                "Bad Comments": [
+                    "porque tiene una gran calidad y una muy buena traducción"
+                ]
+            }
+        },
+        {
+            "Show Name": "Macross F",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross F: Close Encounter - Deculture Edition",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Esperando el 480p en mkv, la mejor version en español que hay"
+                ],
+                "Bad Comments": [
+                    "excelente traduccion"
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

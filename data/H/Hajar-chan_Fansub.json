@@ -1,0 +1,68 @@
+{
+    "Group": {
+        "Group Name": "Hajar-chan Fansub",
+        "Short Name": "Hajar-Chan",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aru Tabibito no Nikki",
+            "Show Type": "ONA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aru Tabibito no Nikki Specials",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koufuku Graffiti",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Princess Tutu",
+            "Show Type": "TV - 38 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Shigatsu wa Kimi no Uso",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "رائعة جدًا"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tenshi no Tamago",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

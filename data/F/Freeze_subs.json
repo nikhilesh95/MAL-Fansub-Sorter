@@ -1,0 +1,102 @@
+{
+    "Group": {
+        "Group Name": "Freeze subs",
+        "Short Name": "FRSB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "48",
+            "Users Disapprove": "32",
+            "Total": "80"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "User Approval": "44 of 66 users approve, 29 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lines that don't show, bad grammar, worse font and choice of color.",
+                    "Some lines don't show up and poor grammar in the translations.",
+                    "The translation's so bad you're better off watching RAWs...",
+                    "Awesome",
+                    "fine",
+                    "fast!",
+                    "wrong",
+                    "Fast & good subs",
+                    "subs are good and fast",
+                    "It is Dragonball Z, I have seen the original twice so I am not too picky about it. They are the furtherest ahead so I am going with them.",
+                    "Worst timing I've ever seen. Completely miss some lines as well.",
+                    "Excellent quality for the most part, have had some issues with subtitle timing on a few eps though.",
+                    "Only group to not drop the show",
+                    "Horrendous.",
+                    "Missed translating some parts, they finished the show but poor subs."
+                ],
+                "Bad Comments": [
+                    "Bad translation (it's like they dont listen to what is said), They miss a lot of lines oh and the karaoke is timed so bad that it's impossible to take it seriously. Well, atleast they finished it.",
+                    "Two versions (SD and HD), quick release. Translation is allright, but I spotted some mistakes.",
+                    "Fast, and nice looking subs",
+                    "Terrible Translation. There's already translations for this show. All you had to do was copy it.",
+                    "Slow releases filled with spelling and grammatical errors.",
+                    "Terrible font and colour selection, bad / missing translations.",
+                    "Good quality and fast subs.",
+                    "fast!!",
+                    "Many releases have blurry pixelation throughout entire episodes",
+                    "They have the best subs! I like them, I use them for Polish translation :)",
+                    "Fast fansub group... Nice subs and decent quality. But if you prefer quality I'd suggest SD&Taka",
+                    "Every episode I watch is subbed by this group! Its fantastic. :)",
+                    "Missed lines, clunky wordings and a font that's a little harder to read than it should be.",
+                    "Followed Freeze-subs from 65 onwards."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Sensei Negima! Mou Hitotsu no Sekai",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Togainu no Chi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

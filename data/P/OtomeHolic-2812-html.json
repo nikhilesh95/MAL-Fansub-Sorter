@@ -1,0 +1,94 @@
+{
+    "Group": {
+        "Group Name": "OtomeHolic",
+        "Short Name": "OH",
+        "IRC": "",
+        "Primary Language": "Hungarian",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hanasaku Iroha",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiiro no Kakera",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mawaru Penguindrum",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Persona 4 the Animation",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Sekaiichi Hatsukoi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Shirokuma Cafe",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Starry☆Sky",
+            "Show Type": "ONA - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Uta no☆Prince-sama♪ Maji Love 1000%",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Vampire Knight: Gekiai no Portrait",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

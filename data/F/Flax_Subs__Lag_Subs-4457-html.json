@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Flax Subs & Lag Subs",
+        "Short Name": "FLag",
+        "IRC": "#Flax@irc.rizon.net | #Lag@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "6",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamisama no Inai Nichiyoubi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 18 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "http://www.crymore.net/2013/08/16/fansub-review-flag-kamisama-no-inai-nichiyoubi-episode-05/",
+                    "These subs are very badly translated/edited the translations are extremely inaccurate. DO NOT USE THESE SUBS."
+                ],
+                "Bad Comments": [
+                    "Fast and reliable"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "Group": {
+        "Group Name": "ECA-Anime",
+        "Short Name": "ECA",
+        "IRC": "#eca-anime@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "18",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akikan!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blade & Soul",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "El fansub ha mejorado sustancialmente sus trabajos, denle una oportunidad, no se dejen llevar por sus anteriores trabajos."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "DearS",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Ortografía pésima, faltas ortográficas en el 90% de las líneas."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Denpa-teki na Kanojo",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "buena calidad, caligrafia sencilla, se le bien"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Doujin Work",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Falta de karaokes en los primeros episodios, muchos errores ortográficos y de traducción. Nunca vean algo de este fansub a menos que sea la única opción disponible."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ikkitousen: Dragon Destiny",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ikkitousen: Dragon Destiny Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "tienen una buena versión 4:3  y tambien sacaran la 16.9",
+                    "caca"
+                ],
+                "Bad Comments": [
+                    "por que hacen buenas traducciones y la calidad de los videos es buena"
+                ]
+            },
+            "User Approval": "2 of 3 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Kantai Collection: KanColle",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Kimi ga Aruji de Shitsuji ga Ore de",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible. Una ortografía HORRIBLE. Borré al serie entera cuando vi esas aberraciones ortográficas."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Long Riders!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mangaka-san to Assistant-san to The Animation",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mujaki no Rakuen",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Rail Wars!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Robot Girls Z",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ryuugajou Nanana no Maizoukin",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Saki",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente trabajo, explican muy bien cada término en cuando a mahjong se refiere."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Saki Achiga-hen: Episode of Side-A",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Saki Zenkoku-hen",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Many gramatical errors and lack of continuity in dialogues.",
+                    "Lots of spelling mistakes, gramatical errors and some parts that aren't translated.",
+                    "that letters suck!!!!!!!!!!!!!"
+                ],
+                "Bad Comments": [
+                    "Sad.",
+                    "worst spanish tranlation. no wait... That... what language was that ??"
+                ]
+            },
+            "User Approval": "4 of 14 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Sketchbook: Full Color's",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 14 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Tayutama: Kiss on My Deity",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "buena calidad, buenos subtitulos si leen esto y quieren ver tayutama que son pocos los fansub lo hacen este es el mejor lo tiene siempre a tiempo a diferencia de los demas fansubs y el video no pesa mas de 60 mb"
+                ],
+                "Bad Comments": [
+                    "this gruop is great"
+                ]
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Tokyo ESP",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "White Album",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Ys",
+            "Show Type": "OVA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ys: Tenkuu no Shinden - Adol Christine no Bouken",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Zettai Karen Children",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Zoku Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Zombie-Loan",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Fail subs are fail."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        }
+    ]
+}

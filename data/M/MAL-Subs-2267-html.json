@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "MAL-Subs",
+        "Short Name": "MAL",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "7",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kuroshitsuji: Sono Shitsuji, Kougyou",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "11 of 18 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only one available",
+                    "Poor font & color! Terribly SMALL! EW! Stay away! GO shinsen!"
+                ],
+                "Bad Comments": [
+                    "Badly styled font on a HARDSUB, small text, wtf HTML tags?",
+                    "The timing isn't good at all."
+                ]
+            }
+        }
+    ]
+}

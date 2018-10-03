@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Vash Fansubs/Parody Subs",
+        "Short Name": "Vash",
+        "IRC": "#Vash@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The Origination",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Level Up Subs",
+        "Short Name": "LevelUpSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "3",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Youkai Watch",
+            "Show Type": "TV - 214 episodes",
+            "User Approval": "11 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Their subs are good, and they're the only ones subbing Youkai Watch right now.",
+                    "They translate Youkai Watch in a quite good quality",
+                    "! ! ! ! ! ! YOUKAI WATCH ! ! ! ! !"
+                ],
+                "Bad Comments": [
+                    "not as updated as mongeesubs but they have alternate direct links so its easier to download their releases",
+                    "The only one doing it in English at this present moment, has some grammatical and spelling errors however."
+                ]
+            }
+        }
+    ]
+}

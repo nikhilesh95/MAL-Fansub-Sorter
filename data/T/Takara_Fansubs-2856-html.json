@@ -1,0 +1,106 @@
+{
+    "Group": {
+        "Group Name": "Takara Fansubs",
+        "Short Name": "Takara",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "76",
+            "Users Disapprove": "3",
+            "Total": "79"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Joe 2",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "12 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they sub this lol",
+                    "Quality video and subs were ok. They subbed a masterpiece so I'm grateful."
+                ],
+                "Bad Comments": [
+                    "A lot of things were translated wrong. and I'm not talking about just the Japanese words but, also the English words and even boxing lingo.\nThey're not translating. they're just interpreting from what they think is going on.",
+                    "Only sub team available, but they do a good job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ie Naki Ko",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "10 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Unfortunately, it's the only fansub who has worked on this series. Some minor errors could be improved but I'm grateful enough someone subbed this great classic!"
+                ],
+                "Bad Comments": [
+                    "Only option."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ie Naki Ko Remy",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "11 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best translation as of now.. great work :)"
+                ],
+                "Bad Comments": [
+                    "Because they don't make many mistakes, they have good timing and the quality is amazing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ie Naki Ko Remy Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Romeo no Aoi Sora",
+            "Show Type": "TV - 33 episodes",
+            "User Approval": "21 of 21 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "finally good quality ^_^ i wish they were faster though",
+                    "They used the highest quality raws and forms the words well.",
+                    "Because they use great quality video and subs."
+                ],
+                "Bad Comments": [
+                    "A few awkward-sounding conversations, but episodes are of the best quality.",
+                    "DVD R1",
+                    "best"
+                ]
+            }
+        },
+        {
+            "Show Name": "Takarajima",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job!",
+                    "Nice work"
+                ],
+                "Bad Comments": [
+                    "Did a nice job subbing a beautiful classic.",
+                    "They're not available"
+                ]
+            }
+        },
+        {
+            "Show Name": "Takarajima Memorial: Yuunagi to Yobareta Otoko",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "Cookie-Subs & Yamayurikai Subs & NanaOne",
+        "Short Name": "C-Subs&YKS&No",
+        "IRC": "#c-subs@irc.otakubox.de #yks@irc.euirc.net #nanaone@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Free!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Best german release. They were even very fast."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

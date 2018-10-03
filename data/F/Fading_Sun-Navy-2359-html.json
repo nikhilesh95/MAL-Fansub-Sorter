@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Fading Sun-Navy",
+        "Short Name": "FS-N",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/stay night TV Reproduction",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice"
+                ],
+                "Bad Comments": [
+                    "It's just a very basic piece of work, excellent for me, recommended to watch."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ginga Tetsudou 999",
+            "Show Type": "TV - 113 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

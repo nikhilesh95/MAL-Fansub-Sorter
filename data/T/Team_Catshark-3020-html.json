@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Team Catshark",
+        "Short Name": "TCS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "7",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal",
+            "Show Type": "TV - 73 episodes",
+            "User Approval": "9 of 16 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality subs.",
+                    "good subs, but they just overreacting - dont know if wesee new subed episodes from them :/",
+                    "bad translation"
+                ],
+                "Bad Comments": [
+                    "Overreactionary fools.",
+                    "unofficial translations, unorganized, inconsistant releases",
+                    "Videos they posted had the endings cut off"
+                ]
+            }
+        }
+    ]
+}

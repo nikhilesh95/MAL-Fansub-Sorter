@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Animes Poudlard",
+        "Short Name": "AP",
+        "IRC": "https://animespoudlard.chatango.com/",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Joukamachi no Dandelion",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Reikenzan: Hoshikuzu-tachi no Utage",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tokyo Ghoul: \"Jack\"",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

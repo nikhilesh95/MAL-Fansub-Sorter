@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "finFAGs",
+        "Short Name": "finFAGs",
+        "IRC": "#finFAGs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Frame Arms Girl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 14 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best source + neat typesetting",
+                    "\"peace, bitches\"",
+                    "good"
+                ],
+                "Bad Comments": [
+                    "These are the highest-effort low-effort subs I've ever seen.",
+                    "Great softsubs and excellent signage all around!",
+                    "They left \"Peace, bitches\" in, literally commie 3.0. Dude I love meme subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Poputepipikku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

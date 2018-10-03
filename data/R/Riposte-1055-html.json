@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Riposte",
+        "Short Name": "Riposte",
+        "IRC": "#riposte@irc.rizon.net",
+        "Primary Language": "Dutch",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

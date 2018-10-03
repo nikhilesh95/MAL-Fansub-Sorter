@@ -1,0 +1,320 @@
+{
+    "Group": {
+        "Group Name": "Coldhell",
+        "Short Name": "CH",
+        "IRC": "#coldhell@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "97",
+            "Users Disapprove": "29",
+            "Total": "126"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Big Order (TV)",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "BlazBlue: Alter Memory",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Renkin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent quality, 480p BD rip. Uses URW's script.",
+                    "Excellent quality, 1080p BD Rip. Uses URW script."
+                ],
+                "Bad Comments": [
+                    "it was ripped of URW but with some improvements i think the quality of video is good only had some problems on vlc so better use mphc then all problems are fixed no slow down or halfway trough sound stop amazing batch they have."
+                ]
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Free!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They used BD rips along with NSOnii subs who have the best translation, what more \ncan you ask for.",
+                    "Other than ordered chapters everything is good."
+                ],
+                "Bad Comments": [
+                    "Very good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Free!: Eternal Summer",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Harem Time The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himegoto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Crap translations don't preserve meaning"
+                ],
+                "Bad Comments": [
+                    "Ridiculously liberal translation which completely distorts the original dialogue. These subs are basically fanfic."
+                ]
+            }
+        },
+        {
+            "Show Name": "Karneval",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "[Anime-Koi] + BD."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kill la Kill",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "22 of 25 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "If all you're looking for is an archive worthy single audio, subtitled blu-ray encode of KlK, then look no further my friend. Fantastic quality all around.",
+                    "Uses segmented linking for chapters - unnecessary attempts to reduce filesize in today's age with HDDs being so cheap.",
+                    "Easily the best BD release available. Uses mostly unmodified Underwater subs (signs fixed for ones that were added/changed in the BD). 720p 4:4:4 10-bit encode with the grain intact for those who care about grain. Better looking than any 1080p releases."
+                ],
+                "Bad Comments": [
+                    "+++ Insane quality.",
+                    "Underwater - Horrible subs. I'm only giving this a thumbs up because it's not guy's fault, he used what he had. Video gets messy at few points but it's all right. Again, just TERRIBLE subs, you must be RETARDED to like them. Or just Amerifag",
+                    "Flawless release. Amazing encode & good subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kill la Kill Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "+++ Insane quality.",
+                    "It's pretty much Underwater with creditless OP, 4:4:4 chroma subsampling, FLAC, and grain. Not much reason to get this unless you want those or also have Coldhell's BD release for the main series (which is the only good BD release) and want consistency."
+                ],
+                "Bad Comments": [
+                    "Underwater subs with better video."
+                ]
+            }
+        },
+        {
+            "Show Name": "Love Stage!!",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Stage!!: Chotto Janakutte",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: The Labyrinth of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p hi10p BD + dualaudio + gg subs."
+                ],
+                "Bad Comments": [
+                    "Great enconde with gg's subs, which are A+ quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD + Vivid Subs"
+                ],
+                "Bad Comments": [
+                    "BD + Vivid Subs + Uncensored"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden (2013)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good."
+                ],
+                "Bad Comments": [
+                    "EveSenshi + BDs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Super Lovers",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good quality, UTWoots & NyanTaku sub options."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Extra Edition",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fine quality."
+                ],
+                "Bad Comments": [
+                    "Blu-Ray quality with Hatsuyuki & Commie's subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Sword Art Offline",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "6 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol, well here's to hoping Final Fantasy XIV server crashes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Sword Art Offline - Extra Edition",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good encode (as always), FTW subs. And I really appreciate the extra japanese subs^^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Terra e...",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "[A-Kraze] release: +better karaoke +honorifics +a little more natural translation, though their word choice is weird at times; while [coldhell] has: +noticeably better video quality +FLAC +softsubs +no watermark +MC name fixed +dvd subs (which are fine)."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Knight: Guilty",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

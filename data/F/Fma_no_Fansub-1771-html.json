@@ -1,0 +1,369 @@
+{
+    "Group": {
+        "Group Name": "Fma no Fansub",
+        "Short Name": "FMA",
+        "IRC": "#fma_no_fansub@irc.otaku-irc.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "98",
+            "Users Disapprove": "13",
+            "Total": "111"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "\"Bungaku Shoujo\" Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akikan!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p and good translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asu no Yoichi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu: Matsuri",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denpa Onna to Seishun Otoko",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dogs: Bullets & Carnage",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatenkou Yuugi",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatsukoi Limited.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Rien d'erreurs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katanagatari",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koe de Oshigoto! The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Muv-Luv Alternative: Total Eclipse",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seiken no Blacksmith",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pas trop mal :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shangri-La",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches 2",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tears to Tiara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun S",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice team ^^"
+                ],
+                "Bad Comments": [
+                    "The first french subtitles I found. Play the videos on VLC without problem. Download the videos directly on the IRC with a good Internet speed."
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Marble Chocolate",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Weiß Survive",
+            "Show Type": "TV - 16 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good french subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "FTP-Anime",
+        "Short Name": "FTP-A",
+        "IRC": "#ftp-anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "73",
+            "Users Disapprove": "16",
+            "Total": "89"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Asura Cryin'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow, but we should be expecting this by now. Still great subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 7 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "720p.",
+                    "nice video quality, good tl",
+                    "Not CR, accurate TL"
+                ],
+                "Bad Comments": [
+                    "very strange wording",
+                    "Watch this, albeit slow, at least they TL this themselves and better than CR's TL"
+                ]
+            }
+        },
+        {
+            "Show Name": "Jigoku Shoujo Mitsuganae",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Insufficient padding, serif font, undertranslated (things like \"Hell Girl\" and \"Hotline to Hell\" left in Japanese). TL notes not up long enough to be read w/o pausing.",
+                    "Really nice karaoke, especially the ending; no real mistakes; good translation. A bit slow, but nice releases.",
+                    "est Quality-wise. No comparison to Aero."
+                ],
+                "Bad Comments": [
+                    "Shouldn't have wasted file size on an upscale, but otherwise good.",
+                    "Slow but solid releases without any real mistakes.",
+                    "decent subs. they inherited AYU's style but unfortunately they are not as good as AYU was. too bad they too dropped the series at 18 episodes. but still they are way better than any other release."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Surely slow, but best Quality",
+                    "Indeed. Just excellent. I'm going for the 1080p one."
+                ],
+                "Bad Comments": [
+                    "Best one I've seen so far. And comes in 3 qualities."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "37 of 43 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great Font, Easy to read, and fast   accurate",
+                    "Good translation.",
+                    "fastest group for this show who bring out quality releases,one negative comment says they choose \"bad raws\",from what i understand there's no good raws available so it's not like they have much of a choice,if you're looking for softsubs you'll have to get",
+                    "Fast but lacking in quality for h264 releases, probably due to bad raw choices.",
+                    "High quality video and good translation.",
+                    "Acquaintance wins."
+                ],
+                "Bad Comments": [
+                    "No complaints",
+                    "Good font, high quality video, and fine translations. They were even thorough enough to give notes about the meaning of some words that weren't explained.",
+                    "They're fast with high quality subs and video.",
+                    "fast, good translation",
+                    "Fonts were way too small. But yai, you guys were the first and saved my day.",
+                    "Annoying subs. This isn't fucking subbing. They show the first part of the sub, and the second part shows up a couple of seconds later. God, so annoying, JUST PLACE EVERYTHING ON THE SCREEN AT THE SAME TIME. Also, shit translation is shit. They don't even"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tears to Tiara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "37 of 43 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wagaya no Oinari-sama.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "14 of 17 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "horrible video quality",
+                    "great subs, sometimes the re-release for better quality. i prefer this translation to statics.",
+                    "Slow....until now. But Quality ensured.",
+                    "Great translation, great quality video, very understandable."
+                ],
+                "Bad Comments": [
+                    "They seem to be the only ones still subbing it!",
+                    "more than passable job",
+                    "good subs"
+                ]
+            }
+        }
+    ]
+}

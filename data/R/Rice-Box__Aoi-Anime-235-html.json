@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Rice-Box & Aoi-Anime",
+        "Short Name": "r-b&aoi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+            "Show Type": "OVA - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shaman King",
+            "Show Type": "TV - 64 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The ricebox release of this anime is horrible.  Barely watchable",
+                    "Rather poor Grammar and lower quality than the majority of Soldats' releases."
+                ],
+                "Bad Comments": [
+                    "Poor video and sound quality. Bunch of grammar and inconsistencies."
+                ]
+            },
+            "User Approval": "2 of 6 users approve, 3 comments"
+        }
+    ]
+}

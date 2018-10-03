@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Ecchi-Subs",
+        "Short Name": "E-S",
+        "IRC": "#Ecchi-Subs@rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fairy Tail OVA",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Didn't translate a line and had another error but other then that it was ok."
+                ],
+                "Bad Comments": [
+                    "Apple and pumpkin pie."
+                ]
+            }
+        },
+        {
+            "Show Name": "Highschool of the Dead: Drifters of the Dead",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

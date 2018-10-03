@@ -1,0 +1,149 @@
+{
+    "Group": {
+        "Group Name": "AnimeReactor",
+        "Short Name": "AR",
+        "IRC": "#animereactor@irc.zirc.org",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama!",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "AR must die"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aa! Megami-sama! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aozora Shoujo-tai",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gunsmith Cats",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Tenshi Angelic Layer",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kikou Souseiki Mospeada",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross",
+            "Show Type": "TV - 36 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mimi wo Sumaseba",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sol Bianca: Taiyou no Fune",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Souten Kouro",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A total disaster.  Worst subtitles I've ever tried to get through.  This show deserves better."
+                ],
+                "Bad Comments": [
+                    "These are the \"official\" subs. It can't be helped. ┐(￣ー￣)┌"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama",
+            "Show Type": "TV - 178 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Urusei Yatsura",
+            "Show Type": "TV - 195 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Hunter D (2000)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

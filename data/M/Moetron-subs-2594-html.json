@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Moetron-subs",
+        "Short Name": "Moetron",
+        "IRC": "#moetron-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black★Rock Shooter",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great work. The subs were good, and video quality was pretty good as well"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nebula feat. Hatsune Miku",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

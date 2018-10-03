@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Otaku 4 life Fansubs",
+        "Short Name": "O4L",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs disappear too fast, makes them hard to read. Website asvertising overlaps ending lyrics.\nTranslation is good, only minor typos.",
+                    "falsche Übersetzungen"
+                ],
+                "Bad Comments": [
+                    "Suupiiii"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "Group": {
+        "Group Name": "AMT Fansub",
+        "Short Name": "AMT Fansub",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Golden Time",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The best fansub group in Turkey."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakko",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kaleido Star",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kill la Kill",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Nice fansub"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Outbreak Company",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tales of the Abyss",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato 2199",
+            "Show Type": "OVA - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

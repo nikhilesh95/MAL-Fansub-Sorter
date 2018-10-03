@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "iketeru-fansubs",
+        "Short Name": "i-F",
+        "IRC": "#i-f@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Captain Tsubasa: Road to 2002",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Keisatsu Patlabor: On Television",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otaku no Video",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

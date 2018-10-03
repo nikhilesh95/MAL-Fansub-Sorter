@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "AnimeClipse Fansubs",
+        "Short Name": "animeClipse",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "1",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anime Sanjuushi: Aramis no Bouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "badly good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Iblard Jikan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Plawres Sanshirou",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "While the Greek subs may be fine, the English subs are severely lacking. Things are translated wrong and sometimes make no sense."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Robin Hood no Daibouken",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "clear and amazing quality"
+                ],
+                "Bad Comments": [
+                    "Too slow"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Waga Seishun no Arcadia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

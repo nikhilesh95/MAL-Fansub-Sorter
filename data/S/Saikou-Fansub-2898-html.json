@@ -1,0 +1,89 @@
+{
+    "Group": {
+        "Group Name": "Saikou-Fansub",
+        "Short Name": "Saikou",
+        "IRC": "#Saikou-Fansub@irc.rizon.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "3",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon Best Wishes!",
+            "Show Type": "TV - 84 episodes",
+            "User Approval": "7 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Almost complete guesswork, subs often don't match dialogue at all."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2: Decolora Adventure",
+            "Show Type": "TV - 20 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2: Episode N",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon XY",
+            "Show Type": "TV - 93 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Meloetta no Kirakira Recital",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: The Origin",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Utae Meloetta - Rinka no Mi wo Sagase!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

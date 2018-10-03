@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Imouto",
+        "Short Name": "Imouto",
+        "IRC": "#imoutosubs@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Buena traducción y sin faltas, pero les falta experiencia. A ver lo que hacen una vez tengan más.",
+                    "best spanish subs"
+                ],
+                "Bad Comments": [
+                    "Acaban de empezar, pero parecen muy buen grupo. SHAFTadictos!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soredemo Machi wa Mawatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

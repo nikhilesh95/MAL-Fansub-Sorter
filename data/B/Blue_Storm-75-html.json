@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Blue Storm",
+        "Short Name": "BlueStorm",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lovely★Complex",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No, just no."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "Group": {
+        "Group Name": "Msoms-Fansub",
+        "Short Name": "MF",
+        "IRC": "#msoms-fansub@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "97",
+            "Users Disapprove": "6",
+            "Total": "103"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akatsuki no Yona",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akatsuki no Yona OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Binbou Shimai Monogatari",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Zero",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة لكنهم يبالغون في الانتاج أحجام كبيرة جدا مع تغيير الحوارات و قطع مشاهد ليست بتلك القوة",
+                    "فريق رائع"
+                ],
+                "Bad Comments": [
+                    "The Top fansub team, as usual. Perfect in every thing."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fate/Zero 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "أفضل ترجمة"
+                ],
+                "Bad Comments": [
+                    "كمية كبيرة من التحريف والحجب الهرائي الجيّد :)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gake no Ue no Ponyo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "excellent work"
+                ],
+                "Bad Comments": [
+                    "ترجمة ممتازة"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gakuen Alice",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "13 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CLEAR AND EASY TO UNDERSTAND"
+                ],
+                "Bad Comments": [
+                    "ترجمة ممتازة ولكن الوقت المستغرق لانهاء المشروع كان طويلًا!! مجرد ملاحظة لأني لا أهتم بالوقت قدر الجودة والاتقان قدر المستطاع"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ima, Soko ni Iru Boku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D First Stage",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karigurashi no Arrietty",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kekkaishi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "11 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "انتهى المشروع و هو الوحيد الذي سأتابعه منكم >كف"
+                ],
+                "Bad Comments": [
+                    "عمل مذهل! أجزل الشكر لكم يا أبطال"
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia: Mahoujikake no Parade",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magic Tree House",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai Mai Shinko to Sennen no Mahou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Majin Tantei Nougami Neuro",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice ",
+                    "Great job."
+                ],
+                "Bad Comments": [
+                    "ترجمة رائعة كالمعتاد"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mujin Wakusei Survive",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "استغرقوا وقتًا طويلًا جدًا لاتمام مشروع بحدود 50 حلقة فقط .. لكن ترجمتهم رائعة لا يعيبها شيء =)"
+                ],
+                "Bad Comments": [
+                    "مدرسة في الترجمة.. سابقاً كانوا أفضل المترجمين وحالياً أفضل المترجمين المستقلين متخرجين من مدرستهم :)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nabari no Ou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "الترجمة رائعة ولكن الأنمي سيء، لو انهم بذلوا مجهودهم في ترجمة انمي افضل لكان اوفر لجهودهم عوضًا عن هذا الأنمي السيء."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ojiisan no Lamp",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Omoide no Marnie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pumpkin Scissors",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakasama no Patema",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seirei no Moribito",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة رائعة جدًا، وجودة ممتازة."
+                ],
+                "Bad Comments": [
+                    "عمل هائل تشكرون عليه"
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Hikuushi e no Tsuioku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "حجبكم أذهلني! حمقى~"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toki wo Kakeru Shoujo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuki no Joou (TV)",
+            "Show Type": "TV - 36 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zoku Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

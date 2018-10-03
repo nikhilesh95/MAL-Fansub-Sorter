@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Kenpai",
+        "Short Name": "Kenpai",
+        "IRC": "#kenpai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Supernatural The Animation",
+            "Show Type": "OVA - 22 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs but they died after doing 4 episodes..."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

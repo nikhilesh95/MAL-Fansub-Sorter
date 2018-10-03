@@ -1,0 +1,1587 @@
+{
+    "Group": {
+        "Group Name": "Jinja-Temple",
+        "Short Name": "JT",
+        "IRC": "#jinja-temple@irc.rizon.net",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "162",
+            "Users Disapprove": "349",
+            "Total": "511"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "91 Days",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akagami no Shirayuki-hime",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akame ga Kill!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "zlokalizowane gówno dla dzieci z podstawówki, zmienione dialogi, głupie żarty nie mające nic wspólnego z oryginałem."
+                ]
+            }
+        },
+        {
+            "Show Name": "Amagami SS+ Plus Picture Drama",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "As always, good work ^^",
+                    "Masakra. Nie dość, że wszystkie elementy kulturowe wycięte, to do tego dialogi zmienione, lokalizacja, durne żarty, których nie ma w oryginale. Współczuję ludziom oglądającym w nieświadomości."
+                ],
+                "Bad Comments": [
+                    "tragedia"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ankoku Cat",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ano Ko ni 1000%",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arashi no Yoru ni",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asu no Yoichi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They've done professional work."
+                ],
+                "Bad Comments": [
+                    "tragedia"
+                ]
+            }
+        },
+        {
+            "Show Name": "Asura Cryin'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baby Princess 3D Paradise 0 [Love]",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "7 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Zastanawiałeś się kiedyś, czy coś może być gorsze niż Commie? Cholera, tutaj jest przykład, że może. Totalna porażka. Zlokalizowany szajs dla ułomnych."
+                ]
+            }
+        },
+        {
+            "Show Name": "Bavel no Hon",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beelzebub",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Berserk: Ougon Jidai-hen III - Kourin",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Crystal",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because I can understand everything perfectly :D"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They've done professional work."
+                ],
+                "Bad Comments": [
+                    "I don;t know how you can call it professional. This subs just sucks. But if you like reading something which is totally different from original.. well..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Chrome Shelled Regios",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuumon no Ooi Ryouriten (1991)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Comet Lucifer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ile wy macie lat? Naprawdę uważacie, że jesteście śmieszni? Omijać z daleka, zmienione dialogi, lokalizacja i generalnie patologia."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Concrete Revolutio: Choujin Gensou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cyclops Shoujo Saipuu",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.C.if: Da Capo if",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Piękny przykład jak NIE tłumaczyć. Ludzie, idźcie się puknijcie w te swoje tępe pały, może wtedy do was dotrze co to znaczy TŁUMACZYĆ. Takiego gówna to nawet commie nie odstawia."
+                ],
+                "Bad Comments": [
+                    "Zlokalizowany szajs ze zmienionymi dialogami, dla ubogich."
+                ]
+            }
+        },
+        {
+            "Show Name": "Dance in the Vampire Bund",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dansai Bunri no Crime Edge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dead Heat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Deimos no Hanayome: Ran no Kumikyoku",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Densetsu no Yuusha no Densetsu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Sword of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ef: A Tale of Melodies.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Totalna miernota, wycięte wszystkie elementy kulturowe, zmienione dialogi, po prostu aż przykro takie coś widzieć."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ga-Rei: Zero",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They've done professional work."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakusen Toshi Asterisk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genmu Senki Leda",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Glasslip",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hero Company",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hipira-kun",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hitotsubu ni Kawaranu Ai wo Komete",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hitsugi no Chaika",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakka Ryouran: Samurai Girls",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyouka",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Zlokalizowany szajs dla ubogich umysłowo. Z oryginalnymi dialogami to nie ma nic wspólnego."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ikkitousen: Xtreme Xecutor",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Isekai no Seikishi Monogatari",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jigoku Shoujo Mitsuganae",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Współczuję ludziom żyjącym w nieświadomości. Te napisy to ścierwo totalne, nie mające nic wspólnego z oryginałem."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jungle de Ikou!",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Jeśli myślisz, że oprócz commie, nic innego cię nie zaskoczy poziomem denności - pojawia się ta oto grupa. Dialogi, żarty, kontekst itd są całkowicie zmienione, nie mające nic wspólnego z oryginałem."
+                ]
+            }
+        },
+        {
+            "Show Name": "K-On!: Live House!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Jeśli myślisz, że oprócz commie, nic innego cię nie zaskoczy poziomem denności - pojawia się ta oto grupa. Dialogi, żarty, kontekst itd są całkowicie zmienione, nie mające nic wspólnego z oryginałem."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K: Missing Kings",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They are not translators, they are script writers. Commie level. Just stop."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K: Return of Kings",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kagewani",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaichou wa Maid-sama!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kakumeiki Valvrave",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita◎",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 1: Fukan Fuukei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 2: Satsujin Kousatsu (Zen)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 3: Tsuukaku Zanryuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 4: Garan no Dou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 5: Mujun Rasen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I could understand everything perfectly, nuff said :3"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katsugeki Shoujo Tanteidan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kemono no Souja Erin",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kirara",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss Dum: Engage Planet",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koi to Senkyo to Chocolate",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Może byście skończyli udawać \"tłumaczy\"? Dodawanie całej masy swoich głupich zdań, zmienianie kontekstu i żartów to poziom dna, właśnie to sobą reprezentujecie."
+                ]
+            }
+        },
+        {
+            "Show Name": "Komori-san wa Kotowarenai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kotetsu no Daibouken",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kouryuu Densetsu Villgust",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji: Book of Circus",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyouran Kazoku Nikki",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lily to Kaeru to (Otouto)",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macademi Wasshoi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Machine-Doll wa Kizutsukanai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross F Movie 1: Itsuwari no Utahime",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: The Labyrinth of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makai Ouji: Devils and Realist",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makeruna! Makendou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maou Dante",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria†Holic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They've done professional work.",
+                    "good job. \nall."
+                ],
+                "Bad Comments": [
+                    "Na napisy trzeba czekać zdecydowanie za długo!",
+                    "Worse than comme, wow."
+                ]
+            }
+        },
+        {
+            "Show Name": "Midori no Neko",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minori Scramble!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagi no Asukara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsu no Arashi!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Całkowicie zmienione dialogi i żarty, cały sens tego anie jest utracony, to sa scriptwriterzy, nie tłumacze. Omijać!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ninja Mono",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nisemonogatari",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Żarty zmienione, totalny brak referencji kulturowych, co jest podstawą tej serii, wiele dialogów całkowicie od nowa napisanych. Po prostu lipa jakich mało."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nobunaga the Fool",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Noragami",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Punch Man",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bardzo dobrze wykonane napisy bez większych błędów"
+                ],
+                "Bad Comments": [
+                    "\"Bardzo dobrze wykonane napisy bez większych błędów\" IKSDE"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Phantom: Requiem for the Phantom",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Napisy z błędami, czcionki z odcinka na odcinek są inne. Zdarza się, że nie zostają przetłumaczone zdania, przez co oglądający musi zastanawiać się, co dana wypowiedź znaczyła (oczywiście nie znając japońskiego). Wymieniać dalej?"
+                ],
+                "Bad Comments": [
+                    "Oprócz tego, że wiele zdań jest nieprzetłumaczonych, to wiele ma całkowicie zmienione znaczenia. Ta grupa to po prostu rak."
+                ]
+            }
+        },
+        {
+            "Show Name": "Plastic Neesan",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Głupia seria, która stała się już całkowicie nieoglądalna z tymi napisami. Zmienione słowa i zdania, brak referencji, szkoda czasu."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Princess Lover!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Prison School",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Psycho-Pass",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "3 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "subs cover a lot of screen and distract from actual anime"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rakudai Kishi no Cavalry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "RDG: Red Data Girl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden (2013)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ryo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakurasou no Pet na Kanojo",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": [
+                    "Dokładnie, nie jesteście od pisania dialogów, tylko od T Ł U M A C Z E N I A. Wycięte wszelkie elementy kultorowe, zmienione zdania, żarty. Porażka."
+                ]
+            }
+        },
+        {
+            "Show Name": "Seiken no Blacksmith",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shibainuko-san",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shikabane Hime: Kuro",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shining Hearts: Shiawase no Pan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinkyoku Soukai Polyphonica Crimson S",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament Burst",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament Burst OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sorette♡Dakara ne!",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space☆Dandy",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strange+",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches 2",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Greatly translated"
+                ],
+                "Bad Comments": [
+                    "\"Greatly translated\" ? WHERE? LOCALISED shit with totally changed meanngs, and WHOLE new dialogues, which didn't exist in orignal. This is a good translation for you? This is not even a translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sword Art Online II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Extra Edition",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Vesperia: The First Strike",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tari Tari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tasogare Otome x Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "WTF is this? You are in middle school?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Memes everywhere, localisation etc. Subs for people with IQ=1."
+                ],
+                "Bad Comments": [
+                    "Memy, zmienione dialogi, aż niedobrze się człowiekowi robi. Żałosne bardziej niż commie."
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very gay"
+                ],
+                "Bad Comments": [
+                    "Głupiutkie dzieciaczki, które chcą być śmieszne, zmieniając całkowicie dialogi, wkładające masę memów. Nie wiem kto w ogóle ogląda takie \"tłumaczenia\" ale im współczuję."
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness 2nd Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "tragedia"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo ESP",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Ghoul: \"Jack\"",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Love Story",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears Specials",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tytania",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Utawarerumono OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Utawarerumono: Itsuwari no Kamen",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    ">kamiyan"
+                ],
+                "Bad Comments": [
+                    "Memy, głupie żarty, z oryginalnych dialogów nie zostało praktycznie nic. Żenada po całości."
+                ]
+            }
+        },
+        {
+            "Show Name": "Wild Adapter",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witch Craft Works",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yami Shibai",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoiko",
+            "Show Type": "TV - 20 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yotsunoha",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yumekui Merry",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima F",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zettai Junpaku♡Mahou Shoujo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "Zetsubou subs",
+        "Short Name": "Zs",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "8",
+            "Total": "39"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anime Tenchou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "10 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs and great quality.",
+                    "Castellano del bueno"
+                ],
+                "Bad Comments": [
+                    "Castellano sucks anyway.",
+                    "How can people call this quality? Ah, y sé bastante bien el español..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, great subtitles with different colors depending on the character that's talkin."
+                ],
+                "Bad Comments": [
+                    "\"with different colors depending on the character that's talkin\" And you think that's actually a good thing?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure: Bokura no War Game!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

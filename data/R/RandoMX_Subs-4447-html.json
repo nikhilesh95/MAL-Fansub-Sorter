@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "RandoMX Subs",
+        "Short Name": "RandoMX",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamisama Hajimemashita◎",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magic Kaito 1412",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I liked their traduction!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

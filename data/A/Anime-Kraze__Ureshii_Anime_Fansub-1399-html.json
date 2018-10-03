@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Anime-Kraze & Ureshii Anime Fansub",
+        "Short Name": "A-Kraze_Ureshii",
+        "IRC": "#Anime-Kraze@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "2",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great",
+                    "very good quality"
+                ],
+                "Bad Comments": [
+                    "Exellent quality.",
+                    "As usual, top-notch quality and translation accuracy from Ureshii and Anime-Kraze. Slow to release, but best version to get when they do come out."
+                ]
+            }
+        }
+    ]
+}

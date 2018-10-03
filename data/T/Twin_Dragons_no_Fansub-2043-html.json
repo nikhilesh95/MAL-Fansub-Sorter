@@ -1,0 +1,564 @@
+{
+    "Group": {
+        "Group Name": "Twin Dragons no Fansub",
+        "Short Name": "TDnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "69",
+            "Users Disapprove": "32",
+            "Total": "101"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "07-Ghost",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "11eyes",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akikan!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amagami SS",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asura Cryin'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asura Cryin' 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Brave Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "C: The Money of Soul and Possibility Control",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Todo lo que yo haga de TYPE-MOON = mucho cuidado con todo"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dance in the Vampire Bund",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha Gaiden",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Crisis!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/kaleid liner Prisma☆Illya",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakko",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inou-Battle wa Nichijou-kei no Naka de",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kämpfer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiddy GiRL-AND",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have a great quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke 2nd Season: Kataomoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ladies versus Butlers!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mitsudomoe",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookamikakushi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore, Twintail ni Narimasu.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pandora Hearts",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Comenzaron de la mitad, malos karaoke, mala font para los subtítulos"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona 4 the Golden Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Princess Lover!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ro-Kyu-Bu!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seiken no Blacksmith",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seitokai Yakuindomo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora no Manimani",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Edición HORRIBLE y fallos ortográficos de primaria. Recomendable sólo si queréis llorar sangre."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora no Method",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Taishou Yakyuu Musume.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "los diálogos son coherentes con la trama y el contexto, ademas que no ocupan colores que dificulten la visibilidad para los subtitulos\n\nen resumen son un crack, la wea wena weon"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "los diálogos se hacian complejos de entender respecto a la version en ingles, aun asi es lo mejor que hay dentro del mundo hispanohablante"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Cancer de ojos garantizado"
+                ],
+                "Bad Comments": [
+                    "Mierda."
+                ]
+            }
+        },
+        {
+            "Show Name": "Usagi Drop",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yume-iro Pâtissière",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

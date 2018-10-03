@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Devil Fansub",
+        "Short Name": "DF",
+        "IRC": "#devil@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They subbed about 14 episodes, they are the only ones that subbed those 14. Worst-Quality-I-Ever-Seen. I don't know where they got their raws from, but it s**ked."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jigoku Sensei Nube",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "3 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Cause it rocked. ^^",
+                    "It wasn't on cue, making the text come after the person said something"
+                ],
+                "Bad Comments": [
+                    "Would've been a good enough group if they had a decent grasp of the English language.",
+                    "It gets the point across, but there are quite a few noticeable errors grammatically."
+                ]
+            }
+        }
+    ]
+}

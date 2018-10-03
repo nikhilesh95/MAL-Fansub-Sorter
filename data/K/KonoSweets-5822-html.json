@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "KonoSweets",
+        "Short Name": "konosweets",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dagashi Kashi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "even \"not localised\" version is localised as hell. The only difference are honorfics."
+                ],
+                "Bad Comments": [
+                    "Lol @ how the one-off group drops the show. Must have been DDY guys after all"
+                ]
+            }
+        }
+    ]
+}

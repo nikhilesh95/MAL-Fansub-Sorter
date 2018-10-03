@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Kindaichi Lovers",
+        "Short Name": "KL",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "10 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They had a rocky start with subbing, but they've been improving lately and either way, it's pretty much the only choice available",
+                    "Good quality subs",
+                    "They're subs is so good."
+                ],
+                "Bad Comments": [
+                    "THANK YOU OMG!",
+                    "They are the only group providing subtitles for this series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

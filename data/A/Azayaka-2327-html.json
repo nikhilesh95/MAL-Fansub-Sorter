@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Azayaka",
+        "Short Name": "Azayaka",
+        "IRC": "#azayaka@irc.raitian.info",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "8",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "11eyes",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akikan!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 9 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wahahaha is this some kind of joke!?",
+                    "Bad subs, bad editing. I hate to say it. But stick with gg",
+                    "go for mochi"
+                ],
+                "Bad Comments": [
+                    "better than gg :/",
+                    "Worse than gg, what the hell."
+                ]
+            }
+        }
+    ]
+}

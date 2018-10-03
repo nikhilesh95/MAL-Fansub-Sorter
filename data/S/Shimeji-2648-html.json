@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Shimeji",
+        "Short Name": "Shimeji",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "0",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ibara no Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Queen's Blade: Utsukushiki Toushitachi",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "21 of 21 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "How I wish Seto Otaku is working with Shimeji on this great OVA... But no complains here! Thanks guy for subbing Queen's Balde OVA!",
+                    "i wished they subbed the opening and ending songs",
+                    "awesome!"
+                ],
+                "Bad Comments": [
+                    "well, since no other alternative for english sub atm....",
+                    "Not a fan of the guro pictures they post but the subs are good...",
+                    "the translation was really good and not many misspellings i did not noticed one."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "About Damn Time",
+        "Short Name": "ADT",
+        "IRC": "#adt@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shin Chou Kyou Ryo: Condor Hero III",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs/timing and the only people willing to sub this nice series!"
+                ],
+                "Bad Comments": [
+                    "They just restart continuing to sub eps 59+ at http://adtsubs.wordpress.com/category/condor-hero/"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Asenshi & Good Job! Media",
+        "Short Name": "Asenshi-GJM",
+        "IRC": "#goodjob@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "8",
+            "Total": "39"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Rewrite",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "25 of 33 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nobody complained when \"mamono\" was translated as \"demon\" in in the also-KEY-based Kanon 02/06 anime.",
+                    "I love memes.",
+                    "\"Hamburgers.\"",
+                    "They incorrectly translated \"mamono\" as daemon, rather than \"familiar\", which is the more accurate and original translation.",
+                    "Memecartel in action. If you are stupid enough to understand original dialogues, go ahead and use this subs, if not, go with chihiro."
+                ],
+                "Bad Comments": [
+                    "Fantastic.",
+                    "Hamburgers.",
+                    "More accurately translating \"mamono\" gets downvotes xfd",
+                    "Liberal made up shit, with multiple errors. They changed the tone of dialogues, and \"translated\" mamono as a monster, which is absurd (bakemono or obake =monster)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rewrite 2nd Season",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

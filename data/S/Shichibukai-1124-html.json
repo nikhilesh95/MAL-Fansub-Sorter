@@ -1,0 +1,327 @@
+{
+    "Group": {
+        "Group Name": "Shichibukai",
+        "Short Name": "SC",
+        "IRC": "#shichibukai@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "76",
+            "Users Disapprove": "9",
+            "Total": "85"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Final Fantasy VII: Advent Children",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "La versión definitiva en español."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "Show Type": "Special - 16 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "29 of 37 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los primeros 70-120 epis tiene una traducción simplemente horrible.",
+                    "nunca la terminaran",
+                    "son un poco lentos, pero es la mejor traducción para los latinos",
+                    "Prefiero RedLineSP, pero su trabajo también es bueno.",
+                    "This fansub has very good quality, with subtitles and with video/audio."
+                ],
+                "Bad Comments": [
+                    ">9000 notas de traducción pero es la mejor versión.",
+                    "La mejor traducción, vale la pena esperar sus capitulos, lo único malo para mi gusto es que cambian el formato demasiado seguido. El mejor fansub de One Piece latino!",
+                    "La única versión en español que merece ser vista. Simplemente perfectos... pero muy lentos eso sí.",
+                    "Les tengo mucho cariño porque con ellos conocí OP",
+                    "They are the best managing spanish subs for this anime, they have been doing it for more than 10 years, and can watch OP from EP1 from them. They always aim for quality and ways to make the viewers happy. Thanks guys, you really are the best out there!"
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "29 of 37 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World Episode 0",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Buenos, pero no perfectos."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 4: Dead End no Bouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 5: Norowareta Seiken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good job!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Episode of Luffy - Hand Island no Bouken",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Glorious Island",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Jango no Dance Carnival",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Mamore! Saigo no Dai Butai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I know spanish and in my opinion this is the best fansub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Romance Dawn Story",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente, como siempre."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Straw Hat Theater",
+            "Show Type": "Special - 5 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Taose! Kaizoku Ganzack",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Umi no Heso no Daibouken-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece: Yume no Soccer Ou!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

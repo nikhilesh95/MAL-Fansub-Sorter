@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Cool & Spicy",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "1",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shugo Chara!",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "20 of 21 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very fast and translation seems better than formula (but I lack the japanese skills to be sure), they should use slightly better video quality though",
+                    "undefined",
+                    "As a sub group of Formula Sub, they do a pretty good job.",
+                    "They were good and fast",
+                    "They're cool and spicy!"
+                ],
+                "Bad Comments": [
+                    "great quality and fast^^",
+                    "clear, but I don't like how big the font is...",
+                    "As soon as they appeared they already subbed two episodes.The subs are clear and good translated.Sure,Formula subs is still awesome,but Cool",
+                    "Prompt releases, easy readability, quality karaoke job"
+                ]
+            }
+        }
+    ]
+}

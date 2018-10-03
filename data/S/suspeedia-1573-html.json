@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "suspeedia",
+        "Short Name": "suspeedia",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "11",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shugo Chara!! Doki",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "17 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast, efficient, acurate. Couldn't ask for better.",
+                    "Whoever claimed they were comparable to Formula must have been kidding themselves. It's quite a shoddy work as a whole. It's the faster group of the only two that are currently working on the project, so that's good for those interested in speed though.",
+                    "fast, good"
+                ],
+                "Bad Comments": [
+                    "Fast in releasing, clear video quality and good translation. What more can I ask for? :)",
+                    "Better than Chibi Fansubs and with a great quality, just as Formula!! We love you!!!!!!!",
+                    "they don't translate songs in the episode, or character transformations, or certain words like \"shugoi\"."
+                ]
+            }
+        }
+    ]
+}

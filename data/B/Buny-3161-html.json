@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Buny",
+        "Short Name": "Buny",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cross Road",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation: Ongakkai \"Récital\"",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Subs didn't have anything worth complaining about. They did the best with what is currently available."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 8 users approve, 1 comments"
+        }
+    ]
+}

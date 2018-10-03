@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Paradise Ham-Subs",
+        "Short Name": "Paradise Ham-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "3",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tottoko Hamtarou",
+            "Show Type": "TV - 296 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate translations checked over by two people. The only concern is that progress is slow, but updates still occur on a bi-regular basis!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They don't bother to translate everything and sometimes Note excuses."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi - Mama wo Tasunete Sanzen Techi Techi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they do the timing well and have many episodes subbed already"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tottoko Hamtarou: Anime Dechu!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

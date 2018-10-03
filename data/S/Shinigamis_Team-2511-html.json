@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Shinigamis Team",
+        "Short Name": "SsT",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Giant Killing",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurogane no Linebarrels",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Subs were in English, not Arabic.",
+                    "plenty of typos and some double negations"
+                ],
+                "Bad Comments": [
+                    "Dunno why but my version is in English and it's probably only version that can be found in complete batch (all eps) and is still available."
+                ]
+            },
+            "User Approval": "2 of 3 users approve, 3 comments"
+        }
+    ]
+}

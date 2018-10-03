@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "Sadame Fansubs",
+        "Short Name": "Sadame",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blood+",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kumo no Mukou, Yakusoku no Basho",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve"
+        },
+        {
+            "Show Name": "Noein: Mou Hitori no Kimi e",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Tradução feita no google tradudor, horrível."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tsubasa Chronicle",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Xenosaga The Animation",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ys: Tenkuu no Shinden - Adol Christine no Bouken",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        }
+    ]
+}

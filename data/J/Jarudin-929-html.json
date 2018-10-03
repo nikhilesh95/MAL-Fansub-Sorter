@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Jarudin",
+        "Short Name": "Jarudin",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "but in the end, do you REALLY need subs?"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Anime Dan & Ore-sama",
+        "Short Name": "A-Dan&Ore-sama",
+        "IRC": "#anime-dan.net@irc.rizon.net",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaiba",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "mają dobre releasy"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

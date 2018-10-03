@@ -1,0 +1,200 @@
+{
+    "Group": {
+        "Group Name": "jackoneill",
+        "Short Name": "jackoneill",
+        "IRC": "#jackoneill@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "2",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Armitage III",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Drop: Tenshi-tachi no Gikyoku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cheonnyeon-yeowoo Yeowoobi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dai Mahou Touge",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dual Audio better video"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ergo Proxy",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kareshi Kanojo no Jijou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karigurashi no Arrietty",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good release but it seems that they translated \"beings\" as \"beans\" :-D"
+                ],
+                "Bad Comments": [
+                    "\"Human beans\" Really?  At least proofread the script before remuxing..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kaze no Tani no Nausicaä",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyou no 5 no 2",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mimi wo Sumaseba",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Piano no Mori",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ristorante Paradiso",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Simoun",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Video is significantly blurrier than Simoun-Fans' release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soliton no Akuma",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sweet 10bit encode :3"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu no Shiro Laputa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Third: Aoi Hitomi no Shoujo",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yakushiji Ryouko no Kaiki Jikenbo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

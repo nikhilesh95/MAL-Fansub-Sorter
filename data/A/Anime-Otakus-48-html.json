@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "Anime-Otakus",
+        "Short Name": "A-O",
+        "IRC": "#anime-otakus@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "94",
+            "Users Disapprove": "4",
+            "Total": "98"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bio Hunter",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic 2",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic 2 End Year Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tantei Gakuen Q",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama",
+            "Show Type": "TV - 178 episodes",
+            "User Approval": "77 of 80 users approve, 24 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Romanizing まだまだだね isn't translating.",
+                    "Easy to read subs and good quality videos",
+                    "undefined",
+                    "It's subtitles are clear to read and the subtitles and well writeen",
+                    "first ones to sub and do a pretty good job at it, so props",
+                    "Clear words that weren't difficult to see and accurate timing.",
+                    "accurate",
+                    "Quality is just so good.^^",
+                    "Yeah, really great to drop it for the last 10 Episodes, you are heroes!",
+                    "Clear and easy to read subs.",
+                    "Accurate translation plus cultural notes as well as informing viewers tennis terminology and rules. The verbal tics, nicknames and other idiosyncrasies of the characters were also cleverly brought to the viewers attention.",
+                    "Frequent translator notes for words that can be easily translated into English (\"Keikaku means plan\" TL notes). In addition, there are occasional grammatical mistakes. However their greatest crime is the over liberalization of the script."
+                ],
+                "Bad Comments": [
+                    "Great subs, easy to understand and easy to follow. Masterpiece!",
+                    "Good Quality",
+                    "Good timing and good translation + good and fitting typpseting.",
+                    "Very clear, easy to understand. Very few times I've seen the subs go off. Still passes, though.",
+                    "detailed, understandable, readable",
+                    "bad styling but tl seems fine. there wasnt much to tl anyway - tuisuto saabu!",
+                    "TOP NOTCH.",
+                    "They just did a great job!",
+                    "well translated & helpful translator's notes",
+                    "good quality at the time. consistently accurate subtitles.",
+                    "u guys are da bomb",
+                    "GJ"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "their great!"
+                ],
+                "Bad Comments": [
+                    "detailed, understandable, readable"
+                ]
+            }
+        }
+    ]
+}

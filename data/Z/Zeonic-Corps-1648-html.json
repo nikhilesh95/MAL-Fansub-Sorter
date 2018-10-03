@@ -1,0 +1,93 @@
+{
+    "Group": {
+        "Group Name": "Zeonic-Corps",
+        "Short Name": "Zeonic-Corps",
+        "IRC": "#Zeonic-Corps@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "110",
+            "Users Disapprove": "1",
+            "Total": "111"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "87 of 88 users approve, 20 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The Translator is a really cool guy, and helped me out with the downloads",
+                    "Not bad. Fast, but don't suffer from it.",
+                    "Centripetal force, not centrif- aw, what the hell.",
+                    "good stuff",
+                    "best subs available",
+                    "Great translation and great video quality!",
+                    "always trust professionals over deacon blues",
+                    "Good video quality, no mistakes in the subs so far.",
+                    "Superb!",
+                    "Good job ! But in my version, the episode 41 have a decalage between the sound and the image."
+                ],
+                "Bad Comments": [
+                    "Of course I'm biased, but...",
+                    "Thanks for completing this old masterpiece. I am definitely looking forward to your other releases in the future. Please be well all.",
+                    "The subs are excellent. Video quality is the best available.",
+                    "Great quality for such an old series. Also the only group that is subbing the whole thing.",
+                    "Excelent subs and quality, all the eps were completed too.",
+                    "Good, professional-levell subs",
+                    "!",
+                    "remastered video and good subs",
+                    "Good subs for this show, although could have done better, this is the one to go with.",
+                    "Very accurate and approriate sub and good karaoke"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny Special Edition",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate subs, reliable and of decent quality."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

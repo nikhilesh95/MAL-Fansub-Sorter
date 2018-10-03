@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Chibi Fansubs",
+        "Short Name": "Chibi",
+        "IRC": "#chibi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "95",
+            "Users Disapprove": "8",
+            "Total": "103"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shugo Chara!",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "51 of 55 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dark text colors and light border colors are never a good combination, unless you want your viewers to read outlines instead of letters.",
+                    "They release fast while at the same time maintaining quality translation.",
+                    "Faster then Formula and they at least try.",
+                    "coolness",
+                    "they're always good about the subs and they're always have them out in a short time",
+                    "Oh god, styling is so horrible. Not gud. Also, shitty upscale.",
+                    "The typesetting was too small, a bit blury and done in blue with a white outline. Also, their translations were, at times, quite inaccurate. How to you get \"Senpai\" from the Japanese words for \"Chairman\", \"Boss\" and \"President\"...? Senpai is not a transla"
+                ],
+                "Bad Comments": [
+                    "Definitely not as good as Formula, but Formula already said they wouldn't finish SC, so I guess this is the only option.",
+                    "Great subs, awesome group, clear subtitles, timely releases =)",
+                    ":D",
+                    "They keep the honorifics intact and their releases aren't too far off the releases from the raws. Good translation quality as well and good use of fonts.",
+                    "I liked the amount of effort that was put into the subbing job. I've never found any grammatical errors or weird translations. Little details that they added like font changes for different characters were nice also.",
+                    "Subs are clear and readable Great job!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shugo Chara!! Doki",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "43 of 47 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the subs are very clean and you can understand them ^-^",
+                    "There re no grammar mistakes or weird fonts",
+                    "good and enjoyable enough ...it's better than suspeedia, but it stops at 57 currently ...",
+                    "This group dropped after the first 7 episodes."
+                ],
+                "Bad Comments": [
+                    "Romaji karaoke is quite intrusive, but the rest is fine. Some awkward wording, but it's not like you can watch another group for this show anyway, lol.",
+                    "Clear and large, but not too conspicuous, the subs are accurate.",
+                    "Great job!!"
+                ]
+            }
+        }
+    ]
+}

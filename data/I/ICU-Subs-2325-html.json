@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "ICU-Subs",
+        "Short Name": "ICU-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaitou Reinya",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Those editor's notes...good god, seriously? Really?"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

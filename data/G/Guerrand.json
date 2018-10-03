@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Guerrand",
+        "Short Name": "Guerrand",
+        "IRC": "#guerrand@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "46",
+            "Users Disapprove": "6",
+            "Total": "52"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "42 of 46 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality and fast subs",
+                    "Speedy and Reliable, good quality too",
+                    "Quick subbing",
+                    "Subs were alright and the subs came out/were done fast. Only negative is that they didn't bother to sub the OP :(",
+                    "Speedy and accurate.  Done by fans for fans.",
+                    "The translation was perfect with great font styles to fit with what needed to be said. Even included extra notes for things some otaku's like me didn't know.",
+                    "Accurate translations, nice fonts, but best of all they have very useful and non-obstructive translation notes where you need them. Better than a.f.k"
+                ],
+                "Bad Comments": [
+                    "Compared to a.f.k, Guerrand is faster. They doesn't let the subtitle override character's face. Also more accurate, in episode 20 a.f.k even translate \"chuugoku\" as German",
+                    "Fast and accurate. Does not sub the OP, but then who cares.",
+                    "Really glad they took over since A.F.K. is MIA",
+                    "Really quick on translations, and usually subbed within the same date of airing.",
+                    "better translation and soft subs ftw",
+                    "Really messy, and not so good as A.F.K. stupid-looking pictures before the Anime starts. Really... who needs that? I only want good translation and that something they don't have."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No karaoke D:"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

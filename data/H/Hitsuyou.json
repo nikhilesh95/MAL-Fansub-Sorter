@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Hitsuyou",
+        "Short Name": "Hitsuyou",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "1",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Umi Monogatari: Anata ga Ite Kureta Koto - Shinjiau Kokoro",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job!",
+                    "Very good subs and nice white/blue font."
+                ],
+                "Bad Comments": [
+                    "Good and at least someone did this."
+                ]
+            }
+        },
+        {
+            "Show Name": "Umi Monogatari: Marin no Kore Naani?",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "Group": {
+        "Group Name": "Smash Fansub",
+        "Short Name": "Smash",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.C.II: Da Capo II",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doubutsu no Mori",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jikuu Bouken Nuumamonjaa",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "drop"
+                ],
+                "Bad Comments": [
+                    "It's Italian. Nothing else."
+                ]
+            },
+            "User Approval": "2 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Suteki Tantei Labyrinth",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Tonagura!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Touka Gettan",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 2 comments"
+        }
+    ]
+}

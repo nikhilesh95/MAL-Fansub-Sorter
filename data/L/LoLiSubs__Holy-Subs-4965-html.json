@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "LoLiSubs & Holy-Subs",
+        "Short Name": "LoLi&H-S",
+        "IRC": "#LoLiSubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

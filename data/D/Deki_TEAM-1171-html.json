@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Deki TEAM",
+        "Short Name": "Deki",
+        "IRC": "irc://irc.fansub-irc.org/dekiteam",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakumatsu Kikansetsu Irohanihoheto",
+            "Show Type": "ONA - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clover",
+            "Show Type": "Music - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hachimitsu to Clover",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Hachimitsu to Clover II",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Hachimitsu to Clover Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

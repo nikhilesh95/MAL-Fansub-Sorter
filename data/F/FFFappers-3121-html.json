@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "FFFappers",
+        "Short Name": "FFFappers",
+        "IRC": "#FFFpeeps@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bloods: Inraku no Ketsuzoku 2",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Way better english than subdesu."
+                ],
+                "Bad Comments": [
+                    "I love fakku...subs and translations they do are of high qualitg"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakoiri Shoujo: Virgin Territory",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stringendo: Angel-tachi no Private Lesson",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yume Kui: Tsurumiku Shiki Game Seisaku",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

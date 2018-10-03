@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "CommieSubs & WhyNot?",
+        "Short Name": "Commie-WhyNot",
+        "IRC": "#commie@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "7",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "How can you use CR subs and still need a joint to do it?",
+                    "Best release. Everything looks great."
+                ],
+                "Bad Comments": [
+                    ">Ripping\n>Joint\nMore like double fail.",
+                    "[CR-Commie] start using this tag please."
+                ]
+            }
+        }
+    ]
+}

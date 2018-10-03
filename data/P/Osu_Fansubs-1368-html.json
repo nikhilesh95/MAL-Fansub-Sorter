@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "Osu! Fansubs",
+        "Short Name": "Osu!",
+        "IRC": "#osu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "64",
+            "Users Disapprove": "36",
+            "Total": "100"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tales of the Abyss",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "14 of 35 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There were subtitles and no one was speaking. Timing off.",
+                    "Weeaboo language, mainly honorifics. Sensei, sama, etc.",
+                    "lol fucking faggot weeboos",
+                    "my goodness"
+                ],
+                "Bad Comments": [
+                    "Place names wrong, missing lines and  generally bad flow in the TL.",
+                    "sh1t",
+                    "To the guy up there, it's a weeaboo show, dipshit lololol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Vampire Knight: Guilty",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "phailures"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "World Destruction: Sekai Bokumetsu no Rokunin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "16 of 24 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Incomplete translation. Example - within the first 3 minutes of ep 1, a dish of food is served. Osu subtitled the dish name as a long line of romaji jibberish.",
+                    "Really good quality, great translation, pretty fast. Definitely worth archiving.",
+                    "good vid quali"
+                ],
+                "Bad Comments": [
+                    "Great translation work, good encodes, delivered episodess quickly (about 2 days after it aired), and they were consistent overall.",
+                    "Incomplete translations. Many words were left in romaji instead of providing a proper translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "34 of 37 users approve, 16 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Although I have never heard of their fansubs they seem pretty fast which is one of the things I love, plus their subs for Zero No Tsukaima was clear and nice ^__^ ty for subbing this series",
+                    "Quick, high quality subs. Thank you very much!",
+                    "Pretty good from what I can tell.",
+                    "undefined",
+                    "they had a good quality subs.",
+                    "Good Karaoke and fast releases =) The subs were clean and seems accurate. Good quality",
+                    "Good quality and fast.",
+                    "Excellent, full understand with simple english grammar. 10/10"
+                ],
+                "Bad Comments": [
+                    "fast releases with decent trans",
+                    "Sync Problems; subtitles are appearing when people aren't talking.",
+                    "what i watched, haha. no complaints.",
+                    "It's not every day that I choose an alternate sub group over Eclipse",
+                    "subbed zero duh",
+                    "fast quality subs of my famous anime znt-pnr",
+                    "Both fast and good.",
+                    "no typos :)"
+                ]
+            }
+        }
+    ]
+}

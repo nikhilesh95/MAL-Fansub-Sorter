@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "AHN Team",
+        "Short Name": "AHN",
+        "IRC": "#AHNTeam@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "2",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "3x3 Eyes",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very bad translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "3x3 Eyes Seima Densetsu",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Badly translated from English."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaze no Na wa Amnesia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Narue no Sekai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Roujin Z",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "Group": {
+        "Group Name": "Anime Seiden",
+        "Short Name": "AS",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "54",
+            "Users Disapprove": "4",
+            "Total": "58"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amon Saga",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arslan Senki",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Arslan Senki (TV)",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Cello Hiki no Gauche (1982)",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Compiler",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "DD Hokuto no Ken",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Fantastic Children",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu",
+            "Show Type": "OVA - 110 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "excelente traduccion, buenos raws, en resumen un gran trabajo",
+                    "Muy buena versión, exceptuando el capítulo 50.",
+                    "demasiados errores, es imposible entender algunas partes y hay que interpretarlas para tratar de entenderlas, por desgracia son el unico fansub que lo ha hecho",
+                    "Good subbed and Blu-ray version"
+                ],
+                "Bad Comments": [
+                    "Traducción confusa en ocasiones",
+                    "los unicos",
+                    "Great quality and great subs",
+                    "La única versión en español. La traducción es del inglés y tiene fallos con bastantes cosillas por lo que se vuelve confuso a veces; pero en general mucho trabajo y se agradece. No he visto la versión en HD así que no se si se corrigen."
+                ]
+            },
+            "User Approval": "21 of 24 users approve, 8 comments"
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve"
+        },
+        {
+            "Show Name": "Ginga Tetsudou 999",
+            "Show Type": "TV - 113 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve"
+        },
+        {
+            "Show Name": "Hokuto no Ken",
+            "Show Type": "TV - 109 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Montones de errores de ortografía, traducción poco exacta a veces y encode bastante pixelado. Sin embargo es la única versión en español..."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Hokuto no Ken: Raoh Gaiden Junai-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Hokuto no Ken: Yuria-den",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Kemono no Souja Erin",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Moldiver",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Nasu: Andalusia no Natsu",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Nasu: Suitcase no Wataridori",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Panda Kopanda",
+            "Show Type": "Movie - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Plastic Little",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Silent Möbius",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Souten Kouro",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Supernatural The Animation",
+            "Show Type": "OVA - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Tytania",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Vampire Hunter",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Young Black Jack",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

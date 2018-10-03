@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Maverick Subs",
+        "Short Name": "MaverickSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shirobako Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good shizzle."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "MNT-Fansubs",
+        "Short Name": "MNT",
+        "IRC": "#mnt-Fansub",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

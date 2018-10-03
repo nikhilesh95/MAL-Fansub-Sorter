@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shoc",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gantz",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Easy to read, nice colors."
+                ],
+                "Bad Comments": [
+                    "just great"
+                ]
+            }
+        }
+    ]
+}

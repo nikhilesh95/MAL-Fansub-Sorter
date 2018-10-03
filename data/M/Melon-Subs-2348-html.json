@@ -1,0 +1,392 @@
+{
+    "Group": {
+        "Group Name": "Melon-Subs",
+        "Short Name": "M-L",
+        "IRC": "#melonsubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "80",
+            "Users Disapprove": "22",
+            "Total": "102"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "009 Re:Cyborg",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Accel World",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Accel World EX",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "D-Frag!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Dragon Crisis!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve"
+        },
+        {
+            "Show Name": "Freezing",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great Sub Quallity"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "17 of 21 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Girls & Panzer",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "great translation, great types and overall good quality."
+                ],
+                "Bad Comments": [
+                    "solid translation in perfect german. few mistakes. style almost always fits the situation."
+                ]
+            },
+            "User Approval": "4 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Girls & Panzer Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "like the normal anime, great translations and good typeset"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Girls & Panzer: Shoukai Shimasu!",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Girls Bravo: Second Season",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Hanamaru Youchien",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Hyouka",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "good BD sub :D"
+                ],
+                "Bad Comments": [
+                    "good sub"
+                ]
+            },
+            "User Approval": "5 of 7 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 7 users approve, 2 comments"
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "schnelle und gute qualität"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "11 of 16 users approve, 1 comments"
+        },
+        {
+            "Show Name": "IS: Infinite Stratos 2",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "11 of 16 users approve, 1 comments"
+        },
+        {
+            "Show Name": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "11 of 16 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Kill Me Baby",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "11 of 16 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "11 of 16 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Kore wa Zombie Desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 6 users approve"
+        },
+        {
+            "Show Name": "Mayo Chiki!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Non Non Biyori",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Okusama wa Mahou Shoujo",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Guter Sub mit farblich passender Unterscheidung und allerlei Übersetzungen von Tafeln/Anzeigen etc."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+            "Show Type": "ONA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+            "Show Type": "ONA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Rio: Rainbow Gate!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Shiki",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 8 users approve"
+        },
+        {
+            "Show Name": "Shiki Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 8 users approve"
+        },
+        {
+            "Show Name": "Shingeki no Bahamut: Genesis",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "SKET Dance",
+            "Show Type": "TV - 77 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato 2199",
+            "Show Type": "OVA - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Ganz gut"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Upotte!!",
+            "Show Type": "ONA - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Upotte!! OVA",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Zipang",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

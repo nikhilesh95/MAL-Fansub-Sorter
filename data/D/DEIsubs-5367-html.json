@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "DEIsubs",
+        "Short Name": "DEI",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "7",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ookii 1 Nensei to Chiisana 2 Nensei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I have seen some bad fansubs in the 10 yrs I've been watching anime fansubs, but you'll know from the 1st minute that it takes bad to a whole new level... \"orge\", \"w/\", \"itterashai\"... seriously?! You need to understand basic Japanese to watch these subs.",
+                    "For Ookii 1 Nensei to Chiisana 2 Nensei the subs were really bad, some lines even not subbed",
+                    "arigatou = thx\nover there = ogre there\netc\nfurthermore they didn't translate/sub everything"
+                ],
+                "Bad Comments": [
+                    "the worst subs ever. seriously. the same word is mistranslated three times in a row when it was correct the first time!",
+                    "It's very well done! ^^",
+                    "The most uniquely done subs I've seen. And they left the obvious stuff in Japanese for our own understanding."
+                ]
+            }
+        }
+    ]
+}

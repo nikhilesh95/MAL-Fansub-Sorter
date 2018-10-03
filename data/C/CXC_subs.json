@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "CXC subs",
+        "Short Name": "CXC",
+        "IRC": "#cxc@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Whoever said translations were inaccurate does not even realize that others made a much worse blunder in that department. No one is perfect, but at least they make the most sense in the dialogue and kept some originality of the show.",
+                    "inaccurate translations"
+                ],
+                "Bad Comments": [
+                    "Better than Doki",
+                    "\"Inaccurate translations.\" Pfft. And just where the fuck are the accurate ones hiding? At least these make sense and read fluently."
+                ]
+            }
+        }
+    ]
+}

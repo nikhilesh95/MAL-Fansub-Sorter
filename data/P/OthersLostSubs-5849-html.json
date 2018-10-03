@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "OthersLostSubs",
+        "Short Name": "OLS",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aggressive Retsuko",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "4 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Garchuuu",
+                    "Marvellous Work. Congrats ^^"
+                ],
+                "Bad Comments": [
+                    "Amazing! And the colours!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Boku no Hero Academia",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sehr gute zeitsetzung gute uebersetzung saetze ab und zu komisch formuliert sonst TOOOP"
+                ],
+                "Bad Comments": [
+                    "Pretty fast, pretty good. Thx for your work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shounen Maid",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

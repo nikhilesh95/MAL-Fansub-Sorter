@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Anime-Stars",
+        "Short Name": "Anime-Stars",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Full Moon wo Sagashite",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seriously, if you can't fix a.f.k.'s mistakes and avoid adding additional mistakes of your own, don't bother."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shugo Chara!! Doki",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

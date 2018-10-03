@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Grimmjowsubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "6",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ef: A Tale of Memories. - Recollections",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good release",
+                    "Their seed rate is so low... have been DLing trough torrent for five days already and it´s only 600 MB!! Outrageous!!"
+                ],
+                "Bad Comments": [
+                    "Only subs, but really bad"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fate/Zero Remix",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "6 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing",
+                    "As much as I appreciate the subs, they sucked. It was 2 eps of misspellings, bad grammar, and mistimed junk.",
+                    "Typos but doesn't affect comprehension. Only choice"
+                ],
+                "Bad Comments": [
+                    "Lots of misspelled words",
+                    "Only group to translate it."
+                ]
+            }
+        }
+    ]
+}

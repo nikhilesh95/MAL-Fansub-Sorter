@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Umai Fansubs & Doremi-Fansubs",
+        "Short Name": "umai-Doremi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "11",
+            "Total": "71"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shijou Saikyou no Deshi Kenichi",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "60 of 71 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job with quality despite the quick releases. Recommended.",
+                    "Has really fallen apart over that last few episodes.",
+                    "Very clear subs, and they were on it by 90%, a few misses but very good over all. Appreciated there effort to bring us good anime!",
+                    "They are the best subs period.",
+                    "I subbed it.",
+                    "regular mistranslations",
+                    "Bad grasp of basic grammar/vocabulary. Simple words such as hidari(left) and migi(right) were translated wrongly."
+                ],
+                "Bad Comments": [
+                    "Respected Groups, Experienced, Good Quality Translations",
+                    "At first their releases were sporadic and extremely slow, however, during the \"race\" with kuro-hana their quality was awful. Very poor sentence structure, words just thrown together with a vaguely correct translation. The translation didnt flow at all.",
+                    "The best. Simply put.",
+                    "Better flow of English language compared to other subbers.",
+                    "well made subs, timing o.k. ...",
+                    "fast download, good subs, although there were some mistakes",
+                    "Noticeable translation errors that take away from the anime."
+                ]
+            }
+        }
+    ]
+}

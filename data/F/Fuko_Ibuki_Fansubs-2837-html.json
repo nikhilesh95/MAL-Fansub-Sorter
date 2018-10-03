@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Fuko Ibuki Fansubs",
+        "Short Name": "Fuko Ibiki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahoutsukai Sally (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only ones who subbed it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mikan Enikki",
+            "Show Type": "TV - 30 episodes",
+            "User Approval": "4 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent subs, not much to complain",
+                    "THANK you"
+                ],
+                "Bad Comments": [
+                    "Readable, understandable and most importantly synchronized."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mikan Enikki Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "4 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

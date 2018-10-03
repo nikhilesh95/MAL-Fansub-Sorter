@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Shiroi-Fansubs & DesoxyriboNukleinSubs",
+        "Short Name": "SHFS&DNS",
+        "IRC": "#shiroi-fansubs@irc.euirc.net #dns@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hyakujitsu no Bara",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

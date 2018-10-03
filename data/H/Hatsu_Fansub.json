@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Hatsu Fansub",
+        "Short Name": "Hatsu",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hatsu Inu 2 The Animation: Strange Kind of Woman - Again",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome subs, good work"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatsu Inu The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome subs, good work"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatsukoi Limited.",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaitou Tenshi Twin Angel",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+            "Show Type": "TV - 9 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

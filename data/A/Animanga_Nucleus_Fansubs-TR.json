@@ -1,0 +1,73 @@
+{
+    "Group": {
+        "Group Name": "Animanga Nucleus Fansubs-TR",
+        "Short Name": "-ANF-TR",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slam Dunk",
+            "Show Type": "TV - 101 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Güzel bir sub calismasi olmuş basarilar!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slam Dunk (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they are great!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

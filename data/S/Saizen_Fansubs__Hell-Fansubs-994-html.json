@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Saizen Fansubs & Hell-Fansubs",
+        "Short Name": "Saizen&Hell-Fansubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "3",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Major S2",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Still a lot of mistranslations after the joint effort. Not enough japanese lessons~",
+                    "I'm not too sure about these. breaking ball's translated as curve ball, coach translated as director. Not very happy but no other choices available nowadays."
+                ],
+                "Bad Comments": [
+                    "wrong translations",
+                    "good."
+                ]
+            }
+        }
+    ]
+}

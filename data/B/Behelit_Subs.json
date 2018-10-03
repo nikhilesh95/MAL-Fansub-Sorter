@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Behelit Subs",
+        "Short Name": "BS",
+        "IRC": "#Behelit",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "41",
+            "Total": "48"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Densetsu",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 11 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Lagoon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Terra Formars: Bugs 2-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zankyou no Terror",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

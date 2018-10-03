@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "OP-Arab",
+        "Short Name": "OP-AR",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "4",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "14 of 18 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "جيدة , لكن تنزل بوقت متأخر دائما",
+                    "Nice.."
+                ],
+                "Bad Comments": [
+                    "^^ أفضل ترجمة للأنمي"
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Film: Strong World Episode 0",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

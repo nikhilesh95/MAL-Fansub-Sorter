@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Tsunami",
+        "Short Name": "Tsunami",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop: Yose Atsume Blues",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "12 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "As far as I know of, they were the only ones to do it.  Everything made sense so it worked out."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

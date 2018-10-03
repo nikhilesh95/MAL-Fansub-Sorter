@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Kuruizaki",
+        "Short Name": "Kuruizaki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Harukanaru Toki no Naka de: Hachiyou Shou OVA",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Harukanaru Toki no Naka de: Hachiyou Shou Specials",
+            "Show Type": "Special - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

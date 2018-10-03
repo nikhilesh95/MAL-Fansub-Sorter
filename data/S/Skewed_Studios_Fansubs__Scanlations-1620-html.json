@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Skewed Studios Fansubs & Scanlations",
+        "Short Name": "SkewedS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gegege no Kitarou (2007)",
+            "Show Type": "TV - 100 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Idol Ace",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Rekka no Honoo: Final Burning",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I like their effects"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

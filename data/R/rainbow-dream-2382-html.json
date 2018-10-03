@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "rainbow-dream",
+        "Short Name": "",
+        "IRC": "#rainbow-dream@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent translations but instead of putting TL Notes every 5 minutes, they could've just translated the names for a smoother translation."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "Broken-Subs",
+        "Short Name": "Broken",
+        "IRC": "#Broken-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "1",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eve no Jikan (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mistakes in the subs and an ugly thin font."
+                ],
+                "Bad Comments": [
+                    "derp"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "14 of 14 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "derp",
+                    "Awesome encode, using UTW's (Victorique's s) subs.",
+                    "Best sub choice (UTW) + great encoding."
+                ],
+                "Bad Comments": [
+                    "Yes.",
+                    "It's okay",
+                    "Improved Victorique subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great typesetting and encode here."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mirai Nikki",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Doing the blu rays. Typesetting is insanely good. This is the best release for Mirai Nikki, period.",
+                    "Best release"
+                ],
+                "Bad Comments": [
+                    "BD release with Gotwoot's script and typesetting? Yes, please!",
+                    "The Best."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ozma",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finished fast and did a great job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Papa no Iukoto wo Kikinasai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well, actually Kira-Broken, but a damn good release nonetheless. BDs with awesome karaoke and typesetting."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tasogare Otome x Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow, but it's a BD project, so that's okay. And it's worth the wait."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

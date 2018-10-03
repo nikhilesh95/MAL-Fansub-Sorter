@@ -1,0 +1,81 @@
+{
+    "Group": {
+        "Group Name": "Hipster",
+        "Short Name": "HT",
+        "IRC": "#Cy@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hidamari Sketch",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They could improve the typeset, but the dialogue is really in a whole other level if we compare with SaeNce. Oh, and the songs are translated."
+                ],
+                "Bad Comments": [
+                    "BD rip with several sub tracks (FuktLogik, R1)."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD rip with several sub tracks (spoonsubs, R1)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x 365",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD rip with several sub tracks (spoonsubs, spoonsubs restyled, R1)"
+                ],
+                "Bad Comments": [
+                    "the default \"HT\" subtrack is liberal shit for dumb burgers"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x 365 Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x Honeycomb",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu-ray containing subs from FFF, Nutbladder, and their own. No point going for another group IMO."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sasami-san@Ganbaranai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

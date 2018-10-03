@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Lemon Scans",
+        "Short Name": "Lemon",
+        "IRC": "#lemonscans@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "41",
+            "Users Disapprove": "1",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nagato Yuki-chan no Shoushitsu",
+            "Show Type": "TV - 16 episodes",
+            "User Approval": "34 of 35 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Next best after Caffeine put it on indefinite hold ( or dropped if you may) as of episode 5.",
+                    "The subs are amazing! The colours used matches the atmosphere completely. Effects of the subs were amazing as well, sometimes kinda served as a tiny bit of extra humour, shows how much work the group had put into this anime :3",
+                    "Translations are fine, typesetting is decent and readable. Impressive work considering the whole project is done by one guy and he still manages to speedsub it.",
+                    "pretty damn good all things considered. font is a bit on the small side but NBD",
+                    "Their typesetting is art."
+                ],
+                "Bad Comments": [
+                    "Really the best. Not just solid but content-rich releases. They not just include BD-bonuses and released the OVA - they also released OP & ED songs, ED oficial music video, Character Songs and even TV-BD change compilation to boot! Damn, they even release",
+                    "Great",
+                    "Superior",
+                    "Best (non-dropped) subs that aren't horriblesubs.",
+                    "Best subs for this show. Period."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They even released a hard-subbed version, how cool is that?! Really fan-friendly releases."
+                ],
+                "Bad Comments": [
+                    "good work team"
+                ]
+            }
+        }
+    ]
+}

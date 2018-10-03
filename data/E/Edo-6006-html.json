@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "Edo",
+        "Short Name": "Edo",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "0",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kizumonogatari I: Tekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari II: Nekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari III: Reiketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

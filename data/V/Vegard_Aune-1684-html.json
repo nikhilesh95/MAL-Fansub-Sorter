@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Vegard Aune",
+        "Short Name": "VS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "3",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "13 of 16 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great quality, great subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

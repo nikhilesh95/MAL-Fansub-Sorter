@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Idiocy Hunters Fansub",
+        "Short Name": "IHF",
+        "IRC": "#IHF:IdiocyHuntersFansub",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arad Senki: Slap Up Party",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate: Oukoubakko no Poriomania",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

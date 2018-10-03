@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "TakeHome",
+        "Short Name": "TakeHome",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kodomo no Jikan (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

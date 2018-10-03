@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "InuYasha 4Ever Fansubs",
+        "Short Name": "IY-F",
+        "IRC": "#iy4ever-fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "38",
+            "Users Disapprove": "3",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nana",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "29 of 31 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation mistakes and missing lines",
+                    "They did a fantastic job on the episodes they did. Great typsetting and translations. ^_^",
+                    "good!",
+                    "The picked up where Ureshii left off",
+                    "There were some mistakes, but it was really good"
+                ],
+                "Bad Comments": [
+                    "They did a good job with the episodes- when they eventually released them.",
+                    "Awkward translations and missing lines.",
+                    "Aside from occasional english translation grammar errors, it was near-perfect. ^_^",
+                    "Holo-Anime used their subs so they get the credit I guess."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nana Recaps",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slayers Revolution",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

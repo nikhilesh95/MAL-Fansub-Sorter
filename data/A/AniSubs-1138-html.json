@@ -1,0 +1,88 @@
+{
+    "Group": {
+        "Group Name": "AniSubs",
+        "Short Name": "AniS",
+        "IRC": "#AniSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "2",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama!",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Elfen Lied",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "GREAT SUBS!!!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroman",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mamono Hunter Youko",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nonchalant and unshamed"
+                ],
+                "Bad Comments": [
+                    "Good subbing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witchblade",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "widescreen DVD rips with a fansub touch =)"
+                ],
+                "Bad Comments": [
+                    "nicely done job"
+                ]
+            }
+        }
+    ]
+}

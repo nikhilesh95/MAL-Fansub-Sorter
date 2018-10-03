@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "MindWarp Fansubs",
+        "Short Name": "MindWarp",
+        "IRC": "#mindwarp@irc.rizon.net",
+        "Primary Language": "Swedish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I AM YOUR FATHER!!!!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

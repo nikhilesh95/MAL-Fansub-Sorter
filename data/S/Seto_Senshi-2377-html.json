@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Seto Senshi",
+        "Short Name": "Seto Senshi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam Unicorn",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good!"
+                ],
+                "Bad Comments": [
+                    "Good quality, softsub and dual audio but QTS version are better in video quality for 720p"
+                ]
+            }
+        }
+    ]
+}

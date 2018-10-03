@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Kurama Fansubs",
+        "Short Name": "Kurama",
+        "IRC": "#Kurama@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "36",
+            "Users Disapprove": "7",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "36 of 43 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The group is dead, considered it dropped, since they were the best sub/group for the series. Go with Hatsuyuki or watch it on CR",
+                    "Bad video quality from bad filtering: sharpening, contrast/hue adjustment, denoising... has wiped away a lot of detail. Might as well be a mini-encode, certainly looks like it.",
+                    "I love when gaming console owners can't play the files on them without re-encoding they down vote things.",
+                    "TAKA = Kurama",
+                    "Use of 10bit MKV excusively is at best elitist crap - at worst stupid. It's certainly not userfriendly.",
+                    "Slow release but standard translation.",
+                    "Great quality"
+                ],
+                "Bad Comments": [
+                    "Stalled haven't  released an episode in 6 months",
+                    "Same as Taka.",
+                    "Masterpiece subs.",
+                    "Same staff as taka",
+                    "Is the group dead? if so, any best alternatives?",
+                    "They are back.Best release possible for Naruto"
+                ]
+            }
+        }
+    ]
+}

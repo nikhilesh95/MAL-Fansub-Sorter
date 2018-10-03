@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Doki Fansubs & NFP Encodes",
+        "Short Name": "Doki-NFP",
+        "IRC": "#doki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "3",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Sword Art Offline",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "Group": {
+        "Group Name": "Aku Fansubs",
+        "Short Name": "AKU, AkuFansubs",
+        "IRC": "#akufansubs@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "36",
+            "Users Disapprove": "14",
+            "Total": "50"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Sign",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aquarian Age: Sign for Evolution",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Captain Tsubasa",
+            "Show Type": "TV - 128 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chobits",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fruits Basket",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some of the first bad fansubs I ever encountered. Bad A/V quality (even for 2001), poor translation and editing, forgettable release all around. *Sigh* why can't I find the Furuba-Fansubs  release?"
+                ],
+                "Bad Comments": [
+                    "comic sans???\nweird grammar errors"
+                ]
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "G-On Riders",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Galaxy Angel Z",
+            "Show Type": "TV - 9 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter",
+            "Show Type": "TV - 62 episodes",
+            "User Approval": "22 of 30 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very nice subs.good job.",
+                    "the translation is sometimes very crude and hard to comprehend",
+                    "Lousy translation but let it pass.",
+                    "Perfection.",
+                    "translation done by Chinese speakers. Very sloppy"
+                ],
+                "Bad Comments": [
+                    "Their translations are stellar, their grammar is almost always perfect, and they're consistent.",
+                    ":D",
+                    "Great job guys.. Totally enjoyed it :D",
+                    "Translations weren't very accurate. Many spelling and grammar mistakes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lousy translation.",
+                    "bad as usual"
+                ],
+                "Bad Comments": [
+                    "Lousy quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "RahXephon",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sexy Commando Gaiden: Sugoiyo!! Masaru-san",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shaman King",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witch Hunter Robin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "12 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

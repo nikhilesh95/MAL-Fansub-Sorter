@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "AniWorld",
+        "Short Name": "aW",
+        "IRC": "#aniworld@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kyoushoku Soukou Guyver (1989)",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs are readable, video is okay."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoushoku Soukou Guyver II",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs are readable, video is okay."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

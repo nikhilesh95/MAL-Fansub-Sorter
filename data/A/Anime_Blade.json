@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Anime Blade",
+        "Short Name": "AnimeBlade",
+        "IRC": "#animeblade@irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Tasogare no Udewa Densetsu",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

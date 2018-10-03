@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Kirei",
+        "Short Name": "Kirei",
+        "IRC": "#kirei@irc.worldnet.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 4: Dead End no Bouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I Like the SlowSub, you are the best ^^(Time, Kara, edit, trad etc...) Thank You."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

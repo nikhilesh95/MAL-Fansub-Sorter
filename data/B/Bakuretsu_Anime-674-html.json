@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Bakuretsu Anime",
+        "Short Name": "Baku",
+        "IRC": "#bakuretsu-anime@irc.rizon.org",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Beck",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

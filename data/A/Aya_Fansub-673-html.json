@@ -1,0 +1,547 @@
+{
+    "Group": {
+        "Group Name": "Aya Fansub",
+        "Short Name": "Aya",
+        "IRC": "#Aya@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "182",
+            "Users Disapprove": "12",
+            "Total": "194"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black Blood Brothers",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Renkin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "bom"
+                ],
+                "Bad Comments": [
+                    "encode caprichado e um excelente trabalho com as legendas."
+                ]
+            }
+        },
+        {
+            "Show Name": "Casshern Sins",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Casshern: Robot Hunter",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chrome Shelled Regios",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "28 of 31 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "excellent quality!",
+                    "bom",
+                    "Um dos melhores fansubs do Brasil.",
+                    "Eu assisti por essa fansub. Muito bom. Legendou tudo,inclusive opening e endings."
+                ],
+                "Bad Comments": [
+                    "It's Amazing!!!!",
+                    "Good Translation",
+                    "o melhor",
+                    "good job don't have mistage"
+                ]
+            }
+        },
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "13 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There are some errors (more than I could ignore), mostly in the beginning, but they go through all the anime. Errors like typos and even translation errors. There are some bad timing also.",
+                    "Ótimo trabalho!"
+                ],
+                "Bad Comments": [
+                    "Too much errors. Typos and translation ones in almost every episode."
+                ]
+            }
+        },
+        {
+            "Show Name": "Death Note: Rewrite",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detroit Metal City",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bom",
+                    "Awesome translation!"
+                ],
+                "Bad Comments": [
+                    "Ótima tradução, sem erros de português, excelente :D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ótimo trabalho!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Tamers: Boukensha-tachi no Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Aegis of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Sword of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gensoumaden Saiyuuki",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroman",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter (2011)",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: Chrono Stone",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kenpuu Denki Berserk",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Konjiki no Gash Bell!!",
+            "Show Type": "TV - 150 episodes",
+            "User Approval": "18 of 19 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Um pouquinho lento mas, muito bem feito.",
+                    "O serviço de lendagem de episódios é lento, mas a qualidade é excelente. Sempre com o português correto, atualizado e quase sem erros de português.",
+                    "great quality and great translations",
+                    "Good Portuguese grammar."
+                ],
+                "Bad Comments": [
+                    "They are fast!",
+                    "\\o/",
+                    "Ótimo!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "18 of 19 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Le Chevalier D'Eon",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Diamond & Pearl",
+            "Show Type": "TV - 191 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara Movie: The Last Party",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara Two",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shining Tears X Wind",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "14 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good quality and dedication to their projects"
+                ],
+                "Bad Comments": [
+                    "bom"
+                ]
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Shoushitsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "14 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi-chan no Yuuutsu",
+            "Show Type": "ONA - 25 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Qualidade ótima."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi Reverse",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "16 of 17 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bem feito",
+                    "excelente trabalho, fizeram a versão DVD-Rip que é melhor que a versão da TV!",
+                    "Excelente trabalho com a legenda e fizeram a versão blu-ray"
+                ],
+                "Bad Comments": [
+                    "bom",
+                    "Muito bom"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Zenkoku Taikai-hen",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tetsuwan Birdy Decode",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tetsuwan Birdy Decode: The Cipher",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tetsuwan Birdy Decode:02",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toki wo Kakeru Shoujo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Winter Garden",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

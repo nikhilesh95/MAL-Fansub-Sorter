@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "Epic Fansubs",
+        "Short Name": "EPIC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyou kara Maou! 3rd Series",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Just... no. The subs hurt my eyes."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Master of Epic: The Animation Age",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "There's an array of punctuation and aesthetic errors, but they're doing a decent enough job. And they deserve a point for actually subbing this show at all.",
+                    "avi? in 2011? really now..."
+                ],
+                "Bad Comments": [
+                    "Solid delivery"
+                ]
+            },
+            "User Approval": "1 of 2 users approve, 3 comments"
+        }
+    ]
+}

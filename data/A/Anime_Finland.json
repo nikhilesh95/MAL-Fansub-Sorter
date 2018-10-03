@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Anime Finland",
+        "Short Name": "anfi",
+        "IRC": "#anime-fin@irc1.stealth.net",
+        "Primary Language": "Finnish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Drive",
+            "Show Type": "TV - 38 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

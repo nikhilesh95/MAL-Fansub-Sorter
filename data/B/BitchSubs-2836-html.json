@@ -1,0 +1,85 @@
+{
+    "Group": {
+        "Group Name": "BitchSubs",
+        "Short Name": "BitchSubs",
+        "IRC": "#BitchSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "1",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nana to Kaoru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nothing but the best from these guys"
+                ],
+                "Bad Comments": [
+                    "Only aesthetically pleasing release. And a good translation to boot! I definitely recommend this one."
+                ]
+            }
+        },
+        {
+            "Show Name": "Prism Ark",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good, they even had translation notes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Prism Ark Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shuffle!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "this is bitchin' great!!",
+                    "Best scripts you could find."
+                ],
+                "Bad Comments": [
+                    "Blu-Ray !",
+                    "decent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sora no Otoshimono",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Much better tah official americanized shitsubs."
+                ],
+                "Bad Comments": [
+                    "Pretty neat and natural, the same style as the anime. I like it."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

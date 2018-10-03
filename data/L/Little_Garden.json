@@ -1,0 +1,261 @@
+{
+    "Group": {
+        "Group Name": "Little Garden",
+        "Short Name": "LG",
+        "IRC": "#animetracker@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "138",
+            "Users Disapprove": "2",
+            "Total": "140"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "o"
+                ]
+            }
+        },
+        {
+            "Show Name": "Boogiepop wa Warawanai: Boogiepop Phantom",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cossette no Shouzou",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate Keepers",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haibane Renmei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanare Toride no Yonna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hikaru no Go: Kita Hokutohai e no Michi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "I My Me! Strawberry Eggs",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juuni Kokuki",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koi Kaze",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "erros de português"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kumo no Mukou, Yakusoku no Basho",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Last Exile",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushishi",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oseam",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pale Cocoon",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Petshop of Horrors",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Timming perfeito, tradução e legendas em um português impecável ^__^/"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Jashin Eris",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Kamigami no Atsuki Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saishuu Heiki Kanojo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Podia ser melhor, mas está aceitável"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Simoun",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu no Escaflowne",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenshi no Tamago",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Weiß Kreuz",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Weiß Kreuz OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

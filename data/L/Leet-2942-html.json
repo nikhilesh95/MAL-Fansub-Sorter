@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Leet",
+        "Short Name": "Leet",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Panty & Stocking with Garterbelt",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Star Driver: Kagayaki no Takuto",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "why the fuck does everyone use gg's crap? its like making a pile of shit look pretty"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yumekui Merry",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

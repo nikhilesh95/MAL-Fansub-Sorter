@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "animexpress",
+        "Short Name": "animexpress",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "07-Ghost",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hızlı ve kaliteli çeviriler yapıyorlar."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurozuka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Phantom: Requiem for the Phantom",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hızlı ve kaliteli çeviriler yapıyorlar."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senjou no Valkyria",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hızlı ve kaliteli çeviriler yapıyorlar."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Ai-Subs & Doremi-Fansubs",
+        "Short Name": "Ai-Doremi",
+        "IRC": "irc://irc.rizon.net/doremi",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "True Tears",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped it"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

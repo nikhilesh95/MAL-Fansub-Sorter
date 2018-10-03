@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "GoodBadSubs",
+        "Short Name": "GoodBadSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "World Destruction: Sekai Bokumetsu no Rokunin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "14 of 19 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs; too bad he only did three episodes.",
+                    "how about you change that name to OnlyBadSubs instead yeah?"
+                ],
+                "Bad Comments": [
+                    "although the font is plain, they sub well for their speed",
+                    "Their subs seem to be accurate and timing wise they link up pretty well and don't go by so fast as to be hard to keep up with during longer conversations."
+                ]
+            }
+        }
+    ]
+}

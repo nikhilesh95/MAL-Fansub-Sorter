@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Mastodon Infantry Internationale",
+        "Short Name": "MII",
+        "IRC": "#MII@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "9 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Out of every release it has the best english scripts, by far.",
+                    "Great ~"
+                ],
+                "Bad Comments": [
+                    "best blueray release",
+                    "Best release.  Improved SS-Eclipse subs with Blu-ray encodes (Coalgirls for 720p, THORA for 1080p)."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "At0m5k",
+        "Short Name": "At0m5k",
+        "IRC": "#At0m5k@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "G-9",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "9 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "kudos for subbing such a non-mainstream show!",
+                    "Good job. Nothing to complain about."
+                ],
+                "Bad Comments": [
+                    "The translation and font seem to be well done."
+                ]
+            }
+        }
+    ]
+}

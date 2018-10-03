@@ -1,0 +1,138 @@
+{
+    "Group": {
+        "Group Name": "Ore-sama Fansubs",
+        "Short Name": "Ore-sama",
+        "IRC": "#oresama@irc.rizon.net",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "16",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baccano!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "cała masa błędów (o rozróżnianiu płci bohaterów już nie wspomnę)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Candy☆Boy: Side Story For Archive",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Goku Sayonara Zetsubou Sensei",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaiba",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria†Holic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fajne kareoke w ep2, wyraźne napisy i pewnie jeszcze coś :D"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora wo Kakeru Shoujo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Shunraiki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

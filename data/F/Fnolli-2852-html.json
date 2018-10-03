@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Fnolli",
+        "Short Name": "Fnolli",
+        "IRC": "#nanasaki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "45",
+            "Users Disapprove": "1",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Quantum",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "45 of 46 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group so far",
+                    "The sub quality is good.",
+                    "Amazing quality video (720p) but every once in a while poor subbing is apparent even in their v2 releases. Usually the errors are small but noticeable punctuation or capitalization errors.",
+                    "Only ones doing it and they are a great fansubbing group if their first release says anything.",
+                    "First to sub, but then again translation is not 100% accurate.",
+                    "Loved the effects on the title screen and the subbing was amazing, also they were the first ones to the scene and still the only ones as of now."
+                ],
+                "Bad Comments": [
+                    "Nice localization to gamer speak!",
+                    "some liberties taken.",
+                    "Nothing wrong with these subs.",
+                    "Solid subtitles.",
+                    "Excellent typesetting, styled subs, accurate translations."
+                ]
+            }
+        }
+    ]
+}

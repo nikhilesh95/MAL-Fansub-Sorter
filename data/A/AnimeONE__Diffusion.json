@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE & Diffusion",
+        "Short Name": "AonE-Diffusion",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "91",
+            "Users Disapprove": "0",
+            "Total": "91"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tsubasa: Shunraiki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "17 of 17 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs. No spelling or grammar errors."
+                ],
+                "Bad Comments": [
+                    "This is the best English release of Shunraiki, the video editing is better by miles and all other elements are done to perfection."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Tokyo Revelations",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They also did an awesome job as SHS. I can't say anything wrong about them."
+                ],
+                "Bad Comments": [
+                    "splendid job subs were real quality 10/10, video was very good aswell. I have to hand it to AonE-Diffusion and DATS as both provided quality and it's hard to choose between the two."
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Rou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "34 of 34 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs. No spelling or grammar errors.",
+                    "lovely subs. :P"
+                ],
+                "Bad Comments": [
+                    "Good Quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Shunmuki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "24 of 24 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

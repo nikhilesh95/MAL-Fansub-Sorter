@@ -1,0 +1,61 @@
+{
+    "Group": {
+        "Group Name": "Mirlo",
+        "Short Name": "Mirlo",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "16",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahouka Koukou no Rettousei",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Was honestly surprised and wasn't expecting better translations, kudos.",
+                    "Better than FBI, that's for sure."
+                ],
+                "Bad Comments": [
+                    "complete SHIT it's just a CR rip with terrible fonts"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mekakucity Actors",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 24 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I felt a lot of love from this release~",
+                    "http://www.crymore.net/2014/06/07/fansub-review-mirlo-mekakucity-actors-episode-07 (inb4 fanboys dismiss valid criticisms by calling Crymore \"bias\") (it's \"biased\" you fucking morons)",
+                    ">mfw not using mekameka      \nhttp://www.crymore.net/2014/06/07/fansub-review-mirlo-mekakucity-actors-episode-07/comment-page-1/#comment-175167",
+                    "THESE SUBS ARE SHIT YOU FUCKING IDIOTS\n\nhttp://www.crymore.net/2014/06/07/fansub-review-mirlo-mekakucity-actors-episode-07/",
+                    "Nice job and great typesetting. Keep up the good work.",
+                    "Good typesetting."
+                ],
+                "Bad Comments": [
+                    "Decent. They have typesetting—that’s good.",
+                    "http://www.crymore.net/2014/06/07/fansub-review-mirlo-mekakucity-actors-episode-07/ Rofl",
+                    "Mirlo surprised me, the subs were actually really good! My pick for this show, for sure.",
+                    "Color coding your subs... Talk about unreadable.",
+                    "Very poor.",
+                    "\"I can't it anymore...\""
+                ]
+            }
+        },
+        {
+            "Show Name": "No Game No Life",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

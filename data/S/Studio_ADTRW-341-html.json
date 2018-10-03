@@ -1,0 +1,108 @@
+{
+    "Group": {
+        "Group Name": "Studio ADTRW",
+        "Short Name": "ADTRW",
+        "IRC": "#adtrw@irc.pyoko.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "39",
+            "Users Disapprove": "6",
+            "Total": "45"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ame to Shoujo to Watashi no Tegami",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "14 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I timed and muxed this and it was good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakuen Alice",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Numerous grammatical mistakes, some signs left untranslated (ep 16 was missing all written translations)"
+                ],
+                "Bad Comments": [
+                    "No TS of signs, even when they seem like they might be important.  Also, one of the worst fonts I remember seeing in a fansub."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gakuentoshi Varanoir Joukan",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BIG GATE TEACHER"
+                ],
+                "Bad Comments": [
+                    "Intentionally bad subs for an incredibly shit animu. I fucking miss these guys."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakigake!! Otokojuku",
+            "Show Type": "TV - 34 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good video quality, clean softsubs with no errors.",
+                    "Though they tried their best, these subs suffer from some pretty hideous mistranslations in places..."
+                ],
+                "Bad Comments": [
+                    "great work with the first 6 episodes, shame they cut out there."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tooi Sekai",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "10 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only one that did it."
+                ],
+                "Bad Comments": [
+                    "undefined"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsukuyomi: Moon Phase",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I timed this and it was superb"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

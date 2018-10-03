@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Aleph Naught",
+        "Short Name": "ℵ₀",
+        "IRC": "#alephnaught@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "13",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lolwut, tis crap sucks.",
+                    "Not going to complain about name choice, unfair."
+                ],
+                "Bad Comments": [
+                    "Her name is Tenshi, not Angel!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible!!!",
+                    "Very awkward translation, they skipped alot of the dialogue."
+                ],
+                "Bad Comments": [
+                    "Horribly awkward and hard to follow.  I had to watch the other sub just to make sense of most of the dialogue."
+                ]
+            }
+        }
+    ]
+}

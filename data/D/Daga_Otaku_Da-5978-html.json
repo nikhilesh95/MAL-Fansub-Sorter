@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "Daga Otaku Da!",
+        "Short Name": "DOD!",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black Jack",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ito Junji: Collection",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hardsubs? have i been sent back into the year 2000?",
+                    "Obnoxious font, weird sentences."
+                ],
+                "Bad Comments": [
+                    "Because they subbed uncensored version :D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

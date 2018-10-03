@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Blue Shield, CF-18",
+        "Short Name": "CF-18",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ryokunohara Meikyuu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Could've used a much smaller font."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umi ga Kikoeru",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

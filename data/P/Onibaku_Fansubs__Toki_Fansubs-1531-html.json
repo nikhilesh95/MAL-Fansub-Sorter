@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Onibaku Fansubs & Toki Fansubs",
+        "Short Name": "Oni-Toki",
+        "IRC": "#Onibaku@Irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "2",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kurogane no Linebarrels",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "16 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Have watched a few of their series, and overall enjoy their work.",
+                    "They are the only ones that are subbing it and they make a good job at it too.",
+                    "Great subs and quality. Stopped at episode 7."
+                ],
+                "Bad Comments": [
+                    "decent sub",
+                    "stopped after 7 eps"
+                ]
+            }
+        }
+    ]
+}

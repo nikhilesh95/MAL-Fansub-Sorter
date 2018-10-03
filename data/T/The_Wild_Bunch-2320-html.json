@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "The Wild Bunch",
+        "Short Name": "TWB",
+        "IRC": "#wildbunchsubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "53",
+            "Users Disapprove": "11",
+            "Total": "64"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Tamers",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "13 of 19 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The best.",
+                    "Awesome liberal translations! Bad encoding with too much filters however.",
+                    "It's been a year since their last release. Quite sad since they have the best quality all-around.",
+                    "Ridiculously slow that's beyond reasonable. It's one thing to take your time to sub. It's another thing to disregard it entirely."
+                ],
+                "Bad Comments": [
+                    "Good translations and video quality",
+                    "Their translations are highly accurate, and what's more, Wild Bunch provides the only viable option for Digimon Tamers subs now that Positron Cannon has removed his subs. I look forward to Wild Bunch's future Tamers releases.",
+                    "Slow.",
+                    "Quality is awesome"
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Tamers: Boukensha-tachi no Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The Wild Bunch offers best translation and video quality for this movie."
+                ],
+                "Bad Comments": [
+                    "Great job, great quality episode and subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "29 of 33 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Skilled translator working on this.",
+                    "They always provide excellent quality, translations, and of course AVIs.",
+                    "Not as good as Subdesu",
+                    "They do a great job and release very fast",
+                    "Great work. Both subs and video quality are great."
+                ],
+                "Bad Comments": [
+                    "Very good translation.",
+                    "Not dropped",
+                    "Uh...they're definitely better than SubDesu.",
+                    "Quick subs that are easy to read."
+                ]
+            }
+        }
+    ]
+}

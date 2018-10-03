@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Aphina Fansubs",
+        "Short Name": "Aphina",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I think that their translations are top-notch and I enjoy their releases, bearing in mind that they've only recently started.  ^_^",
+                    "I really like the translations so good. Always on the spot! :D"
+                ],
+                "Bad Comments": [
+                    ">,"
+                ]
+            }
+        }
+    ]
+}

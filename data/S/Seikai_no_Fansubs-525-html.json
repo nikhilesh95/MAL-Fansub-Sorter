@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Seikai no Fansubs",
+        "Short Name": "SNF",
+        "IRC": "#seikai-no-fansubs@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seirei no Moribito",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

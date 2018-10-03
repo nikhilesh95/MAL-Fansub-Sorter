@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Oyatsu Fansubs & AnimeYoshi",
+        "Short Name": "Oyatsu-AniYoshi",
+        "IRC": "#oyatsu@irc.rizon.net #AnimeYoshi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "4",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Boku wa Tomodachi ga Sukunai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great"
+                ],
+                "Bad Comments": [
+                    "Fantastic subs with honorifics."
+                ]
+            }
+        }
+    ]
+}

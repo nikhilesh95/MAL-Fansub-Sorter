@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Kuroi",
+        "Short Name": "Kuroi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Another",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Aniyoshi subs plus Underwater subs and dual-audio blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Upotte!!",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Commie subs (aka not retarded names) + honorifics + Blu-Ray, Best.",
+                    "Commie subs + Blu-Ray"
+                ],
+                "Bad Comments": [
+                    "Commie subs"
+                ]
+            }
+        }
+    ]
+}

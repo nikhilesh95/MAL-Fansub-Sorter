@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "ChoHakkaiFan",
+        "Short Name": "CHF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "4",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saiyuuki Gaiden",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "upscaled is a no-no D:",
+                    "Thanks for subbing"
+                ],
+                "Bad Comments": [
+                    "Good translation. First grup to sub the show. But OVA 1 video quality is complete crap X_X. Seems upscaled to 720p. DVD releases available only."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saiyuuki Reload: Burial",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "11 of 11 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "So far, it's the only group/person who has subbed this anime.",
+                    "Apparently the only person to subtitle the Saiyuki Burial OAV.",
+                    "Thanks for subbing this. Good subs overall."
+                ],
+                "Bad Comments": [
+                    "Only english fansub I've seen for it so far.",
+                    "The only English fansub for Saiyuki Reload Burial. Excellent subs"
+                ]
+            }
+        }
+    ]
+}

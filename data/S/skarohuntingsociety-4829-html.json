@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "skarohuntingsociety",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Giant Gorg",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They also do amazing work. They're also the only group to finish the series, and it's been a long time coming."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Momotarou: Umi no Shinpei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

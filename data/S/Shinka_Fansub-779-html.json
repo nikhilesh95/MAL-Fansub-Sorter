@@ -1,0 +1,116 @@
+{
+    "Group": {
+        "Group Name": "Shinka Fansub",
+        "Short Name": "Shinka",
+        "IRC": "#shinka@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "37",
+            "Users Disapprove": "3",
+            "Total": "40"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amatsuki",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Aegis of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hajime no Ippo: New Challenger",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kekkaishi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "otimo"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurokami The Animation",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Needless",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shaman King",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shounen Onmyouji",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente subbagem!"
+                ],
+                "Bad Comments": [
+                    "Perfeito. Melhor versão de Soul Eater que eu vi."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Um dos melhores Fansubs Brasileiros, excelente trabalho com Gurren Lagann",
+                    "Apesar do sub ter sido bom, eles distorceram completamente a tradução da OP e colocaram alguns nomes como na pronúncia e não na escrita (Littner = Ritona, por exemplo)"
+                ],
+                "Bad Comments": [
+                    "TGGL RULA ESSE MUNDO"
+                ]
+            }
+        }
+    ]
+}

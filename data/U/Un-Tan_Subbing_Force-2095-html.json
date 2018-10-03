@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Un-Tan Subbing Force",
+        "Short Name": "UTSF",
+        "IRC": "#un-tan@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "7",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "K-On!!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Do us a favor and stop subbing anything at all...kay? Guesslation much"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "16 of 21 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best translations for current one piece @ sorry ppl that complain about edting ... i guess they want gum gum bazooka punch ... losers...",
+                    "copied from funimation subs",
+                    "fast releases",
+                    "The quality of their releases are excellent and they are the fastest when it comes to subs. They also avoids translating common words in one piece which makes it more insteresting for me to watch it",
+                    "Releases have become very slow, its been 2 weeks since there last release"
+                ],
+                "Bad Comments": [
+                    "Bad translation and bad editing. No translation-checking at all or totally bad. Encodes need improvement, but still kinda decent.",
+                    "Very good translation quality and high speed. The best choice for now.",
+                    "best subs",
+                    "Very good subs"
+                ]
+            }
+        }
+    ]
+}

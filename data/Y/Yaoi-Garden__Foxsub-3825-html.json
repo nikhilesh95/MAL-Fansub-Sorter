@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Yaoi-Garden & Foxsub",
+        "Short Name": "Yaoi-Garden&Foxsub",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "6",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tight-rope",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The grammar is off, it makes it difficult to understand, because you have to think about what they would have wanted to say.",
+                    "Really ridiculous \"English\", weird grammar and translations.."
+                ],
+                "Bad Comments": [
+                    "grammar is horrible"
+                ]
+            }
+        }
+    ]
+}

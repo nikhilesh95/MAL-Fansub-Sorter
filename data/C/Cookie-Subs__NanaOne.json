@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Cookie-Subs & NanaOne",
+        "Short Name": "C-Subs&No",
+        "IRC": "#c-subs@irc.otakubox.de #nanaone@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ist zwar ein SlowSub hoch 10, lohnt sich aber..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuragehime",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

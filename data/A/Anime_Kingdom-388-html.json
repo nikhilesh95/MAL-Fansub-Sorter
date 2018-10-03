@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Anime Kingdom",
+        "Short Name": "A-Kingdom",
+        "IRC": "#animekingdom@chaos.teragon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chrno Crusade",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Crappy audio in their sub.",
+                    "Nice dubbint"
+                ],
+                "Bad Comments": [
+                    "can't find other sources so I have no basis of comparison so I find A-Kingdom sub is fine for me at least."
+                ]
+            },
+            "User Approval": "2 of 6 users approve, 3 comments"
+        }
+    ]
+}

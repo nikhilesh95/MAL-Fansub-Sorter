@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "Perfect Blue fansub",
+        "Short Name": "P-Bfs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "srsly really really shitty"
+                ],
+                "Bad Comments": [
+                    "not good at all"
+                ]
+            },
+            "User Approval": "0 of 2 users approve, 2 comments"
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "OP translation: effects are good but wording is wierd.\ntiming is scrambled. (ep1)"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bad RAW, bad editing, bad QC, bad script.\nDecent timing though.",
+                    "Great quality ( episode 3 onwards) decent translation, good editing ( not as good as A.F.K tough)"
+                ],
+                "Bad Comments": [
+                    "Stop stealing Mazui's scripts!"
+                ]
+            },
+            "User Approval": "2 of 4 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Suzumiya Haruhi-chan no Yuuutsu",
+            "Show Type": "ONA - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 3 comments"
+        }
+    ]
+}

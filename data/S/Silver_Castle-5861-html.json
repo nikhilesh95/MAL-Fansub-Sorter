@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "Silver Castle",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ougon Yuusha Goldran",
+            "Show Type": "TV - 48 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shippuu! Iron Leaguer",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "This anime would have never been fully subbed if it werent for these guys"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Shippuu! Iron Leaguer: Silver no Hata no Moto ni",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Yuusha Exkaiser",
+            "Show Type": "TV - 48 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        }
+    ]
+}

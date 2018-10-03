@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Get Back Subs",
+        "Short Name": "GetBack",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "10",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "JoJo no Kimyou na Bouken (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 18 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the worst",
+                    "The best one."
+                ],
+                "Bad Comments": [
+                    "Fonts are meh. Also, I know technically there's no official romanization for the Pillar Men, but this is Araki we're talking about. I'm pretty sure he'd use Wham and ACDC. =U"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Terra-Subs",
+        "Short Name": "Terra-Subs",
+        "IRC": "#terra-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Terra e... (TV)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hardsub but good TL and video quality"
+                ],
+                "Bad Comments": [
+                    "Good subs for what they had out."
+                ]
+            }
+        }
+    ]
+}

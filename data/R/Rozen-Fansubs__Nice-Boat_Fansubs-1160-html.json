@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Rozen-Fansubs & Nice-Boat Fansubs",
+        "Short Name": "Rozen-NiceBoat",
+        "IRC": "#Rozen-fansubs@irc.rizon.net & #nice-boat@irc.anisubs.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "1",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "True Tears",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "18 of 19 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great video quality, translation seems to be on the mark, timing/typesetting, etc. all good.  The only negative I can think of would be that the font size is a bit too small.  Other than that, quality release.",
+                    "Found a few mistakes with consistency with the words they use, but good quality 720p at a very low file size, and good karaoke",
+                    "Excellent, flowing translation.",
+                    "Great subs, althought some misspellings are imminent"
+                ],
+                "Bad Comments": [
+                    "Almost unreadable styles, awkward subtitle phrasing that detracts from the overall experience.",
+                    "HQ release... awesome!",
+                    "Noticed only 1 slight mistake."
+                ]
+            }
+        }
+    ]
+}

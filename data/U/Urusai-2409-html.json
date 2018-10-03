@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Urusai!",
+        "Short Name": "Urusai",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "5",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bokura ga Ita",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Overall translation were fine, too many grammer mistakes around 16+, no, not every sentence, but enough to realize half asset work.",
+                    "soooo many grammar mistakes, really horrible to follow :/",
+                    "More spelling mistakes than I made when I was five."
+                ],
+                "Bad Comments": [
+                    "Too many spell and grammar errors. Stay with The Triad.",
+                    "few spelling errors but fine overall"
+                ]
+            }
+        },
+        {
+            "Show Name": "ef: A Tale of Melodies.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great 720p release since THORA dropped theirs and went with 1080p. If you don't want episodes nearly a gig in size, get this. Only downside is that the OPs and EDs are separate files despite the fact that there are no ordered chapters."
+                ],
+                "Bad Comments": [
+                    "720p using Menclave subs. What's to fucking hate?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

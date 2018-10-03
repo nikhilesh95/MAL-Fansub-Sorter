@@ -1,0 +1,109 @@
+{
+    "Group": {
+        "Group Name": "HakkeSHU",
+        "Short Name": "HakkeSHU",
+        "IRC": "#hakkeshu@ irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ao no 6-gou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Betterman",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Seed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bokurano",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gasaraki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good work on the series to brazilian people"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genocyber",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Shinseiki Gundam X",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente trabalho!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Meiou Project Zeorymer",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "AnimeYuki & Conclave Fansubbing",
+        "Short Name": "AnY-Conclave",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "33",
+            "Users Disapprove": "12",
+            "Total": "45"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 22 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "Great job, excellent quality too.",
+                    "Good subbing",
+                    "long sentences doesn't make sense. lots of mistakes with small words as well... and seriously (bossy,conceited) \"erasou\" = \"amazing\" ??? it is more like an insult not a compliment, geez..."
+                ],
+                "Bad Comments": [
+                    "Ayu and Conclave have always had a solid package in all their releases. Natsu no sora is no exception. Top score!",
+                    "nice",
+                    "Only group that actually finished the series. Unfortunately, like everyone else, they use a horrible tv-rip, which seems to be the only encode available. Translation is decent.",
+                    "Perfect timing for the subs and made the experience easy to digest. Fabulous work!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Senjou no Valkyria",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "14 of 23 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "conclave",
+                    "bad translation",
+                    "becous its good",
+                    "Good quality of video and subs. as always with conclave"
+                ],
+                "Bad Comments": [
+                    "Translations are not very good. There's a subtitle comparison of the 4 groups at http://www.fansubbingis.srsfkn.biz/?p=103",
+                    "Conlave=Slowness :-(",
+                    "THIS WILL TAKE FOREVER WEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+                    "Horrible translation."
+                ]
+            }
+        }
+    ]
+}

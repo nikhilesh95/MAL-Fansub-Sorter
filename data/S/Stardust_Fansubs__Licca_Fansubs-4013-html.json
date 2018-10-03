@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Stardust Fansubs & Licca Fansubs",
+        "Short Name": "Stardust-Licca",
+        "IRC": "#stardust@irc.rizon.net | #licca-fansubs@irc.chatspike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai to Yuuki no Pig Girl Tonde Buurin",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "YES! This show needs to be subbed, I need to relive that magic!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

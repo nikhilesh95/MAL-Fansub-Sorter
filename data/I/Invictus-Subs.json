@@ -1,0 +1,120 @@
+{
+    "Group": {
+        "Group Name": "Invictus-Subs",
+        "Short Name": "Invictus",
+        "IRC": "#Invictus-Subs@irc.rizon.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "11",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aku no Hana",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Girls & Panzer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuromajo-san ga Tooru!!",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Life no Color",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku! Ika Musume Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku!! Ika Musume",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku!? Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suika",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tari Tari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Thermae Romae",
+            "Show Type": "TV - 3 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usagi Drop",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good Translation"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

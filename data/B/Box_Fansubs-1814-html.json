@@ -1,0 +1,141 @@
+{
+    "Group": {
+        "Group Name": "Box Fansubs",
+        "Short Name": "BOX",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "36",
+            "Users Disapprove": "1",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "1000-nen Joou: Queen Millennia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Body Jack: Tanoshii Yutai Ridatsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "California Crisis: Tsuigeki no Juuka",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality and visibility."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cherry no Manma",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Choujikuu Romanesque Samy: Missing 99",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Choujin Locke",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "perfect subs all around."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cosmos Pink Shock",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "VHS rip. Literally the only option."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Elf 17",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Distracting spelling errors and iffy translation choices."
+                ],
+                "Bad Comments": [
+                    "No grammar or orthograph error"
+                ]
+            }
+        },
+        {
+            "Show Name": "Katsugeki Shoujo Tanteidan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Position: Halley Densetsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Brilliant subbing job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Kazoku Carlvinson",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Clear and accurate."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umezu Kazuo no Noroi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're the only group who actually went through the trouble of ripping it from an old hardsubbed VHS."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

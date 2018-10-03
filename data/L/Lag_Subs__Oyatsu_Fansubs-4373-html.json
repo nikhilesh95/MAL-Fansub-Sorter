@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Lag Subs & Oyatsu Fansubs",
+        "Short Name": "Lag-Oyatsu",
+        "IRC": "#Lag@irc.rizon.net & #oyatsu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tanken Driland: 1000-nen no Mahou",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "this anime is cool and wonderfull i hope the fansubs make the subs..."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

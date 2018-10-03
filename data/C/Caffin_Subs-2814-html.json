@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Caffin Subs",
+        "Short Name": "Caffin",
+        "IRC": "#Caffinsubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cat Shit One",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Getter Robo",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Despite their slow pace of release, they've stuck with it over the years."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hourou Musuko",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

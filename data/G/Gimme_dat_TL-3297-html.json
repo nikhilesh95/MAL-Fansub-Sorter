@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Gimme dat TL",
+        "Short Name": "Gimme",
+        "IRC": "#gimme@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "4",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "C³",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best",
+                    "Best"
+                ],
+                "Bad Comments": [
+                    "best."
+                ]
+            }
+        },
+        {
+            "Show Name": "Cross Fight B-Daman",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped?",
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Go with MSS"
+                ]
+            }
+        }
+    ]
+}

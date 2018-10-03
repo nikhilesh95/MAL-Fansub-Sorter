@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Hetare Subs",
+        "Short Name": "Hetare",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hetalia World Series",
+            "Show Type": "ONA - 48 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation is a little rough, but overall nice job."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

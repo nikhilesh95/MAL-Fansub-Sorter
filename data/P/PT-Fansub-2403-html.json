@@ -1,0 +1,184 @@
+{
+    "Group": {
+        "Group Name": "PT-Fansub",
+        "Short Name": "PT-Fansub",
+        "IRC": "#pt-fansub@irc.rizon.net",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "2",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baccano!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent subs :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "As legendas estão perfeitas e a qualidade do video está brutal!!!"
+                ],
+                "Bad Comments": [
+                    "They do a awesome work at subbing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "big quality again"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha Gaiden",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ganda qualidade...Nice quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!! Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Best portuguese fansubbers in the world."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Planetes",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Show Type": "TV - 94 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best group"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "são os únicos para já"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiki",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiki Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

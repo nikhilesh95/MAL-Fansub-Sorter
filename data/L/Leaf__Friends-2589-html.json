@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Leaf & Friends",
+        "Short Name": "LEAF & Friends",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kemono to Chat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tutto sommato, niente male."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

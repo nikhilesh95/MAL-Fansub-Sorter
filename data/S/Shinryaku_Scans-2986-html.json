@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Shinryaku Scans",
+        "Short Name": "Shinryaku Scans",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shinryaku! Ika Musume Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not much to translate, but they did a good job. Not surprising since they scanlate the manga too."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

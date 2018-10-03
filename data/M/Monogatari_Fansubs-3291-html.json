@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Monogatari Fansubs",
+        "Short Name": "Monogatari",
+        "IRC": "#monogatari@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "6",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent choice of font. Legible and pleasant to look at. The karaoke is bland, but so is everyone else's. Outstanding editing and typesetting."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 8 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "Because Moshiburner hates it",
+                    "Their Horizon was probably the best. Best font and styling. Typesetting was ridiculously good."
+                ],
+                "Bad Comments": [
+                    "Dropped.",
+                    "Dropped.",
+                    "Not fair that people give Monogatari (NEET-Gatari joint) thumbs down. They did drop the series, unfortunately. That said, they had *the best* Horizon out there. Choose Commie for the rest."
+                ]
+            }
+        }
+    ]
+}

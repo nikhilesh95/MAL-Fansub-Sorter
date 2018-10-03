@@ -1,0 +1,94 @@
+{
+    "Group": {
+        "Group Name": "Anime in Action",
+        "Short Name": "AiA",
+        "IRC": "#anime-in-action@irc.zirc.org",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "38",
+            "Users Disapprove": "0",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Macross 7",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit SD Gundam Mk I",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit SD Gundam Mk II",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit SD Gundam Mk IV",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit SD Gundam's Counterattack",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Yuusha-Ou GaoGaiGar",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Mostly good grammar/punctuation etc. No major problems.",
+                    "The subs are very well-written, and perfectly-timed. They also make good use of different fonts when the situation calls for it.",
+                    "HIKARI NI NARA\nlol typos",
+                    "subs were decent enough to watch the show, thus no complaints."
+                ],
+                "Bad Comments": [
+                    "only ones who did it",
+                    "Translation is accurate except for one or two things. Video quality could be better. Someone should get a hold of the remastered video and apply AiA's translation to it.",
+                    "Clear & easy to read."
+                ]
+            },
+            "User Approval": "17 of 17 users approve, 7 comments"
+        },
+        {
+            "Show Name": "Yuusha-Ou GaoGaiGar Final",
+            "Show Type": "OVA - 8 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great job!",
+                    "Really top notch.",
+                    "good Raw quality,exquisite font,absolute precision."
+                ],
+                "Bad Comments": [
+                    "For being the one to pick this up.",
+                    "they are best",
+                    "Just excellent."
+                ]
+            },
+            "User Approval": "18 of 18 users approve, 6 comments"
+        }
+    ]
+}

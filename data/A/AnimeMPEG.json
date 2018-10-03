@@ -1,0 +1,103 @@
+{
+    "Group": {
+        "Group Name": "AnimeMPEG",
+        "Short Name": "ampg",
+        "IRC": "#animempeg@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "6",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Boys Be...",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Daa! Daa! Daa!",
+            "Show Type": "TV - 78 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "H2",
+            "Show Type": "TV - 41 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross",
+            "Show Type": "TV - 36 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oruchuban Ebichu",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "it pwned",
+                    "they just pwn :D",
+                    "needless translation notes and translations, the translation notes give away the jokes. assholes",
+                    "Useless translation notes that were only helpful rarely. Gave away the jokes and just took up time",
+                    "They offer clear and concise translations, and the cultural reference inserts are not nearly as obstructive as some other subbers, so it's easy and refreshing to watch."
+                ],
+                "Bad Comments": [
+                    "handy TL notes and generally very professional. shame that the vid quality wasnt all that",
+                    "great translator notes",
+                    "Several mintes of needless TNs before each episode, bad encodes, couldn't translate ED. Best thing they did with the show was stop subbing it so a better group could step in.",
+                    "3-4 minutes of translator's notes to start off the show. Fuck off, Jesus Christ.",
+                    "Good explanation of jokes people not associated with Japanese culture would not usually understand"
+                ]
+            },
+            "User Approval": "21 of 27 users approve, 10 comments"
+        },
+        {
+            "Show Name": "Photon",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Spriggan",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "The SoulTaker: Tamashii-gari",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

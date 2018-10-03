@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Kaizou Fansubs",
+        "Short Name": "Kaizou",
+        "IRC": "#kaizoufansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 10: Requiem of the Detectives",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 04: Conan and Kid and Crystal Mother",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Kiri no Elusive",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Part III",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

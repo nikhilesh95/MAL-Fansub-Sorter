@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Anime-Empire & Anime-Keep",
+        "Short Name": "A-E&A-Keep",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "40",
+            "Users Disapprove": "3",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakuretsu Tenshi",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kono Minikuku mo Utsukushii Sekai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some TL errors become obvious when compared to the ADV subs, but generally good."
+                ],
+                "Bad Comments": [
+                    "The opening theme for Konomimi has subtitles in English and Japanese, both romanji and kanji. Episode titles as well as any text in the anime are all translated, but not in a way that would be obtrusive. Good timing as well."
+                ]
+            }
+        },
+        {
+            "Show Name": "Onegai☆Twins",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingetsutan Tsukihime",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "26 of 29 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs",
+                    "Excellent",
+                    "Awesome release, don't pay attention to the troll. Translation's one of the best I've seen."
+                ],
+                "Bad Comments": [
+                    "Now that I actually KNOW japanese I see the lousy job you did translating this...... man it REALLY is BAD.",
+                    "Translated perfectly"
+                ]
+            }
+        }
+    ]
+}

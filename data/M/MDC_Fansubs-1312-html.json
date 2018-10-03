@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "MDC Fansubs",
+        "Short Name": "MDC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lamune",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "GOOD QUALITY SUBS here+++NO ERRORS",
+                    "silly translation mistakes"
+                ],
+                "Bad Comments": [
+                    "Good, also has honorifics.",
+                    "Easily available. DVD encode."
+                ]
+            }
+        }
+    ]
+}

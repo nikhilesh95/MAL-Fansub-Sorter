@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "No Name Losers",
+        "Short Name": "NNL",
+        "IRC": "None (defunct)",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ef: A Tale of Memories. - Prologue",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mizuiro (2003)",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent subs"
+                ],
+                "Bad Comments": [
+                    "Read above post."
+                ]
+            }
+        },
+        {
+            "Show Name": "Wind: A Breath of Heart",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "NNL subbed everything relating to Wind, including the game, and they did an excellent job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wind: A Breath of Heart (TV)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wind: A Breath of Heart OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

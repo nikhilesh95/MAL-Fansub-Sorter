@@ -1,0 +1,109 @@
+{
+    "Group": {
+        "Group Name": "Fuuton Fansub",
+        "Short Name": "Fuuton",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "7",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amagami SS+ Plus",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoi Sekai no Chuushin de",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haiyore! Nyaruko-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ixion Saga DT",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Psycho-Pass",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Collection",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fansub Encerrado."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsuritama",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zetsuen no Tempest",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great karaoke, effects and translation."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

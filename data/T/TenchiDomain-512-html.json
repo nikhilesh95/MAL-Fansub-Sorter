@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "TenchiDomain",
+        "Short Name": "TD",
+        "IRC": "#tenchidomain@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "8",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maison Ikkoku",
+            "Show Type": "TV - 96 episodes",
+            "User Approval": "3 of 11 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Too much of the dialogue was skipped, numerous errors",
+                    "Did not sub every line when a character was talking.  Sometimes the subs would be incoherent.",
+                    "Translated into English, but their English lacks elegance.  It's as if they threw all dialogue into an online translator.  Also occasional skipped lines.  An honest effort, but you can find better.",
+                    "They are inconsistent, skip lines and sometimes have random letters and numbers for words."
+                ],
+                "Bad Comments": [
+                    "Awful timing (bleeding over 2 scenes), missing lines, untranslated words, editing almost non-existent.",
+                    "An honest fansub of this show. Not the greatest though. Translations are fine, but video quality eats dick, and some lines are left out and untranslated. Not too big of a deal, but gets annoying sometimes.",
+                    "The timing is quite bad, they often skip dialogue lines and it looks as it was done by someone who didn't even know how to speak english correctly.",
+                    "-Didn't translate some lines\n-Weird timing on the subs\n-Quite a few typos\n-Intro vid is a little long if you're too lazy to skip it"
+                ]
+            }
+        }
+    ]
+}

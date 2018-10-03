@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "OMG UNICORNS!",
+        "Short Name": "OMG",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo",
+            "Show Type": "TV - 148 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Awful.."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "Figmentos",
+        "Short Name": "Fig",
+        "IRC": "#figment@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "4",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Front Innocent: Mou Hitotsu no Lady Innocent",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kemonozume",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The only good batch I could find (2016)",
+                    "Is said to use AnimeForever's subs. Seems good."
+                ],
+                "Bad Comments": [
+                    "hardsubs + poor translation choices"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Monster",
+            "Show Type": "TV - 74 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "A typo per episode @ minimum.",
+                    "DVDrip using Soldats subs",
+                    "soldats+DVD Quality best group to go with.",
+                    "HQ DVDRip w/ Soldats + Anime-Kraze subs. Best release.",
+                    "One of the only subs that works"
+                ],
+                "Bad Comments": [
+                    "HQ DVDRip w/ Soldats + Anime-Kraze subs. Best release.",
+                    "A few misspellings here and there, but overall it's very good.",
+                    "Good",
+                    "Few typo's but good enough!"
+                ]
+            },
+            "User Approval": "21 of 23 users approve, 9 comments"
+        },
+        {
+            "Show Name": "Yokohama Kaidashi Kikou",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good release"
+                ],
+                "Bad Comments": [
+                    "There is a frame frozen from 18:39 to 19:30, almost one minute."
+                ]
+            },
+            "User Approval": "3 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good release"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

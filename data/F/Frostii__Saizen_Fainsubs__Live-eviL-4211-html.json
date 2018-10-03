@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Frostii & Saizen Fainsubs & Live-eviL",
+        "Short Name": "FroZen-EviL",
+        "IRC": "#frostii@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yawara!",
+            "Show Type": "TV - 124 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "All 124 episodes completed. Goddamn."
+                ],
+                "Bad Comments": [
+                    "Complete."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yawara! Sore Yuke Koshinuke Kids!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

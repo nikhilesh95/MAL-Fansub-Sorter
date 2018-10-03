@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Ureshii Anime Fansub, Froth-Bite & AnimeONE",
+        "Short Name": "Frostii&AonE",
+        "IRC": "#frostii@irc.rizon.net #AnimeONE@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "1",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Daa! Daa! Daa!",
+            "Show Type": "TV - 78 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": [
+                    "Best sub for this show."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile: Paris-hen",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's alright. But ffs, episode 9, Paris != Switzerland...what's the deal with not knowing that when you got Google."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

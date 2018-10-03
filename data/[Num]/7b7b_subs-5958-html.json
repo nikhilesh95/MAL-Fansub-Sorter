@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "7b7b subs",
+        "Short Name": "7b7b",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "3",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Handa-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Junkers Come Here",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mob Psycho 100",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "الترجمة نار",
+                    "نار وشرار"
+                ],
+                "Bad Comments": [
+                    "ترجمة رهيييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييبة"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Serious Business Fansubs",
+        "Short Name": "SBS",
+        "IRC": "#SeriousBusiness@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "0",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mushi-Uta",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "26 of 26 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because for them fansubbing is a serious business",
+                    "great! :)",
+                    "They take their shit seriously",
+                    "They did a good job"
+                ],
+                "Bad Comments": [
+                    "ddl is provided by them! =)",
+                    "they were on time.",
+                    "Good."
+                ]
+            }
+        }
+    ]
+}

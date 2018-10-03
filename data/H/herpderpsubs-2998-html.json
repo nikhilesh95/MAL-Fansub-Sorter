@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "herpderpsubs",
+        "Short Name": "HD-subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "41",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kore wa Zombie Desu ka? OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 43 users approve, 17 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Appreciate the effort but you had so many mistranslations. I can live with spelling / grammar mistakes but at least don't make translation mistakes that most veteran anime watchers notice in a glimpse.",
+                    "Inconsistencies, missed signs/captions, translation errors anyone would notice, and LOTS of spelling and grammar errors. HerpDerp, indeed.",
+                    "What everyone else said...",
+                    "needs improvement. But not a bad attempt",
+                    "Terrible syntax, grammatical, and written errors. From what I could catch, some lines weren't even translated",
+                    "Absolutely awful English.",
+                    "Many sentences were quite incoherent and several spelling mistakes were present.",
+                    "I don't mind minor grammar..",
+                    "LOL, SO MUCH RED :D"
+                ],
+                "Bad Comments": [
+                    "Bad translation, inconsistent name spellings, awful grammar... need I go on?",
+                    "Worst subs I've sen in a while. Translator knows no japanese.",
+                    "Even running the lines through Google translate makes more sense.",
+                    "Flat out terrible",
+                    "It’s like watching CoalGuys and Doki sub together, it’s terrible. It can't be helped.",
+                    "Terrible grammar, terrible spelling, names were spelled differently throughout the episode, names weren't capitalized, sentences were often not capitalized, syntax was abysmal, lackadaisical interpunction.",
+                    "Horrible, unforgivable English usage errors used throughout the course of the episode.",
+                    "Bad grammar and syntax."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Anime Urchins",
+        "Short Name": "Urchins",
+        "IRC": "#anime-urchins@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Touma Kishinden Oni",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Versailles no Bara",
+            "Show Type": "TV - 40 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Not Bad"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

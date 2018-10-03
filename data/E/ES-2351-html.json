@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "ES",
+        "Short Name": "ES",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "3",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "9 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they could use some karaoke but the subs are totally good :)",
+                    "Awful quality, bad choice of words, grammar errors, spelling errors, timing errors etc etc. Don't watch it, gg's loads better."
+                ],
+                "Bad Comments": [
+                    "no errors in their mkv releases",
+                    "http://www.ji-hi.net/kobato/\n\nBleh... :\\"
+                ]
+            }
+        }
+    ]
+}

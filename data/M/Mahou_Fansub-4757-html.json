@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "Mahou Fansub",
+        "Short Name": "MF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They do a correct translation with nice subs that makes watching it enjoyable."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

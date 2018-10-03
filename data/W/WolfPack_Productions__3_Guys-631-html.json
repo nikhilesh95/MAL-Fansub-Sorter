@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "WolfPack Productions & 3 Guys",
+        "Short Name": "WPP&3-G",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "7",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Adventure",
+            "Show Type": "TV - 54 episodes",
+            "User Approval": "6 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs correspond to the original text, and there is no censorship.",
+                    "The overall video quality is not so great and sometimes subs are mistimed or missing at all. Additionally, they're rather slow and Ryuu-Rogue's already finished."
+                ],
+                "Bad Comments": [
+                    "\"Translation\" does not mean \"Translate half the words and explain the other half with notes\". These guys leave in FAR too many japanese words that are perfectly translatable."
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure 02",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "4 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Might as well be dropped, and what they did sub wasn't all that great."
+                ],
+                "Bad Comments": [
+                    "It's not like there was any choice, but their subs occasionally seem mistimed or are missing compeltely... also, the video quality could be better. The project also seems to be kind of on hiatus."
+                ]
+            }
+        }
+    ]
+}

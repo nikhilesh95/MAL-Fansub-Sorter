@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Seiki Subs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Porphy no Nagai Tabi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped"
+                ],
+                "Bad Comments": [
+                    "Good work, but extremely slow. At this point no-one is even sure it will be finished. So, before anyone gets too excited, check Seiki Subs website to make sure more progress is happening!"
+                ]
+            }
+        }
+    ]
+}

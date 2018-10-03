@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Karyuudo Fansubs",
+        "Short Name": "Karyuudo",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Beast Wars Second Chou Seimeitai Transformers",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pretty good subs!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chou Seimeitai Transformers Beast Wars Metals: Convoy Daihenshin!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Transformers Micron Densetsu",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "quality release"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Transformers Zone",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Transformers: Car Robots",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs. The only group that is subbing this!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

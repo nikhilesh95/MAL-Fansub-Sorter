@@ -1,0 +1,124 @@
+{
+    "Group": {
+        "Group Name": "Baaro Fansubs",
+        "Short Name": "Baaro",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "81",
+            "Users Disapprove": "15",
+            "Total": "96"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Crystal",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "12 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Watch official stream"
+                ],
+                "Bad Comments": [
+                    "not liberally translated unlike other subbing groups did. edited the official subs a bit and wrote back the honorifics i.e. -sensei, -oniisan, -san"
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really good translations. Decent rips. Can't get better than that. ^^ Keep up the good work, mate."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai (2014)",
+            "Show Type": "TV - 61 episodes",
+            "User Approval": "54 of 63 users approve, 20 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast releases, good translation and use of DBZ-related terms.",
+                    "Baaro decided to filter the colors trying to 'improve' it, but washed away fine details leaving their encode less crisp.",
+                    "Decent, quite fast subs.",
+                    "Superb quality. best version.",
+                    "Fast releases",
+                    "Dropped after episode 43.",
+                    "Quality releases.",
+                    "Last release has been quite a while ago.",
+                    "you are the best!",
+                    "Quality encode and subs, definitely recommended."
+                ],
+                "Bad Comments": [
+                    "Dropped.",
+                    "Better than Hatsuyuki.",
+                    "dropped",
+                    "They did a very good job, but they dropped it halfway through. Unison subs completed it though.",
+                    "Their subs come out fast and have good quality.",
+                    "Done most episodes.",
+                    "doing a really great job with the finer details when no one else picked up this show for english subs",
+                    "faster than bakayuki!",
+                    "they are not behind by several weeks...",
+                    "Dropped it like it's hot"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Movie 1: Shen Long no Densetsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Movie 3: Makafushigi Daibouken",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Movie 4: Saikyou e no Michi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaitou Saint Tail",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Part III",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

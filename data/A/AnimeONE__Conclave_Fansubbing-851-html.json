@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE & Conclave Fansubbing",
+        "Short Name": "AonE-Conclave",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "121",
+            "Users Disapprove": "18",
+            "Total": "139"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "41 of 44 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "AonE always gives quality releases",
+                    "Simply best",
+                    "couldn't have been done in any better way"
+                ],
+                "Bad Comments": [
+                    "fast and accurate",
+                    "Better than Kuro-Hana by just a bit. Slightly better font and quality. And they finished the series!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nabari no Ou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "72 of 83 users approve, 22 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Greatness",
+                    "the bomb",
+                    "Best (translation-wise)",
+                    "nice subs, very understandable.",
+                    "too slowwwwwwwwwwww",
+                    "Superb translation",
+                    "Well done on the translations!",
+                    "good qualitys fan subs :)",
+                    "Terrible",
+                    "DROPPED ~_~",
+                    "The subs are neat, easy to read, and just big enough so you don't have to squint, but small enough so they don't take up the page.  Also, everything is translated nicely."
+                ],
+                "Bad Comments": [
+                    "good quality video, and good translations",
+                    "*sigh* Have to change my opinion to negative after seeing episode 3. There were some grammar mistakes ie. words missing mid-sentence that were really noticable. Do these guys have a QC team?",
+                    "Best subs of the series, high quality video, excellent translation.",
+                    "Consistently great quality and the best choice for this series. ^_^",
+                    "good choice of font, color, etc. no grammar mistakes so far",
+                    "undefined",
+                    "The typset of signs was really poorly done.  Not the quality you'd expect from Conclave.  However the tl is very well put, very localizied for the most part, so you're not always looking at the top for notes.  The encoding of the video is very medicore at",
+                    "Faithful to translation.",
+                    "slower, but top quality",
+                    "Always accurate and they take the time to get it right",
+                    "dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Seikai no Senki III",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great translation and the director's cut. It only took them four years to sub it.",
+                    "weird names"
+                ],
+                "Bad Comments": [
+                    "Wrong names."
+                ]
+            }
+        }
+    ]
+}

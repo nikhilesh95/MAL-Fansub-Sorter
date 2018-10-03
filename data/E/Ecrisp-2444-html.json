@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Ecrisp",
+        "Short Name": "Ecrisp",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "4",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "5 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not quite as good as Eclipse, but close. Much, much better than Tomodachi and the rest who are still doing it. I'd be satisfied archiving Ecrisp alongside Eclipse if Eclipse doesn't make a comeback."
+                ],
+                "Bad Comments": [
+                    "A damn fine job. FAST AS FUUUUUUUUCK."
+                ]
+            }
+        }
+    ]
+}

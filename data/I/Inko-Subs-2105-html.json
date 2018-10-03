@@ -1,0 +1,155 @@
+{
+    "Group": {
+        "Group Name": "Inko-Subs",
+        "Short Name": "Inko",
+        "IRC": "#inko@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "6",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aki-Sora",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arakawa Under the Bridge",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven: Pocket ga Niji de Ippai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Higepiyo",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Inbo",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Inko",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kämpfer",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "super quali, super subs! super schnell =D"
+                ],
+                "Bad Comments": [
+                    "Release usually"
+                ]
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Love Selection The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Mahou Sensei Negima! Mou Hitotsu no Sekai",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Nodame Cantabile",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Sora no Manimani",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "^lol, they always said that the original script/timing is from gg."
+                ],
+                "Bad Comments": [
+                    "Okay translations, but stealing script/timelines etc from gg. Liars. Won't even acknowledge it when asked directly."
+                ]
+            },
+            "User Approval": "3 of 7 users approve, 2 comments"
+        }
+    ]
+}

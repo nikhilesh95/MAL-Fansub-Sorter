@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "YSOSRS",
+        "Short Name": "YSOSRS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "1",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "12 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Many untranslated lines and mistranslations."
+                ],
+                "Bad Comments": [
+                    "I'm sure the subs were already hardsubbed when it released on the psn, can't really blame them."
+                ]
+            }
+        }
+    ]
+}

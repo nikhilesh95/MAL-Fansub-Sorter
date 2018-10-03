@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Aho-Neko Subs",
+        "Short Name": "Aho-Neko Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "7",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "34 of 41 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they make it in 720p in avi not mkv.",
+                    "Subtitles are small and given both a color outline AND a shadow drop making it hard to read. Despite being 1280, it's released only in xvid making it impossible to change subs",
+                    "grats to whomever is their editor, nice clear and Humorous sentences, also nice TL'ing. Only problem is that their subs are difficult to read. simple black and white would be better IMO",
+                    "There first project but nice release speed and easy to read subs.",
+                    "too much color, keep the subs simple"
+                ],
+                "Bad Comments": [
+                    "Nice work, great release.",
+                    "HD only = epic fail",
+                    "Because they make it in 720p in avi not mkv.",
+                    "720p AVIs, no spelling mistakes"
+                ]
+            }
+        }
+    ]
+}

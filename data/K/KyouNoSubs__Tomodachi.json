@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "KyouNoSubs & Tomodachi",
+        "Short Name": "KNS-TMD",
+        "IRC": "#Tomodachi @ irc.rizon.net / #kyounosubs @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "11",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "8 of 18 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad",
+                    "Shit",
+                    "Now they are releasing under Tomodachi  & AsuNoSubs [TMD-ASU] and you know what? They are not bad.",
+                    "great quality and  very good translation"
+                ],
+                "Bad Comments": [
+                    "to bad these guys rating is getting trolled. their subs are the same quality as eclipse",
+                    "shitsux",
+                    "Great sub, translation, editing, everything all spot on."
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsu no Arashi!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

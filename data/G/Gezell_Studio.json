@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Gezell Studio",
+        "Short Name": "Gezell",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "3",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hibike! Euphonium",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Kanata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

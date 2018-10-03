@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "DigitalSubs",
+        "Short Name": "DigitalSubs",
+        "IRC": "#Digital@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "17",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Durarara!!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "REALLY small",
+                    "Text formatting kills x.x"
+                ],
+                "Bad Comments": [
+                    "ecliptic is better",
+                    "Had to use an electron microscope to view the subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "7 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have some translation mishaps, but seeing how it's mostly about the nicknames the characters give each other, I can live with that. awesome all around otherwise.",
+                    "Pretty good, might've seen some errors.",
+                    "Lots of grammar errors, especially your/you're."
+                ],
+                "Bad Comments": [
+                    "Not very smart, unfitting and not well translated.",
+                    "Crunchyroll rip. Good quality tho",
+                    "Good fan-subs they subbed  84-145"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanasakeru Seishounen",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shangri-La",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tatakau Shisho: The Book of Bantorra",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoku Wakaru Gendai Mahou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

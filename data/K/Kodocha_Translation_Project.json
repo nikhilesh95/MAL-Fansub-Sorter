@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Kodocha Translation Project",
+        "Short Name": "KTP",
+        "IRC": "#Kodocha@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "1",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kodomo no Omocha (TV)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "10 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice translations",
+                    "nothing ^^ but there better than the rest"
+                ],
+                "Bad Comments": [
+                    "Love the purple tapes!",
+                    "garbage translation, being the only choice doesn't make it good."
+                ]
+            }
+        }
+    ]
+}

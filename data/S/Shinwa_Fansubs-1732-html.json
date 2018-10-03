@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Shinwa Fansubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gunslinger Girl: Il Teatrino",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Serviço de tadução excelente. Usam uma fonte de legenda que combina com o anime."
+                ],
+                "Bad Comments": [
+                    "No portuguese errors,good sincronizated."
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Perfect Blue",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Elysion-hen",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

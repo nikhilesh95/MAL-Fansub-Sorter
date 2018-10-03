@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Ayako Fansubs & Your-Mom",
+        "Short Name": "Ayako-YM",
+        "IRC": "irc://irc.rizon.net/Ayako",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shakugan no Shana II (Second)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sentences are translated logically as opposed to ss "
+                ],
+                "Bad Comments": [
+                    "Very good subs which made sense unlike many other fansub groups."
+                ]
+            }
+        }
+    ]
+}

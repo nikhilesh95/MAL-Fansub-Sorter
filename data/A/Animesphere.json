@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Animesphere",
+        "Short Name": "ASE",
+        "IRC": "#animesphere@irc.isprime.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Melty Lancer",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

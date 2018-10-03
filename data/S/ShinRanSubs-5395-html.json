@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "ShinRanSubs",
+        "Short Name": "SRS",
+        "IRC": "#shinran@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "10",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "11 of 21 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're one of the few fansub groups still subbing the latest episodes, and also release revised versions later to correct spelling and whatnot.",
+                    "Incorrect translation and also doesn't translate the names of the minor characters introduced in each episode.",
+                    "They make up words from their own. Remove honorifics. Americanize the show way too much (but less than CR, OC)",
+                    "Hadena-tier grammar and seemingly Hadena-tier translations too. This hurt to watch.",
+                    "because"
+                ],
+                "Bad Comments": [
+                    "The translation is far from accurate in so many different instances. The hard work is appreciated but making up stuff to release fast is definitely NOT",
+                    "because what?",
+                    "They teamed up with Hubuki, not often you see that kind of teamwork between fansubs.",
+                    "Very inconsistent. Some episodes have spelling and grammar mistakes all over them. Also doesn't sub the next episode previews."
+                ]
+            }
+        }
+    ]
+}

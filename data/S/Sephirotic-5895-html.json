@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Sephirotic",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "11",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kizumonogatari I: Tekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 11 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tried to be funny and made silly jokes throughout the translations. Takes the viewer out of the scene",
+                    "There is very little difference between these subs and the official English translation of the Kizumonogatari novel. If there are ever official subs, they likely will differ little from these.",
+                    "Bad encode and even worse \"translation\""
+                ],
+                "Bad Comments": [
+                    "made up",
+                    "Not something special, but whoole universe better than commie."
+                ]
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "High quality properly color-corrected encodes with good subs."
+                ],
+                "Bad Comments": [
+                    "Modified official subs, quality translation and typesetting, best release out there."
+                ]
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: Death & Rebirth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subtitle timing off by multiple seconds sometimes, and multiple lines were not even subtitled."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: The End of Evangelion",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "TRANSCENDENT"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "12K Translation Project",
+        "Short Name": "12K-TP",
+        "IRC": "#12ktp@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Juuni Kokuki",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "10 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did an excellent and accurate  translation of this complex, dialouge-heavy series. I fully-heartedly approve. =)"
+                ],
+                "Bad Comments": [
+                    "Neat, clean script. Nothing too fancy and distracting. Perfect subbers for such a complex and dialouge-heavy series. A "
+                ]
+            }
+        }
+    ]
+}

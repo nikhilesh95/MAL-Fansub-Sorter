@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Little Black Butterflies",
+        "Short Name": "LBB",
+        "IRC": "#LWB@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kakumeiki Valvrave",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "You wouldn't believe the shock on my face when I saw this in their RSS feed.",
+                    "More than a few weird lines, but definitely the fastest (~1 hr after raw release).",
+                    "best available GG sucks"
+                ],
+                "Bad Comments": [
+                    "Upvoting for LWB and their fethishes",
+                    "Subs seemed fairly accurate, even if the encoding was shit."
+                ]
+            }
+        }
+    ]
+}

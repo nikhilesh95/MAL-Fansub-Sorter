@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Unmei no Woto",
+        "Short Name": "UnW",
+        "IRC": "",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

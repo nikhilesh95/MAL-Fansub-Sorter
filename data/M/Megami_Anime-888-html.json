@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Megami Anime",
+        "Short Name": "Megami",
+        "IRC": "#Megami-Anime@irc.Rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "1",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baldr Force Exe Resolution",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only subs I could find that are still on the net (Able to be downloaded). Quality seems decent."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Getsumen To Heiki Mina",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very well done. Excellent font, easy to read."
+                ],
+                "Bad Comments": [
+                    "Great quality for the most part. (And only group who completed it =p)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Giant Killing",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horribly slow, and subs aren't that good.\nFFFpeeps for speed, or Anbu for quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zegapain",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

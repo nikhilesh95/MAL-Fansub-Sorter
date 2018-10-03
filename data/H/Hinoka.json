@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Hinoka",
+        "Short Name": "Hinoka",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kami nomi zo Shiru Sekai: Tenri-hen",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "First group to sub! And they did the OVA justice!"
+                ],
+                "Bad Comments": [
+                    "Not the first group to sub, lol. But it's better HShocks release."
+                ]
+            },
+            "User Approval": "4 of 4 users approve, 2 comments"
+        }
+    ]
+}

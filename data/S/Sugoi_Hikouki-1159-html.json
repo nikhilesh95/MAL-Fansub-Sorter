@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Sugoi Hikouki",
+        "Short Name": "SuHi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "2",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "User Approval": "23 of 25 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, easy to read, all round excellent job.",
+                    "brilliant sub",
+                    "Freaking BRILLIANT translation. Incredibly well done! Excellent timings, excellent release quality... Highly recommended.",
+                    "coz i is black?",
+                    "Great subs for a shitty movie."
+                ],
+                "Bad Comments": [
+                    "Wonderful video quality, great subs that fit the atmosphere",
+                    "Excellent sub, with easy to read typesetting! It looks like professional-quality subbing!",
+                    "Very poor translations--inaccurate wording and placement, and hard subs that are the same font the whole way through. Not recommended for anyone who knows any amount of Japanese, or anyone who takes this movie as a serious piece of art.",
+                    "No spelling mistakes as far as I could remember. It feels as if the movie wasn't translated.. like it was an English movie itself. :)",
+                    "Very large translation errors that completely change the viewer's perception of what the scene is about at some points.  The same font/colour used throughout."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "aRK Fansubs",
+        "Short Name": "aRK",
+        "IRC": "#aRK@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "6",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Highschool of the Dead",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 15 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Is this show even ON CR??? There are other legitimate streaming sites/companies, ya know.",
+                    "Somebody sure is butthurt.",
+                    "WTF IS THIS SHIT"
+                ],
+                "Bad Comments": [
+                    "The person who translated the manga said his own translations were inaccurate and that the official subs are good. Don't use his to TL check the official subs.",
+                    "CR rips",
+                    "gives credit for the subs to horriblesubs, coalguys and even commiesubs..."
+                ]
+            }
+        }
+    ]
+}

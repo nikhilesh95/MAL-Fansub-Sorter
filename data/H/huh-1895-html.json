@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "huh?!",
+        "Short Name": "huh",
+        "IRC": "#huh?!@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ristorante Paradiso",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "huh?!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

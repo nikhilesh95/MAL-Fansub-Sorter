@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "XCAMISADOXX",
+        "Short Name": "XCAMISADOXX",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Diabolik Lovers",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Diabolik Lovers Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

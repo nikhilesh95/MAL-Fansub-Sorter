@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "FanBoy-Subs",
+        "Short Name": "FB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Crayon Shin-chan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dead"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they subbed it"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

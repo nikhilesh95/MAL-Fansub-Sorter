@@ -1,0 +1,127 @@
+{
+    "Group": {
+        "Group Name": "Soldado",
+        "Short Name": "Soldado, Soldado-Subs",
+        "IRC": "#Soldado-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "52",
+            "Users Disapprove": "3",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Doubutsu no Mori",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Much better Encoding than Tatertotz and 480p ~sukanime",
+                    "Good encoding, good translations, I noticed two grammatical errors, but nothing too bad."
+                ],
+                "Bad Comments": [
+                    "Clearly the best option."
+                ]
+            }
+        },
+        {
+            "Show Name": "Full Moon wo Sagashite",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "9 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very high quality release! Original subs from a.f.k, but better vdo and signs and karaoke, everything softsubbed. has second track too without karaoke for slow processors.",
+                    "Great to see a high quality version of this finally come out!",
+                    "Dvdrip quality with a.f.k. subs, improved karaoke, what more could you ask?"
+                ],
+                "Bad Comments": [
+                    "+",
+                    ">those sub colors"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hikaru no Go",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Loveless",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ninkuu",
+            "Show Type": "TV - 55 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only group to continue subbing this series! Please finish it!"
+                ],
+                "Bad Comments": [
+                    "Only hope for the rest of the series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ninkuu (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon XY",
+            "Show Type": "TV - 93 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shamanic Princess",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "21 of 22 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Minor typos, but a solid release nonetheless.",
+                    "Good job. Good subs and video quality ^^"
+                ],
+                "Bad Comments": [
+                    "Good release",
+                    "Tremendous job subbed with class."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Elite-Anime",
+        "Short Name": "Elite",
+        "IRC": "#elite-anime@irc.dal.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hajime no Ippo",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "i like that"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

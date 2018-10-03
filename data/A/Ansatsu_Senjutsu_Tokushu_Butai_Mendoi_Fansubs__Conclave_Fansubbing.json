@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Ansatsu Senjutsu Tokushu Butai, Mendoi Fansubs & Conclave Fansubbing",
+        "Short Name": "ANBU-Menclave",
+        "IRC": "#anbudom@irc.rizon.net & #menclave@irc.​​​​​rizon.​​​​​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "46",
+            "Users Disapprove": "9",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "41 of 47 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Karaoke's pretty... but editing, styling and other areas lack quite a bit.",
+                    "Worth the waiting. Insane quality.",
+                    "Expect nothing more but positive, maybe the release speed will be a bit slower.",
+                    "Good quality overall.",
+                    "It's perfect. Even the translation of the OP flows really well.",
+                    "Encode looks like shit.",
+                    "the fuckin bset"
+                ],
+                "Bad Comments": [
+                    "576p, great hardsubbed kara, no troll-like behavior = quality release. Only styling flaw is 1-pixel borders.",
+                    "Great quality and translation with some nice typesetting. 8/10",
+                    "Better translations than gg",
+                    "Looks good but there are a few translations that really don't make any sense. Minor though. Timing was a little fast a couple of times I had to pause. But that happens. Can't wait for their next installment.",
+                    "Great subs as expected from two quality groups. Logo and kara are nice touches, translation is nice too.",
+                    "Great job from these guys, as usual",
+                    "Quality translations.  Not random commercials inserted like gg..."
+                ]
+            }
+        },
+        {
+            "Show Name": "White Album",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it works",
+                    "pewpew subs"
+                ],
+                "Bad Comments": [
+                    "slow as hell and lousy translation compared to eclipse."
+                ]
+            }
+        }
+    ]
+}

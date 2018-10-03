@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "KB",
+        "Short Name": "KB",
+        "IRC": "#KB@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Beautifully done. Best for archival purposes.",
+                    "Superb"
+                ],
+                "Bad Comments": [
+                    "Perfect quality.",
+                    "Brilliant video and audio quality and flawless subs. Highly recommended."
+                ]
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop: Tengoku no Tobira",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Trigun",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

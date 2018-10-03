@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Seto Otaku & Hiryuu",
+        "Short Name": "Seto Otaku-Hiryuu",
+        "IRC": "#hiryuu@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hyakka Ryouran: Samurai Girls",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakka Ryouran: Samurai Girls Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

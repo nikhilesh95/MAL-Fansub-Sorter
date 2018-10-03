@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "POTUS",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "2",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Funimation's RIP turned into MKV."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Higepiyo",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Monster",
+            "Show Type": "TV - 74 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Phantom: Requiem for the Phantom",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Sengoku Basara",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Texhnolyze",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        }
+    ]
+}

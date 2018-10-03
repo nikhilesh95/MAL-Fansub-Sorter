@@ -1,0 +1,134 @@
+{
+    "Group": {
+        "Group Name": "RisingSun Fansubs",
+        "Short Name": "RisingSun",
+        "IRC": "#risingsun@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "2",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The OVA: Arietta",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bokusatsu Tenshi Dokuro-chan 2",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "great sub, nice video"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Heroman",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ichigo Mashimaro OVA",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Super Quality",
+                    "Here is writtet that is  german and then it was a turkey sub-team xD",
+                    "Nice qualiti in a god german"
+                ],
+                "Bad Comments": [
+                    "logical translation, with good side-explanations of some not-so-well-known facts.",
+                    "just.. no."
+                ]
+            },
+            "User Approval": "7 of 8 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "from vorbis to aac, wtf?"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The subbing is correct, and the jokes are also funny"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Pugyuru",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "True Tears",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Usagi-chan de Cue!!",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

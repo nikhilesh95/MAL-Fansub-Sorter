@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Inuba-SayaSubs",
+        "Short Name": "ISS",
+        "IRC": "#ISS@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "6",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nanatsu no Taizai",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "19 of 25 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group to use after Chyuu... They carried this series afterwards. Only use FBI if you like trollsubs.",
+                    "Don't listen to the guy who said he knows japanese and that these subs are worse than FBIs. ISS's translation is very direct and I didn't notice any notable mistakes. Had I known how good these subs are I would've watched this show a lot earlier.",
+                    "Inaccurate as fuck... FedSubs more reliable since Chyuu is dead"
+                ],
+                "Bad Comments": [
+                    "These subs are bad. They're more inaccurate than the current FedSubs. As a person who knows JP, ISS tends to fuck up a lot mroe than FedSubs. Chyuu > Fed > ISS in terms of accuracy.",
+                    "Great alternative to Chyuu.",
+                    "Best alternative to Chyuu if you can't wait"
+                ]
+            }
+        }
+    ]
+}

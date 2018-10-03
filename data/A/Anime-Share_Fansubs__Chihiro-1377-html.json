@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Anime-Share Fansubs & Chihiro",
+        "Short Name": "ASF-Chihiro",
+        "IRC": "#AS-Fansubs@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "4",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best release so far, a definate re-watch for this group. hope they pick up the speed. kristen is hawt *has pix*"
+                ],
+                "Bad Comments": [
+                    "Good quality and nicely translated"
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "excellent video quality",
+                    "Good quality and nicely translated"
+                ],
+                "Bad Comments": [
+                    "Like the Fon't better than SS-Eclipse also the words are pretty simple to understand",
+                    "Dropped"
+                ]
+            }
+        }
+    ]
+}

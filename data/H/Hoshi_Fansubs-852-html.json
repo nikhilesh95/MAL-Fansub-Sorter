@@ -1,0 +1,122 @@
+{
+    "Group": {
+        "Group Name": "Hoshi Fansubs",
+        "Short Name": "Hoshi",
+        "IRC": "#hoshi@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "2",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cardcaptor Sakura",
+            "Show Type": "TV - 70 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Deltora Quest",
+            "Show Type": "TV - 65 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fruits Basket",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Innocent Venus",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jyu Oh Sei",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "SO COOOL ;\"\")"
+                ],
+                "Bad Comments": [
+                    "ترجمة مميزة وأنمي مميز"
+                ]
+            }
+        },
+        {
+            "Show Name": "Les Misérables: Shoujo Cosette",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Muteki Kanban Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great & accurate subs but they dropped after ep.3 (T_T)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nijuu Mensou no Musume",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "9 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Third: Aoi Hitomi no Shoujo",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great Trans , Thanks"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Winter Garden",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

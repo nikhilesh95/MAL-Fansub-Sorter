@@ -1,0 +1,88 @@
+{
+    "Group": {
+        "Group Name": "Fansub Malignos",
+        "Short Name": "FSM",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "9",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chobits",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Rinne",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well, the translation and grammar is good, but the adaptation, times and styles screw up all the good things. The principal style is visual cancer (red), the times are awful, and the worst; the f... translator's notes in all the episodes."
+                ],
+                "Bad Comments": [
+                    "Decent. Good edition."
+                ]
+            }
+        },
+        {
+            "Show Name": "Love Hina",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very bad. Basic grammar mistakes, capital letters in everywere. The song's translation are pretty hard to understand. The karaokes are awful."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina Again",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina Christmas Special: Silent Eve",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Basic grammar errors again. They put dots after the exclamation or interrogation. The video quality just sucks."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Basic grammar errors again. They put dots after the exclamation or interrogation. The video quality just sucks."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

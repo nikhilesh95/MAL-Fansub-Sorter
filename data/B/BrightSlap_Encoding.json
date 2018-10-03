@@ -1,0 +1,94 @@
+{
+    "Group": {
+        "Group Name": "BrightSlap Encoding",
+        "Short Name": "BSEnc",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "1",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Boogiepop wa Warawanai: Boogiepop Phantom",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesomesauce.",
+                    "Best release out there"
+                ],
+                "Bad Comments": [
+                    "It was the best quality I could find of this show. The typesetting was decent and the editing was alright. Probably won't get better subs elsewhere."
+                ]
+            }
+        },
+        {
+            "Show Name": "Eve no Jikan (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karas",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross: Do You Remember Love?",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Muv-Luv Alternative: Total Eclipse",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pale Cocoon",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best version for this."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate: Oukoubakko no Poriomania",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

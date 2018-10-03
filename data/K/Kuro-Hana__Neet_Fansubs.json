@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Kuro-Hana & Neet Fansubs",
+        "Short Name": "Kuro-Hana - NEET",
+        "IRC": "#kuro-hana@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "7",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "35 of 42 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "yes",
+                    "takes damn long to sub one episode",
+                    "Kuro-Hana was allways good and will be.",
+                    "Best subber",
+                    "Best ever!!!!"
+                ],
+                "Bad Comments": [
+                    "Don't care about subbing the series, took it up to look good. Releases subs are often poor quality. Bunch of total pricks.",
+                    "Slow subbing",
+                    "The quality turned out bad quite a bit of the time and after two months of post-poning it, they drop it.",
+                    "undefined"
+                ]
+            }
+        }
+    ]
+}

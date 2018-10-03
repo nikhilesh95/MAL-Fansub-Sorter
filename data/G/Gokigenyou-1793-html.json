@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Gokigenyou",
+        "Short Name": "Gokigenyou",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "1",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "22 of 23 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesomeness.",
+                    "great quality video and work, but in Spanish and not softsubbed",
+                    "Very good Subs and are fast."
+                ],
+                "Bad Comments": [
+                    "Maria-sama in delicious HD.",
+                    "Delicious HD"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nikutai Ten'i",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "22 of 23 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

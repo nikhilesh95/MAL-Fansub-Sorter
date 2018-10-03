@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "YattaDragon Fansub",
+        "Short Name": "YattaDragon",
+        "IRC": "#yattadragon@irc.azzurra.org",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Air Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arashi no Yoru ni",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Binchou-tan",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eikoku Koi Monogatari Emma",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Eikoku Koi Monogatari Emma: Molders-hen",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "awesome fansub, graphically and for all the rest. The only bad thing is that they sadly dropped the serie at ep 57! too bad."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Starship Operators",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "The Third: Aoi Hitomi no Shoujo",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

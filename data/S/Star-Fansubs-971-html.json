@@ -1,0 +1,68 @@
+{
+    "Group": {
+        "Group Name": "Star-Fansubs",
+        "Short Name": "Star-Fansubs",
+        "IRC": "#star @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "7",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bamboo Blade",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 21 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They use a very easy to see font, good translations, translations of written signs and etc, when they apply to the story or joke. And good explinations.",
+                    "They are slow",
+                    "better than anime enlightenment",
+                    "Better translation. Video quality not great but good. Pretty solid."
+                ],
+                "Bad Comments": [
+                    "Pretty fast..",
+                    "Nice subs for Bamboo Blade pretty fast.",
+                    "bad grammar, typos, and other mistakes. also lacked the full ending. Only plus was that it was quick"
+                ]
+            }
+        },
+        {
+            "Show Name": "Blue Dragon",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they're great for their consistency of fansubbing!"
+                ],
+                "Bad Comments": [
+                    "Because they're one of the few that do. Keep it up"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nagasarete Airantou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shounen Onmyouji",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Though not quick, the subs are well done and easy to follow."
+                ],
+                "Bad Comments": [
+                    "Quality of subs are significantly lower than that of Yoroshiku's. Incomplete translation and typos plague throughout their subs."
+                ]
+            }
+        }
+    ]
+}

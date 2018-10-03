@@ -1,0 +1,140 @@
+{
+    "Group": {
+        "Group Name": "Shin Getter Fansubs",
+        "Short Name": "Shin-Getter",
+        "IRC": "#shin-getter@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "67",
+            "Users Disapprove": "11",
+            "Total": "78"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Densetsu Kyojin Ideon",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "20 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Several grammatical errors and akward translations. Overall, the subs look like they're from Chinese bootleg DVDs. But hell, they get brownie points for actually subbing the show.",
+                    "The translation was inaccurate way too often.",
+                    "Video quality is bad, translation is not as good as it should be, but they actually subbed it, so I can't really complain, can I?",
+                    "Terrible AV and sub quality",
+                    "Imaginary translations at times, giving birth to dialogues even more awkward than the traditional Tomino dialogues.\nSome grammartical mistakes."
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Thank you very much for subbing this series.",
+                    "Full of inaccuracies and guesslations, even for very simple dialogue.",
+                    "Weird wording, spelling mistakes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Hatsudou-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Sesshoku-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "God Mazinger",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gunparade Orchestra",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juusenki L-Gaim",
+            "Show Type": "TV - 54 episodes",
+            "User Approval": "11 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Site is dead",
+                    "Top notch and the best we can get, if only they were faster.",
+                    "Very solid translation and a steady release schedule (when they're not going through site troubles)"
+                ],
+                "Bad Comments": [
+                    "They dropped it... TWICE.",
+                    "theyb have a steady pace and the overall quality is good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kikou Senki Dragonar",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did what 2 episodes?"
+                ],
+                "Bad Comments": [
+                    "thanks!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Muteki Choujin Zanbot 3",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "15 of 15 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seisenshi Dunbine OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UFO Robo Grendizer",
+            "Show Type": "TV - 74 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuusha Raideen",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

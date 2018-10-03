@@ -1,0 +1,78 @@
+{
+    "Group": {
+        "Group Name": "tmusubs",
+        "Short Name": "TMUsubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama! (2011)",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cat's Eye",
+            "Show Type": "TV - 73 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great subtitles! It's looking like this anime might finally be completely subbed one day! :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Daa! Daa! Daa!",
+            "Show Type": "TV - 78 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Detatoko Princess",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Dokidoki! Precure",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+            "Show Type": "ONA - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "xxxHOLiC Shunmuki",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

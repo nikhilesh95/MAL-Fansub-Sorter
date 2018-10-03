@@ -1,0 +1,89 @@
+{
+    "Group": {
+        "Group Name": "CureCom",
+        "Short Name": "CureCom",
+        "IRC": "#precure@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "53",
+            "Users Disapprove": "6",
+            "Total": "59"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dokidoki! Precure",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "18 of 21 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow but good",
+                    "The best by far, if you don't mind waiting.",
+                    "Worth the wait and THEN some. Go with these guys over all else. What's a couple weeks to wait for a 49-ep series?",
+                    "Slow, but accurate"
+                ],
+                "Bad Comments": [
+                    "All the quality in the world won't make for being over FIVE months behind. It's not like waiting one week, that's just terrible.",
+                    "Definitely better than all other groups for DokiPre. :>",
+                    "Good subs, BUT are way behind the other groups. I really wish they could pick up the pace.",
+                    "can't say"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fresh Precure!",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "19 of 19 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I'm a fan of what Precure series I've seen so far, and it's far and away from HK subs XP",
+                    "Great Subs, but slow release turnarounds"
+                ],
+                "Bad Comments": [
+                    "like"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "9 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Precure All Stars GoGo Dream Live!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5 GoGo!",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A bunch of embarrassing TL mistakes in a show for little girls. \"Nisemono\" =/= \"for show,\" for instance.",
+                    "Good but no karaoke"
+                ],
+                "Bad Comments": [
+                    "Thanks for the good work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

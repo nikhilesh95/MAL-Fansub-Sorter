@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Sekai Subs",
+        "Short Name": "Sekai",
+        "IRC": "#Sekai-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "47",
+            "Users Disapprove": "16",
+            "Total": "63"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gekkan Shoujo Nozaki-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "47 of 63 users approve, 15 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "LOL",
+                    "Good and fast, although they probably need a better raw source/encode for the newer episodes.",
+                    "Wow, this fansub is good, it's have nice kfx, honorific, colorful subs... ~sukanime",
+                    "No updates in 4+ months",
+                    "Man, they're great and all, but they're SLOW AS FUCK",
+                    "Pretty good subs, but the handful of errors that have gotten by are a pretty distracting drawback",
+                    "\"dropped a long time ago\", yet no word of updates from the group until like, right now. (april 6 2015)"
+                ],
+                "Bad Comments": [
+                    "Better than Underwater",
+                    "1 month per episode. Fck you Govna",
+                    "People who don't understand Japanese judging the quality of a translation. Sasuga MAL.",
+                    "IT'S FUCKING SHIT",
+                    "It's fucking great man.",
+                    "literally who",
+                    "Your first project and you are already behind 5 episodes. Good luck in the future."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mikakunin de Shinkoukei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "47 of 63 users approve, 15 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

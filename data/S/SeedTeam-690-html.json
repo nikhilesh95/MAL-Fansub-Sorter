@@ -1,0 +1,933 @@
+{
+    "Group": {
+        "Group Name": "SeedTeam",
+        "Short Name": "-SeT-",
+        "IRC": "#SeedTeam@irc.otaku-irc.fr",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "583",
+            "Users Disapprove": "109",
+            "Total": "692"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Air",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 17 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray softsub ! (2017)",
+                    "Quality !",
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "Version BD, 720p",
+                    "Une bonne qualité 720p pour une série de l'époque. Mieux qu'une vieille version TV.",
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Air in Summer",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "12 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray softsub ! (2017)",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "AKB0048",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 15 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good quality, more than one mistake, perfect edit",
+                    "quality",
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "The best in vostfr",
+                    "Très bon fansub et c'est en Softsub !",
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "AKB0048: Next Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hmm? it's softsub, u jealous",
+                    "hardsub",
+                    "Accurate translation"
+                ],
+                "Bad Comments": [
+                    "softsub, and very good subtitles",
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Asobi ni Iku yo!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray NC."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Asobi ni Iku yo!: Asobi ni Oide",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aura: Maryuuin Kouga Saigo no Tatakai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canary",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "10 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "28 of 33 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray softsub ! (2016)",
+                    "Quality !",
+                    "Excellente qualité et très bonne trad. Un bon taf voir le meilleur en vostfr !",
+                    "Best quality :)",
+                    "harsub et c'est idiots",
+                    "Des sous-titres de qualité très plaisant à lire."
+                ],
+                "Bad Comments": [
+                    "Version BD en 1080p",
+                    "Je cherchais des sous-titres parfaits pour Clannad, et j'ai enfin trouvé. Aucune faute, rien à redire. Meilleure team sur cet anime de ce que j'ai vu.",
+                    "Rien à redire",
+                    "HARDSUB and bad encode.",
+                    "'n'ont pas compris que le fansub=partage hors hardsub!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version DVD, softsub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "30 of 34 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray softsub ! (2016)",
+                    "Quality !",
+                    "HARDSUB and bad encode.",
+                    "mauvais"
+                ],
+                "Bad Comments": [
+                    "Version BD en 1080p.",
+                    "Best french fansub team for this anime ;)",
+                    "harsub et c'est idiots",
+                    "They did an amazing job reediting their first version and I must admit it's perfect now. I never enjoyed so much watching an anime !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "15 of 18 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Série en softsub",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes.",
+                    "n'ont pas compris le fansub=partage hors hardsub!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "17 of 20 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Série en softsub",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes.",
+                    "n'ont pas compris le fansub=partage hors hardsub!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Denpa-teki na Kanojo",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eien no Aselia",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gyo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Faudra m'expliquer où vous avez vu du hardsub sur Gyo chez eux... Ah c'est juste du troll, okay! :)",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes.",
+                    "good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanbun no Tsuki ga Noboru Sora",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version DVD, softsub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hataraku Maou-sama!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": [
+                    "Top notch translation"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hinata no Aoshigure",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakko OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "16 of 19 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray softsub ! (2016)",
+                    "Quality !",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "Excellent !",
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Karneval",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizuna Ichigeki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kurau Phantom Memory",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version DVD.",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyousou Giga",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "7 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Busters!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 21 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality of subs, good translation, good edit and good encode",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "Traduction impeccable, pas de fautes, très bon travail de la SeedTeam comme d'habitude."
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Busters!: EX",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "9 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Madlax",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version DVD, softsub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Majokko Shimai no Yoyo to Nene",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mitsuwano",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 Second Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "8 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hardsub"
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hardsub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hardsub"
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "9 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HD Remaster",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu-ray, softsub."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HD Remaster, softsub.",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny Special Edition",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "Because  most users choose this fansubs..\n\n:v"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hardsub"
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Special Edition",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "6 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Norageki!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "avoid"
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Oda Nobuna no Yabou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Planetarian: Chiisana Hoshi no Yume",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray, softsub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Planetarian: Hoshi no Hito",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Champloo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "not worth"
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "SD Gundam Sangokuden Brave Battle Warriors",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seraphim Call",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seto no Hanayome",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "idiots"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigurui",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shouwa Monogatari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's softsub u troll",
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "Good !",
+                    "harsub et c'est idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Simoun",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version DVD, softsub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sola",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sola Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "21 of 25 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "meilleure team fr sur cette série, un boulot impec, mais juste dommage d'attendre les versions Bluray si longtemps",
+                    "Perfect sub",
+                    "horrible encode",
+                    "Good subs"
+                ],
+                "Bad Comments": [
+                    "Je n'hésite même plus à télécharger les releases totalement parfaites de cette team. Rien à redire, qualité irréprochable.",
+                    "Morons and bad encodes.",
+                    "horrible, ils sont tous volés à Commie"
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate: Oukoubakko no Poriomania",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "15 of 18 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Too many jealous in this world... Have fun with their releases guys!",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "Idiots unfortunaly and rip from Commie without credits."
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Supernatural The Animation",
+            "Show Type": "OVA - 22 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seule team vostfr sur cette série, et qualité au rendez-vous !",
+                    "harsub et c'est idiots"
+                ],
+                "Bad Comments": [
+                    "bad"
+                ]
+            }
+        },
+        {
+            "Show Name": "Taifuu no Noruda",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Phantasia The Animation",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "The Epic Of ZektBach",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 1: Utakata no Kaben",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 2: Konton no Ranbu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad"
+                ],
+                "Bad Comments": [
+                    "lloll"
+                ]
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 3: Mugen no Renza",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 4: Guren no Shoushin",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 5: Souzetsu no Raifuku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not bad.",
+                    "lol"
+                ],
+                "Bad Comments": [
+                    "HARDSUB and bad encodes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Towa no Quon 6: Towa no Quon",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HARDSUB and bad encodes."
+                ],
+                "Bad Comments": [
+                    "des idiots"
+                ]
+            }
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working'!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Version Blu-ray."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

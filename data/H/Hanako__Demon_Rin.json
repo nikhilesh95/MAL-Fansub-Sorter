@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Hanako & Demon Rin",
+        "Short Name": "HD & DR",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate translations without annoying annotations or crazy karaoke."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

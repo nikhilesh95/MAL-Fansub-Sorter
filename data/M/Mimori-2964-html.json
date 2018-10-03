@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Mimori",
+        "Short Name": "Mimori",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Colorful (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice and clean translation. Although a few key signs aren't subbed."
+                ],
+                "Bad Comments": [
+                    "The encode quality is pretty terrible but you can get the script from http://www.megaupload.com/?d=8HZ03XTB and though it's not styled and there's no typesetting, the translation seemed fine."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Guillotine Cross",
+        "Short Name": "GC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "9",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Stepped in when others wouldn't. Not a terrible first effort. Decent raw. Room for improvement.",
+                    "Stepped up and subbed something others wouldn't.  Not bad for a first try, though some of the TL notes weren't needed.  Good quality video with good font/size and decent translations."
+                ],
+                "Bad Comments": [
+                    "Encoded very badly. The MKV file wont play in my player and I've never had problems before.",
+                    "Lots of translation errors. And I mean lots of them. Like, three jokes in the anime suddenly make no sense because of GC's translation. AVOID AT ALL COSTS."
+                ]
+            }
+        }
+    ]
+}

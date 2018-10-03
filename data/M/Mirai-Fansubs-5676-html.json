@@ -1,0 +1,109 @@
+{
+    "Group": {
+        "Group Name": "Mirai-Fansubs",
+        "Short Name": "MFs",
+        "IRC": "http://webchat.euirc.net/?channels=Mirai-Fansubs&nick=guest",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "3",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Denpa Kyoushi",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice to read, no misspelling and good timing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail (2014)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped after episode 25."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himegoto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahouka Koukou no Rettousei",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore, Twintail ni Narimasu.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: The Origin",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saki Achiga-hen: Episode of Side-A",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saki Zenkoku-hen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinmai Maou no Testament",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

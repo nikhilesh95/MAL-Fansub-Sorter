@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "SKYSub",
+        "Short Name": "skysub",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gunnm",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanojo to Kanojo no Neko",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sweat Punch",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the only one in portuguese (brasilian) language, did a awesome work^^perfect translation, and subtitles well selected^^o unico em pt-br, fez um grandioso trabalho^^"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

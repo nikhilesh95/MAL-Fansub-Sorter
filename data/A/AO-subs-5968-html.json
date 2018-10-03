@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "AO-subs",
+        "Short Name": "AO-subs",
+        "IRC": "",
+        "Primary Language": "Polish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "3-gatsu no Lion",
+            "Show Type": "TV - 22 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sousei no Onmyouji",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They are active all the time and create very good subs."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

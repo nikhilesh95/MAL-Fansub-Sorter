@@ -1,0 +1,131 @@
+{
+    "Group": {
+        "Group Name": "kein Kommentar",
+        "Short Name": "kK",
+        "IRC": "#kK@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "B-gata H-kei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "site offline"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haiyoru! Nyaruani",
+            "Show Type": "OVA - 9 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Zu Speedsub-ähnlicher Sub."
+                ],
+                "Bad Comments": [
+                    "Bester Sub im Umlauf, von wegen Speedsub. lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kaze no Stigma",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kodomo no Jikan OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shikabane Hime: Aka",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "TV source, softsub, bad wording, acceptable timing, readable but ugly font"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toradora!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Sphere",
+        "Short Name": "",
+        "IRC": "#sphere@irc.chatspike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Heroic Age",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

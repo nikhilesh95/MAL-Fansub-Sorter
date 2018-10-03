@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "DeSubstanciao",
+        "Short Name": "DST",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/Apocrypha",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor en castellano. Los diálogos son fieles a la cortesía militar, argot y lenguaje técnico de la vida castrense."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor versión existente de GATE en castellano. Todo muy correcto."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Thunderbolt: December Sky",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rakudai Kishi no Cavalry",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

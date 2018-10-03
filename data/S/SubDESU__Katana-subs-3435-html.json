@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "SubDESU & Katana-subs",
+        "Short Name": "SubDESU-Katana-subs",
+        "IRC": "#subdesu@irc.rizon.net | #katana-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "21",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "High School DxD",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 37 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "poor translation",
+                    "Fastest and the best, you can be all ignorant you want, but it's true.",
+                    "I... errrm... wut?",
+                    "almost as many errors as Hadena",
+                    "Best subs ever"
+                ],
+                "Bad Comments": [
+                    "Lol wut",
+                    "please go die in a fire.",
+                    "good descriptive translations, fast release",
+                    "If you can't wait for a group that is actually good, pick these guys. That being said, it's like picking the least smelly shit. In the end, it's still shit.",
+                    "bad"
+                ]
+            }
+        }
+    ]
+}

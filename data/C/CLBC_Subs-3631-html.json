@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "CLBC Subs",
+        "Short Name": "CLBC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "3",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gakkatsu!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "18 of 21 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pretty good.",
+                    "Proper softsubs",
+                    "Only ones doing it, and they're planning on doing all 25 episodes."
+                ],
+                "Bad Comments": [
+                    "they dropped it and said to search for other subs.",
+                    "Only group doing it, and they're doing a fine job."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Outsidernichts",
+        "Short Name": "Outsider",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dance in the Vampire Bund",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pretty good, thanks"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tatakau Shisho: The Book of Bantorra",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

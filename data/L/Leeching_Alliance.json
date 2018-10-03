@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Leeching Alliance",
+        "Short Name": "LA",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Taiho Shichau zo",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Taiho Shichau zo (TV)",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "All text translated, understandable."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        }
+    ]
+}

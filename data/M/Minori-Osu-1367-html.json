@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Minori-Osu!",
+        "Short Name": "Minori-Osu!",
+        "IRC": "#osu@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wasn't impressed with their naming..."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

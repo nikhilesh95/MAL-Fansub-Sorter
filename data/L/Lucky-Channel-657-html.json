@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Lucky-Channel",
+        "Short Name": "LC",
+        "IRC": "#lucky-channel@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "11",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaibutsu Oujo",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "10 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Typos, grammar issues, incorrect name spellings.",
+                    "Subs are nice.. but the subtitles, they hurt my head. Next time just use normal fonts not some special font that is hard to read."
+                ],
+                "Bad Comments": [
+                    "anyone who takes the time to properly subtitle anime deserves kudos.",
+                    "Stupid font!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "horrible subs. thought Haruhi was shonen >_"
+                ],
+                "Bad Comments": [
+                    "Horrible subtitles.  A lot of things are poorly subtitled and fail to catch the humor of the moment. Some of their subs are too literal, as well."
+                ]
+            }
+        }
+    ]
+}

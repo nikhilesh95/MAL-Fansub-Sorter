@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Caudex",
+        "Short Name": "Caudex",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "9",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "6 Angels",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "1 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Messy video quality and subs can't be disabled.",
+                    "Really poor translation and the video quality is less than desirable."
+                ],
+                "Bad Comments": [
+                    "terrible"
+                ]
+            }
+        }
+    ]
+}

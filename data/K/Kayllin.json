@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "Kayllin",
+        "Short Name": "Kayllin",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "9",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hyakka Ryouran: Samurai After",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs for the first episode are really literal and awkward, but it seems to be better for the second episode at least."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Robot Girls Z",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakura Trick",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater NOT!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 11 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Takes Funi's subs and introduces errors. http://www.crymore.net/2014/04/19/translation-review-passfail-kayllin-soul-eater-not-01/",
+                    "Translating \"Senpai\" to \"Sir\" or \"Ma'am\" when students are speaking to each other is some clownshoe bullshit.",
+                    "shit"
+                ],
+                "Bad Comments": [
+                    "It is just stupid translating all the suffix/name endings, such as senpai... Who would call their upperclassman Ma'am?",
+                    "I thought their subs were OK at best, but it's been super stalled at the last episode. I would just go with S-T-D.",
+                    "The subs a translated well."
+                ]
+            }
+        },
+        {
+            "Show Name": "Wonder Momo",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "3 of 11 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

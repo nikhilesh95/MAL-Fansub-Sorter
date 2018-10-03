@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "High Quality Anime",
+        "Short Name": "HQA",
+        "IRC": "#hqa@irc.efnet.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hand Maid May",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Iketeru Futari",
+            "Show Type": "TV - 16 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality considering the input video wasnt that great. good subtitles easy to read"
+                ],
+                "Bad Comments": [
+                    "Meh"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Urda",
+            "Show Type": "ONA - 5 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Old, low-quality encode. Letterboxed in 4:3, despite the show being presented in 16:9. The font used is more complex than is required for dialogue. They also seem to switch fonts at random."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Otenba & Twilight Revelations",
+        "Short Name": "Otenba-twrev",
+        "IRC": "#otenba@irc.rizon.net & #tw-rev@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sasameki Koto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs. Typeset. A bit slow, but can't have everything..."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

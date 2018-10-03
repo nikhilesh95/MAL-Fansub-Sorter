@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Fanservice Subs",
+        "Short Name": "FSS",
+        "IRC": "#fanservice@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blue Dragon: Tenkai no Shichi Ryuu",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped?"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Happy Potato Translations",
+        "Short Name": "HPT",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "1",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chu Feng: B.E.E",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shi Xiong",
+            "Show Type": "ONA - 41 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wangpai Yushi",
+            "Show Type": "ONA - 39 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wangpai Yushi Di 0 Ji",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yaoguai Mingdan",
+            "Show Type": "ONA - 18 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only one"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zhongguo Jingqi Xiansheng",
+            "Show Type": "ONA - 63 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

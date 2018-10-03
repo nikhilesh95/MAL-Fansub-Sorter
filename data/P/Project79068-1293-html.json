@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Project79068",
+        "Short Name": "P79068",
+        "IRC": "#p79068@irc.wsyntax.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Improved version of Crystal Nova.",
+                    "One of the best subs I've watched. Solid work."
+                ],
+                "Bad Comments": [
+                    "It's like Crystal Nova but better in every way.",
+                    "Fantastic work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sensei no Ojikan: Doki Doki School Hours",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

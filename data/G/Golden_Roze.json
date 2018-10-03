@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Golden Roze",
+        "Short Name": "GRZ",
+        "IRC": "#goldenrozescans@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "0",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kurayami Santa",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "17 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice s",
+                    "Thx"
+                ],
+                "Bad Comments": [
+                    "Some of the TNs are a little awkward but other than that thank you for picking up this show!",
+                    "They picked up a show that probably wouldn't have been subbed otherwise. They seem to be pretty accurate."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mama wa Shougaku 4 Nensei",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

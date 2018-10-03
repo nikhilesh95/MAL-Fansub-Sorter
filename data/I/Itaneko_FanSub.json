@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Itaneko FanSub",
+        "Short Name": "Itaneko",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "9",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Why italian? I want english subs.",
+                    "I primi a subbarlo in italiano: veramente bravi, anche se ci sono un po' di errori di traduzione."
+                ],
+                "Bad Comments": [
+                    "Itaneko dropped Kobato",
+                    "Ribadisco che a mio parere è molto meglio attendere un buon fansub che buttarmi sulla prima release. Aggiungo che \"un po' di errori di traduzione\" mi sembra veramente riduttivo."
+                ]
+            }
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pessima l'idea di cambiare colore per ogni personaggio, soprattutto perché alcuni sono illeggibili. Il karaoke facevano prima a non farlo, dato che altri non è che un effetto di base. E le traduzioni non sono di certo il loro punto forte...",
+                    "Considerando che sono in pochi, subbano le puntate molto velocemente (1/2 giorni dopo i sub eng) e fanno un lavoro eccellente, anche se le traduzioni non sono perfette..."
+                ],
+                "Bad Comments": [
+                    "good quality",
+                    "Ci tengo a dire che ormai in quasi tutti i gruppi le persone a occuparsi di una serie sono poche. Quindi, non vedo perché difendersi dalle accuse tirando fuori questa storia. Tralasciando questo, abbiamo le solite caratteristiche di uno speedsub: traduzi"
+                ]
+            }
+        }
+    ]
+}

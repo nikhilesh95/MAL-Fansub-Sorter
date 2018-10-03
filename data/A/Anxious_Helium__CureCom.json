@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Anxious Helium & CureCom",
+        "Short Name": "Cure-Anxious",
+        "IRC": "#anxious-he@irc.rizon.net & #precure@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Smile Precure!",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "8 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"and their TL drops less meaning.\" LOL  - Gangster Girl, beddy byes",
+                    "best group doing the series",
+                    "The only group with a decent translation. The others don't understand Akane's Kansai quirks at all."
+                ],
+                "Bad Comments": [
+                    "There are a few derps in the subs, but overall is fairly good. Encode/raw is as good as can be expected.",
+                    "They're more faithful/accurate than Doremi. They have honorifics (although only on track 2 for some reason), and their TL drops less meaning."
+                ]
+            }
+        }
+    ]
+}

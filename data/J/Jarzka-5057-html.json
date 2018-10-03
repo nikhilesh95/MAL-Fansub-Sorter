@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Jarzka",
+        "Short Name": "Jarzka",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "0",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "10bit, not up-scaled shit",
+                    "video quality amazing \nexplanations for mahjong terminology"
+                ],
+                "Bad Comments": [
+                    "Definitively the best."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saki Picture Drama",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakigake!! Cromartie Koukou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good translation and encoding.",
+                    "How is no one voting for this ?? It's the only person that translated the WHOLE series with good encoding and decent typesetting! His/her effort must be appreciated.",
+                    "xoxoxoxoxo"
+                ],
+                "Bad Comments": [
+                    "Good subs.",
+                    "10bit"
+                ]
+            }
+        }
+    ]
+}

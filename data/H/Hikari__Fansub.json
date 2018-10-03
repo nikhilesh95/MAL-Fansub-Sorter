@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Hikari Fansub",
+        "Short Name": "Hikari 光 Fansub",
+        "IRC": "#Hikari-Fansub@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Muito bom ^^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire Capu2",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "Group": {
+        "Group Name": "Aozora Fansub",
+        "Short Name": "Aozora",
+        "IRC": "#Aozora@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "66",
+            "Users Disapprove": "46",
+            "Total": "112"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-Channel",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ben-To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Captain Earth",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Carnival Phantasm",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "5 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai! Ren",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "edad del que?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Coppelion",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denki-gai no Honya-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dokidoki! Precure",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Grisaia no Kajitsu",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Kanata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Usan expresiones acertadas, según el estilo y ánimo de los personajes."
+                ],
+                "Bad Comments": [
+                    "Mejor \"menudo incordio\" que no \"que poco molas\" ^^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyousou Giga",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyousou Giga (2012)",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mawaru Penguindrum",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsuyuki Rendezvous",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nichijou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nisekoi",
+            "Show Type": "TV - 20 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nisekoi:",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Punch Line",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los efectos de los subs son de 10."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ranpo Kitan: Game of Laplace",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "RDG: Red Data Girl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sasami-san@Ganbaranai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Buena traducción de una serie tan rara y difícil."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Servant x Service",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigatsu wa Kimi no Uso",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinsekai yori",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suisei no Gargantia",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suisei no Gargantia Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The iDOLM@STER",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nunca la acabaron"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zankyou no Terror",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "6 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Momo Subs",
+        "Short Name": "MomoSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "2",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Momokuri",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "11 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great translation, I really appreciate this work. Not liberalized, without memes, with original dialogues and honorifics. 100% recommend",
+                    "They're the only one and they try their best."
+                ],
+                "Bad Comments": [
+                    "extremely inaccurate, avoid at all costs. CR is the only option here, this gaijin couldn't hold a conversation with a Japanese toddler"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "Hexxatex",
+        "Short Name": "HT",
+        "IRC": "",
+        "Primary Language": "Dutch",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The first episode was subbed really good, after that it went downhill, like it is subbed in an other writing style so it's hard to switch..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good grammar, unlike their other projects. Also a great great improvement on encoding since it's fixed size."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Grammar's all wrong."
+                ],
+                "Bad Comments": [
+                    "Grammar could have been better, but it's still good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only fansub that subs Naruto in Holland so I gotta give 'em credit, even though they suck sometimes."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

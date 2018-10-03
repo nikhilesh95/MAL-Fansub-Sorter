@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "AnimeUp",
+        "Short Name": "AnimeUp",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "44",
+            "Users Disapprove": "22",
+            "Total": "66"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "6 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "süperizzz..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "superb!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Michiko to Hatchin",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "10 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality, awesome subs! So easy to read and font style is perfect.",
+                    "harikas�n���zzz bi denesiniiizz"
+                ],
+                "Bad Comments": [
+                    "s�perizzzzz....",
+                    "bayiliyorum size arkadaslar, harikasiniz:)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Minami-ke",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushi-Uta",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Utawarerumono",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

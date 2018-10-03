@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "MeiohSubs",
+        "Short Name": "MeiohSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "2",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good timing, very intimate subbing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inyouchuu Shoku: Ryoushokutou Taimaroku - Kanzenhan",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inyouchuu The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "9 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ok vid/sound quality. Bad word choice/translation (\"It feels gross\" translated as \"it feels good\"). Is censored (though I'm not sure if there is an uncensored version out there)",
+                    "Erobeat helped! The first episode they didn't translate though and was just a fix up, but nice to have 2 subbed now."
+                ],
+                "Bad Comments": [
+                    "Translation was absolute garbage."
+                ]
+            }
+        }
+    ]
+}

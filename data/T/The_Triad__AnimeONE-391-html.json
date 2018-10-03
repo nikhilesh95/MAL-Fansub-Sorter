@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "The Triad & AnimeONE",
+        "Short Name": "Triad&AonE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "15 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good timing, nice translation, no notable errors."
+                ],
+                "Bad Comments": [
+                    "Just because. Nice subs. That's all."
+                ]
+            }
+        }
+    ]
+}

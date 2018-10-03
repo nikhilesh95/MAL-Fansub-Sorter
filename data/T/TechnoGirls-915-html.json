@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "TechnoGirls",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaze to Ki no Uta Sanctus: Sei Naru Kana",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oniisama e...",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "because they are the OGs of fansubbing"
+                ],
+                "Bad Comments": [
+                    "Really difficult to find! But, a solid translation."
+                ]
+            }
+        }
+    ]
+}

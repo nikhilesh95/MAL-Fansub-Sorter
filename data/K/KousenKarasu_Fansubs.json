@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "KousenKarasu Fansubs",
+        "Short Name": "kksubs",
+        "IRC": "#KousenKarasu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "7",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shugo Chara!",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "6 of 13 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Spelling and grammar mistakes quite frequent, video quality below par and no karaoke.",
+                    "Too bad they dropped it after 4 eps",
+                    "good but dropped"
+                ],
+                "Bad Comments": [
+                    "Constant confusion with tense's and awkward use of words",
+                    "grammar and spelling mistakes",
+                    "rage"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sketchbook: Full Color's",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 13 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

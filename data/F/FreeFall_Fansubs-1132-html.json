@@ -1,0 +1,118 @@
+{
+    "Group": {
+        "Group Name": "FreeFall Fansubs",
+        "Short Name": "FFFS",
+        "IRC": "#freefall@irc.rizon.net",
+        "Primary Language": "Hebrew",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "exellent work"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "Lots of mistakes, unclear translation, subs goes by too fast :/"
+                ],
+                "Bad Comments": [
+                    ":)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great job overall"
+                ],
+                "Bad Comments": [
+                    ":)"
+                ]
+            }
+        },
+        {
+            "Show Name": "H2O: Footprints in the Sand",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanbun no Tsuki ga Noboru Sora",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Junjou Romantica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Myself; Yourself",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pita Ten",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "that group is one of the best hebrew fansub ever"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana SP: Koi to Onsen no Kougai Gakushuu!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenshi Kinryouku",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

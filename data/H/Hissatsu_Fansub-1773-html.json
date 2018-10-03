@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Hissatsu Fansub",
+        "Short Name": "Hissatsu",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note: Rewrite",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Project Marego",
+        "Short Name": "Project Marego",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chocolat no Mahou",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It subbed only 1 episode T_T they shoudn't have started it. Its 14 min. for episode for Gods sake!",
+                    "Only english subber"
+                ],
+                "Bad Comments": [
+                    "The only English sub available.."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Sandwich Anime",
+        "Short Name": "SWA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Zan Sayonara Zetsubou Sensei Bangaichi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "11 of 12 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

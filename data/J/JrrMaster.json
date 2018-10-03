@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "JrrMaster",
+        "Short Name": "JrrMaster",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "T.P. Sakura: Time Paladin Sakura",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fast, but awkward english"
+                ],
+                "Bad Comments": [
+                    "Fantastic"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Ryugan-Saizen Fansubs",
+        "Short Name": "Ryugan-Saizen",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

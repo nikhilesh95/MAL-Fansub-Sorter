@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Real-Fansubbers",
+        "Short Name": "R-F",
+        "IRC": "#r-f@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "2",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hikaru no Go",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "17 of 19 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Flows very well!",
+                    "I enjoyed Hikaru no Go, as well as your subs. At the beginning kinda crappy typesetting and karaoke  (for today's standards), but as the series flow, subtitles get much better. However, translation is decently done through the whole series, so it doesn't ",
+                    "The subs were really good-clear and concise..."
+                ],
+                "Bad Comments": [
+                    "Very good subs",
+                    "nice"
+                ]
+            }
+        }
+    ]
+}

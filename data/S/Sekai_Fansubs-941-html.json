@@ -1,0 +1,84 @@
+{
+    "Group": {
+        "Group Name": "Sekai Fansubs",
+        "Short Name": "Sekai",
+        "IRC": "#sekai-fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "18",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragonaut: The Resonance",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Grammar and spelling mistakes that a little child could catch. Just plain painful to read...",
+                    "Bad formatting, grammar, translation."
+                ],
+                "Bad Comments": [
+                    "Great quality, accurate, good text-type. Better than I-Z."
+                ]
+            }
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fine^^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mamoru-kun ni Megami no Shukufuku wo!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ever hear of an editor, guys?  Seriously, this was horrid to read."
+                ],
+                "Bad Comments": [
+                    "Horrible grammar on basically every line."
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty fonts. Ugly subs."
+                ],
+                "Bad Comments": [
+                    "Mistranslated lines and general incompetence."
+                ]
+            }
+        },
+        {
+            "Show Name": "R.O.D OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

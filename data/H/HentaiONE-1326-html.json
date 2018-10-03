@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "HentaiONE",
+        "Short Name": "HonE",
+        "IRC": "#AnimeONE@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sora no Iro, Mizu no Iro",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "10 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seems to be a good translation; good font; no real problems."
+                ],
+                "Bad Comments": [
+                    "Good."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "Group": {
+        "Group Name": "Sabishii Subs",
+        "Short Name": "Sabishii",
+        "IRC": "#sabishii@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "2",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "9 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perfecto, todos los carteles editados, TODOS",
+                    "Tienen la version BD",
+                    "La versión que mejor justicia le hace al anime."
+                ],
+                "Bad Comments": [
+                    "No están mal del todo, más con el trabajo que lleva una serie con tanto texto. Pero hay alguna mala traducción inexplicable. \"Rentar unos vídeos\", ¿en serio?",
+                    "Me gusto que los carteles sean 100% en español, no son todos los carteles, pero que va ni que fueran tan importantes para la historia, son buenisimos sus subs y se nota que trabajan duro. Por lejos la mejor version de Bakemonogatari en español.",
+                    "La mejor versión de Monogatari en español uwu"
+                ]
+            }
+        },
+        {
+            "Show Name": "Bakemonogatari Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "En donde esta su torrent?\nME PARECE QUE NO LA HAN HECHO\nSON UNOS MALOTES :(\n-1"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku! Heaven Is a Place on Earth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku! Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku!? Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The iDOLM@STER",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "White Album 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

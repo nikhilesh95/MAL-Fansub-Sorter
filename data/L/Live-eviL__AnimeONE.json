@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Live-eviL & AnimeONE",
+        "Short Name": "L-E&AonE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dear Boys",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Tetsudou Monogatari",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good timing."
+                ],
+                "Bad Comments": [
+                    "good timing"
+                ]
+            }
+        }
+    ]
+}

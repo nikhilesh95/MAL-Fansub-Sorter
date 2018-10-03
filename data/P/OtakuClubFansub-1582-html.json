@@ -1,0 +1,122 @@
+{
+    "Group": {
+        "Group Name": "OtakuClubFansub",
+        "Short Name": "OCF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "7",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chu-Bra!!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fight Ippatsu! Juuden-chan!!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star: Original na Visual to Animation",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Direi che subbare non è la cosa che vi riesce meglio"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 5 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Needless",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Neko Ramen",
+            "Show Type": "ONA - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "Bellissimo *-*"
+                ]
+            },
+            "User Approval": "4 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "One Piece: Straw Hat Theater",
+            "Show Type": "Special - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve"
+        },
+        {
+            "Show Name": "Seto no Hanayome OVA",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve"
+        },
+        {
+            "Show Name": "Sora no Otoshimono",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Zoku Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Subs where?",
+                    "really..where?"
+                ],
+                "Bad Comments": [
+                    "subs where ???"
+                ]
+            },
+            "User Approval": "2 of 5 users approve, 3 comments"
+        }
+    ]
+}

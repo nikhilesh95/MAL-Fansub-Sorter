@@ -1,0 +1,76 @@
+{
+    "Group": {
+        "Group Name": "Anime no Reppuu",
+        "Short Name": "Anr",
+        "IRC": "#Anr@irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "3",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve"
+        },
+        {
+            "Show Name": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Baixa qualidade de video, em tempos de 1280x720 H264 eles ainda legendam em 720x480 xdiv."
+                ],
+                "Bad Comments": [
+                    "Não gostei da fonte da legenda. A tradução não é boa. Cometem muitos erros de acentuação."
+                ]
+            },
+            "User Approval": "1 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Spiral: Suiri no Kizuna",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Encode ruim e muitos erros gramaticais e de tradução. Só melhora um pouco a partir da segunda metade do anime."
+                ],
+                "Bad Comments": [
+                    "Was the only fansubber that did the subtitles in Portuguese."
+                ]
+            },
+            "User Approval": "2 of 3 users approve, 2 comments"
+        }
+    ]
+}

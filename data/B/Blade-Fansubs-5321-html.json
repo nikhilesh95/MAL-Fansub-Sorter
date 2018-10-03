@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Blade-Fansubs",
+        "Short Name": "Blade-Fansubs",
+        "IRC": "#blade-fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eve no Jikan (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahouka Koukou no Rettousei",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "شاهدت جميع الترجمات العربية للأنمي، وبدون تحيز هذه الترجمة هي الأفضل"
+                ],
+                "Bad Comments": [
+                    "Perfect!"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka!",
+            "Show Type": "ONA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Zankyou no Terror",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

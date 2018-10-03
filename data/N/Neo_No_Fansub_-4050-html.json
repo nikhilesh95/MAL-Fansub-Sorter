@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Neo No Fansub ねおのファンスブ",
+        "Short Name": "Neo",
+        "IRC": "#neonofansub@irc.neonofansub.com",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakuman. 3rd Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bon début pour cette nouvelle team !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dansai Bunri no Crime Edge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Kikoutai Majestic Prince",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inu to Hasami wa Tsukaiyou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

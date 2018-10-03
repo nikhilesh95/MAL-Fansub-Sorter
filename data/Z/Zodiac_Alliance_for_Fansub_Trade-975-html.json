@@ -1,0 +1,142 @@
+{
+    "Group": {
+        "Group Name": "Zodiac Alliance for Fansub Trade",
+        "Short Name": "ZAFT",
+        "IRC": "#zaft@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "5",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gundam Evolve",
+            "Show Type": "OVA - 15 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Shinseiki Gundam X",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great work^^"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 0080: War in the Pocket",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam AGE",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+            "Show Type": "ONA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 5 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED MSV Astray",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Unicorn",
+            "Show Type": "OVA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam ZZ",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

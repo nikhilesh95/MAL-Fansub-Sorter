@@ -1,0 +1,73 @@
+{
+    "Group": {
+        "Group Name": "Impel Down Fansub",
+        "Short Name": "Impel-down",
+        "IRC": "#impel-down@irc.recycled-irc.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroko no Basket",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroko no Basket 2nd Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Impel-Down is dead... But they were the best"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece 3D: Mugiwara Chase",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko",
+            "Show Type": "TV - 147 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

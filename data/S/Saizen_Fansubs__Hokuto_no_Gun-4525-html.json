@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Saizen Fansubs & Hokuto no Gun",
+        "Short Name": "Saizen-HnG",
+        "IRC": "#saizen@irc.rizon.net | #hng@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "1",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Be-Bop Highschool",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "12 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Just like Kyou Kara Ore Wa they did a good job with subbing using American slang and I feel like that helps the experience.",
+                    "hope they sub more of these."
+                ],
+                "Bad Comments": [
+                    "made it a lot more entertaining, works perfectly adding a little extra profanity."
+                ]
+            }
+        }
+    ]
+}

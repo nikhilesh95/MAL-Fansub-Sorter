@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "KissSub & Ayako",
+        "Short Name": "Kiss-Ayako",
+        "IRC": "#kisssub@irc.rizon.net #ayako@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "2",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wagaya no Oinari-sama.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "10 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs, nice font and color, and they were the first to release it.",
+                    "Better quality than SS"
+                ],
+                "Bad Comments": [
+                    "Good job",
+                    "Good subs!"
+                ]
+            }
+        }
+    ]
+}

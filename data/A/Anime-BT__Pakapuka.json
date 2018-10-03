@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Anime-BT & Pakapuka",
+        "Short Name": "A-BT&Pakapuka",
+        "IRC": "#anime-bt@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "PopoloCrois",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Full explanation of language use, and some informative backgorund introduction"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Popolocrois Monogatari",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Extensive amounts of context, translations are pretty much on point, and thanks for telling about the psp game"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 1 comments"
+        }
+    ]
+}

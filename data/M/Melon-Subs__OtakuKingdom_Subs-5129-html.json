@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Melon-Subs & OtakuKingdom Subs",
+        "Short Name": "M-L&OK",
+        "IRC": "#melonsubs@irc.euirc.net #otakukingdom@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tonari no Kaibutsu-kun",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Way better than Rorikon-Fansub-League, the only other group with completed sub.\n\nWesentlich besser als Rorikon-Fansub-League, der einzigen anderen Gruppe mit vollständigem Sub."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Madao Fansubs",
+        "Short Name": "Madao",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "K-On!!: Keikaku!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mama Puri!?",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "yay",
+                    "xD"
+                ],
+                "Bad Comments": [
+                    "MADAO!!!",
+                    "First German Fansub I found of Mama Puri!? and the timing is great ( Thanks codi ;D)"
+                ]
+            },
+            "User Approval": "7 of 7 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Stretta The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 4 comments"
+        }
+    ]
+}

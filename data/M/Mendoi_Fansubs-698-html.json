@@ -1,0 +1,177 @@
+{
+    "Group": {
+        "Group Name": "Mendoi Fansubs",
+        "Short Name": "Mendoi",
+        "IRC": "#Mendoi@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "136",
+            "Users Disapprove": "19",
+            "Total": "155"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amaenaide yo!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "20 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did a good job of subbing. High quality work. Good translations and helpful notes.",
+                    "Very accurate translation, etc, to sum it up; FABULOUS.",
+                    "great subs"
+                ],
+                "Bad Comments": [
+                    "great sub",
+                    "awsome job, cant complain at all!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Amaenaide yo!! Katsu!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "18 of 20 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They finished it and the quality was good",
+                    "F-F-F-F-F-FABULOUS!",
+                    "Gud effort"
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Helpful notes. Great subbing overall.",
+                    "Excellent explanation of terms used. Faithful to the original meaning."
+                ]
+            }
+        },
+        {
+            "Show Name": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "As usual, a FABULOUS production."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amaenaide yo!!: Yasumanaide yo!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "F-F-FABULOUS TRANSLATION.",
+                    "Great font, clever translations, excellent timing, and informative notes!"
+                ],
+                "Bad Comments": [
+                    "The Karaoke effect!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Himawari!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simply the best"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inukami!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "footnotes and karaoke all over the place. some lazy translations."
+                ],
+                "Bad Comments": [
+                    "Top-notch quality subs with honorifics and superb video."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kaze no Stigma",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss Dum: Engage Planet",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "13 of 16 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They aren't the fastest but they are the only ones who are subbing Kiss Dum",
+                    "Waiting for more subbed episodes...",
+                    "dropped"
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "never subbed finish the anime!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "22 of 23 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Full of win! Wish some more of the text was translated, though. Namely, the last screen before Stargazer was finished."
+                ],
+                "Bad Comments": [
+                    "cool!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny Special Edition",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best translation/quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagasarete Airantou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Over Drive",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "12 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow releases, but they're worth it. Small amount of errors."
+                ],
+                "Bad Comments": [
+                    "Brilliant QC and translation. Timing is pretty much spot on. Encoding is good. No visible errors so far."
+                ]
+            }
+        },
+        {
+            "Show Name": "Soukyuu no Fafner: Right of Left - Single Program",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

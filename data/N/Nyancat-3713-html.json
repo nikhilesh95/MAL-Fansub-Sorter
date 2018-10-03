@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Nyancat",
+        "Short Name": "Nyancat",
+        "IRC": "#nyancat-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cardfight!! Vanguard: Asia Circuit-hen",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "^"
+                ],
+                "Bad Comments": [
+                    "Only released two episodes, and were 12 weeks behind when they finally announced that it was dropped."
+                ]
+            }
+        }
+    ]
+}

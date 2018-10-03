@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "AnimeTyphoon",
+        "Short Name": "",
+        "IRC": "#AnimeTyphoon@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Battle Spirits: Ryuuko no Ken",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ys",
+            "Show Type": "OVA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

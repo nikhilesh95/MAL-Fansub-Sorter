@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Stratos Subs",
+        "Short Name": "Stratos-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "7",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 21 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Super fabulous subs.",
+                    "fast but unfortunately rife with errors",
+                    "Really fast, decent speedsubs.",
+                    "Good job at their first project",
+                    "You'd think a group named after the show would try harder..."
+                ],
+                "Bad Comments": [
+                    "Lightning FAST. Also, good translation and font. There are honorifics as well. I hope they'll sub first 7 episodes.",
+                    "No 480p releases.",
+                    "lol",
+                    "i likey it."
+                ]
+            }
+        }
+    ]
+}

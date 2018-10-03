@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Tenko",
+        "Short Name": "Tenko",
+        "IRC": "#ohayopt@irc.ptnet.org",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cross Game",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Boa tradução, fácil de ler. Pena não ter karaoke no OP e ED..."
+                ],
+                "Bad Comments": [
+                    "Boa tradução para português"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "FENOMENAL! Seca."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mugen no Ryvius",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

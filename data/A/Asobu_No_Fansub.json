@@ -1,0 +1,331 @@
+{
+    "Group": {
+        "Group Name": "Asobu No Fansub",
+        "Short Name": "Asobu-no-Fansub",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "172",
+            "Users Disapprove": "35",
+            "Total": "207"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aiura",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "17 of 24 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Rapide et de qualité",
+                    "Light&Fluffy !"
+                ],
+                "Bad Comments": [
+                    "Good sub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Arata Kangatari",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub."
+                ],
+                "Bad Comments": [
+                    "Merci pour cette série ;)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Asura",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub"
+                ],
+                "Bad Comments": [
+                    "Correct, if you don't pay attention to the numerous non-translated \"yosh\". One use of modern slang seemed out-of-place."
+                ]
+            }
+        },
+        {
+            "Show Name": "Busou Chuugakusei: Basket Army",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Traduit depuis le japonais ! Très bon sub !"
+                ],
+                "Bad Comments": [
+                    "Nahahaha, Gokuraki gère trop 8D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Choujigen Game Neptune The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good work on this anime !"
+                ],
+                "Bad Comments": [
+                    "Clean subbing, good re-phrasing, fast enough with new releases"
+                ]
+            }
+        },
+        {
+            "Show Name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good translation & adaptation quality.\nThey're open & ready to listen to public."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cuticle Tantei Inaba",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Un sous-titrage sans une seule faute. Et de qualité.",
+                    "THIS is a great anime"
+                ],
+                "Bad Comments": [
+                    "Super traduction, zéro faute, que du bonheur !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Date A Live",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "26 of 30 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "cute subs",
+                    "Good sub",
+                    "Très bonne traduction, travail très bien fait.",
+                    "Bonne traduction"
+                ],
+                "Bad Comments": [
+                    "travail de bonne qualité",
+                    "J'aime pas DaL mais tout travail mérite salaire :3",
+                    "Superbe travail!! Continuez comme ça!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "J'espère qu'il y aura un anime ! Très bon subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Un version HD !! Merci !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kaku: Outbreak",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Qualité d'image médiocre mais une très bonne trad."
+                ],
+                "Bad Comments": [
+                    "Great sub !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hyouka: Motsubeki Mono wa",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kagaku na Yatsura",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kotonoha no Niwa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub",
+                    "Forgot to translate the song at the end"
+                ],
+                "Bad Comments": [
+                    "Shinkai rules ! You too !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Litchi DE Hikari Club",
+            "Show Type": "TV - 8 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good team",
+                    "Sub de qualité"
+                ],
+                "Bad Comments": [
+                    "M. CEO",
+                    "Huhu !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mangirl!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sub de qualité",
+                    "Même chose que pour DAL. Content qu'il y ait des fansubs pour les épisodes de 3min aussi !"
+                ],
+                "Bad Comments": [
+                    "Excellent !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nerawareta Gakuen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs",
+                    "Je n'ai pas vraiment aimé le film, mais la qualité était au rendez-vous, bravo à vous ;D"
+                ],
+                "Bad Comments": [
+                    "Magnificent movie."
+                ]
+            }
+        },
+        {
+            "Show Name": "Non Non Biyori",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hon hon hon baguette Eiffel Tower.",
+                    "Great sub !"
+                ],
+                "Bad Comments": [
+                    "Loli powaaaa"
+                ]
+            }
+        },
+        {
+            "Show Name": "One Off",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Super !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rescue Me!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Un sous-titrage sans une seule faute. Et de qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Upotte!!",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Upotte!! OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wooser no Sono Higurashi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Une série que beaucoup n'aurait jamais découvert si vous ne l'aviez pas sous-titré",
+                    "Woooooser !"
+                ],
+                "Bad Comments": [
+                    "Un sous-titrage sans une seule faute. Et de qualité.",
+                    "Si un jour je pensé que j'allais regarder un truc comme ça x)\nWooser is coming!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yami Shibai",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gloomy anime but good job !"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

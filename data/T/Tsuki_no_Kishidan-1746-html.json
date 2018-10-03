@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Tsuki no Kishidan",
+        "Short Name": "TNK",
+        "IRC": "#tsukinokishidan@irc.worldnet.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ÉNORMÉMENT de fautes d'orthographe. La pire fan-sub que j'ai vu de ma vie sur ce point-là."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 5: Mujun Rasen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "DutchSaiyaman",
+        "Short Name": "DSM",
+        "IRC": "",
+        "Primary Language": "Dutch",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball",
+            "Show Type": "TV - 153 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "As of now. The English division of Dutchsaiyaman is no more. Dutch subs will continue"
+                ],
+                "Bad Comments": [
+                    "They literally make things up. Check the dbz subreddit for more info."
+                ]
+            },
+            "User Approval": "3 of 4 users approve, 2 comments"
+        }
+    ]
+}

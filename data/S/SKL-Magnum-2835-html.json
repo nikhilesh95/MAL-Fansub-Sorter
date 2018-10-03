@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "SKL-Magnum",
+        "Short Name": "SKL-Magnum",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mazinkaiser SKL",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "12 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing",
+                    "Some liberality but fitting badassery.",
+                    "I bet half of their lines aren't even actually in the show, but it fits the show so damn well who cares?"
+                ],
+                "Bad Comments": [
+                    "THANK YOU",
+                    "Simple and understandable"
+                ]
+            }
+        }
+    ]
+}

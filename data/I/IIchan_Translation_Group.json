@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "IIchan Translation Group",
+        "Short Name": "iichan",
+        "IRC": "irc://irc.zirc.org/iitran",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "1",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eikoku Koi Monogatari Emma",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 17 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Whisper's Guides made understanding the subtle details much easier.",
+                    "good translation, nice font… but the best part of it all is without any doubt the historical trivia at the end of each episode! very nice addition to an already great sub.",
+                    "Historical Info = +10"
+                ],
+                "Bad Comments": [
+                    "This fansubbing group has historial notes at the end of each episode to explain life in the victorian era",
+                    "European setting but the Japanese dub is very Japanese with many honorifics and none are in the subs! Couldn't finish 1st ep. Too many mistranslations like children->regret, meet->love, and missing details in lines which change meanings of sentences.",
+                    "Good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Eikoku Koi Monogatari Emma: Intermission",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eikoku Koi Monogatari Emma: Molders-hen",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great translation and interesting notes"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

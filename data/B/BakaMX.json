@@ -1,0 +1,85 @@
+{
+    "Group": {
+        "Group Name": "BakaMX",
+        "Short Name": "BakaMX",
+        "IRC": "#bakamx@irc.enterthegame.com",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "4",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fruits Basket",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "14 of 18 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "One of the first fansubs I ever saw in 2004. Release dates back to 2001 so A/V quality isn't that great, but this is all-around solid fansubbing from the \"pre-torrent era.\"",
+                    "Horrible spelling and many Japanese  phrases are not translated. They should really get their act together.",
+                    "They take care to get ALL of the dialogue. (Including thoughts, background voices, etc.)"
+                ],
+                "Bad Comments": [
+                    "Real anime nerd subbing, totally inaccessible unless you're already an anime fan, phrases like ano, ara, kawaii and many more untranslated.... just a poor job.",
+                    "karaoke, fun explanations (translators notes), a good way with words that gets the feeling trough :P",
+                    "weeaboo subs lmao"
+                ]
+            }
+        },
+        {
+            "Show Name": "Full Moon wo Sagashite",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gravitation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple, clean, effective, and one of the first one's available way back when."
+                ],
+                "Bad Comments": [
+                    "They're the only Gravitation sub I trust, and I've rewatched the series a billion times."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hoshi no Koe",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Noir",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yokohama Kaidashi Kikou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I like this realease"
+                ],
+                "Bad Comments": [
+                    "Decent."
+                ]
+            }
+        }
+    ]
+}

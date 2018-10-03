@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Maestro Fansub",
+        "Short Name": "Maestro",
+        "IRC": "#maestro@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anyamal Tantei Kiruminzoo",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "O único fazendo, mas é bom"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Lab",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sankarea",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Triste. Lentos demais e traduz como um aluno de 5ª série, com frases presas e travadas."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

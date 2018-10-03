@@ -1,0 +1,121 @@
+{
+    "Group": {
+        "Group Name": "Akatsuki no Fansub",
+        "Short Name": "AknF",
+        "IRC": "#AknF@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "2",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Todos los capitulos a tiempo y en varias versioes! Muy buenas y con muchas opciones ^_^"
+                ],
+                "Bad Comments": [
+                    "They're allways on date and have very high quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Bus Gamer",
+            "Show Type": "TV - 3 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fueron pocos que lo hicieron a tiempo, me gusta la puntualidad de los subtitulos de este fansub!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragonaut: The Resonance",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're allways on date and have very high quality"
+                ],
+                "Bad Comments": [
+                    "good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 Second Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Muv-Luv Alternative: Total Eclipse",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "GReat Job XD"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're allways on date and have very high quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They do a god job"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shikabane Hime: Aka",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

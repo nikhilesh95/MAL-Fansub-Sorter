@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Kyouki & Tsuki Subs",
+        "Short Name": "Kyouki-Tsuki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "6",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sengoku Otome: Momoiro Paradox",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "19 of 25 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Do you even understand the word karaoke? How can I sing the song if words disappear BEFORE I hear them? even Horrible Subs is better with no kara.",
+                    "karaoke and spelling errors",
+                    "because good",
+                    "better than akatsuki"
+                ],
+                "Bad Comments": [
+                    "Some minor editing mistakes and spelling errors but nothing too terrible.",
+                    "They had some pretty terrible ED karaoke, and the encode was poor.",
+                    "Several errors."
+                ]
+            }
+        }
+    ]
+}

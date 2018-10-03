@@ -1,0 +1,151 @@
+{
+    "Group": {
+        "Group Name": "Honobono",
+        "Short Name": "h-b",
+        "IRC": "#honobono@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "78",
+            "Users Disapprove": "5",
+            "Total": "83"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fushigiboshi no☆Futagohime",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "21 of 22 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A solid fansub for this unnoticed series. Translation and editing have a few minor mistakes but is largely unnoticeable. Typesetting is excellent and fitting for the 'cute-ness' of Futago Hime.",
+                    "A solid fansub! But sometimes it takes too long to wait for a episode. But the gammar and such is excellent!"
+                ],
+                "Bad Comments": [
+                    "^_^",
+                    "Well, to be honest, I want to make a research of the world designed by BIRTHDAY because I'm taking up an ideal game story for the prequel (you may consider it as spin-off) of the first Futago Hime Series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fushigiboshi no☆Futagohime Gyu!",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fushigiboshi no☆Futagohime Gyu! Recap",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hana no Mahoutsukai Mary Bell",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "9 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did a great job on this obscure gem.",
+                    "Only ones who subbed it."
+                ],
+                "Bad Comments": [
+                    "sound obius, altrough there sometime spelling mistake or error in translating"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hime-chan no Ribbon",
+            "Show Type": "TV - 61 episodes",
+            "User Approval": "8 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This group is doing an awesome job appreciating this classic that precurses Akazukin Chacha like Ashita no Joe does to Hajime no Ippo"
+                ],
+                "Bad Comments": [
+                    "Nice subs, stylish and helpful notes, and excellent choices of series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kingyo Chuuihou!",
+            "Show Type": "TV - 54 episodes",
+            "User Approval": "10 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped at 46/54.",
+                    "Great translation and visual fonts"
+                ],
+                "Bad Comments": [
+                    "A great group",
+                    "Good but impossibly slow."
+                ]
+            }
+        },
+        {
+            "Show Name": "Minky Momo in Yume ni Kakeru Hashi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oh! Super Milk-chan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "This looks like a fun sequel to watch after seeing the original Super Milk."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rizelmine",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I really hope they did season 2 and I hope I can find it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Mew Mew",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "13 of 14 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Apparently this group's never heard of \"lead-out\" or of a concept called \"You don't need to sub every random yell, grunt, or scream.\"",
+                    "I feel they did an amazing job at subbing. They gave it their full efforts, and it shows.",
+                    "Decent translation - however repeated reminders at the top of the screen put me off slightly"
+                ],
+                "Bad Comments": [
+                    "Subs are easy to read, very good grammar, and some of their karaoke fonts were very nice as well (like Glider in  episode 43). Episodes were released pretty regularly and their translations were very accurate compared to some other groups who were subbing",
+                    "It's a very high quality fan sub!",
+                    "Good with explaining Japanese phrases Background song lyrics were kept on separate part of screen or in a different colour to dialogue. Subs seemed accurate. Given my little knowledge on the language."
+                ]
+            }
+        },
+        {
+            "Show Name": "Wata no Kuni Hoshi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only release you can find."
+                ],
+                "Bad Comments": [
+                    "Good quality!"
+                ]
+            }
+        }
+    ]
+}

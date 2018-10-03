@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "AnimeSaga",
+        "Short Name": "AnimeSaga",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Erementar Gerad",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "e al posto di è, arcere, un'altro... Nomi dei Servant ogni tanto lasciati ogni tanto tradotti, anche nello stesso dialogo, note inutili (ep 2) che vengono successivamente spiegate nell'anime stesso poi (ep 3)",
+                    "Fate-Subs release is more accurate."
+                ],
+                "Bad Comments": [
+                    "serious, professional, very good group, one of the first great group of italian fansub!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kore ga Watashi no Goshujinsama",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mai-Otome",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yakushiji Ryouko no Kaiki Jikenbo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

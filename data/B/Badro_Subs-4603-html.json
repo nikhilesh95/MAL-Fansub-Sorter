@@ -1,0 +1,140 @@
+{
+    "Group": {
+        "Group Name": "Badro Subs",
+        "Short Name": "BaDrO",
+        "IRC": "#Hagane@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "104",
+            "Users Disapprove": "3",
+            "Total": "107"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "12 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "حلبون XD"
+                ],
+                "Bad Comments": [
+                    "excellent translation"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gin no Saji 2nd Season",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hitotsubu ni Kawaranu Ai wo Komete",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fantastic as always :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanojo to Kanojo no Neko: Everything Flows",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushishi Special: Hihamukage",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "14 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "أبدعت أخي البدر المنير، منتدى (مسومس) يفخر بك"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushishi Zoku Shou",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "20 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة, أكثر شىء يعجبني إثراء التعبير في الترجمة بكلمات أكثر تعبيرا",
+                    "I couldn't understand anything, but I'll bet you $100 this was better than Vivids \"translation\".",
+                    "ترجمة جميلة"
+                ],
+                "Bad Comments": [
+                    "Good quality translation",
+                    "الترجمة جيدة والكلمات مستخدمة بطريقة رائعة"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mushishi Zoku Shou 2nd Season",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "12 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة",
+                    "ترجمة جميلة"
+                ],
+                "Bad Comments": [
+                    "ترجمة رائعة و سليمة"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mushishi Zoku Shou: Odoro no Michi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "10 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة"
+                ],
+                "Bad Comments": [
+                    "ترجمة جميلة"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mushishi Zoku Shou: Suzu no Shizuku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة جميلة"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rain Town",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

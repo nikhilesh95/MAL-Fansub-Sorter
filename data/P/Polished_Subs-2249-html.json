@@ -1,0 +1,581 @@
+{
+    "Group": {
+        "Group Name": "Polished Subs",
+        "Short Name": "polished",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "321",
+            "Users Disapprove": "88",
+            "Total": "409"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aishiteruze Baby★★",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good release!!! But like the other comment says, Some lines are missing.",
+                    "Good video/audio. The subs are good (apart from some missing lines) until ep18, at which point they turn into localised junk because AnimeONE's subs were replaced by Lunar's. If you can find AnimeONE's sub version, I recommend watching that for ep18-26."
+                ],
+                "Bad Comments": [
+                    "Very good quality, although there are some typos/missing lines in the subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Asobi ni Iku yo!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bloated 1080p encode! Better get Seto Otaku or Doki's 1080p rips!",
+                    "1080p encodes are sourced by Yousei. Polished Subs does not do any of their own encodings, so they are forced to use what is available. Yousei>Zero-raws for this release.",
+                    "Blu-Ray :D"
+                ],
+                "Bad Comments": [
+                    "yay for ayako on bd",
+                    "720 BD with ayako subs. The best option if you don't want Commie."
+                ]
+            }
+        },
+        {
+            "Show Name": "GA: Geijutsuka Art Design Class",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Needs to learn how to encode and needs some QC to fixed the subs... This release is average at best.",
+                    "Well rounded Mux of HQ DVD Raws with carefully newly typeset Ayako subs"
+                ],
+                "Bad Comments": [
+                    "Although DVD source, he still has the same mistakes that Ayako had in their releases. Please get a QCer!",
+                    "In response to the native comment, take a note at the \"Disclaimer\" on Polished Subs website: \"I am not a subber, a typsetter, or an editor. I am a leecher who has lost his way. This means I will not be fixing errors in the original subs.\""
+                ]
+            }
+        },
+        {
+            "Show Name": "Gakuen Utopia Manabi Straight!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blame Aegisub's limitations for the poor movement -- you want full softsub, you've gotta take the tradeoff. For hardsubbed/better signs, get Eclipse-gg.",
+                    "asdasd"
+                ],
+                "Bad Comments": [
+                    "Best video quality with Eclipse-gg subs.",
+                    "Good picture quality and excellent subs. Some of the soft subs are bad (horrible movement) but the better PQ and SQ far outweighs some minor errors."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanamaru Youchien",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great job, well done.",
+                    "They used pwq's rubbish subtitles. If you choose rubbish subs for your BD release, then you instantly make your release rubbish. Guilty by association."
+                ],
+                "Bad Comments": [
+                    "Great styling. Highly recommended."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanamaru Youchien Special Preview",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himesama Goyoujin",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanamemo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than Diaz's DVD release, in that this version actually exists."
+                ],
+                "Bad Comments": [
+                    "Great"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kenkou Zenrakei Suieibu Umishou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not perfect if you actually scrutinize the subs for timing/typesetting/styling errors. Dialogue style isn't too good either (insufficient padding, dark text / light outline).",
+                    "Barely readable sub font. Why do sub groups go through so much effort subbing a show and then ruin it with an unreadable font?"
+                ],
+                "Bad Comments": [
+                    "Perfect. Beautiful. DVD source. Polished."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kimikiss Pure Rouge",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "11 of 15 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Errors galore.",
+                    "Picture quality could be better (some de-interlacing errors) but otherwise a top notch release.",
+                    "Oh yes."
+                ],
+                "Bad Comments": [
+                    "DVD!",
+                    "Pixelish edges, tuned down volume. Better fonts than BSS release cant make up for everything though."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kimikiss Pure Rouge: Love Fighter",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kokoro Toshokan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great picture quality improvement over the DTV episodes and good subtitles."
+                ],
+                "Bad Comments": [
+                    "Good encodes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kore ga Watashi no Goshujinsama",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better video quality than Ayu's TV-rips, but glitchy subs with typos, missing lines, timing errors, and Find+Replace fail that have some characters called \"Default\" in a few spots.",
+                    "Good picture quality and stylized subs."
+                ],
+                "Bad Comments": [
+                    "Default",
+                    "DVD quality, Ayu's subbing along with nice karaoke."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kure-nai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "What? Polished only did this show in DVD."
+                ],
+                "Bad Comments": [
+                    "THE BEST BLU RAY SUBS....PERIOD!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahoromatic 2",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic: Automatic Maiden",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gigantic subs and rather excessive vertical padding. Just to make sure it obscures as much of the video as possible, of course."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maken-Ki!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mitsudomoe",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Note that polished (generally) has no TL or TLC on hand. Just get one of the rips that use CR's subs.",
+                    "video quality improved, but its still the same TL mistakes from FFFpeeps"
+                ],
+                "Bad Comments": [
+                    "BD releases with great subs!",
+                    "Same awful translation as FFF. Basically if you want to properly enjoy this show you need to learn Japanese because all the English subs are total failures"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nagasarete Airantou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ayako's subs suck as usual, but at least there's hardly any of the usual Polished added mistakes outside of some karaoke syllable miscopyings."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nanatsu-iro★Drops",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Didn't suck worse than AQS's awkward overliteral subs sucked to begin with, anyway.",
+                    "Amazing quality and subs."
+                ],
+                "Bad Comments": [
+                    "It didn't suck."
+                ]
+            }
+        },
+        {
+            "Show Name": "Okusama wa Mahou Shoujo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty translations and piss-poor grammar."
+                ],
+                "Bad Comments": [
+                    "Note that the translations were not done by Polished -- he used Undine's. For better or worse, Polished is about upgrading video quality, not sub quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Upscaled, FLACebo audio, inferior Mango subs used for random \"cause it's a fansub!!\" reasons over the Underwater/CR subs."
+                ],
+                "Bad Comments": [
+                    "THE BEST"
+                ]
+            }
+        },
+        {
+            "Show Name": "Princess Lover!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There was a lot of grammar and wording errors throughout the series.",
+                    "I personally prefer the picture quality of Mattaku's release, but the subs are the same, so this gets a \"+\" rating by me.",
+                    "Best subs EVER. If it's Japanese they subbed it, AND ACCURATELY! :D\nBig plus for sentence fluency too. Too many broken-English subs out there."
+                ],
+                "Bad Comments": [
+                    "If only Polished subs teams up with Seto Otaku this will be a very very good release ^__^",
+                    "Blu Ray"
+                ]
+            }
+        },
+        {
+            "Show Name": "Princess Lover! Picture Drama",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "18 of 22 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good",
+                    "Blu Ray"
+                ],
+                "Bad Comments": [
+                    "Who else bothered? Get this!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Princess Lover!: Magical Knight Maria-chan",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "14 of 16 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu Ray"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Queen's Blade: Gyokuza wo Tsugu Mono",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Highest quality fanservice you will find."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Queen's Blade: Rurou no Senshi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finished the Blurays from where SFW left off."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 15 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "uses Titaniums subs, with 720p!!",
+                    "Titanium subs with quality OP/ED. Better than DmonHiro's release from the same source and using Chihiro subs",
+                    "Good."
+                ],
+                "Bad Comments": [
+                    "Best quality and subs.",
+                    "Nice subs and excellent quality",
+                    "Overall good, but they translated oniichan as mister - this was rather stupid..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekirei: Hajimete no Otsukai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The best :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu-Ray quality, but with unedited Ryuumaru subs.",
+                    "Good."
+                ],
+                "Bad Comments": [
+                    "Blu-ray quality with Ryuumaru subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement Episode 0",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good releases, but somewhat awkward English.",
+                    "Lazy subbing, as too often short simple text phrases are used to express long spoken sentences. (meaning more was obviously said than what was translated into text)"
+                ],
+                "Bad Comments": [
+                    "always fails on dajare"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shin Koihime†Musou OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Koihime†Musou: Otome Tairan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinryaku! Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora no Otoshimono",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "34 of 37 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great",
+                    "Best choice around!"
+                ],
+                "Bad Comments": [
+                    "win",
+                    "awful americanized shit"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soredemo Machi wa Mawatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 16 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"They unnecessarily...\" Then blame gg, whose translations were the only subs available at the time.",
+                    "They unnecessarily rewrote jokes that someone with even limited knowledge of Japanese could have understood."
+                ],
+                "Bad Comments": [
+                    "good"
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 21 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Chihiro's subs with better styling (still needs more padding), has karaoke, uses slightly upscaled (880x496) raws. Uncensored DVD. Overall watchable.",
+                    "NOT happy, but I'm stupid happy that a group has finally finished this season with Uncensored raws and Chihiro's subs. :D",
+                    "It's a edited version of Chihiro's release, which is an ocular cancer."
+                ],
+                "Bad Comments": [
+                    "greaaaat",
+                    "Quality is good and translation is decent. Polished usually does a better job than this, but I'm satisfied."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Only Love",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "7 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wtf is that karaoke?",
+                    "fabulous~ release"
+                ],
+                "Bad Comments": [
+                    "To the negative comment: Polished Subs released a patch to remove the original C1 Karaoke. You can download it here: http://www.megaupload.com/?d=TT2U8P8T",
+                    "Style and translation are terrible..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Only Love Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta Kata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lovely series with even higher picture and sound quality over the original series. Highly recommended release."
+                ],
+                "Bad Comments": [
+                    "Approving 'cause the encode is great, the font and karaoke are good, and the subs are watchable. However, mistakes are everywhere. At least 10 minor mistakes per ep. Gah."
+                ]
+            }
+        },
+        {
+            "Show Name": "Uta Kata Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoku Wakaru Gendai Mahou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Youchien Senshi: Hanamaru Girls",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Though Polished usually doesn't edit the subs in his remuxes, he did take the time to fix SS-Ayu's wrong name spellings. A shame about the usual added mistakes and missing lines, though."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

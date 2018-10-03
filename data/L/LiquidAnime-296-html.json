@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "LiquidAnime",
+        "Short Name": "LA",
+        "IRC": "#liquidanime@irc.zirc.org",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Joe 2",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "PopoloCrois",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu no Kishi Tekkaman Blade",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Clear, concise subs that make sense most of, if not all the time."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        }
+    ]
+}

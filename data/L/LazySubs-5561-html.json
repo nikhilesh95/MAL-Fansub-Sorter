@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "LazySubs",
+        "Short Name": "LazySubs",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "1",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chocotto Sister",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Daitoshokan no Hitsujikai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "this one also.. love it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denki-gai no Honya-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Girlfriend (Kari)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inou-Battle wa Nichijou-kei no Naka de",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "love this anime"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigatsu wa Kimi no Uso",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "i also like this one"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

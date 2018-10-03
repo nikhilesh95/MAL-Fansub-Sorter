@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Al-Andalus",
+        "Short Name": "",
+        "IRC": "#Andalus-subs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Summer Wars",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "الترجمة ممتازة ولكن الفلم سيء جدًا، لا أنصح احد بمشاهدته ابدًا."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

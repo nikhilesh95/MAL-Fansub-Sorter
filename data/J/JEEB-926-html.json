@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "JEEB",
+        "Short Name": "JEEB",
+        "IRC": "#jeeb@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have awesome quality release (1024x576, h.264) and very good translate"
+                ],
+                "Bad Comments": [
+                    "Looked better than EnA, translation (aside from a minor few spelling and grammar errors) was vastly superior to a.f.k., and styling was great. Best choice for me."
+                ]
+            }
+        }
+    ]
+}

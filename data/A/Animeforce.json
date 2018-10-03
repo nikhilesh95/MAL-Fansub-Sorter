@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Animeforce",
+        "Short Name": "FORCE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "3",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Canary",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible font choice."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canvas: Sepia-iro no Motif",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was okay."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Mew Mew",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

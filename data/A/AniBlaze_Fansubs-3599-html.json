@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "AniBlaze Fansubs",
+        "Short Name": "AniBlaze",
+        "IRC": "#AniBlaze@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "8",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hayate no Gotoku! Can't Take My Eyes Off You",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koi to Senkyo to Chocolate",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Sankarea",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bad sub. Bad timing. Avoid."
+                ],
+                "Bad Comments": [
+                    "Timing is off."
+                ]
+            },
+            "User Approval": "0 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Yurumates 3D",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Zetman",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Because it's a new group and they released an actually ok sub for being new"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 1 comments"
+        }
+    ]
+}

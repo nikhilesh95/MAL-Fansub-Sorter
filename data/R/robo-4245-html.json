@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "robo",
+        "Short Name": "robo",
+        "IRC": "#robo@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Medarot",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finally, subs in english!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

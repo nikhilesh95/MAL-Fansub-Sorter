@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "X-Ray Fansubs",
+        "Short Name": "X-ray",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fractale",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "What, another shitty Rus_ian sub_ers? Oh, LoL."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "RD Sennou Chousashitsu",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        }
+    ]
+}

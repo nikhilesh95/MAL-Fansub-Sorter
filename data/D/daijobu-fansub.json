@@ -1,0 +1,195 @@
+{
+    "Group": {
+        "Group Name": "daijobu-fansub",
+        "Short Name": "D-J-B",
+        "IRC": "#daijobu-fansub@irc.fansub-irc.org",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "2",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-Ko The Versus",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Assemble Insert",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": [
+                    "Several mistranslations (heroin's age among other things), a good number of sentences sounds like cases of literal english-to-french translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragonaut: The Resonance",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magical Nyan Nyan Taruto",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": [
+                    "Hi"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mnemosyne: Mnemosyne no Musume-tachi",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moyashimon",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project A-Ko",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project A-Ko 3: Cinderella Rhapsody",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project A-Ko 4: Final",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rocket Girls",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seihou Tenshi Angel Links",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sketchbook: Full Color's",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenshi ni Narumon!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Du sérieux et de la qualité."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

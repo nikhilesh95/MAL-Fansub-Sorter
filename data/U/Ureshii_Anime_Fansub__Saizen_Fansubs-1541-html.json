@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Ureshii Anime Fansub & Saizen Fansubs",
+        "Short Name": "Ureshii_Saizen",
+        "IRC": "#ureshii@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "41",
+            "Users Disapprove": "0",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "RD Sennou Chousashitsu",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "41 of 41 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Flawless.",
+                    "The best the best the best",
+                    "nicely formatted, good tranlations",
+                    "quality, plus they're actually finishing it",
+                    "Just perfect.",
+                    "Superb translations."
+                ],
+                "Bad Comments": [
+                    "good sub",
+                    "Clear encode, good translation and timing.",
+                    "Superior subs",
+                    "undefined",
+                    "good fansub, easy site, only sometimes late releases"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "ElectroMagnetic Fansubs",
+        "Short Name": "EM",
+        "IRC": "#EM@irc.moeotaku.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wagaya no Oinari-sama. Specials",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well, at least the first 5 eps were good. I am disappointed that he didn't finish subbing this though. Shakes fist at Mecorx. =P"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

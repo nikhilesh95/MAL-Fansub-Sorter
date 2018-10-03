@@ -1,0 +1,115 @@
+{
+    "Group": {
+        "Group Name": "Hero Legends",
+        "Short Name": "HL",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "36",
+            "Total": "96"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Getter Robo",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did good with the few they did."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No flaws in subbing noticable to me, though I'm not proficient in Japanese, so I cannot evaluate translation."
+                ],
+                "Bad Comments": [
+                    "Good subbing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kidou Shinseiki Gundam X",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "24 of 29 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they finished subbing it.",
+                    "Watchable, but often innacurate.",
+                    "Ready availability, no grievous errors",
+                    "Simple and plain, easy to understand english sub.",
+                    "subs are mediocre, but they're the only ones who subbed it"
+                ],
+                "Bad Comments": [
+                    "Best quality",
+                    "quality not that good but they are one of the only subbers.. all in all decent",
+                    "Translations are inaccurate.",
+                    "it's fine."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam ZZ",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "8 of 17 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translations, simple but nice typesetting, great quality as well",
+                    "To far from original (IMHO)   hardsub   one time bad timing   bags in encoding.",
+                    "Simple and decent translations. Timing is sometimes off and some minor lines are left unsubbed.",
+                    "quite possibly their worse release, a lot of inaccurate translations and improper grammar",
+                    "bad name orthography"
+                ],
+                "Bad Comments": [
+                    "Translations are often wrong, timing is sometimes off, no karaoke. Really bad job...",
+                    "Translations are inaccurate.",
+                    "Translation are often inaccurate, missing the point of what was really said...",
+                    "Grammar is awful, translations are at times overly literal, other times incorrect. Odd choices of words...list goes on. Yuck."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Victory Gundam",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "14 of 26 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "quality",
+                    "I like them because they are accurate in their subbings. The grammar doesn't miss a beat.",
+                    "They are not \"accurate in their subbings\", you stupid faaggot. Sumimasen does not = Thank you, for fuck's sake.",
+                    "Bad translation",
+                    "Tons of errors, bad translation, timing errors, and general bad quality. Wait for [EG] to finish."
+                ],
+                "Bad Comments": [
+                    "Poor translations. Subs are no good.",
+                    "Unfortunately, only softsubbed version: Translation very bad and video quality low. After all, best version :(",
+                    "Bad Translation and some obvious glaring timing errors. It's shame that they're the only group who finished.",
+                    "hammy translations that are inaccurate, but the only one available :(",
+                    "Simple and readable subtitles. But strange phrases."
+                ]
+            }
+        },
+        {
+            "Show Name": "Turn A Gundam",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "7 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "As with their other Gundam projects, the translation is off quite often.",
+                    "translations were often wrong & increasingly so as series progressed. Sometimes the opposite meaning and sometimes complete nonsense."
+                ],
+                "Bad Comments": [
+                    "Horrible encodes and fluctuating translation quality. Watch the AG release if you can.",
+                    "The translation is often times inaccurate, as with all of Hero Legends' works."
+                ]
+            }
+        }
+    ]
+}

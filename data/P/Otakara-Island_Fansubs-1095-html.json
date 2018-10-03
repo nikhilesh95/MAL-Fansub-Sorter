@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Otakara-Island Fansubs",
+        "Short Name": "Oi! Fansubs",
+        "IRC": "#oi-fansubs@irc.immortal-anime.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "17",
+            "Total": "47"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent, clean and clear-cut, good explanations when needed. Bonus props for color-coding."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "25 of 42 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best subs for Persona. A few typos etc due to being speed subs, but pretty good translations (and I like the blue text)",
+                    "Clear and concise language. Subs match the background color and are unobtrusive.",
+                    "Fluently translated subtitles, good encoding, nice font.",
+                    "Typesetting was ugly and inappropriate. They also \"summarize\" the script rather than translating it as it is. THE PEOPLE WHO MADE POSITIVE COMMENTS DON'T KNOW A SHIT ABOUT REAL JAPANESE.",
+                    "Some of the lines are worded oddly and there are grammatical and punctuation errors everywhere.",
+                    "no mistakes fit nicely good style"
+                ],
+                "Bad Comments": [
+                    "Very nice translating, a little too literal in ep01, but definitely made it work in ep02. Font choices are excellent and go well with the PERSONA feel.",
+                    "It's bad.",
+                    "Excellent, hardly any mistakes whatsoever. The people who made some of the negative comments are exaggerating.",
+                    "doesn't really flow, minor translation error",
+                    " not so good video quality",
+                    "I didn't see any of the group's subs in the site where I get my fansubs from."
+                ]
+            }
+        }
+    ]
+}

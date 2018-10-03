@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Hybrid-Fansubs & Saizen Fansubs",
+        "Short Name": "HyZen",
+        "IRC": "#hybrid@irc.rizon.net | #saizen@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akachan to Boku",
+            "Show Type": "TV - 35 episodes",
+            "User Approval": "12 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No glaring errors, smooth experience"
+                ],
+                "Bad Comments": [
+                    "Good subs synchronization and great quality of typesetting."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Saizen Fansubs & Yabai-Fansubs",
+        "Short Name": "Saizen-Yabai",
+        "IRC": "#saizen@irc.rizon.net OR #yabai@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "1",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kyou kara Ore wa!!",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "25 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The guy from Saizen was responding to the *complete dicks* who refuse to give them credit for their near-flawless completion rate as of late (especially for long-running shows like Yawara)",
+                    "enjoyed the translation! only confusing was san-chan translated as three",
+                    "Good release overall, but don't be a douche when replying to a simple comment, like this: http://anidb.net/perl-bin/animedb.pl?show=cmt&id=46344#c324555",
+                    "Well I love Saizen, awesome group with awesome anime and they do complete their anime. But I'll say this, Juggen was an ass to be so harsh over a simple little comment that looked playful to me. Seems like he's become jaded.",
+                    "Absolutely hilarious subs."
+                ],
+                "Bad Comments": [
+                    "They're the only club that subbed all the episodes of this wonderful show. :)",
+                    "Some of the added swearing seems a bit out of place at times, but other than that it's a great sub! Thank you for subbing this lesser known anime.",
+                    "Simple and easy to follow.",
+                    "I like the way they use American slang, this wouldn't feel complete without it considering this is about Highschool denlinquents."
+                ]
+            }
+        }
+    ]
+}

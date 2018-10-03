@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "AnimeRG",
+        "Short Name": "AnimeRG",
+        "IRC": "#AnimeRG@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "13",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "User Approval": "3 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Google Translate trash.",
+                    "I absolutely LOVE how they put in the detail to have separate fonts and font sizes for different things. They also took the time to actually sub as much japanese as they could, including little background stuff that other groups would miss."
+                ],
+                "Bad Comments": [
+                    "Terrible use of google translated subs using a Spanish script translation that was poorly translated from japanese to begin with. Stay far away from these release."
+                ]
+            }
+        },
+        {
+            "Show Name": "ReLIFE",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "decent subs. decent video quality. highly compressed"
+                ],
+                "Bad Comments": [
+                    "making up their own story rather than translating."
+                ]
+            }
+        },
+        {
+            "Show Name": "Strike the Blood: Valkyria no Oukoku-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Ghoul: \"Jack\"",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

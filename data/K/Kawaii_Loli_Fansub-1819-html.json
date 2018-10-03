@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kawaii Loli Fansub",
+        "Short Name": "KawaiiLoli",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Una cura maniacale degli episodi. L'unica nota dolente? Vengono rilasciati a distanza di mesi."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "Group": {
+        "Group Name": "Anime-Faith",
+        "Short Name": "A-Faith",
+        "IRC": "#anime-faith@irc.chatspike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "1",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Umi no Tristia",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Early Reins",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fushigi Yuugi: Eikouden",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genshiken",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs and typesetting.",
+                    "Good quality subs   tl notes   karaoke.",
+                    "The Otaku notes really helped!"
+                ],
+                "Bad Comments": [
+                    "love the translation notes. thanks for their hard work!",
+                    "they provide additional notes abt otaku terms ",
+                    "Right. Full of notes."
+                ]
+            },
+            "User Approval": "30 of 30 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Hand Maid Mai",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island",
+            "Show Type": "OVA - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island Final",
+            "Show Type": "OVA - 14 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "I'll/CKBC",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kakyuusei (TV)",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kujibiki Unbalance",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Memories Off 2nd",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "It was decent, tl lacked a little but it was ok"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Shaman King",
+            "Show Type": "TV - 64 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

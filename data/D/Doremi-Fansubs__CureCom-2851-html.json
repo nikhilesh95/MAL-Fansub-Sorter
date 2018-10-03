@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Doremi-Fansubs & CureCom",
+        "Short Name": "Doremi-CureCom",
+        "IRC": "#doremi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "52",
+            "Users Disapprove": "3",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent Translation of a Fantastic Movie"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent Translation of a fantastic Movie",
+                    "coool"
+                ],
+                "Bad Comments": [
+                    "Good work and thanks for the avi version."
+                ]
+            }
+        },
+        {
+            "Show Name": "Suite Precure♪",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "43 of 46 users approve, 15 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent Translations of Precure Series and movies",
+                    "\"He trolls people every day\"? Really guys?",
+                    "A few spelling errors sometimes but other then their releases are good!",
+                    "It's accurate and brill!",
+                    "Because they are working so hard to sub something like precure series",
+                    "Their spelling is a little rickety sometimes and they take a few liberties too many for my taste, but they're generally very good.",
+                    "its precure! lol",
+                    "Subs don't have to be perfectly worded for Precure. It's not like we're going to miss important plot points if their grammar's bad."
+                ],
+                "Bad Comments": [
+                    "delicious",
+                    "HAHahHAHA TAMA CURE",
+                    "cool",
+                    "\"you have went\"",
+                    "I've always enjoyed Doremi-Fansubs work. It's not fancy, but it helps me understand what's going on.",
+                    "Precure Fansubbers",
+                    "Really not that good, lots of obvious errors.  Still the best available."
+                ]
+            }
+        }
+    ]
+}

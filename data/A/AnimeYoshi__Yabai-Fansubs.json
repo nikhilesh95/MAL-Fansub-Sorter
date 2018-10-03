@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "AnimeYoshi & Yabai-Fansubs",
+        "Short Name": "AniYabai",
+        "IRC": "#Yabai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "2",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "To LOVE-Ru OVA",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "13 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lolSUBS"
+                ],
+                "Bad Comments": [
+                    "dropped???"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "HATE-SUBS & HATE-RAWS",
+        "Short Name": "HATE",
+        "IRC": "None",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "translation very close to VN",
+                    "Ъ!"
+                ],
+                "Bad Comments": [
+                    "nice",
+                    "Stealing releases."
+                ]
+            }
+        }
+    ]
+}

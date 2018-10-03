@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "AnimeOmake",
+        "Short Name": "Omake",
+        "IRC": "#animeomake@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "3",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koharu Biyori",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Many errors in translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lemon Angel Project",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushi-Uta",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good Opening/ending subing, which fits to Mushi Uta. Good English. Made a special with ep 3"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

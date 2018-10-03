@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Rozen Fansubs & Misc. Enlightened Entertainment Works",
+        "Short Name": "Rozen-m.3.3.w.",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "2",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koharu Biyori",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "17 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Get the job done well with great subs.",
+                    "no glaring errors",
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "Fast and good quality",
+                    "they're the only groups subbing this at the moment, minimal grammar errors, what's not to like?",
+                    "Good quality and nicely translated"
+                ]
+            }
+        }
+    ]
+}

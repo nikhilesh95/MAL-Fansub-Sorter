@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Zano",
+        "Short Name": "zano",
+        "IRC": "#Zano@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "10",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "4 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There's so much fucking fail, it's not even funny.",
+                    "Too many grammar mistakes."
+                ],
+                "Bad Comments": [
+                    "Lot's of spelling/grammar error, also changing name of the characters."
+                ]
+            }
+        }
+    ]
+}

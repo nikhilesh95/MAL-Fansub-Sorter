@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "LoLiSubs & NanaOne",
+        "Short Name": "LoLi&No",
+        "IRC": "#nanaone@irc.euirc.net #LoLiSubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ichigo Mashimaro Encore",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

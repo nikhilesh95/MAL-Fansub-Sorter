@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Anime Heisenberg Subs",
+        "Short Name": "Anime Heisenberg Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horribly mistranslated and grammar mistakes everywhere. It's one guy doing it overnight, so it's kind of understandable, but the subs aren't worth watching."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

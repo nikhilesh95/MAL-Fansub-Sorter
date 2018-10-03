@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Toki-Doki",
+        "Short Name": "Toki-D",
+        "IRC": "#toki-doki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "3",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tonari no Kaibutsu-kun: Tonari no Gokudou-kun",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "13 of 16 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Watchable :)",
+                    "Good subs for a terrible OVA.",
+                    "the only one group that made the english subs, so there is no room to complain (even though everything's fine)"
+                ],
+                "Bad Comments": [
+                    "Decent subs.",
+                    "Terrible. Waiting for Chihiro to translate it."
+                ]
+            }
+        }
+    ]
+}

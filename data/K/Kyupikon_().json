@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Kyupikon (≧∇≦)",
+        "Short Name": "kpkn",
+        "IRC": "#kyupikon@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "4",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "PriPara",
+            "Show Type": "TV - 140 episodes",
+            "User Approval": "6 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "better than doki",
+                    "Hasn't been updated in a very long time"
+                ],
+                "Bad Comments": [
+                    "Not Naisho, but they're sure trying to be at least.",
+                    "They use male pronouns for Reona while she uses female pronouns in the show. Everybody else uses female pronouns as well when referring to Reona."
+                ]
+            }
+        }
+    ]
+}

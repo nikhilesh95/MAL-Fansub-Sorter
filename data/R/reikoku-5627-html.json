@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "reikoku",
+        "Short Name": "reikoku",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Parade",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "stawp"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!!x2 Shou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "плиз"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Your Anime Sub",
+        "Short Name": "YAS",
+        "IRC": "#YourAnimeSub@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi (2012)",
+            "Show Type": "ONA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Watchable, but multiple sub languages in the same video."
+                ],
+                "Bad Comments": [
+                    "i instead of I"
+                ]
+            },
+            "User Approval": "3 of 7 users approve, 2 comments"
+        }
+    ]
+}

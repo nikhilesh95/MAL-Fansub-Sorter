@@ -1,0 +1,699 @@
+{
+    "Group": {
+        "Group Name": "Aria Chan",
+        "Short Name": "Aria",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "156",
+            "Users Disapprove": "152",
+            "Total": "308"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Acchi Kocchi (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ani ni Tsukeru Kusuri wa Nai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ao Haru Ride",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "allahu akbar"
+                ],
+                "Bad Comments": [
+                    "ترجمة جيدة والانتاج جيد"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ao Haru Ride OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ao no Exorcist: Kuro no Iede",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ashiaraiyashiki no Juunin-tachi.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Barakamon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة رائعة ولا تهتم من يقول عنها سيئة، فأنتي الافضل",
+                    "it's just horroible!"
+                ],
+                "Bad Comments": [
+                    "جيد جداً"
+                ]
+            }
+        },
+        {
+            "Show Name": "Busou Chuugakusei: Basket Army",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chihayafuru",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chihayafuru 2",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chocolat no Mahou",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chocotan!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chouyaku Hyakuninisshu: Uta Koi.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group doing this show even out of the English groups. Learn Arabic for this release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka: Ibarahime",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dareka no Manazashi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail OVA",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gekkan Shoujo Nozaki-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gekkan Shoujo Nozaki-kun Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Go! Go! 575",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakkenden: Touhou Hakken Ibun",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakkenden: Touhou Hakken Ibun 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatenkou Yuugi",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة لابأس بها"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because I speak Arabic"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Houkago no Pleiades",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Imawa no Kuni no Alice (OVA)",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaichou wa Maid-sama!: Omake dayo!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Dolls Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "3 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita: Kako-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita◎",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karneval",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn! Special",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi to Boku.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "عمل طيب وممتاز، أوتسكاري ساما ^_^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi to Boku. 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koitabi: True Tours Nanto",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kokoro ga Sakebitagatterunda.",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "amazing translation"
+                ],
+                "Bad Comments": [
+                    "ترجمة سيئة للأسف، تحتاج إلى تصحيح فيوجد فيها اخطاء كثيرة، اشكر للمترجم جهده، ولكن ليس بالمستوى الذي يسمح لك بمشاهدة العمل، ابحث عن غيرها"
+                ]
+            }
+        },
+        {
+            "Show Name": "Konbini Kareshi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji II Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "3 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyokugen Dasshutsu Adv: Zennin Shibou Desu Prologue",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyousou Giga",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makai Ouji: Devils and Realist",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagareboshi Lens",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsu-iro Kiseki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsu-iro Kiseki: 15-kaime no Natsuyasumi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة جيدة والانتاج جميل"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neppuu Kairiku Bushi Road",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore-sama Kingdom",
+            "Show Type": "OVA - 14 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Nadeshiko Koi Techou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona 4 the Animation: No One is Alone",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Prayers",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Recorder to Randoseru",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakura Internet",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Flamenco",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sorette♡Dakara ne!",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Super Seisyun Brothers",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "5 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Its good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The iDOLM@STER Live For You!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Ravens",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tonari no Kaibutsu-kun",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toradora!: Bentou no Gokui",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UN-GO: Inga Nikki",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usagi Drop Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Youkai Apartment no Yuuga na Nichijou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "luv her works"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Scarlet Water",
+        "Short Name": "SW",
+        "IRC": "#ScarletWater@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yumekui Merry",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Without a doubt the best choice!",
+                    "Best Blu-rays for the show."
+                ],
+                "Bad Comments": [
+                    "Amazing video quality with smaller file size than Coalgirls."
+                ]
+            }
+        }
+    ]
+}

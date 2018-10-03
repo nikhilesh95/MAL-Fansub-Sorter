@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Ganbappe",
+        "Short Name": "Ganbappe",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wake Up, Girls! Seishun no Kage",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs were large, so that made them easy to read from a distance. Their hue of green was easy on the eyes. And I noticed no grammar mistakes.",
+                    "Great, not localized and not americanized subs."
+                ],
+                "Bad Comments": [
+                    "Weeb subs and poorly translated"
+                ]
+            }
+        }
+    ]
+}

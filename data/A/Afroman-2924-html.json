@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Afroman",
+        "Short Name": "Afroman",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "7",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hoshizora e Kakaru Hashi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 14 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were gonna sub this show, but then they got high",
+                    "i was gonna read their subs, but then i got high",
+                    "These subs are actually really, really good."
+                ],
+                "Bad Comments": [
+                    "lolwut",
+                    "haters gon'  'hate",
+                    "Dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

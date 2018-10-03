@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Deddo Subs",
+        "Short Name": "Deddo",
+        "IRC": "deddosubs@freenode.net",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "he is great!"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "AKFDP",
+        "Short Name": "AKFDP",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "4",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanokon Specials",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "meh. don't like the way they did vol5 ep2... think moetaku did it better."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "11 of 14 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible quality for their file size",
+                    "Extremely fast and extremely shitty too...",
+                    "Good subs, but where's the forth one?",
+                    "Good, but it seems they dropped it after OVA 02..."
+                ],
+                "Bad Comments": [
+                    "Very good job, great encode and TL",
+                    "They're fast and they keep things simple.  That's way better than taking their time and failing at making things look \"pretty\". 10/10",
+                    "They are extremely fast! First ones to sub the second episode."
+                ]
+            }
+        }
+    ]
+}

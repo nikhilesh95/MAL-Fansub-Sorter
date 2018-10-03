@@ -1,0 +1,393 @@
+{
+    "Group": {
+        "Group Name": "Gruppe Kampfkuchen",
+        "Short Name": "GK",
+        "IRC": "#Kampfkuchen@irc.otakubox.de",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "64",
+            "Users Disapprove": "4",
+            "Total": "68"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Atama Yama",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Sowohl HD als auch SD, gute bis sehr gute Bildqualität, Übersetzung okay, weitgehend fehlerfrei"
+                ],
+                "Bad Comments": [
+                    "Gut und fehlerlos �bersetzt halt..^^"
+                ]
+            },
+            "User Approval": "8 of 9 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Coyote Ragtime Show",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 9 users approve, 2 comments"
+        },
+        {
+            "Show Name": "ef: A Tale of Melodies.",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Clear, correct and readable subs...can't imagine something better!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "ef: A Tale of Memories.",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "good translations, nice fonts"
+                ],
+                "Bad Comments": [
+                    "Again a very good sub - fully understandable and correct in language and meaning."
+                ]
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Eve no Jikan",
+            "Show Type": "ONA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Happy World!",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Hayate no Gotoku!",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Hentai Ouji to Warawanai Neko.",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "great translations as always."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Hetalia Axis Powers",
+            "Show Type": "ONA - 52 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Gute Subs :)"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Inu x Boku SS",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Inu x Boku SS Special",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kemeko Deluxe!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kimi ga Nozomu Eien: Next Season",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kimi no Iru Machi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Kimi no Iru Machi: Tasogare Kousaten",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Koi Kaze",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 8 users approve"
+        },
+        {
+            "Show Name": "Kotonoha no Niwa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 8 users approve"
+        },
+        {
+            "Show Name": "Lamune",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "nice subs and good fonts"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Lovely★Complex",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Der Wahnsinn! Der Humor und die Witze wirklich gut gelungen. War zum Todlachen ;)"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Nagi no Asukara",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "No Game No Life",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Really awesome types in this. Translation seems accurate and uses really good german grammar."
+                ],
+                "Bad Comments": [
+                    "Great typeset, translation and overall quality"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Ouran Koukou Host Club",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Romeo x Juliet",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "School Days",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve"
+        },
+        {
+            "Show Name": "Sengoku Basara",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Sky Girls",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Sky Girls OVA",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Sola",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "One of the best german subs I've ever seen."
+                ],
+                "Bad Comments": [
+                    "they did a good job, I know a little japanese as well and they didn't mess with the subbing..."
+                ]
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Only Love",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Tokimeki Memorial: Only Love Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Witchblade",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Yuyushiki",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "BD source + good subs"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve, 1 comments"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "AnimeYoshi & Taka Fansubs",
+        "Short Name": "AniYoshi-Taka",
+        "IRC": "#AnimeYoshi@irc.rizon.net | #Taka@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "7",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eureka Seven AO",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "dropped"
+                ]
+            }
+        }
+    ]
+}

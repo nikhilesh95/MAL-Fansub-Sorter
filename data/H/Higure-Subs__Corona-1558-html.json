@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Higure-Subs & Corona",
+        "Short Name": "Higure-Corona",
+        "IRC": "#corona@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "5",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akikan!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great, they even have honorifics and tl notes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakushaku to Yousei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "slow"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

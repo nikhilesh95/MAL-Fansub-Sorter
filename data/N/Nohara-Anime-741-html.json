@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Nohara-Anime",
+        "Short Name": "N-A",
+        "IRC": "#Nohara-Anime@irc.fansub-irc.org",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaze no Stigma",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

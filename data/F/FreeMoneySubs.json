@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "FreeMoneySubs",
+        "Short Name": "FMS",
+        "IRC": "#FMS@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "4",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke 2nd Season: Kataomoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "20 of 22 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Enjoyed their TL very much",
+                    "since Eclipse stopped subbing, these guys are the group to go with.",
+                    "Nice fonts, like how they word things, did a great job on the previous season",
+                    "One major meaning-changing error but still mostly competent."
+                ],
+                "Bad Comments": [
+                    "I didn't watch the whole episode but this was really literal. Much better than gg, they are the exact opposite of it. The font sucks, but it's bearable. At least you get a somewhat decent translation.",
+                    "=[",
+                    "I liked the font very much. No problems with the translation."
+                ]
+            }
+        }
+    ]
+}

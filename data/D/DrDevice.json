@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "DrDevice",
+        "Short Name": "DrD",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cyber City Oedo 808",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only thing these subs are is watchable, because all other releases are near impossible to find. They are obviously inaccurate at times (and you don't even need to have any previous knowledge of Japanese to know this) and the timing is beyond hideous."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: The End of Evangelion",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

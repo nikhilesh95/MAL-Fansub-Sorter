@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Ruberia",
+        "Short Name": "Ruberia",
+        "IRC": "#ruberia@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "3 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Poor quality of the video, very poor quality of the subs, sometimes out of sync, problems with grammar, no change of font style for spoken or thought sentences; only the general font if okay."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

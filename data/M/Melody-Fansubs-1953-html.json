@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Melody-Fansubs",
+        "Short Name": "Melody",
+        "IRC": "#melody-fansubs @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Binbou Shimai Monogatari",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice, complete and helpful notes here and there."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "Group": {
+        "Group Name": "ReTouched",
+        "Short Name": "ReTouched",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "56",
+            "Users Disapprove": "2",
+            "Total": "58"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaichuu!",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Plastic Neesan",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "24 of 26 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They dropped the series at episode 6",
+                    "it's ok",
+                    "beautiful",
+                    "Accurate translations."
+                ],
+                "Bad Comments": [
+                    "Much better",
+                    "good subs",
+                    "amazing~tomoki"
+                ]
+            }
+        },
+        {
+            "Show Name": "Starry☆Sky",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Like the group name is, it retouched it with SMS fansub (I believe) and is in high quality."
+                ],
+                "Bad Comments": [
+                    "fabsub that's not a webrip."
+                ]
+            }
+        },
+        {
+            "Show Name": "Suzy's Zoo: Daisuki! Witzy",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzy's Zoo: Daisuki! Witzy - Happy Birthday",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Gekijou",
+            "Show Type": "Special - 5 episodes",
+            "User Approval": "12 of 12 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Touch",
+            "Show Type": "TV - 101 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "PookSubs",
+        "Short Name": "PookSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kantoku Fuyuki Todoki",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not as thorough as [uh], but did a good job finishing the series."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

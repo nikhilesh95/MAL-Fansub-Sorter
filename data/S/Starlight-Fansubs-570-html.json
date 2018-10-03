@@ -1,0 +1,108 @@
+{
+    "Group": {
+        "Group Name": "Starlight-Fansubs",
+        "Short Name": "Starlight",
+        "IRC": "irc://irc.rizon.net/starlight",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "110",
+            "Users Disapprove": "7",
+            "Total": "117"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "El Cazador de la Bruja",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "42 of 42 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, good translation.",
+                    "Pure awesomeness. Fast with their subbing and the fonts were nice.",
+                    "good quality, got the job done fast",
+                    "Best subs out there."
+                ],
+                "Bad Comments": [
+                    "Enjoyable",
+                    "Nice job. The Tacos karaoke was a nice touch ^^",
+                    "Consistent high quality and good translation.",
+                    "Good Job. ;)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hitohira",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "40 of 45 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great use of fonts for some of the episodes",
+                    "Overly \"cute\" alpha timing, nonexistent subtitle margins, awkward, overliteral writing. And if you believe for w/e that .mkvs shouldn't be hardsubbed... these are 100% hardsubbed.",
+                    "They actually did it! They were damned fast once they got started, and they were generally quality.",
+                    "Great subs. I wish they are an active group.",
+                    "The subs were consistently understandable, unobtrusive, and grammatically correct. That's all you could want in a sub, right?"
+                ],
+                "Bad Comments": [
+                    "THEY ROCK. SIMPLY AWESOME AND FAST",
+                    "Besides being almost the only group that's subbed Hitohira, their subs are good for a new group.",
+                    "Very clear text, enjoyable.",
+                    "Too often these subs read like they just took what their translator wrote and didn't even have anyone edit/QC it. Literally correct, but not how anyone actually speaks English. Solid number of typos, too.",
+                    "The subtitles were at the right speed :)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai 1: Fukan Fuukei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Coalgirls, gg, ANE, so many better alternatives out there."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kure-nai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "awesome karaoke and great subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wellber no Monogatari: Sisters of Wellber",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were the only ones that completed it. Just now.",
+                    "Nice subs, great timer.",
+                    "Good traslation."
+                ],
+                "Bad Comments": [
+                    "Great looking font, nice and clean.",
+                    "They've already released 10 episodes. :] Can't wait for the last ones.",
+                    "Accurate from what Japanese I know. Some big timing issues on ep 11-13, though. :("
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HD, good english, nice-looking typesetting, no typos",
+                    "comparable with yesy. both have their flaws here and there. hm. i just have to see which group sub faster =P"
+                ],
+                "Bad Comments": [
+                    "They were doing great, until they dropped the project ¬¬"
+                ]
+            }
+        }
+    ]
+}

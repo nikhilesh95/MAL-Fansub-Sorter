@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Rasengan FanSubs",
+        "Short Name": "Rasengan",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "15",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Claymore",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "8 of 20 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Timing and translation are off.",
+                    "bad quality",
+                    "bad translation and how it looks .__."
+                ],
+                "Bad Comments": [
+                    "not as bad as other fansub groups, but far away from Saizen's quality subs.",
+                    "yahaa",
+                    "no karoke opening, episodes low quality, i didnt like the font"
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

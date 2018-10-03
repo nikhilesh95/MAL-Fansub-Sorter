@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "AnimeSource",
+        "Short Name": "ASource",
+        "IRC": "#animesource@irc.rizon.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Roots",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They take care in their translations.  The encodes are also of the highest quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kenyuu Densetsu Yaiba",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Completed it at last"
+                ],
+                "Bad Comments": [
+                    "Thanks to them we are able to watch this show!"
+                ]
+            }
+        }
+    ]
+}

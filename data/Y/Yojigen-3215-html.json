@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Yojigen",
+        "Short Name": "Yojigen",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "2",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Doraemon (2005)",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "7 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Inaccurate subs. The subs do not reflect the style of speech of the characters.",
+                    "More accurate translation."
+                ],
+                "Bad Comments": [
+                    "Great quality video, superb translation, attention to detail, and yet releases fast.",
+                    "The group made a huge hiatus since 2015."
+                ]
+            }
+        },
+        {
+            "Show Name": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The Only Group that does it."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

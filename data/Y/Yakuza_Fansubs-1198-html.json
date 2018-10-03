@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Yakuza Fansubs",
+        "Short Name": "Yakuza",
+        "IRC": "#yakuza@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "5",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "3 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible subs, the font is too small, no karaoke subs during op's and ed's !"
+                ],
+                "Bad Comments": [
+                    "undefined"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kamen no Maid Guy",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Dekiagari",
+        "Short Name": "Dekiagari",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mouryou no Hako",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "decent."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 1 comments"
+        }
+    ]
+}

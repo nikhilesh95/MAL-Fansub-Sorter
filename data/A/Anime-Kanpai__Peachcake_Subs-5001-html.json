@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Anime-Kanpai & Peachcake Subs",
+        "Short Name": "AniCake",
+        "IRC": "#Peachcake@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dansai Bunri no Crime Edge",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

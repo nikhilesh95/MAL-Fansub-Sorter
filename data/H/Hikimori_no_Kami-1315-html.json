@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "Hikimori no Kami",
+        "Short Name": "Hi-no-Ka",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "12",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blassreiter",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Aegis of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "weeaboo faggots, gtfo",
+                    "The oggs are a pain, but otherwise great"
+                ],
+                "Bad Comments": [
+                    "There are multiple spelling mistakes and a couple poor translations."
+                ]
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice karaoke, some grammatical errors but solid overall."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Druaga no Tou: The Sword of Uruk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eve no Jikan",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

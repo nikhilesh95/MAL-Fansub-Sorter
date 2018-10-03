@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "The Sin",
+        "Short Name": "TheSin",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "7",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "nice fansub group"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Nanatsu-iro★Drops",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Skip Beat!",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Special A",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Obbrobbrioso. Traduzione e karaoke di opening ed ending mancante, tra l'altro il check presenta moltissime sviste (ho aperto un episodio a caso e la prima cosa che ho notato è \"perchè\")."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "World Destruction: Sekai Bokumetsu no Rokunin",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Yozakura Quartet",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve"
+        }
+    ]
+}

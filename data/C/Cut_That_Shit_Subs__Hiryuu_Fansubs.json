@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Cut That Shit Subs & Hiryuu Fansubs",
+        "Short Name": "CTSHiryuu",
+        "IRC": "#hiryuu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Brave Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad"
+                ],
+                "Bad Comments": [
+                    "Mid-season drop, or extreme tardiness."
+                ]
+            }
+        }
+    ]
+}

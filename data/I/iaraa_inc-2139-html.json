@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "iaraa_inc",
+        "Short Name": "iaraa_inc",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sound and video out of sync."
+                ],
+                "Bad Comments": [
+                    "Good fansub =D"
+                ]
+            }
+        }
+    ]
+}

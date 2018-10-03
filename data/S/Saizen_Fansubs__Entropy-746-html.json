@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Saizen Fansubs & Entropy",
+        "Short Name": "Saizen&Entropy",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "2",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ookiku Furikabutte",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "24 of 26 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome Encoding.",
+                    "Great video quality, good translation",
+                    "Plenty of errors, mistakes. Definitely not perfect.",
+                    "Subs were done perfectly and video was good quality.\nBest group to watch this show with, top class."
+                ],
+                "Bad Comments": [
+                    "No grammar errors, perfect timing, great quality.",
+                    "accurate, good notes, karaoke well done",
+                    "dropped"
+                ]
+            }
+        }
+    ]
+}

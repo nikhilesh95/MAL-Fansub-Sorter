@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Mahora Academy",
+        "Short Name": "Mahora",
+        "IRC": "#Mahora-Fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "33",
+            "Users Disapprove": "7",
+            "Total": "40"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Getsumen To Heiki Mina",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Negima!?",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Color-coding is nice, but subs miss parts of some lines, TL fewer signs than Funi, and misunderstand some manga concepts, like Kaede/Fuuka/Fumika being in the Walking Club.",
+                    "awesome",
+                    "WHERE MY SUBS",
+                    "TOO SLOW",
+                    "Awesome, easily readable",
+                    "Good Subs, and Text Effects. Bad thing is they take FOREVER to sub the episodes.",
+                    "qualitiy and determination",
+                    "Best choice, if you don't need English audio. It's the only finished version with actual subs and typesetting."
+                ],
+                "Bad Comments": [
+                    "Excellent typesetting, and no complaints that I can think of.",
+                    "releases take waaaaaaaayy too long",
+                    "Great group and excellent translation.",
+                    "because",
+                    "Great translations and good word timings... although they're taking forever on the last 2 episodes!!",
+                    "I can't even watch it, as I can't find a way to download it",
+                    "I know it is licensed, but what is taking so long... we have to wait MONTHS before the \"new\" episodes come out... Other than that, I have no complaints or comments. No offense.",
+                    "The only sane option with not localized/burgerized subs."
+                ]
+            },
+            "User Approval": "32 of 39 users approve, 16 comments"
+        }
+    ]
+}

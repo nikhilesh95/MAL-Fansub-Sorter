@@ -1,0 +1,129 @@
+{
+    "Group": {
+        "Group Name": "The Hawks",
+        "Short Name": "haWks",
+        "IRC": "#hawks@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "6",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chikyuu Bouei Kazoku",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fruits Basket",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fushigi Yuugi: Eikouden",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ghost in the Shell 2: Innocence",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Grappler Baki (TV)",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "it was good",
+                    "Good visuals, decent translation, minus some spelling errors.  Talking shit about a rival fansubbing group was retarded, though."
+                ],
+                "Bad Comments": [
+                    "Very bad translation, a lot of parts are not translated and others are replaced with things never said.",
+                    ";3"
+                ]
+            },
+            "User Approval": "8 of 11 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Howl no Ugoku Shiro",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Koroshiya 1 The Animation: Episode 0",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve"
+        },
+        {
+            "Show Name": "Neko no Ongaeshi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "No complaints"
+                ],
+                "Bad Comments": [
+                    "Nice job. Best for this movie."
+                ]
+            },
+            "User Approval": "2 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Salaryman Kintarou",
+            "Show Type": "TV - 20 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Sen to Chihiro no Kamikakushi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Steamboy",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Weiß Kreuz OVA",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

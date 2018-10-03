@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "One Piece Portugal Fansub",
+        "Short Name": "OPP",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muito bom trabalho. Parabéns!"
+                ],
+                "Bad Comments": [
+                    "Awesome subs for an awesome anime."
+                ]
+            }
+        }
+    ]
+}

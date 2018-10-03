@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "Aesir",
+        "Short Name": "Aesir",
+        "IRC": "#precure@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Battle Spirits: Brave",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best available."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heartcatch Precure!",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best available."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Smile Precure!",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "7 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "What, \"Miss\" is trolling now?",
+                    "Better than Doremi."
+                ],
+                "Bad Comments": [
+                    "'Miss', Episode - 1 5:20 : \"Hoshizora? I barely knew 'er!\" ... gg & Aesir would be a great joint.",
+                    "Best available."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gg²"
+                ],
+                "Bad Comments": [
+                    "Best available."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "Group": {
+        "Group Name": "Karoshi",
+        "Short Name": "Karoshi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "75",
+            "Users Disapprove": "22",
+            "Total": "97"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fuse: Teppou Musume no Torimonochou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not like I wanted to know what all the signs and letters fucking said or anything.",
+                    ":D"
+                ],
+                "Bad Comments": [
+                    "Better than Horriblesubs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "22 of 32 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Spelling errors, no typesetting to speak of, some lines not even being displayed for long enough to read, and horrible gradual audio desync in the encode (Up to 400ms at the end)",
+                    "The audio desynchs halfway through.",
+                    "Audio is not synced",
+                    "Fast, and high quality subs!",
+                    "Will reconsider upvote when they fix the audio issue.",
+                    "audio not in sync, anyone know how to fix it?"
+                ],
+                "Bad Comments": [
+                    "Too many problems with the timing.",
+                    "This is a lazy release. Typos, audio issues, etc.",
+                    "Decent subs, audio is out of sync but easily fixed. A few typos, but watchable",
+                    "So fast!",
+                    "Watchable and OK, but half way through the sound lags! Don't go with Karoshi for archiving! Use someone else like Coalgirls."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "17 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good sub!",
+                    "Love Karoshi, waiting for their next work",
+                    "Faster than everyone else and good subs"
+                ],
+                "Bad Comments": [
+                    "Lazy release. The only thing these guys have going for them is speed. And they sacrifice quality to get that speed.",
+                    "Better quality",
+                    "MADOKA :D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quick, reliable and accurate."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "13 of 20 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The phrasing was pretty bad throughout and many of the lines were awkward to read.",
+                    "Didn't fix translation errors.",
+                    "Fixed translation errors.",
+                    "Im barely even understanding half of this thing. Goddamn it, it feels on the same level as Commie."
+                ],
+                "Bad Comments": [
+                    "Hilarious to see how highly this is rated when about 75% of the translation is made up.",
+                    "A much better improvement from Mikata's version",
+                    "Only good quality subs for this show",
+                    "Obviously the person who disapproved doesn't know how to read. Good job Karoshi"
+                ]
+            }
+        },
+        {
+            "Show Name": "Recorder to Randoseru Mi☆",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "High quality subs!"
+                ],
+                "Bad Comments": [
+                    "I like their subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ro-Kyu-Bu! SS",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some mistakes, but very fast!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wooser no Sono Higurashi: Ken to Pants to Wooser to",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only one available. Even though some parts are hardsubbed in spanish (lack of a better source)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zettai Bouei Leviathan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only BD version out"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

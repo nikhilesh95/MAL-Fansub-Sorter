@@ -1,0 +1,156 @@
+{
+    "Group": {
+        "Group Name": "Pervert Fansubs",
+        "Short Name": "PFSub",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "7",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "AIKa R-16: Virgin Mission",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was really well made."
+                ],
+                "Bad Comments": [
+                    "Countless grammatical errors, easy spelling mistakes, bad typesetting. Please avoid if possible."
+                ]
+            }
+        },
+        {
+            "Show Name": "Akaneiro ni Somaru Saka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good video encoding and typesetting."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haha wo Tazunete Sanzenri",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikkitousen: Dragon Destiny",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD-quality/uncensored/16:9 is nice, but these subs are profoundly lacking in the TL/editing/phrasing departments. Episode 11 in particular feels like an HK bootleg translation.",
+                    "Mistranslations right and left. Dachi = friends, not \"sworn followers\" -_- I could not take anymore after the 3rd episode. And song translations are way off. The official translations are much more accurate."
+                ],
+                "Bad Comments": [
+                    "It's Ayako's translation with DVD quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ikkitousen: Dragon Destiny Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jigoku Sensei Nube (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kage (OVA)",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanokon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD quality with AonE-Mencalve subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurogane no Linebarrels",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Ai",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awful"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

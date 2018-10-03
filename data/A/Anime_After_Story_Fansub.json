@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Anime After Story Fansub",
+        "Short Name": "AAS",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Hatsudou-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Sesshoku-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p"
+                ],
+                "Bad Comments": [
+                    "OK. Based on Shin-getter version."
+                ]
+            }
+        },
+        {
+            "Show Name": "Inferno Cop",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "OAV 08 de Kiss x sis de bonne qualité, et première fansub française à l'avoir subbé"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyou kara Ore wa!!",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nozoki Ana",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

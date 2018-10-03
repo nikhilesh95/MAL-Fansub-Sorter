@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "SkyDubs",
+        "Short Name": "SkyDubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "5",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No longer active after they got behind and people started complaining/accusing of stealing subs. Decent and quickest when they were still making subs though",
+                    "Might be fast, but translation is terrible and full of retarded mistakes. Not even worth considering."
+                ],
+                "Bad Comments": [
+                    "they were the quickest for pokemon, but they dropped the project when school got in the way and people stopped helping them."
+                ]
+            }
+        }
+    ]
+}

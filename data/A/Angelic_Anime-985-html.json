@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Angelic Anime",
+        "Short Name": "AnA",
+        "IRC": "#Angelic-Anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "2",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Izumo: Takeki Tsurugi no Senki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horribly timed subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu Danzai Skelter+Heaven",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "11 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent subbing to an excellent anime.",
+                    "Subs were good, video quality was not bad but could be better. Not a great OVA though :P"
+                ],
+                "Bad Comments": [
+                    "Subs were bad, but that's very suitable for a terrible show like this.",
+                    "Subs weren't great, but subbing something as horrible like this demands some recognition."
+                ]
+            }
+        }
+    ]
+}

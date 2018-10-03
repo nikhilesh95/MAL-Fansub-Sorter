@@ -1,0 +1,82 @@
+{
+    "Group": {
+        "Group Name": "animestash",
+        "Short Name": "AniStash",
+        "IRC": "#anistash@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "29",
+            "Total": "56"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Casshern Sins",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seems like they use word-for-word translations. Several of the subbed sentences makes little to no sense.",
+                    "very good if i say so myself"
+                ],
+                "Bad Comments": [
+                    "Good speed, no drama."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "getting better as it goes, not too bad right now",
+                    "Obviously stealing from shinsen >.> The link on their site even leads to files saying \"_shinsen-subs__kuroshitsuji_\"   Can they even be called subbers of this show? -.-"
+                ],
+                "Bad Comments": [
+                    "What's with the karaokes?",
+                    "Sloppy and filled with errors. Low quality even by speed sub standards."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kurozuka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 12 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translate op? It's in english ffs... \"translate\" it yourself.",
+                    "very good if i say so myself",
+                    "they don't even translate op...",
+                    "A few lines not translated."
+                ],
+                "Bad Comments": [
+                    "It doesn't matter how good your Japanese is, if your English sucks you shouldn't be fansubbing anime in the language.",
+                    "Video quality is pretty bad.",
+                    "acceptable"
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 15 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very poor translation, bad encode, ugly font.",
+                    "Good, fast, nice-looking and accurate subs",
+                    "This group started subbing Zero just recently but they really seems serious. I haven't seem many sub releases other then Osu and SS-Eclipse. I hope that Anistash keeps releasing!!",
+                    "Good quality for a speed fansub",
+                    "My patience is quite limited. And this group have good speed/quality ratio."
+                ],
+                "Bad Comments": [
+                    "anishit :/",
+                    "good while they where around, shame about RL issues happened, all the best!",
+                    "They seem perfectly fine for me. And they get the releases out quite fast aswell.",
+                    "Very nice..."
+                ]
+            }
+        }
+    ]
+}

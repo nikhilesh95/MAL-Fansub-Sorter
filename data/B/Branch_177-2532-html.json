@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Branch 177",
+        "Short Name": "Branch 177",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Highschool of the Dead",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really good translation, at least I think so because I don't speak Japanese!  :D",
+                    "dropped"
+                ],
+                "Bad Comments": [
+                    "new group, good release"
+                ]
+            }
+        }
+    ]
+}

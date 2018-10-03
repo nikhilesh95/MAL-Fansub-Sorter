@@ -1,0 +1,154 @@
+{
+    "Group": {
+        "Group Name": "TrigoSubs",
+        "Short Name": "Trigo",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "27",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "1 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perrys"
+                ],
+                "Bad Comments": [
+                    "Basura"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "5 of 16 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fastsub, además tuvieron muchos errores de \"hortografia\"",
+                    "Fastsub Hoygan.",
+                    "Un hasco.",
+                    "Intente verme su verisón pero daba cáncer. Cuando encontré un fansub decente, me pude enterar de lo que decían los personajes en los primeros dos minutos."
+                ],
+                "Bad Comments": [
+                    "fastsub",
+                    "Excelente traducción, letras apropiadas y legibles.",
+                    "La traducción no tiene sentido, además de que cometen muchas faltas de ortografía. Por cierto, los hardsubs ya están pasados...",
+                    "Una traducción meh, con gramática pobre y faltas de ortografía."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyakko",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "InuYasha: Kanketsu-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The encoding and karaoking were great though the raw wasn't that good despise it was 1280 x 720, it looked kinda blurry but overall it was neat."
+                ],
+                "Bad Comments": [
+                    "Español 100% neutro, fuente clara y un trabajo muy completo. La mejor opción en éste idioma."
+                ]
+            }
+        },
+        {
+            "Show Name": "K-On!!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Español 100% neutro, fuente clara y un trabajo muy completo. La mejor opción en éste idioma."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanamemo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Negima!?",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nyan Koi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "don ta el karaoke"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

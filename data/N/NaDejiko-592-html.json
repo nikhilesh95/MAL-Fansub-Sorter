@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "NaDejiko",
+        "Short Name": "NDK",
+        "IRC": "#doremi@irc.corezx.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ojamajo Doremi",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pretty accurate translation, nice styling, no mistakes, uses honorifics, etc. Only 'flaw': Hazuki written as 'Hadzuki'"
+                ],
+                "Bad Comments": [
+                    "Hazuki is mistranslated as Hadzuki, which is a bit annoying, but everything else is a job well done"
+                ]
+            }
+        }
+    ]
+}

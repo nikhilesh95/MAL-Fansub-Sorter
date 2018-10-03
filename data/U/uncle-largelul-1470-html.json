@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "uncle-largelul",
+        "Short Name": "u-l",
+        "IRC": "#DA@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "3",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bounen no Xamdou",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "18 of 21 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "overencoding ftw",
+                    "The best for this show, I think.",
+                    "Great encodes, fast speed, reliable.",
+                    "Good, perhaps slightly better video quality over the other."
+                ],
+                "Bad Comments": [
+                    "I like large luls",
+                    "Audio was off on all their vids. Tried to find out what was wrong. What I gather is it's my fault, but still can't fix it.\nVideo looks great though.",
+                    ":D",
+                    "audio dude: this means you're a retard, and I don't think this is group's fault"
+                ]
+            }
+        }
+    ]
+}

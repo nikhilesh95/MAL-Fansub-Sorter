@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shindou-Anime & Hiyono Fansubs",
+        "Short Name": "S-A&Hiyono",
+        "IRC": "#Shindou-Anime@irc.​rizon.​net | #hiyonolist@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "0",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hunter x Hunter Pilot",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "19 of 19 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "unexpected, but pleased."
+                ],
+                "Bad Comments": [
+                    "Nice stuff, it's good enough."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "Ribaru Kage subs",
+        "Short Name": "RKS",
+        "IRC": "",
+        "Primary Language": "Hebrew",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "2",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hetalia Axis Powers",
+            "Show Type": "ONA - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Learn Hebrew before you translate."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "mongeesubs",
+        "Short Name": "mongee",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "3",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Youkai Watch",
+            "Show Type": "TV - 214 episodes",
+            "User Approval": "15 of 17 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Could really do with a round from a good editor as they do have some grammatical misses, but otherwise fine.",
+                    "best subs for Youkai Watch :3",
+                    "Better than level up subs",
+                    "Accurate subs"
+                ],
+                "Bad Comments": [
+                    "Piece of shit 'Fanfic' Commie²",
+                    "Generally poor translation and missing nuance very often, considering there are closed captions available.",
+                    "Their sub fast and good..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

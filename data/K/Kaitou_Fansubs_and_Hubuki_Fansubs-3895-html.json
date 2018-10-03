@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Kaitou Fansubs and Hubuki Fansubs",
+        "Short Name": "Kaitou-Hubuki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "5",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "21 of 24 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "New hope for Meitantei CONAN fansub. Nice RAWs, both hardsub and softsub releases, not ideal, but very good translation, nice scripts. After DCTP quit, this guys is the only ones who works on series like this.",
+                    "Great translations so far\n its a bit slow on the releases but the quality makes up for that\nhopefully they become more popular and will get more translators soon",
+                    "sadly dropped ffs"
+                ],
+                "Bad Comments": [
+                    "Thank you",
+                    "Clear n understandable subs :)",
+                    "Much better after a while when they got two editors."
+                ]
+            }
+        },
+        {
+            "Show Name": "Magic Kaito",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shit translation",
+                    "Very good subs. The only fansub group that subs Detective Conan and Magic kaito"
+                ],
+                "Bad Comments": [
+                    "Ganbatte ~"
+                ]
+            }
+        }
+    ]
+}

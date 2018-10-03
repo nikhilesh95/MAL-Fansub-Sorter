@@ -1,0 +1,97 @@
+{
+    "Group": {
+        "Group Name": "X-Nebula",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "46",
+            "Users Disapprove": "0",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Choro Q Dagram",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Document Taiyou no Kiba Dagram",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Reppuu Baxingar",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Senpuu Braiger",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Heroes of the Old World.",
+                    "Crinn is a subbing machine."
+                ],
+                "Bad Comments": [
+                    "He's the only guy to bother subbing it. :("
+                ]
+            }
+        },
+        {
+            "Show Name": "Kikou Kai Galient",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tolerable translation and, more to the point, who else was going to sub this?",
+                    "Timely, and finished the project."
+                ],
+                "Bad Comments": [
+                    "Epic"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kikou Kai Galient OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Taiyou no Kiba Dagram",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "20 of 20 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "amazing",
+                    "Good translation.\nGreat to see someone subbing this show.",
+                    "only sub working on the anime and they have a decent work there too.\n\nThumbs up.",
+                    "Its the only one i've found lol"
+                ],
+                "Bad Comments": [
+                    "Has errors and typos, but some quite natural English. Also heroic as no one else would translate this.",
+                    "God.",
+                    "Now THIS is what I call a dedicated fansubber."
+                ]
+            }
+        }
+    ]
+}

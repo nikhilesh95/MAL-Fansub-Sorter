@@ -1,0 +1,93 @@
+{
+    "Group": {
+        "Group Name": "Anxious Helium",
+        "Short Name": "Anxious-He",
+        "IRC": "#anxious-he@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "56",
+            "Users Disapprove": "18",
+            "Total": "74"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Natsu de Matteru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chibi☆Devi!",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "18 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Piece of shit 'Fanfic'",
+                    "Picked up after Zenyaku",
+                    "They have dropped Chibi."
+                ],
+                "Bad Comments": [
+                    "No karaoke.",
+                    "Good translation accuracy and relatively fast compared to Doki"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 14 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gg² - Dropped",
+                    "Dropped",
+                    "nice editing",
+                    "dropped -_-",
+                    "They were so good too, it's a shame they dropped. :("
+                ],
+                "Bad Comments": [
+                    "too bad they dropped it",
+                    "Script was well done. It was a pleasure to watch",
+                    "dropped",
+                    "The best...",
+                    "The religious terms are handled much better. Slowsub though."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuromajo-san ga Tooru!!",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "23 of 27 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They forgot to add fonts to several episodes, their phrasing is awkward now and then, and they generally didn't do a good job here which is a disappointment.",
+                    "Piece of shit 'Fanfic'",
+                    "Just do"
+                ],
+                "Bad Comments": [
+                    "only group PLANNING to finish this, however it's at a rate of one episode per month for a ~5 minute episode",
+                    "Excellent translation, font, and quality, with translator's notes on their site",
+                    "\"Late\" is not harsh enough a word."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tamayura: Hitotose",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the most accurate 10bit version",
+                    "Now that UTW dropped it until BDs. this is the next best thing in terms of quality."
+                ],
+                "Bad Comments": [
+                    "best group, and it is not the same as utw-mazui since they said they are using a different raw than them.",
+                    "the same quality as utw-mazui except slow as shit"
+                ]
+            }
+        }
+    ]
+}

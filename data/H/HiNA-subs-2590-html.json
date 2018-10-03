@@ -1,0 +1,107 @@
+{
+    "Group": {
+        "Group Name": "HiNA-subs",
+        "Short Name": "HiNA",
+        "IRC": "#hina@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "37",
+            "Users Disapprove": "25",
+            "Total": "62"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Captain Tsubasa: Saikyou no Teki! Holland Youth",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Never seen subs for this show before. Thanks a lot."
+                ],
+                "Bad Comments": [
+                    "Watched this while my sister was giving me a handjob. Unfortunately, I cannot say the same about this release as I can about the handjob."
+                ]
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "21 of 29 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "MUCH  better than Ayako",
+                    "Much better than Ayako. Only decent speedsubs.",
+                    "Quick.",
+                    "thank you, finally a group that isn't weird in the head",
+                    "There are phrases I know that for some reason even these guys weren't either able to understand or didn't care to TL Note for people who are not knowledgeable about Japanese.",
+                    "Best mix of quality + speed",
+                    "Had some funky wording but better than most."
+                ],
+                "Bad Comments": [
+                    "Good and prompt, definitely recommended for IS.",
+                    "sometimes, the wording sucked. Also, the punctuation was a single fail.",
+                    "Good quality, consistent editing, and marginally fast, while not the fastest, releases.",
+                    "An okay subs. But TL and timing could be improved. And some lines still a bit awkward. At least better than Ayako",
+                    "Artifacts up the wazoo. Who keeps convincing EienShouko that he's an encoder? Better than Ayako isn't saying much.",
+                    "good release speed, great raws, intelligible translations that feel natural when watching",
+                    "many simple mistakes, you need someone who 1st language is English to help you.\n\nmost is ok tho"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kure-nai OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Megane na Kanojo",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some of the episodes had badly timed subs that made watching a chore."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Morita-san wa Mukuchi.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow releases.",
+                    "Sunny stinx"
+                ],
+                "Bad Comments": [
+                    "Just as good of a translation as ShiN-gx. Go with one of these guys"
+                ]
+            }
+        },
+        {
+            "Show Name": "Oneechan ga Kita",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "T.P. Sakura: Time Paladin Sakura",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "did only the first and lots of mistakes in the language"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "SoftSub",
+        "Short Name": "SoftSub",
+        "IRC": "#SoftSub@irc.fansub-irc.eu",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Meiou Project Zeorymer",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's my team, I can only like this sub job.\nC'est m'a team, je ne peux qu'aimer son travail."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

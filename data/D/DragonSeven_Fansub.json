@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "DragonSeven Fansub",
+        "Short Name": "DS",
+        "IRC": "#dragonseven@irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "3",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blue Dragon",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Dragon: Tenkai no Shichi Ryuu",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Irregular Hunter X: The Day of Sigma",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rekka no Honoo",
+            "Show Type": "TV - 42 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very goood"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rockman.EXE Axess",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Português excelente quase sem erros. Ótima tradução."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Duel Monsters",
+            "Show Type": "TV - 224 episodes",
+            "User Approval": "2 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "incrivel xD\nmuito bom",
+                    "Sem consistencia, pula frases inteiras, pegasus com acento e frases em japones sem traduzir"
+                ],
+                "Bad Comments": [
+                    "Ótimo tradução. Português usando corretamente."
+                ]
+            }
+        }
+    ]
+}

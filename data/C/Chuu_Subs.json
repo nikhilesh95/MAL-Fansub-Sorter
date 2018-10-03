@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "Chuu Subs",
+        "Short Name": "Chuu",
+        "IRC": "#chuu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "1",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "009 Re:Cyborg",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's HD and awesome."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "proper releases of this older series with better English components than the already available choices."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi no Iru Machi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast and they do edit abit using the official subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

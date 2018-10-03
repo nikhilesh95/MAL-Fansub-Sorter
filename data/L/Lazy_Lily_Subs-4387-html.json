@@ -1,0 +1,131 @@
+{
+    "Group": {
+        "Group Name": "Lazy Lily Subs",
+        "Short Name": "Lazy Lily",
+        "IRC": "#lazylily@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "110",
+            "Users Disapprove": "17",
+            "Total": "127"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aikatsu! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was great."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haiyore! Nyaruko-san W OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "15 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They actually bothered to sub this. And the script's not too bad.",
+                    "\"shinabita\" pun is fucked up very bad. She said \"wilted onsen\" (or rather dried in this case), not \"rusted\". But the rest is pretty ok."
+                ],
+                "Bad Comments": [
+                    "the only one",
+                    "The only subs for now, and they do a pretty good job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "10 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than Commie."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanayamata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakura Trick",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not perfect, but still quite a bit better than the competition.",
+                    "One of the best for this series.",
+                    "They're the only one donig it"
+                ],
+                "Bad Comments": [
+                    "Surprisingly good.",
+                    "Lazy indeed"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yama no Susume: Kabe tte Kowakunai no?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decently good translation outweighed poor video quality."
+                ],
+                "Bad Comments": [
+                    "Cute girls doing cute things + Lazy Lily is always win. No exceptions."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri Nachuyachumi!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "39 of 45 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Your best pick. Be thankful they did all this work or watch it raw, you ungrateful SOBs.",
+                    "No issues. Perfect for the show.  This is what fansubbers need to be focusing on (movies/ovas/non simulcast?) instead of stretching themselves thin and then delaying/dropping/complaining",
+                    "Their subtitle was easy to understand.",
+                    "GJ-bu",
+                    "The puns werent dont well"
+                ],
+                "Bad Comments": [
+                    "Absolutely awful. I'm not sure you can even consider this a translation.",
+                    "Scene bleeds pls",
+                    "love it",
+                    "A lot of very simple sentences/terms were translated as something ridiculous. Overall, pretty bad subs. Only choice, though.",
+                    "A standard translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri Nachuyachumi!+",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "26 of 34 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast. Decent quality.",
+                    "ql",
+                    "They left out some of Ayano's lines and added stupid jokes about sound effects.",
+                    "Yuru Yuri does not equal Lazy Lily"
+                ],
+                "Bad Comments": [
+                    "Overly liberal.",
+                    "Not as bad as the previous OVA. Still not that great, but gets the job done.",
+                    "gr8"
+                ]
+            }
+        }
+    ]
+}

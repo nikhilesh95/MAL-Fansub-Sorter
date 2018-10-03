@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kaorimoch",
+        "Short Name": "Kaorimoch",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akage no Anne",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Timings are way off, and the translation is horrible."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

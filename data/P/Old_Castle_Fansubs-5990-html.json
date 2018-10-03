@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "Old Castle Fansubs",
+        "Short Name": "",
+        "IRC": "#old-castle@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "0",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Attack No.1",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "10 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality and weekly released for an old show. Truly great group so far, hope they keep it up.",
+                    "updating weekly, good high quality subs.",
+                    "Is good"
+                ],
+                "Bad Comments": [
+                    "Good quality, no mistakes, consistent release (1ep per week).",
+                    "They're subbing it and actually making progress."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sequence",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great. Good quality, only people who will do it. Blessed group."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

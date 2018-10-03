@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Taka Fansubs & THORAnime",
+        "Short Name": "Taka-THORA",
+        "IRC": "#Taka@irc.rizon.net | #thoranime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "58",
+            "Users Disapprove": "7",
+            "Total": "65"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "28 of 31 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Didn't really like the translation choices... Overly complicated and long sentences. I usually love their work but I'd pick Commie over them this time.",
+                    "nice subs",
+                    "Great as usual."
+                ],
+                "Bad Comments": [
+                    "Excellent quality",
+                    "Better than Commie",
+                    "cause it's THORA quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "11 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "i'm liking the work this joint puts out. great video and translation",
+                    "more like a dubtitle way too westernised most of the times. but they are the only one for now."
+                ],
+                "Bad Comments": [
+                    "Great quality, accurate subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Hikuushi e no Tsuioku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 21 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No complaints here",
+                    "...almost perfect release"
+                ],
+                "Bad Comments": [
+                    "Great subs"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Pireze",
+        "Short Name": "pireze",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "2",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eve no Jikan",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "24 of 26 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Positive comment for Pireze's script for EVE, but I have aether's release of it.",
+                    "undefined",
+                    "really good script... emina uses their script so it isn't exactly a joint effort."
+                ],
+                "Bad Comments": [
+                    "fast and great subs!",
+                    "Joint effort with EMiNA?"
+                ]
+            }
+        }
+    ]
+}

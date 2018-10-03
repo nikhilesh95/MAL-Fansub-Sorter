@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Subtitles Catalogues",
+        "Short Name": "subs.com.ru",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chou Mashin Eiyuuden Wataru",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "amateur in translating"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mashin Eiyuuden Wataru",
+            "Show Type": "TV - 45 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mashin Eiyuuden Wataru 2",
+            "Show Type": "TV - 46 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mister Ajikko",
+            "Show Type": "TV - 99 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

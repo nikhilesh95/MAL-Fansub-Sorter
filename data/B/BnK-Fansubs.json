@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "BnK-Fansubs",
+        "Short Name": "BnK",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Agatha Christie no Meitantei Poirot to Marple",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Jack (TV)",
+            "Show Type": "TV - 61 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "Comments": {
+                "Good Comments": [
+                    "high quality",
+                    "It's not perfect to be fair, but miles better than Amalgam and the whole quality is on a very good level"
+                ],
+                "Bad Comments": [
+                    "A pretty good German fansub group. Currently one of the best for Detective Conan in terms of quality and time."
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Magic Kaito",
+            "Show Type": "Special - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

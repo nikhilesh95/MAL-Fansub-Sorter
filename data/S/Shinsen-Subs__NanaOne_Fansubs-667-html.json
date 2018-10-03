@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shinsen-Subs & NanaOne Fansubs",
+        "Short Name": "SHS-NanaOne",
+        "IRC": "#nanaone@irc.euirc.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "1",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Skull Man",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "16 of 17 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Never got off the ground"
+                ],
+                "Bad Comments": [
+                    "the best sub"
+                ]
+            }
+        }
+    ]
+}

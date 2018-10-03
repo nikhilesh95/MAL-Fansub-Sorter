@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "NanoDesu",
+        "Short Name": "ND",
+        "IRC": "#nanodesu@irc.de.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hetalia: The Beautiful World",
+            "Show Type": "ONA - 20 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Puchimas!: Petit iDOLM@STER",
+            "Show Type": "ONA - 64 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Teekyuu",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

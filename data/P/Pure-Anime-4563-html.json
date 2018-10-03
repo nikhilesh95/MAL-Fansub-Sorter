@@ -1,0 +1,462 @@
+{
+    "Group": {
+        "Group Name": "Pure-Anime",
+        "Short Name": "PA",
+        "IRC": "#anime@irc.slimeirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "126",
+            "Total": "160"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Roots",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "009 Re:Cyborg",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "07-Ghost",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baby Steps",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blade & Soul",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bokura wa Minna Kawai-sou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Choujigen Game Neptune The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Das ist das schlimmste, was ich je gesehen habe. Kein Sinn für Qualität..."
+                ],
+                "Bad Comments": [
+                    "Meine Augen bluten..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Döner Subs? Nein, tolle Subs!",
+                    "Döner-Subs"
+                ],
+                "Bad Comments": [
+                    "Das hier Döner-Subs zu nennen is ne Beleidigung für jeden Döner"
+                ]
+            }
+        },
+        {
+            "Show Name": "Date A Live II",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai (2014)",
+            "Show Type": "TV - 61 episodes",
+            "User Approval": "4 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "0 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty speed subgroup with horrible wording and encodes. Every other group should be better than this abomination."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail (2014)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty speed subgroup with horrible wording and encodes. Pick Chinurarete if you want it fast and good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail Movie 1: Houou no Miko",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail OVA",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Kikoutai Majestic Prince",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gokukoku no Brynhildr",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Einfach nur schlecht. Mehr gibt es nicht zu sagen."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haikyuu!!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "High School DxD",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Kraft."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamigami no Asobi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "(depending on project) they are fast,99,9% right, and im very thankful for german subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanojo ga Flag wo Oraretara",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiniro no Corda: Blue♪Sky",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Log Horizon",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Log Horizon 2nd Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "M3: Sono Kuroki Hagane",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahouka Koukou no Rettousei",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Guter Sub, sehr schneller Release // PA > rest, great sub, really fast"
+                ],
+                "Bad Comments": [
+                    "Nette Troll Bewertunng,. Based PA, schlecht wie immer."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mangaka-san to Assistant-san to The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Übersetztung aus dem Englischen. Das sagt ja schon alles."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mekakucity Actors",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "No Game No Life",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nobunaga the Fool",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shitty speed subgroup with horrible wording and encodes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ping Pong The Animation",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden (2013)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikoku no Dragonar",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seitokai Yakuindomo*",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Selector Infected WIXOSS",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "never"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Speedsubs without fails. And Better then wait years for an new episode at other groups."
+                ],
+                "Bad Comments": [
+                    "shitty streaming speedsub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin: Ano Hi Kara",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sidonia no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soredemo Sekai wa Utsukushii",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater NOT!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Sword Art Offline",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "0 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

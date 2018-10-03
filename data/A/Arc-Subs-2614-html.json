@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Arc-Subs",
+        "Short Name": "Arc-Subs",
+        "IRC": "#ArcSubs@rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "15",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seitokai Yakuindomo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 18 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really bad translation. Most of them are all wrong.",
+                    "Bad. Full stop.",
+                    "Not bad",
+                    "Horriblesubs.",
+                    "Disapproved. Below Average for a sub group.",
+                    "Watchable, but half of the words aren't even correct. I guess the general meaning is still there though. :S"
+                ],
+                "Bad Comments": [
+                    "Horrible.",
+                    "Watchable, but annoying white backgrounds on some translations, bleeping out words.",
+                    "Holy crap is this group bad.  They even get the most basic Japanese lines wrong.  Machine translations would give you better results.",
+                    "bleeped out words.  really?",
+                    "they get about 40% of the words right",
+                    "\"I'm a tampon\"? Really now? It's like they babelfished the script."
+                ]
+            }
+        }
+    ]
+}

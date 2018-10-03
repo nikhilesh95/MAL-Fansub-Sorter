@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Slowsubs",
+        "Short Name": "Slow",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation and no gramatical-ortographical fails."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cencoroll",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation and no gramatical-ortographical fails."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

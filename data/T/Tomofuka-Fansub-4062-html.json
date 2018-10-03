@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Tomofuka-Fansub",
+        "Short Name": "TF",
+        "IRC": "#Tomofuka-Fansub@irc.Fansub-IRC.eu",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "7",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Quantum",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//The Movie: Sekai no Mukou ni",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freezing",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freezing Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": [
+                    "Karaoké wordart. Sérieusement, vous avez de l'avenir."
+                ]
+            }
+        },
+        {
+            "Show Name": "Zoids",
+            "Show Type": "TV - 67 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trash"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

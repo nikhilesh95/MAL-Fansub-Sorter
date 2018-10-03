@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Rakuda",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "0",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gift: Eternal Rainbow",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "acceptable ..."
+                ],
+                "Bad Comments": [
+                    "Good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gift: Eternal Rainbow - Ki no Saka Ryokan Kiki Ippatsu!!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rocket Girls",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent job. Great TL and abbreviation notes.Highly recommended group.",
+                    "liberal shit"
+                ],
+                "Bad Comments": [
+                    "Competent translation, unfussy rendering",
+                    "High Quality, small size."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "Kaninona",
+        "Short Name": "KN3",
+        "IRC": "#kaninona@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gene Diver",
+            "Show Type": "TV - 56 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Only ones doing it."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

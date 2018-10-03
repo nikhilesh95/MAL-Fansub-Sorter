@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Mellow Fansubs",
+        "Short Name": "",
+        "IRC": "#mellow @ irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Prism Ark",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Reliable translation, especially when good subbers for Prism Ark are hard to come by."
+                ],
+                "Bad Comments": [
+                    "Very clear video encoding compared to the other listed fansubs and it's well subbed as well as no unescessary add-ins."
+                ]
+            }
+        }
+    ]
+}

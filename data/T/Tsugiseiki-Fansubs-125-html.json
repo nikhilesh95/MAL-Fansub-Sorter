@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Tsugiseiki-Fansubs",
+        "Short Name": "T-F",
+        "IRC": "#Tsugiseiki-Fansubs@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Full Metal Panic!",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

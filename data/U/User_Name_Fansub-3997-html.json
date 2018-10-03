@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "User Name Fansub",
+        "Short Name": "UN",
+        "IRC": "",
+        "Primary Language": "Hebrew",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Btooom!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

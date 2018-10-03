@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "AnimeUniverse Fansub",
+        "Short Name": "AU FanSub",
+        "IRC": "#animeuniverse@irc.azzurra.org",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "MÄR",
+            "Show Type": "TV - 102 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "GNU Fansubs",
+        "Short Name": "GNU",
+        "IRC": "#gnu-fansubs @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "2",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Himawari!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome wa Boku ni Koishiteru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "31 of 33 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "really wonderfully done ^^",
+                    "Best subber for this series.",
+                    "It works.",
+                    "Very good. The quality is fine and the translation seems accurate from what I can understand.",
+                    "This is how fansubs should look like. I really miss something like this nowadays [2018]"
+                ],
+                "Bad Comments": [
+                    "Great, subbed in both SD and HD",
+                    "just great !",
+                    "Provides direct translations and not english synonyms, includes useful notes so you can understand the anime better",
+                    "realy good subs, also having explanations of jokes and other stuff"
+                ]
+            }
+        }
+    ]
+}

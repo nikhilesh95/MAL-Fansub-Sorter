@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Neo Ark Cradle",
+        "Short Name": "NACSubs",
+        "IRC": "#neoarkcradle@irc.darkmyst.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "5",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yu☆Gi☆Oh! Arc-V",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "11 of 15 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the best for yu-gi-oh",
+                    "Great subs and quality.",
+                    "Accurate subs.",
+                    "Awesome translations, probably the best group that does Yu-Gi-Oh."
+                ],
+                "Bad Comments": [
+                    "Way too slow...",
+                    "Best one",
+                    "good subs and the only ones available 7/5/2014",
+                    "Take too long"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal Second",
+            "Show Type": "TV - 73 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HD. Great subs and quality"
+                ],
+                "Bad Comments": [
+                    "It's great that they took over after other subbers aren't able to sub anymore :)"
+                ]
+            }
+        }
+    ]
+}

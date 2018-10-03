@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "MonoSubs",
+        "Short Name": "MonoSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "62",
+            "Users Disapprove": "3",
+            "Total": "65"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yu☆Gi☆Oh! Arc-V",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "60 of 61 users approve, 15 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it's been great",
+                    "Great translations! They have 2 subtitle tracks too, one with OCG terms and other with TCG terms, to accommodate both Japanese and US terms. Though they really should release the OCG terms as the default track, saving us from having to switch every time.",
+                    "Good translation, fairly high translation speed and great subbitle design&effects.",
+                    "The quickest, easily accessible and segmentised so i can skil op/ed if I don't want to see them",
+                    "They're moderately fast, timing's great, and they put a lot of effort into the details whenever there's a big summon :P\n\nSome little mistakes here and there, but that's over multiple episodes did I catch a couple typos",
+                    "Weekly updates and consistency!",
+                    ":]",
+                    "Quick and accurate subs with interesting effects."
+                ],
+                "Bad Comments": [
+                    "Mono is a based dude and he did pretty well. Too bad he quit tho, his subs were the best subs. Also dat rainbow effect when Pendulum is happening is fabulous.",
+                    "Different tracks for TCG and OCG card names, card names are coloured to match the card type.",
+                    "Nice and neat translations. Though I hate how they still kept the TCG name \"Monster Reborn\" instead of the OCG name \"Resurrection of the Dead\" for OCG subs.",
+                    "I take my old statement back. I did not realize that there were two subtitle tracks.",
+                    "Really fast releases",
+                    "Awsome Subs",
+                    "Fast, and good knowledge of Japanese Grammar."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! VRAINS",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "They are good so far!"
+                ],
+                "Bad Comments": [
+                    "Dropped it due to Crunchy streaming it..."
+                ]
+            }
+        }
+    ]
+}

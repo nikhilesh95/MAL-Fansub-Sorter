@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Sukisubs",
+        "Short Name": "Sukisubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "23",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria†Holic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 21 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I found there subs accurate enough actually, watch them and gg, not much of a difference at all. So kudos to you guys :)",
+                    "Weird translations, some parts are not translated, opening and ending are skipped...",
+                    "not fully translated, shitty.",
+                    "horrid. translations are all jumbled up. and they miss parts. Dont even what is being translated half of the time.",
+                    "Bad and hideous fonts, no openings or endings, bad grammar and translation"
+                ],
+                "Bad Comments": [
+                    "The part with \"She's explaining her the name\" was pretty stupid",
+                    "Ugly font, shitsux translation.",
+                    "They said themselves that they suck; a poor example of professionalism. Also, they were inaccurate when compared to the other groups.",
+                    "Few grammer errors, and complaining about how they suck really disrupted the flow of the show.",
+                    "horrible video quality, and Earful Tower != Eiffel Tower!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shitsux tl"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toradora!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shitsux"
+                ],
+                "Bad Comments": [
+                    "shitrox"
+                ]
+            }
+        },
+        {
+            "Show Name": "Zettai Karen Children",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shitsux tl"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

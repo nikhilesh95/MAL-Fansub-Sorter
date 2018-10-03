@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Torakuta Fansubs",
+        "Short Name": "Torakuta",
+        "IRC": "#Torakuta@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naked Wolves",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very accurate, nice type setting and the only fansuber who's ready to tackle this show."
+                ],
+                "Bad Comments": [
+                    "Just amazing subtitles"
+                ]
+            }
+        }
+    ]
+}

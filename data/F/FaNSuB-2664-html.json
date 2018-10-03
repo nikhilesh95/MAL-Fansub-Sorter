@@ -1,0 +1,134 @@
+{
+    "Group": {
+        "Group Name": "FaNSuB",
+        "Short Name": "FaNSuB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "4",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Break Blade 1: Kakusei no Toki",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Break Blade 2: Ketsubetsu no Michi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Evangelion: 2.0 You Can (Not) Advance",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eve no Jikan (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night Movie: Unlimited Blade Works",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 4 users approve"
+        },
+        {
+            "Show Name": "Ghost in the Shell: Stand Alone Complex",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 4 users approve"
+        },
+        {
+            "Show Name": "Higashi no Eden Movie II: Paradise Lost",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Uses the Translatorgasm script. Fully softsubbed. Good encode with no errors.",
+                    "a few typos but overall pretty damn good"
+                ],
+                "Bad Comments": [
+                    "Minor grip being no OP/ED translation, but that aside, the best choice available.",
+                    "nice work. thanks ^^"
+                ]
+            },
+            "User Approval": "16 of 16 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Juuni Kokuki",
+            "Show Type": "TV - 45 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "16 of 16 users approve, 4 comments"
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "16 of 16 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Unicorn",
+            "Show Type": "OVA - 7 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "16 of 16 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Queen's Blade: Rurou no Senshi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Summer Wars",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "Tales of Vesperia: The First Strike",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "Fapyuu",
+        "Short Name": "Fapyuu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "0",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hi.Me.Go.To",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A very solid release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Shoujo",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I like their English the most. EROBEAT's is a little awkward in some places."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mesu Kyoushi: Injoku no Kyoushitsu",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Miyazaki Maya Daizukan",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good stuff"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

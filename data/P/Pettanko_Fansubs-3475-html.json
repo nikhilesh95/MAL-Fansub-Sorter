@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Pettanko Fansubs",
+        "Short Name": "Pettanko",
+        "IRC": "#pettanko@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "10",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Papa no Iukoto wo Kikinasai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "baddies",
+                    "shit",
+                    "This group shows real dedication to quality, and their excellent translations are way above those ofCR or any group that uses them.",
+                    "Like a surfboard chest",
+                    "A very solid first release."
+                ],
+                "Bad Comments": [
+                    "gay cr edit",
+                    "They are handsome and nice.",
+                    "the kara looks like shit.",
+                    "both rori and pettanko are the best, they're new, and working for this only series, most important its not horriblesubs"
+                ]
+            }
+        }
+    ]
+}

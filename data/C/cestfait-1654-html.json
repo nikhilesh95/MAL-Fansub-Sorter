@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "cestfait",
+        "Short Name": "cestfait",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "2",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Haibane Renmei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job.",
+                    "Great job.",
+                    "No nonsense, did it straight."
+                ],
+                "Bad Comments": [
+                    "Superior to KickAssAnime's release!",
+                    "high quality subs, always readable and never blotched together."
+                ]
+            }
+        }
+    ]
+}

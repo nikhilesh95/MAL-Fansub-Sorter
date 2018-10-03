@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "PseudoSubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Flip Flappers",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Re:Creators",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A good subtitle, encoding, and server."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

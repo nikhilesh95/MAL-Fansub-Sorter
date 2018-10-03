@@ -1,0 +1,525 @@
+{
+    "Group": {
+        "Group Name": "Friki no Fansub",
+        "Short Name": "FnF",
+        "IRC": "#fnf@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "835",
+            "Users Disapprove": "101",
+            "Total": "936"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blood-C",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "15 of 17 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad encode"
+                ],
+                "Bad Comments": [
+                    "Muy bien"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clover",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "16 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Chido"
+                ],
+                "Bad Comments": [
+                    ":3"
+                ]
+            }
+        },
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "40 of 49 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Me cae muy bien su traductora...",
+                    "Really good subs, top quality, best encode ive ever seen.",
+                    "Perfecto",
+                    "Buena calidad en todos los sentidos!"
+                ],
+                "Bad Comments": [
+                    "fast, good fonts, good translation, jai cuality 8D",
+                    "Not english.",
+                    "gran trabajo, muy buena calidad tanto de subs como de imagen, perfecto!!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Guilty Crown Kiseki: Reassortment",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "11 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really good work like the main anime."
+                ],
+                "Bad Comments": [
+                    "un trabajo perfecto, igual que el que hicieron con la serie"
+                ]
+            }
+        },
+        {
+            "Show Name": "Guilty Crown: Lost Christmas",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "8 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hyouka",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "50 of 59 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fansubeo de calidad profesional.",
+                    "Lo veo por los carteles flaman. Me ponen. Haters gonna hate.",
+                    "Se toman en serio todos los aspectos del fansubbeo, como en todos los animes que hacen.",
+                    "La mejor versión"
+                ],
+                "Bad Comments": [
+                    "They do good weeaboo moeshit.",
+                    "weaboos",
+                    "Not English"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hyouka: Motsubeki Mono wa",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "16 of 18 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "23 of 27 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Si es un anime de CLAMP, la mejor opción es FnF.",
+                    "Best overall.",
+                    "upsize",
+                    "great job!!! Friki no fansub, como siempre, un trabajo excelente ^^"
+                ],
+                "Bad Comments": [
+                    "Correct translation, good crossover notes and lots of effort put on the release.",
+                    "Buena traducción, buena calidad",
+                    "Una traducción sublime que se adecuaba a la situación en todo momento.",
+                    "well"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Kanata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "36 of 39 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "burrito gato",
+                    "Gran trabajo están haciendo con esta :3 Gracias!!!"
+                ],
+                "Bad Comments": [
+                    "Odié la serie y la dropeé al tercer capítulo. La calidad de la traducción fue lo único destacable. Gracias por hacer menos horrorosa la experiencia para mí con su excelente trabajo, chicos, y no es sarcasmo T_T",
+                    "Versión insuperable, mucho trabajo y esfuerzo."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Busters!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "42 of 46 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They played the original VN, so it's very accurate.",
+                    "Muy bien, todo muy bien! No tengo ninguna queja!",
+                    "n11111",
+                    "A great job, it is just perfect"
+                ],
+                "Bad Comments": [
+                    "Best version!",
+                    "Versión insuperable, mucho trabajo y esfuerzo. Se nota que son auténticos fans.",
+                    "Very good translate :3 the best spanish fansub for LB"
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Busters!: EX",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Little Busters!: Refrain",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "28 of 32 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "En algunas partes convertían una frase en culto-informal en una en culto-formal, olvidando que es fundamental mantener la esencia del personaje. Esa es mi única queja, todo lo demás lo hicieron de puta madre. Recomiendo este fansub totalmente",
+                    "DAT KARAOKES"
+                ],
+                "Bad Comments": [
+                    "Versión insuperable, mucho trabajo y esfuerzo. Se nota que son auténticos fans."
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Traducción y edición impecables. Valoro mucho la traducción y edición de los carteles/mensajes de texto/etcs especialmente. Se nota mucho todo el amor y trabajo puestos por su amor a LB. Calidad garantizada."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pita Ten",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Robotics;Notes",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "22 of 23 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I was hooked on this anime thanks to this fansub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "86 of 94 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Probably, the best version of this anime on spanish.",
+                    "Tanto esperar su versión en BD para que al final el encode fuera tan malo.",
+                    "Fantastic job, especially on typesetting (better than any English release).",
+                    "Creo que es el mejor fansubeado que he visto nunca!",
+                    "Excelente versión, se toman el fansubeo muy en serio.",
+                    "bad",
+                    "It's the best spanish version"
+                ],
+                "Bad Comments": [
+                    "EL PSY CONGROO",
+                    "Great quality and explanations about japanese culture",
+                    "HORRIBLE",
+                    "Genial uso de los MEMES.",
+                    "Amazingly detailed.",
+                    "The best spanish subs you can find.",
+                    "Como con sus otros subs, Friki siempre mantiene (o mejora) su calidad, pero nunca disminuye. Nunca encuentras algún error, y algunas veces le ponen su toque a los subs, lo cual es muy bueno y divertido."
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "35 of 35 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "FnF ftw.",
+                    "La mejor versión en español. De lejos.",
+                    "Best Fandubbers of S;G in spain"
+                ],
+                "Bad Comments": [
+                    "10/10",
+                    "is so good fansub and so pro"
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate: Oukoubakko no Poriomania",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job as always."
+                ],
+                "Bad Comments": [
+                    "La OVA en sí es una chorrada, pero muy bien currada. United States goes... and invade!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "16 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Even though this release is quite old, it's clear that they love CCS :3"
+                ],
+                "Bad Comments": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of Phantasia The Animation",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "14 of 16 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "13 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation, style, the best karaoke I ever see, knows about the game, what else is need? :D"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sekai Tougou-hen",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "19 of 23 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It has some good translations, typesetting and good  effects. The only thing is the fonts which sometimes are kinda hard to read.",
+                    "Hardsubs"
+                ],
+                "Bad Comments": [
+                    "Great quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "19 of 21 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Tethe'alla-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "17 of 19 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Me gusta su version xD, y me gusta que pongan los skills asi igual q en el juego :P"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Tethe'alla-hen Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "8 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of the Abyss",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 20 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great video quality, accurate translation and loyalty to the original game's terms, plus lots of little details that please every TotA fan ^^",
+                    "Excelente fansub, muy buenos karaokes, bien encodeados y muy atractivos."
+                ],
+                "Bad Comments": [
+                    "Tales of the Abyss is a great anime : D",
+                    "EL KARAOKE MÁS FLAMAN DE LA HISTORIA"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of Vesperia: The First Strike",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "16 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perfecto! =)"
+                ],
+                "Bad Comments": [
+                    "muy bueno"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of Zestiria: Doushi no Yoake",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tasogare Otome x Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "18 of 21 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "colaboración con BackBeard :3"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 18 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle 2nd Season",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 18 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor versión en español."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 14 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Shunraiki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "19 of 21 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Tokyo Revelations",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "18 of 21 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "32 of 35 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job!",
+                    "Subtítulos muy buenos, muy a lo español xD",
+                    "Una excelente traduccion. Y las notas de traduccion que agregaban eran concisas y muy utiles.",
+                    "Lo han hecho muy bien: una traducción buena con frases hechas equivalentes y todas las anotaciones necesarias. Además, la versión DVDRip es fantástica. Se nota que se han esforzado."
+                ],
+                "Bad Comments": [
+                    "Buena traducción y edición.",
+                    "un trabajo excelente, lo único malo es que cambian de orden los nombres u.u",
+                    "Es el mejor fansub que he encontrado. Su trabajo me parece excelente en todo: traducción, ortotipografía, estilo, uso del argot. Es un lujo su trabajo."
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Kei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "31 of 35 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muy buen curro, se nota que está muy cuidado. Aunque me parece que algunas NdeT sobran para los que no somos CLAMP-tards",
+                    "Notas innecesarias a más no poder.",
+                    "A todo eso hay que agregarle que el video está mal trabajado, esto es un híbrido por lo que al no trabajarlo bien hay partes en las que el video da saltos al reproducirse. Aprendan, capullos.",
+                    "Excelente trabajo. Personalmente no creo q moleste/sobre ninguna nota de traducción. Preferiría q no cambiasen de orden los nombres, pero por lo demás todo perfecto :3",
+                    "Para mí, el mejor fansub que existe en castellano."
+                ],
+                "Bad Comments": [
+                    "Si habéis visto nuestras últimas releases, habréis notado el descenso de NdTs, es cierto que en su día nos pasábamos. Y no somos expertos en encodeo ni mucho menos, así que sí, intentaremos seguir aprendiendo, pero lo de capullos sobraba. Atte: Lul",
+                    "Muy bien todo. Al fin y al cabo, el fansub es por y para CLAMP-tards, así que no hay notas innecesarias.",
+                    "Al gilipollas de arriba, trábajate una vida y deja de trollear porque sí. Si te da saltos es culpa de tu tartana de PC, no del vídeo, que el fansub lo ha hecho perfectamente, tanto en la versión TV como en la DVD",
+                    "Una excelente traduccion. Y las notas de traduccion que agregaban eran concisas y muy utiles."
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 21 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Una excelente traduccion. Y las notas de traduccion que agregaban eran concisas y muy utiles."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Rou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "26 of 28 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good, good",
+                    "Una excelente traduccion. Y las notas de traduccion que agregaban eran concisas y muy utiles."
+                ],
+                "Bad Comments": [
+                    ":3"
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Shunmuki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "25 of 28 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    ":3",
+                    ">Spanish"
+                ],
+                "Bad Comments": [
+                    "Una excelente traduccion. Y las notas de traduccion que agregaban eran concisas y muy utiles."
+                ]
+            }
+        }
+    ]
+}

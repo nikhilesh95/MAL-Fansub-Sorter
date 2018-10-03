@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "A Certain Missing Translator",
+        "Short Name": "toayuku",
+        "IRC": "#toayuku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "3",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shukufuku no Campanella",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nothing to complain about."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "18 of 18 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "14 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good"
+                ],
+                "Bad Comments": [
+                    "yep"
+                ]
+            }
+        }
+    ]
+}

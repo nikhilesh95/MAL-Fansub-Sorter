@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Suimasen-Nekomimi Fansubs-CommieSubs",
+        "Short Name": "Suimasen-Nekomimi-Commie",
+        "IRC": "#nekosubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "7",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Bungaku Series",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CR",
+                    "Three wrongs doesn't make a right"
+                ],
+                "Bad Comments": [
+                    "No thx."
+                ]
+            }
+        }
+    ]
+}

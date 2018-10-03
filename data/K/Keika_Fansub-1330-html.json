@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Keika Fansub",
+        "Short Name": "Keika",
+        "IRC": "#keika@ irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I liked the translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juushin Enbu: Hero Tales",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kekkaishi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Keika está haciendo un trabajo excelente con este anime. Actualmente solo hay dos fansubs españoles llevándola a cabo, y aunque el otro fansub va más adelantado que Keika, merece la pena esperar las releases de éste último: buena traducción, buena "
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

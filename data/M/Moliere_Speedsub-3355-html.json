@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Moliere Speedsub",
+        "Short Name": "MSS",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cross Fight B-Daman",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Death -_-"
+                ],
+                "Bad Comments": [
+                    "Dropped"
+                ]
+            }
+        }
+    ]
+}

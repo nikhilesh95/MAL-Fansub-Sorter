@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "BANZAI",
+        "Short Name": "BANZAI",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "6",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kanamemo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "25 of 29 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs. No spelling or grammar errors.",
+                    "Well done.",
+                    "How can you people possibly like this shit? The grammatical errors are so incredibly blatant.",
+                    "Undefined",
+                    "Bad (upscaled) video, horrible styling",
+                    "they're really good quality subs",
+                    "OMFG. Too many grammatical and spelling errors."
+                ],
+                "Bad Comments": [
+                    "good subs",
+                    "Great subs, with Karaoke. What's not to like?? ^.^",
+                    "YAY",
+                    "Subs are accurate, colorful and they are reliable.",
+                    "akward translation in several places, but very decent job",
+                    "It was well done, and seemed very accurate."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yoku Wakaru Gendai Mahou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

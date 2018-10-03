@@ -1,0 +1,82 @@
+{
+    "Group": {
+        "Group Name": "Wing Egg Fansubs",
+        "Short Name": "Wing Egg",
+        "IRC": "#wing-egg@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "2",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blood-C",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Boa tradução. Sem erros e com karaokes."
+                ],
+                "Bad Comments": [
+                    "Excelente qualidade, explicam todos os termos possíveis, utilizam uma fonte adequada, etc. nada para reclamar deste fansub."
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mouryou no Hako",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa: Shunraiki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Rou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Shunmuki",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

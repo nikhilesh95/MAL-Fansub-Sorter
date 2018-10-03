@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "Shinsen-Subs & Ureshii Anime Fansub",
+        "Short Name": "SHS-Ureshii",
+        "IRC": "#shinsen-subs@irc.rizon.net & #ureshii@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "98",
+            "Users Disapprove": "7",
+            "Total": "105"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "52 of 59 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The best choice for the series - good font, no errors in translations and good subbing overall, and must important - readable.",
+                    "Oh yeah!",
+                    "Well, I have a few of their subs and so far, I like them. :)",
+                    "It was subbed good, translated well, and I'm happy that I watched it.",
+                    "One of the best subs I have ever seen, good job.",
+                    "They do a nice job, but do misspell some things. They also call Kallen, Karen. Nonetheless, they do a very nice job.",
+                    "Their Subs are great that's is all :) ."
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Good translating and timing.A job well done",
+                    "Very good translation",
+                    "Good translation and timing. They do misspell some things, but they are still understandable. Great job.",
+                    "very nice font and size.  timing is great, as well.",
+                    "A few mispellings but it's all good.",
+                    "It's the one that I found on Chia-Anime"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ghost Hunt",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "46 of 46 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good translation",
+                    "Few minor mistakes, but awesome translations and good grammar.",
+                    "Great translation and grammar. Couldn't find any errors so far. They also keep the japanese names of the spirits, rituals, etc."
+                ],
+                "Bad Comments": [
+                    "I love both",
+                    "really good"
+                ]
+            }
+        }
+    ]
+}

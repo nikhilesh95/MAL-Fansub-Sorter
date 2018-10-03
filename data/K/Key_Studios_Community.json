@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Key Studios Community",
+        "Short Name": "KSC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "5",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Little Busters!: EX",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "1 of 6 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "appreciate the speed but it's very inaccurate. More than half of every episode is mistranslated.",
+                    "poor timing and grammar, but most importantly some parts are completely mistranslated",
+                    "good work!"
+                ],
+                "Bad Comments": [
+                    "this subs is a cancer",
+                    "Occasional missed lines/awkward sub timing, incorrect or misplaced punctuation, typos, and grammatical errors."
+                ]
+            }
+        }
+    ]
+}

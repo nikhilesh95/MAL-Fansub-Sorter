@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "ValdikSS",
+        "Short Name": "ValdikSS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "First Squad: The Moment of Truth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Totally inaccurate translation",
+                    "Accurate English subtitles."
+                ],
+                "Bad Comments": [
+                    "decent subs",
+                    "The subs were perfect."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sojunghan Nal-ui Kkum",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

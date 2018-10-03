@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Enlius Fansubs",
+        "Short Name": "Enlius-subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "9",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sora wo Kakeru Shoujo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

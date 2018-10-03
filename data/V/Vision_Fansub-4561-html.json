@@ -1,0 +1,615 @@
+{
+    "Group": {
+        "Group Name": "Vision Fansub",
+        "Short Name": "VisionFansub",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "130",
+            "Users Disapprove": "97",
+            "Total": "227"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aiura",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoki Hagane no Arpeggio: Ars Nova",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arslan Senki",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Berserk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Crystal",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "desynch"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon Crystal Season III",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Bullet",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blade & Soul",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Aí sim, Blade and Soul!!!!!!!!!! TOP"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boku no Hero Academia",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Google translator."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bungou Stray Dogs",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Choboraunyopomi Gekijou Ai Mai Mii",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Comet Lucifer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Diamond no Ace",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "6 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Diamond no Ace: Second Season",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Otima legenda do fansub. Muito Obrigado."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "DRAMAtical Murder",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail (2014)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fairy tail é bem dificil de encontrar com um bom sub e em boa qualidade! seria ótimo ter um feito pela vision!!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Free!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakusen Toshi Asterisk",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakusen Toshi Asterisk 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gatchaman Crowds",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Genei wo Kakeru Taiyou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gifuu Doudou!!: Kanetsugu to Keiji",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gin no Saji",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Kikoutai Majestic Prince",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gingitsune",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Golden Time",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hajime no Ippo: Rising",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hundred",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inu to Hasami wa Tsukaiyou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kitakubu Katsudou Kiroku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiznaiver",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroko no Basket 2nd Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Log Horizon",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "7 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translators should know both languages well, but seem to know neither to a satisfactory degree.",
+                    "boa qualidade de video e audio e sem erros"
+                ],
+                "Bad Comments": [
+                    "Gramatical errors"
+                ]
+            }
+        },
+        {
+            "Show Name": "Magi: The Kingdom of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makai Ouji: Devils and Realist",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushibugyou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nisekoi:",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Punch Man",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Punch Line",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya Omega",
+            "Show Type": "TV - 97 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Soul of Gold",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekai Seifuku: Bouryaku no Zvezda",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senyuu. 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Até que não é tão ruim,tem algumas girias desnecessarias mas de resto tudo OK."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Servant x Service",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"Hardsub em pleno 2013!!!\". Hardsub é melhor para ver na TV, seu animal burro.",
+                    "Gramatical errors"
+                ],
+                "Bad Comments": [
+                    "Hardsub em pleno 2013!!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "7 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shokugeki no Souma",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "boa tradução, infelizmente eles dificultam muito pra baixar..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sousei no Onmyouji",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "5 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They do what they promise"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike the Blood",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gramatical errors"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Terra Formars Revenge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ushio to Tora (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ushio to Tora (TV) 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Walkure Romanze",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yowamushi Pedal",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "5 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad quality of videos, and that was not the best subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yowamushi Pedal: Grande Road",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sempre rápidos e com uma qualidade boa."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

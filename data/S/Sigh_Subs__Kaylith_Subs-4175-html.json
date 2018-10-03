@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Sigh Subs & Kaylith Subs",
+        "Short Name": "Sigh-Kaylith",
+        "IRC": "#Sigh@irc.rizon.net | #kaylith@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "3",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Haitai Nanafa",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "27 of 30 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Liberal",
+                    "Lost a joke in the third episode. (The crows are chirping ”あほ”  or calling her an idiot, basically.) Nobody else is doing it, though."
+                ],
+                "Bad Comments": [
+                    "For picking up Haitai you are awesome. Also subs are good.",
+                    "subs are bad; but at least someone subbed it"
+                ]
+            }
+        }
+    ]
+}

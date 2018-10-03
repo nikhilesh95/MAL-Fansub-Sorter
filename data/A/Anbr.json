@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Anbr",
+        "Short Name": "Anbr",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "3",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kenpuu Denki Berserk",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Erros de tradução e de ortografia."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: Death & Rebirth",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "bullshit"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: The End of Evangelion",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        }
+    ]
+}

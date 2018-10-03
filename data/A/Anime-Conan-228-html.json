@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "Anime-Conan",
+        "Short Name": "AConan",
+        "IRC": "#anime-conan@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "87",
+            "Users Disapprove": "7",
+            "Total": "94"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "67 of 74 users approve, 17 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wrong subbing color, which displeases the eye's and disturbs concentration whilst middle in exciting deduction. - not always proper english, bad grammar, spelling mistakes.",
+                    "This group don't exist...",
+                    "Good quality and commitment for their generation of fansubbing.",
+                    "High quality translations",
+                    "Main website is gone....",
+                    "http://bit.ly/c3QmVx",
+                    "Was pleasant to read, good grammar, good timing.",
+                    "quite alright",
+                    "Awesome translation of the first 100 episodes of DC. One of the best subbing groups I´ve encountered so far."
+                ],
+                "Bad Comments": [
+                    "They are the only ones to have 1-100 subbed and there quality is high",
+                    "great translations!",
+                    "Site no longer exists.",
+                    "Besides the great quality, I also like that they explain details about Japanese culture that people may not know.",
+                    "They do a good job. The subs are easy to read, and have great timing :D",
+                    "Excellent translations.",
+                    "Good quality, makes sense when read",
+                    "Good translations + typesetting"
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 01: The Timed Skyscraper",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "11 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good."
+                ],
+                "Bad Comments": [
+                    "very good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 02: The Fourteenth Target",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gakkou no Kaidan",
+            "Show Type": "TV - 19 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good subbing, and also very readable."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nanaka 6/17",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

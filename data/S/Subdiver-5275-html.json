@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "Subdiver",
+        "Short Name": "Subdiver",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakutou Sengen Daigunder",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dennou Boukenki Webdiver",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Nice, simple, and great subtitle"
+                ],
+                "Bad Comments": [
+                    "Good translated subtitles in english, korean and indonesian language as closed captions => viewer is able to switch language while watching on YT. Great selection of rare 90s-2000s Mecha-Anime!"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Genki Bakuhatsu Ganbaruger",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Nekketsu Saikyou Go-Saurer",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yamato Takeru: After War",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yuusha Shirei Dagwon",
+            "Show Type": "TV - 48 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Zettai Muteki Raijin-Oh (1992)",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

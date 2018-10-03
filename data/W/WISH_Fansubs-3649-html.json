@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "WISH Fansubs",
+        "Short Name": "WISH",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Acchi Kocchi (TV)",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Ótima tradução e velocidade de lançamento."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

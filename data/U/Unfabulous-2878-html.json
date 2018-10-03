@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Unfabulous",
+        "Short Name": "Unfabulous",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Connected",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fuujin Monogatari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "slowest fansubs ever"
+                ],
+                "Bad Comments": [
+                    "Typos, oddly unfitting lines that could've been translated more literally without losing anything or sounding odd in English, and the length of time lines would stay on the screen was inconsistent."
+                ]
+            }
+        },
+        {
+            "Show Name": "Life no Color",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

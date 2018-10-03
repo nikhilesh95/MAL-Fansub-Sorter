@@ -1,0 +1,97 @@
+{
+    "Group": {
+        "Group Name": "Shogakukan Fansubs & Doki Fansubs",
+        "Short Name": "SGKK-Doki",
+        "IRC": "#doki@irc.​rizon.​​​net & #sgkk@irc.​​rizon.​​​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "75",
+            "Users Disapprove": "9",
+            "Total": "84"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "16 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shit is shit",
+                    "gudjob",
+                    "Enjoyed this."
+                ],
+                "Bad Comments": [
+                    "nearly perfect",
+                    "Great translation, easy to read subs, and Karaoke~"
+                ]
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "26 of 29 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "+ or - when they ever finish the series",
+                    "Best release.",
+                    "Not bad at all. They managed to catch up to every other group in two weeks.",
+                    "Doki subs = garbage subs",
+                    "Great work.",
+                    "Good subs. Unfortunately only 720p and this group seems to have a very negative attitude towards anything 1080p. Also somewhat inconsistent. Sometimes uses \"san\" and sometimes doesn't, sometimes uses \"onii-san\" and sometimes \"brother\". Make up your mind."
+                ],
+                "Bad Comments": [
+                    "Just win!",
+                    "great work",
+                    "A couple of errors but otherwise pretty good.",
+                    "Nice",
+                    "Great quality joined fansubs ^^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid Picture Drama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "17 of 18 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "still waiting for the SERIES to be finished sub....",
+                    "the subs just for you; good quality",
+                    "Good quality & subs."
+                ],
+                "Bad Comments": [
+                    "Yeeeeeeeeeeeeeeeeees! Win!",
+                    "Awesome.",
+                    "Ta!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid: Yogen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "14 of 15 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good. easy to understand dialogues",
+                    "Soooooo win!",
+                    ":)"
+                ],
+                "Bad Comments": [
+                    "*yawn*",
+                    "Good."
+                ]
+            }
+        }
+    ]
+}

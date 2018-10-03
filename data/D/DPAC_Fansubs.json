@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "DPAC Fansubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "because they continued naruto shippuden",
+                    "Uses the terms \"zoinks\" and \"broseph\""
+                ],
+                "Bad Comments": [
+                    "Watched some of their releases. They did a good job ^^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 2 - Kizuna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

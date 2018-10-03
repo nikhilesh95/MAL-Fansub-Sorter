@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "OkashiiSubs",
+        "Short Name": "Okashii",
+        "IRC": "#okashiisubs@irc.raitian.info",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Inazuma Eleven",
+            "Show Type": "TV - 127 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senjou no Valkyria",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Fast as fuck. Not perfect by any means, but not bad either. Good if you want your Valkyria fast.",
+                    "speedsubbing so we can see the episodes sooner"
+                ],
+                "Bad Comments": [
+                    "great!"
+                ]
+            },
+            "User Approval": "5 of 5 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Souten Kouro",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Stealth drop"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        }
+    ]
+}

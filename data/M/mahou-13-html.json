@@ -1,0 +1,137 @@
+{
+    "Group": {
+        "Group Name": "mahou",
+        "Short Name": "mahou",
+        "IRC": "#mae@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "82",
+            "Users Disapprove": "13",
+            "Total": "95"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Claymore",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some of the terms they leave untranslated that they could translate."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fantastic Children",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were the only English fansubbers!",
+                    "Accurate subbing."
+                ],
+                "Bad Comments": [
+                    "good timing",
+                    "little flip flop in choice of subs fonts but the sentence structures and flow are really good,"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, abit awkward at some moments but otherwise it's well done."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "24 of 30 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ep 5 is out and they have not even finished Episode 4.  This would be understandable if there wasn't a 6 month gap between episodes.",
+                    "Good subs."
+                ],
+                "Bad Comments": [
+                    "Slow as balls",
+                    "Dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hoshizora Kiseki",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rean no Tsubasa",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sousei no Aquarion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well.. I just like how they sub some anime series well.. Pretty good! That's all.",
+                    "No longer hosting the torrent"
+                ],
+                "Bad Comments": [
+                    "awesome kara, great sub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Trinity Blood",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsukuyomi: Moon Phase",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "21 of 25 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "GREAT TS/kara, but awkward writing, fragmented timing (very short lines only onscreen for a little while), and overliteral/undertranslated. Though not their fault, this is the SHAFTed TV version.",
+                    "awesome",
+                    "GOOD SUBS ARE GOOD.",
+                    "2018 and it's still far superior option. Don't even read those retarded red comments. They don't even know what they are talking about. Faithful proper fansub."
+                ],
+                "Bad Comments": [
+                    "Airing raws = slideshow for a few episodes, fine for when it was airing, but you should grab Exiled Destiny's dvd version now.",
+                    "Part-translated.",
+                    "Good quality, nice font, Karaoke... Go for this!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsukuyomi: Moon Phase Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

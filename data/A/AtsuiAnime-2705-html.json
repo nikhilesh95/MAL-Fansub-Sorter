@@ -1,0 +1,162 @@
+{
+    "Group": {
+        "Group Name": "AtsuiAnime",
+        "Short Name": "AtsA",
+        "IRC": "#AtsuiAnime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "57",
+            "Users Disapprove": "6",
+            "Total": "63"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "While some people may not like Static Sub's translation, I did, and I'm glad Atsui managed to keep the signs and even styles that SS used, SOFTSUBBED. Some people have done SS+UTW's signs(Great!), but then the signs aren't consistent(EX:Headmster's room).",
+                    "Good quality subs, I found no problems."
+                ],
+                "Bad Comments": [
+                    "BD rip using SS's translation which is the best for this show, also SS's godly typesetting & karaoke in SOFTSUBS... not to mention  low filesize in both 720p & 1080p. EPIC WIN"
+                ]
+            }
+        },
+        {
+            "Show Name": "Arakawa Under the Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "B-gata H-kei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "H.264 quality, font and typesetting are also done quite well. Recommended group."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "28 of 32 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice release! :D",
+                    "good 720p",
+                    "good quality",
+                    "great",
+                    "Doesn't work on MPC, which is a shame since it seems like a good release otherwise.",
+                    "Dialogue sounded natural"
+                ],
+                "Bad Comments": [
+                    "1080p, Eclipse subs",
+                    "BD with eclipse subs",
+                    "BD +Eclipse script but no more XDCC link.",
+                    "Excellent BD quality with Eclipse's subs. Perfect release.",
+                    "People think its not working on certain players, truth is they cut out the OP and ED, thats why it seems like playback error. Shame, the video quality was so good..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "Show Type": "Special - 16 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ibara no Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurokami The Animation",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "high quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun! Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A good BD encode using the YuS-m.3.3.w. subs. Unlike some other encoders this guy actually knows how to do his job properly."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Star Driver: Kagayaki no Takuto",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "8 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Beats all other alternatives.",
+                    "Good BD quality with good subs."
+                ],
+                "Bad Comments": [
+                    "Fabulous 10-bit BD quality with original gg script.",
+                    "Was good quality and all but I'd recommend Coalgirls version."
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

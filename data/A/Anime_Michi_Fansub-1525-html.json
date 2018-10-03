@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Anime Michi Fansub",
+        "Short Name": "AMF",
+        "IRC": "#AMF@irc.moeotaku.com",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "2",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria†Holic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bem bom mas pod melhorar..."
+                ],
+                "Bad Comments": [
+                    "Tem muitos poucos erros. Acredito que se não fosse por eles, não conseguiria assistir a esse anime com subtítulos. É uma pena que o site da fansub tenha sido fechado."
+                ]
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire Capu2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Porque é foda XD"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toradora!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

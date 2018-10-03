@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "SHiN-gx Fansubs & Genjo-Subs",
+        "Short Name": "SHiN-gx & Genjo-Subs",
+        "IRC": "#Genjo-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "42",
+            "Users Disapprove": "13",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "26 of 34 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Semi-transparent outlines + jaggies make subs hard to read at times. Some translations are off-base. But overall good enough for a + vote. And what exactly about their subs is \"1995\"-esque?",
+                    "what is so good about their subs. horrible timing, lack of flow and totally ruins your kannagi experience, why the hell so many people approved this sub.",
+                    "HD releases",
+                    "SHiN-gx is a garbage group. It's not 1995 anymore guys.",
+                    "Bad subs and upscaled video.",
+                    "The subs are so wrong in places I thought the wrong sub file had been used during mixing. As there are many instances where you can tell the translator had absolutely no idea what was being said so they just made up a line that they thought fit the scene."
+                ],
+                "Bad Comments": [
+                    "Very good encode of DVD episodes",
+                    "They release in 720p (and you can see the difference, it's not just an upscale) and the translation quality is good.",
+                    "appreciate high quality release but translation kinda liberal in some parts like ep 2 \"naze sono episodo o kataru\" trans as why would u laugh... well i know enough jap so ok 4 me... kataru = narrate",
+                    "Good translation, good font, great video quality. By the way, for episode 10, if you have a choice, don't get the [SoftsubKara] version otherwise the songs they sing won't be translated.",
+                    "SHiN"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kannagi: Moshimo Kannagi ga Attara...",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "16 of 21 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "woeful",
+                    "can't stand the localizations..."
+                ],
+                "Bad Comments": [
+                    "Overly localized. God of filmmaking = Stanley Kubrick? Give me a fucking break."
+                ]
+            }
+        }
+    ]
+}

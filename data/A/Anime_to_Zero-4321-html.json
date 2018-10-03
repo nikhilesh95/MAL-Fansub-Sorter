@@ -1,0 +1,95 @@
+{
+    "Group": {
+        "Group Name": "Anime to Zero",
+        "Short Name": "AtoZ",
+        "IRC": "#AtoZ@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ben-To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They used gg's subs, which shows a serious error of judgement. And that error deserves criticism."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boku wa Tomodachi ga Sukunai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boku wa Tomodachi ga Sukunai Next",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD and Typesetting"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kono Naka ni Hitori, Imouto ga Iru!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maken-Ki!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vividred Operation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "JK subs, paired with an absolutely awesome HQ BD release - If you want the best version out there, this is it."
+                ],
+                "Bad Comments": [
+                    "BluRay, JK subtitles and slightly better looking than coalgirls' release which is 10 gb larger."
+                ]
+            }
+        }
+    ]
+}

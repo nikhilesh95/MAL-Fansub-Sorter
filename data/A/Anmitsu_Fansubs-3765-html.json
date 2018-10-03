@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Anmitsu Fansubs",
+        "Short Name": "Tasty-Anmitsu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Natsu-iro Kiseki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "subbed in 480p for people with slow computer like us",
+                    ">rock-sama"
+                ],
+                "Bad Comments": [
+                    "The subs have a natural flowing sense. Plus they have spot on translation. The best!"
+                ]
+            }
+        }
+    ]
+}

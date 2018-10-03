@@ -1,0 +1,95 @@
+{
+    "Group": {
+        "Group Name": "AnimeUniverse Fansub Group",
+        "Short Name": "AnimeU",
+        "IRC": "#animeu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "1",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hanbun no Tsuki ga Noboru Sora",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Loved the singable rhyming karaoke and the creative editing, but there were some key TL misses that made me go with another release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magikano",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some translation errors, but their extremely liberal editing made this show far funnier than a standard \"faithful\" translation ever could have."
+                ],
+                "Bad Comments": [
+                    "Awful translation"
+                ]
+            }
+        },
+        {
+            "Show Name": "Makai Senki Disgaea",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shuffle!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slightly more accurate than F-B, far better editing than KnKF. But the Funimation release is more recommendable, for various reasons."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shuffle! Memories",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Link",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

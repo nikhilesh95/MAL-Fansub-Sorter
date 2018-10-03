@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "A-Kraze&Yoroshiku",
+        "Short Name": "A-Kraze&Yoroshiku",
+        "IRC": "#yoroshiku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Michiko to Hatchin",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "52663+2+6"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

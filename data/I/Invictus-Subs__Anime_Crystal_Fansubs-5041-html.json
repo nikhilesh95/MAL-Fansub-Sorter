@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Invictus-Subs & Anime Crystal Fansubs",
+        "Short Name": "Invictus&ACF",
+        "IRC": "#Invictus-Subs@irc.rizon.net #anime-crystal@irc.euric.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Suika: Manatsu no Okurimono",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

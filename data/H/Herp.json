@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Herp",
+        "Short Name": "Herp",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blood-C",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Blood-C\nNew subber plague with some growing pains. NicoNico Translations is a plus. Raws from known sources. Video Suffers from timing issues. Lack of 480p support for people who are into that."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Itsuka Tenma no Kuro Usagi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

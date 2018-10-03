@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Apricot Subs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "puke inducing typeset"
+                ],
+                "Bad Comments": [
+                    "Freakin huge typesetting"
+                ]
+            }
+        }
+    ]
+}

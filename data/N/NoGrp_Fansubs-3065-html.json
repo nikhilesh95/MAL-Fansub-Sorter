@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "NoGrp Fansubs",
+        "Short Name": "NoGrp",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "10",
+            "Total": "34"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach Movie 4: Jigoku-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "17 of 25 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "RETARDED timing. You don't have to break to a new subtitle every time a character pauses to breathe!",
+                    "They don'T QC, therefore tons of mistakes",
+                    "subtitles were translated well and the type-setting was visually appealing",
+                    "Shitty timing.",
+                    "They're fine.",
+                    "It's good. I really quite surprise!"
+                ],
+                "Bad Comments": [
+                    "Chapters, song lyrics with kanji included (for us 日本語の学生), and decent translation, especially compared to the other options. Plus, they're sticking with it!",
+                    "Easy to understand, and clear typesetting.",
+                    "Seriously in need of some proofreading.",
+                    "Admits they only use Youkai because they are too lazy to sub Ayakashi as Ayakashi. Also assumes everyone watching anime is male >:P",
+                    "Nice type-settings (signs), good audio, video quality. Sub is good for my ears.",
+                    "There were many grammar problems in the subtitles. Styling, though, was nicely done."
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "4 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "10x better than Yibis",
+                    "fast HD release subs, very good translated."
+                ],
+                "Bad Comments": [
+                    "Finally an english OP fansubber who gets the episode out the same day it's aired, and in HD.",
+                    "Speed Subs."
+                ]
+            }
+        }
+    ]
+}

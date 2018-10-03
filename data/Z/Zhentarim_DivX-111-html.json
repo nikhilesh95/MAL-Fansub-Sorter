@@ -1,0 +1,999 @@
+{
+    "Group": {
+        "Group Name": "Zhentarim DivX",
+        "Short Name": "zx",
+        "IRC": "#zhentarim@irc.deltaanime.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "146",
+            "Users Disapprove": "21",
+            "Total": "167"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama!",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aa! Megami-sama! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Abenobashi Mahou☆Shoutengai",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I thought this was R1 with English audio removed to conserve CD-Rs, but I guess it's actually R2 source. My apologies for the downvote.",
+                    "They always did HQ DVD rips, too bad they're gone."
+                ],
+                "Bad Comments": [
+                    "English audio in your ass."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ai Yori Aoshi",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akira",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ao no 6-gou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This version is better than BluDragon's rip."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Argento Soma",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Armitage III",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Armitage III: Dual-Matrix",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Armitage III: Poly-Matrix",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bastard!!: Ankoku no Hakaishin",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Battle Athletess Daiundoukai (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blood: The Last Vampire",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Gender",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boku no Chikyuu wo Mamotte",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Brain Powerd",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bubblegum Crash",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bubblegum Crisis",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bubblegum Crisis Tokyo 2040",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chikyuu Shoujo Arjuna",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop: Tengoku no Tobira",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eat-Man '98",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Escaflowne",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fatal Fury: The Motion Picture",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "FLCL",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ghost in the Shell",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ghost in the Shell 2.0",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": [
+                    "These subs butchered the script in multiple places."
+                ]
+            }
+        },
+        {
+            "Show Name": "Golden Boy",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job. Could perhaps wish for a little better video and audio quality, but this anime is from the 90's so it's ok. The subs are great."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Herlock Saga: Nibelung no Yubiwa",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himiko-den",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hoshi no Koe",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotaru no Haka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dub/sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ima, Soko ni Iru Boku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jin-Rou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juubee Ninpuuchou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation, simply fonts, nice video quality. Subs in English and Spanish"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kachou Ouji",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kannazuki no Miko",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very high quality :D"
+                ],
+                "Bad Comments": [
+                    "video 10audio JP"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kaze no Tani no Nausicaä",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kazemakase Tsukikage Ran",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koihime",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lodoss-tou Senki",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina Christmas Special: Silent Eve",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross Plus",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic 2",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic: Automatic Maiden",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality but their IRC channel is on an obscure server"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Pretty Sammy",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Makai Tenshou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Metropolis",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mezzo Forte",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "gj"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam I",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "just good subs..nothing fancy"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam III: Encounters in Space",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Wing: Endless Waltz",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Wing: Endless Waltz Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam: Char's Counterattack",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mononoke Hime",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neko no Ongaeshi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "44 of 51 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Absolutely wonderful given the time of release and codecs used.",
+                    "Occasional HORRIBLE translation fuck-ups! I have to watch the whole damned thing again.",
+                    "renewal",
+                    "Subs are DVD ripped. However, those damn background voices are subbed and displayed on the bottom along with main voices, making it impossible to follow the dialogue without pausing.\n\nACX has the same subs, but background voices are displayed on the top o",
+                    "Great subs and video quality.",
+                    "Subs are decent, I noticed a few timing errors such as subs showing up slightly delayed, maybe it's just me.\nThis is still the best encode you'll ever find online."
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Quality rips with dual audio. Nothing more to say.",
+                    "Much better video quality than the a2000 release.",
+                    "subs ripped from R1 dvd release, later episodes such as the director's cuts have a lot of screw ups in translations.",
+                    "Subs are a bit of a mess towards the end but still watchable. However, this is the best encode and the English audio is nice.",
+                    "can get kinda messy in the director's cut eps but really good in general"
+                ]
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: Death & Rebirth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neon Genesis Evangelion: The End of Evangelion",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "v3 looks better than the actual R1 DVD.",
+                    "great picture quality",
+                    "Overall, well done in regards to translation. One of the best subs I've had the pleasure of downloading."
+                ],
+                "Bad Comments": [
+                    "Old encode.",
+                    "Batched together ZX provides the definitive viewing order for the series, including director's cuts, and the proper ending with the movie, End of Evangelion."
+                ]
+            }
+        },
+        {
+            "Show Name": "Noir",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Project ARMS",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Girl Real Bout High School",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seihou Bukyou Outlaw Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikai no Monshou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No problems met and little errors in grammar/spelling."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sen to Chihiro no Kamikakushi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Kitan Youtouden Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Serial Experiments Lain",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slayers",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dubtitles"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slayers Special",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Spriggan",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Starship Operators",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some non-Japanese names misspelled, but this is simply one of the best fansubs you'll ever see."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Street Fighter Zero The Animation",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blame MAL for erroneously calling them a \"fansub group,\" then. Good luck finding watchable fansubs for a 1995 anime.",
+                    "In my opinion not good, some translations need fixing and OP and ED aren't translated cos the default subs didn't do it so its not good enough."
+                ],
+                "Bad Comments": [
+                    "I wouldn't really approve of a fansub group that just rips anime AND subs from dvd using the horrible translation.  Example episode 4.  Yōkai =/= goblin      *gag me*"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! in Love",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality "
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! in Love 2: Haruka Naru Omoi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality but some translations are made up. ^_^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! Manatsu no Eve",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality but some translations are made up. ^_^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! Ryououki",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! Ryououki 2nd Season",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu no Escaflowne",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Still the best dual-audio release as of January 2012."
+                ],
+                "Bad Comments": [
+                    "seems good one to me"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tonari no Totoro",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tonari no Yamada-kun",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Top wo Nerae! Gunbuster",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umi ga Kikoeru",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vandread",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vandread: The Second Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "WXIII Kidou Keisatsu Patlabor",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Youjuu Toshi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zone of the Enders: 2167 Idolo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zone of the Enders: Dolores, I",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

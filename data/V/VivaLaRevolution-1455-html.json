@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "VivaLaRevolution",
+        "Short Name": "VLR",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "3",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Slayers Evolution-R",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only group which stands against *********** from funimation and still subs new Slayers despite it's crappines ;]"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slayers Revolution",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "21 of 23 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "All they really did was take the fonts SS-Eclipse used, but the translations don't seem too bad. I guess it's the only choice we're left with, so.. Thanks for the hard work.",
+                    "they do good job with slayers",
+                    "thank you guys, i really give up hope after SS-Eclipse dropped subbing slayers =)",
+                    "Their translation is lacking. But no other competent group is working on Slayers at the moment unfortunantely."
+                ],
+                "Bad Comments": [
+                    "They took over where SS-Eclipse ended. and havve done a damn good job since",
+                    "They completed the series.",
+                    "nice job THX...    -Slayers FAN"
+                ]
+            }
+        }
+    ]
+}

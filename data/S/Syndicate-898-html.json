@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Syndicate",
+        "Short Name": "Syndicate",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "92",
+            "Users Disapprove": "6",
+            "Total": "98"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Darker than Black: Kuro no Keiyakusha",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "80 of 85 users approve, 19 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast, good quality video :D",
+                    "Nice.",
+                    "Quite slow in subbing, but definitely the B-E-S-T for DtB. Files are released in AVI and MKV.",
+                    "Shinsen Subs had great fonts, lyrics, encoding and very good translation .",
+                    "Shinsen-Subs in disguise.",
+                    "Good quality in all aspects, good subs.",
+                    "best",
+                    "Good grammar and overall formatting.",
+                    "i found it the most easiest to follow",
+                    "Bad subtitle quality"
+                ],
+                "Bad Comments": [
+                    "Awesome!",
+                    "Same as Shinsen-Subs, for the later episodes.",
+                    "Good quality. Nice timing, typesetting, editing and translations. Recommended subbers for DtB.",
+                    "Low translation accuracy. Lack of checking? I was also shocked at one point, someone buys an umbrella for 짜480 which somehow got through QC as 짜450.",
+                    "A quite good job all around, well done!",
+                    "great subs",
+                    "So far, so good. Quality is great for its age. Definitely Shinsen in disguise.",
+                    "Clear and easy to read subtitles",
+                    "Excellent Subs, Karaoke, timing...All the Best Shinsen...oh! I mean Syndicate ;D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality translation, but the colors look worse than the raw version.",
+                    "Very good and accurate subs"
+                ],
+                "Bad Comments": [
+                    "Well...it's the only group subbing this must watch series.",
+                    "great subs"
+                ]
+            }
+        }
+    ]
+}

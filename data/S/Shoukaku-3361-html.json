@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Shoukaku",
+        "Short Name": "Shoukaku",
+        "IRC": "#shoukaku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "41",
+            "Users Disapprove": "5",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "High Score",
+            "Show Type": "TV - 8 episodes",
+            "User Approval": "17 of 17 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuragehime: Eiyuu Retsuden☆",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "14 of 17 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad quality."
+                ],
+                "Bad Comments": [
+                    "Good quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuragehime: Soreike! Amars Tankentai",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "10 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad quality."
+                ],
+                "Bad Comments": [
+                    "They actually subbed it! Also the quality was fine."
+                ]
+            }
+        }
+    ]
+}

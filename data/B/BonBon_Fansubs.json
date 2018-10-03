@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "BonBon Fansubs",
+        "Short Name": "BonBon",
+        "IRC": "",
+        "Primary Language": "Swedish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Smile Precure!",
+            "Show Type": "TV - 48 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

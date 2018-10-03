@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Kazehana Fansubs",
+        "Short Name": "Kazehana",
+        "IRC": "#Kazehana@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ef: A Tale of Melodies.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent upscale, good subs"
+                ],
+                "Bad Comments": [
+                    "Good quality for an upscale, decent translation."
+                ]
+            }
+        }
+    ]
+}

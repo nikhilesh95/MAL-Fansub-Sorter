@@ -1,0 +1,76 @@
+{
+    "Group": {
+        "Group Name": "Tenchou Fansubs",
+        "Short Name": "TenchouSubs",
+        "IRC": "#tenchousubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "15",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ajin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 20 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The downvoter saying these are not softsubs is wrong, as I just mixed them with a BD rip myself. There is a hardsub AND softsub version on their website, so I assume he downloaded the hardsubbed version due to stupidity.",
+                    "Good Translation, song lyrics, and good sub font/color"
+                ],
+                "Bad Comments": [
+                    "They say \"Softsubbed\" but isn't a real softsub, since only the karaokes are comming like that."
+                ]
+            }
+        },
+        {
+            "Show Name": "Houkago no Pleiades (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 20 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Joker Game",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CRF 20, uses filter on a bitstarved encode = clueless fansub. Don't know what they are doing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanojo to Kanojo no Neko: Everything Flows",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "2 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sushi Police",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tabi Machi Late Show",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Bleach Project",
+        "Short Name": "bleachPROJECT",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach Movie 4: Jigoku-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

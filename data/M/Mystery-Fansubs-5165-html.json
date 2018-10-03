@@ -1,0 +1,81 @@
+{
+    "Group": {
+        "Group Name": "Mystery-Fansubs",
+        "Short Name": "Mystery-Fansub",
+        "IRC": "#Mystery-Fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "5",
+            "Total": "34"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "19 of 21 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ....",
+                    "The official Successor of MCT"
+                ],
+                "Bad Comments": [
+                    "هراء، تقليد أعمى لمست وترجمة زفت زيهم...",
+                    "Accurate translation"
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 09: Strategy Above the Depths",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 18: The Sniper from Another Dimension",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ...."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III vs. Detective Conan: The Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ...."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magic Kaito 1412",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ...."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

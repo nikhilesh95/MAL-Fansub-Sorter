@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Makoto",
+        "Short Name": "Makoto",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "38",
+            "Users Disapprove": "1",
+            "Total": "39"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ice",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great quality easy to rip from thier format to one of my own"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Skull Man",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "null",
+                    "finished the series"
+                ],
+                "Bad Comments": [
+                    "great translation and appropriate font/usage of type."
+                ]
+            }
+        },
+        {
+            "Show Name": "Terra e... (TV)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "23 of 23 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks to this group for finishing!"
+                ],
+                "Bad Comments": [
+                    "Very much appreciated for your hard work as you are a 1-person group! All Terra fans thank you for completing this series. Great translations too! ^^"
+                ]
+            }
+        }
+    ]
+}

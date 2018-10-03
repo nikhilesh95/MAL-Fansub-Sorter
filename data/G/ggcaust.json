@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "ggcaust",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "70",
+            "Users Disapprove": "7",
+            "Total": "77"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria†Holic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "68 of 74 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "^^",
+                    "the few sane people from gg can now be found under the name ggcaust",
+                    "Thank Finella for finishing the series for us.",
+                    "Much love for finishing the series",
+                    "just great",
+                    "FFFFFFFF"
+                ],
+                "Bad Comments": [
+                    "Fantastic",
+                    "Must be careful with the fonts, some of them are not readable.",
+                    "Same quality as gg",
+                    "They saved Maria†Holic after gg dropped it. Arigatou!",
+                    "They picked up Maria Holic after the original ggfansubs dropped almost all their projects. I appreciate it alot.",
+                    "Same 'quality\" as gg, or rather localized garbage with memes."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of the Abyss",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

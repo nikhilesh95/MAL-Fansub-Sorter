@@ -1,0 +1,515 @@
+{
+    "Group": {
+        "Group Name": "Dokusai",
+        "Short Name": "DKS",
+        "IRC": "#Dokusai@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "287",
+            "Users Disapprove": "33",
+            "Total": "320"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akame ga Kill!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "14 of 14 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Akuma no Riddle",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere",
+                    "excellent"
+                ],
+                "Bad Comments": [
+                    "Neither an accurate translation, nor a well localized one."
+                ]
+            }
+        },
+        {
+            "Show Name": "Aldnoah.Zero",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor versión."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aldnoah.Zero 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ansatsu Kyoushitsu",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shet"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ansatsu Kyoushitsu: Deai no Jikan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "19 of 21 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere",
+                    "Haters, haters everywhere",
+                    "excellent"
+                ],
+                "Bad Comments": [
+                    ":3",
+                    ":D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Black Bullet",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "16 of 19 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere",
+                    "excellent"
+                ],
+                "Bad Comments": [
+                    "Haters, haters everywhere"
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Divine Gate",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!!x2 Shou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ga-Rei: Zero",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Generator Gawl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden Movie I: The King of Eden",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden Movie II: Paradise Lost",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden: Air Communication",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaze no Tani no Nausicaä",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kiseijuu: Sei no Kakuritsu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magic Kaito 1412",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere",
+                    "excellent"
+                ],
+                "Bad Comments": [
+                    "Calidad insuperable. La mejor versión en español. ¡Gracias!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushibugyou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushibugyou OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nagi no Asukara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "19 of 23 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere",
+                    "Rly good fansub.",
+                    "He comparado Sokusai, A-GX y Mezurashi Anime. La que tiene una traducción más correcta es Sokusai."
+                ],
+                "Bad Comments": [
+                    "Buen fansub en castellano",
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Noragami",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Panda Kopanda",
+            "Show Type": "Movie - 2 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sanzoku no Musume Ronja",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Selector Infected WIXOSS",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Selector Spread WIXOSS",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sidonia no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "17 of 19 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "17 of 19 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Zestiria the X",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Zestiria the X: Saiyaku no Jidai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Zestiria: Doushi no Yoake",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "10 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokyo ESP",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Ghoul",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Traducción óptima"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Ghoul √A",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muy buena versión si no tenemos en cuenta la españolización de la palabra ghoul por gul que queda un poco raruna"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "True Tears",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bots, bots everywhere"
+                ],
+                "Bad Comments": [
+                    "excellent"
+                ]
+            }
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zankyou no Terror",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

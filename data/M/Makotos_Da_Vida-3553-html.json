@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Makotos Da Vida",
+        "Short Name": "MDV",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gyo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice",
+                    "Boa legenda!"
+                ],
+                "Bad Comments": [
+                    "BD 1080p!"
+                ]
+            }
+        }
+    ]
+}

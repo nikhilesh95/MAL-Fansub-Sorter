@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "AnimeP2P",
+        "Short Name": "AnimeP2P",
+        "IRC": "#animep2p@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "1",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Show Type": "TV - 94 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ótima qualidade..."
+                ],
+                "Bad Comments": [
+                    "Máxima qualidade. trabalho bem feito"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Obra prima. Typesetting excelente. qualidade de video excelente."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Trabalho perfeito"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "outro ótimo trabalho do sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Girl Real Bout High School",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente trabalho, em video e edição."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu Senki Shurato",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Melhor Shurato disponivel no BR.Excelente trabalho do Fansub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Hunter",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Boa qualidade e type"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vandread",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zombie-Loan",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Boa qualidade (HDTV), boa edição e karaokes."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

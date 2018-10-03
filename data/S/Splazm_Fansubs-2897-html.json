@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Splazm Fansubs",
+        "Short Name": "Splazm",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "17",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Deadman Wonderland",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "cr shit"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanasaku Iroha",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No reason to get this over Underwater-Commie, since it's the same script and UW-C did a better job with it.",
+                    "same as CR",
+                    "the fuck is this?"
+                ],
+                "Bad Comments": [
+                    "wat is this shiet?",
+                    "Go with an \"actual\" subbing group",
+                    "same as HorribleSubs but with added karaoke and better signs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "what's wrong with you? =/"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

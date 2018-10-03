@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Mamiko-Chihiro",
+        "Short Name": "Mamiko-Chihiro",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "14",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shakugan no Shana S",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "25 of 35 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs. No spelling or grammar errors.",
+                    "spelling errors",
+                    "+",
+                    "Didn't notice any errors",
+                    "lolchihiro",
+                    "\"Mamiko was the main people who subbed this blah blah blah\" and it gets a +? Made me lol.",
+                    "This is the first one I saw and it's great"
+                ],
+                "Bad Comments": [
+                    "5.5/10",
+                    "Great Release!",
+                    "Mamiko was the main people who subbed this while Chihiro was the ones who encoded.",
+                    "Great subs with only 1 or 2 spelling errors.",
+                    "fuck chihiro. yeah fuck mamiko too.",
+                    "fast and great!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana S Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "2 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

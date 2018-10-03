@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "PerrySubs",
+        "Short Name": "Perrys",
+        "IRC": "#perrysubs@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "6",
+            "Total": "40"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Casshern Sins",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "9 of 11 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "¿Para cuándo más Casshern?",
+                    "Sin duda, la mejor versión de Casshern SINS.",
+                    "Gran traducción."
+                ],
+                "Bad Comments": [
+                    "La mejor versión de Casshern en español",
+                    "¡Mentirosos! No sois unos perrys :(",
+                    "Emobot para todos!"
+                ]
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 9 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Go~",
+                    "Son unos cracks",
+                    "Hacen una buena versi�n de este anime."
+                ],
+                "Bad Comments": [
+                    "Votando, a ver si sacan Kannagi más rápido xD",
+                    "Lo mejorcito.",
+                    "La mejor verisón de Kannagi en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nyoro-n Churuya-san",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I don't like the font, but the translation is great."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Yuuutsu (2009)",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi-chan no Yuuutsu",
+            "Show Type": "ONA - 25 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

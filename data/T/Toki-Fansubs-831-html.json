@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Toki-Fansubs",
+        "Short Name": "Toki-Fansubs",
+        "IRC": "#toki-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "43",
+            "Users Disapprove": "9",
+            "Total": "52"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Over Drive",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "42 of 50 users approve, 20 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs, accurate translations, awesome qaukity",
+                    "They strive to get the episodes out. And they sub less known anime.",
+                    "Good video quality. And solid job on translation, styling and timing. I'll be sticking with them :)",
+                    "Great translation and style, great timing ;]",
+                    "Subs look fine, but the timing is horrible.",
+                    "IIRC Toki is a single guy (minus some QCers), so hats off for that alone.  Only one to finish OverDrive and did a damn good job as well.",
+                    "nice job done with over drive...",
+                    "It´s the one with the best quality both on video as well in translation.",
+                    "Fucking atrocious English.",
+                    "easy to read font, good sub timing"
+                ],
+                "Bad Comments": [
+                    "They've actually been putting them out.",
+                    "Another They did not type characthers name wrongly as Shinozaki to Shinozak at Episode 17",
+                    "Really great quality, especially so if it's only one person subbing (as another comment here suggests).",
+                    "several typos here and there, but ok overall",
+                    "Completed",
+                    "A few minutes into the the first ep, there are typos, there are parts of phrases not translated, there are mistranslations...avoid...",
+                    "Several mistranslations. The subs are okay nevertheless, but there ARE several mistranslations. In every episode. People saying there are no mistakes, just don't know japanese.",
+                    "good",
+                    "A minor typo here and there is nothing to get all bitchy about.",
+                    "Didn't like the timing at all, the english was sometimes bad as well. Meh."
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very nice video and audio quality.  Plus, the subtitles are very easy on the eyes."
+                ],
+                "Bad Comments": [
+                    "Keeping on Delay the show we waited for about a months where other group has already sub finish while they are dragging again.."
+                ]
+            }
+        }
+    ]
+}

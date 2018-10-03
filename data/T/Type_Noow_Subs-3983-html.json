@@ -1,0 +1,116 @@
+{
+    "Group": {
+        "Group Name": "Type Noow Subs",
+        "Short Name": "TN",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "47",
+            "Users Disapprove": "21",
+            "Total": "68"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pq sim"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works - Prologue",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "7 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pq sim"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pq sim cara"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sugoi desu"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Zero",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nem vi mas parece sussa"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Zero 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "saporra so faz fate"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hi☆sCoool! SeHa Girls",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fdp n termina mano aff"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rokka no Yuusha",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nem sabia q tinha mas ok"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yamada-kun to 7-nin no Majo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Legenda do episódio 1 fora de sincronia depois da abertura -_-"
+                ],
+                "Bad Comments": [
+                    "aff mano"
+                ]
+            }
+        }
+    ]
+}

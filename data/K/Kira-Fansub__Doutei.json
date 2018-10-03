@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kira-Fansub & Doutei",
+        "Short Name": "Kira-Doutei",
+        "IRC": "#kira-fansub@irc.rizon.net | #Doutei@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kagaku na Yatsura",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good typesetting, good use of unlocalized liberal subs  -- honorifics, \"Onee-chan,\" etc. used, but the English phrasing is natural and entertaining."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

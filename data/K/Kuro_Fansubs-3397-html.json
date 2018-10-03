@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Kuro Fansubs",
+        "Short Name": "Kuro",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "4",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "11 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple, efficient, did the job release.",
+                    "Some grammar errors but overall a fine sub."
+                ],
+                "Bad Comments": [
+                    "the only english sub",
+                    "A lot of repeated words, grammar errors or plain mistranslations. Some were so bad they changed the original mood of the scene or make some scenes incomprehensible. A lot could've been prevented with a proof reader (or \"watcher\")."
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch Special Edition Black Rebellion",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "15 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing",
+                    "Simple, efficient, did the job release."
+                ],
+                "Bad Comments": [
+                    "Made-up translations, shitty encode, bad audio synch. The whole package, folks.",
+                    "the only i know sub this"
+                ]
+            }
+        },
+        {
+            "Show Name": "H2O: Footprints in the Sand",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "15 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shining Hearts: Shiawase no Pan Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "Group": {
+        "Group Name": "Fujiwara no Fansub",
+        "Short Name": "FWnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "11",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "8 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Son los mejores subs del mercado de DN :D",
+                    "La versión muy bien, pero en serio, ¿quien usa hardsubs hoy en día...?"
+                ],
+                "Bad Comments": [
+                    "gran trabajo!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tienen hecha toda la serie, subs precisos y con calidad Blu-ray. Además que dan la posiblidad de alternar entre los dos OST con algunos de los últimos arcos."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best Spanish subs BY FAR."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "300mb por cap y ni siquiera la calidad es gran cosa, además son muy lentos. Mejor la versión de Tsugaru"
+                ],
+                "Bad Comments": [
+                    "*o*"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gantz 2nd Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La llevan al día, bien."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juushin Enbu: Hero Tales",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Genial traducción, grandes!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mouryou no Hako",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "this group stoped fansub"
+                ],
+                "Bad Comments": [
+                    "Rápidos y eficaces, molan *o*"
+                ]
+            }
+        },
+        {
+            "Show Name": "Romeo x Juliet",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor versión."
+                ],
+                "Bad Comments": [
+                    "no"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden: Meitantei Kunkun - Duell Walzer",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los únicos que están bien."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rozen Maiden: Ouvertüre",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Duel Monsters",
+            "Show Type": "TV - 224 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}
