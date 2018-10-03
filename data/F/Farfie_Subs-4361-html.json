@@ -1,0 +1,122 @@
+{
+    "Group": {
+        "Group Name": "Farfie Subs",
+        "Short Name": "Farfie",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "18",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+            "Show Type": "ONA - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Girls & Panzer",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 5 users approve"
+        },
+        {
+            "Show Name": "Hagure Yuusha no Aesthetica",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 5 users approve"
+        },
+        {
+            "Show Name": "Joshiraku",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Made no attempts to fix gg's shitty timing or terrible font choice.",
+                    "Can't even shift the subs properly",
+                    "another release with terrible gg subs, fuck off",
+                    "1080p",
+                    "it's gg don't be fooled"
+                ],
+                "Bad Comments": [
+                    "There's no translations, just completely new jokes they made up that have nothing to do with the original pun. Which, when those puns make up 90% of the show, you have to wonder why Farfie even bothered. Practicing your standup, guys?",
+                    "gg",
+                    "Fonts match, signs are translated, if there's a delay in the speech, the subs are delayed to match it.",
+                    "Great work from Farfie."
+                ]
+            },
+            "User Approval": "4 of 10 users approve, 9 comments"
+        },
+        {
+            "Show Name": "Minami-ke Tadaima",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 10 users approve, 9 comments"
+        },
+        {
+            "Show Name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Rakuen Tsuihou",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Uses \"rouge\" instead of \"rogue\" consistently",
+                    "Script has many tl errors and spelling errors.  It is somewhat watchable but they did not do a good job.",
+                    "Prefer fishsubs over them"
+                ],
+                "Bad Comments": [
+                    "Get FishierSub",
+                    "bad"
+                ]
+            },
+            "User Approval": "6 of 16 users approve, 5 comments"
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 16 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Vividred Operation",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 16 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Zetsuen no Tempest",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

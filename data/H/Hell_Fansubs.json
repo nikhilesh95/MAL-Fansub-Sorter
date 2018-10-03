@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Hell Fansubs",
+        "Short Name": "Hell",
+        "IRC": "#hell-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "8",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hanasakeru Seishounen",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "19 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have done a GREAT job on the translation.",
+                    "I did like it, but then they dropped the show :S",
+                    "I know I shouldn't be hard on them since they're a new fansub group, but since I've seen at least two of their release and didn't like it because of tl errors and spellings...I was disappointed. But hopefully, they'll get over this. ^_^",
+                    "Dropped -_- stupid!",
+                    "They are over almost 3 weeks of the release date and still no subs."
+                ],
+                "Bad Comments": [
+                    "ok for a speedsub group, but if you want quality get m33w's.",
+                    "they're the first to release and no complains with translation.",
+                    "crapsubs",
+                    "Nice font and mostly correct translations with explainations for newbies of the japanese language"
+                ]
+            }
+        },
+        {
+            "Show Name": "Love♥Love?",
+            "Show Type": "TV - 9 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "its ok"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love♥Love? Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

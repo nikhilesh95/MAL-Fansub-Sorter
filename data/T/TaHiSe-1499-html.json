@@ -1,0 +1,152 @@
+{
+    "Group": {
+        "Group Name": "TaHiSe",
+        "Short Name": "TaHiSe",
+        "IRC": "#anime.tahise@irc.worldnet.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "44",
+            "Users Disapprove": "0",
+            "Total": "44"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bokurano",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The quality is pretty good, with DVD version !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Capeta",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hajime no Ippo: New Challenger",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Très haute qualité ET très rapide."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Traduction excellente, bonne qualité générale, les sorties sont peut être un peu lentes mais la qualité suit.",
+                    "impeccable !"
+                ],
+                "Bad Comments": [
+                    "Très bonne qualité de la traduction et intégration vidéo absolument superbe. (Traduction des écrans)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Major S1",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Major S2",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 Second Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nana",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "NHK ni Youkoso!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "No.6",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Les édits sont superbes (ep. 4) - et même s'il n'y en avait pas le reste est d'excellente qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "RD Sennou Chousashitsu",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Red Garden",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

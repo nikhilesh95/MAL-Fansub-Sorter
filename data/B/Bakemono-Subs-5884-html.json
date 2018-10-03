@@ -1,0 +1,124 @@
+{
+    "Group": {
+        "Group Name": "Bakemono-Subs",
+        "Short Name": "bakemono-subs",
+        "IRC": "#bakemono-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "48",
+            "Users Disapprove": "19",
+            "Total": "67"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "91 Days",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Uses shitty encode http://screenshotcomparison.com/comparison/179501 Not as good as [Koby]",
+                    "Good subs for fresh group.... Doing good.... Keep it up guys...",
+                    "Best Karaoke\nAnd pick of fonts"
+                ],
+                "Bad Comments": [
+                    "garbage encode",
+                    "great subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "91 Days Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Drifters",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "terrible video quality"
+                ],
+                "Bad Comments": [
+                    "ESL group."
+                ]
+            }
+        },
+        {
+            "Show Name": "Handa-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "If you want a subtitles with a creative touch on OP and ED,  choose this!"
+                ],
+                "Bad Comments": [
+                    "Only Release with Good TS...."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari I: Tekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nanatsu no Taizai: Seisen no Shirushi",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "25 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation overall, nice typesetting. Could do better in timing (bleeds and such) but overall their subs are good.",
+                    "Good.",
+                    "ESL subs."
+                ],
+                "Bad Comments": [
+                    "Only group who cared enough to do actual fansubbing instead of rehashing simulcasts. Subs are good.",
+                    "The only decent English subs available.",
+                    "Terrible subs that are not only bad and hard to look at but take forever (ie. 2+weeks)."
+                ]
+            }
+        },
+        {
+            "Show Name": "Netsuzou TRap",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Non Non Biyori Repeat: Hotaru ga Tanoshinda",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "http://www.crymore.net/2016/10/21/fansub-review-bakemono-trickster-episode-02/\n\nESL",
+                    "ESL group."
+                ],
+                "Bad Comments": [
+                    "Trash tier subs, worse than HS."
+                ]
+            }
+        }
+    ]
+}

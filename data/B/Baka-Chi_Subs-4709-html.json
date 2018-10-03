@@ -1,0 +1,61 @@
+{
+    "Group": {
+        "Group Name": "Baka-Chi Subs",
+        "Short Name": "Baka-Chi",
+        "IRC": "#bakachisubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "2",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai! Ren",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's a difficult anime to sub, and most jokes are either incomprehensible or handled too literally. Overall translation is also lacking. UTW is much better.",
+                    "Calls Riika's eye the \"Tyrant's eye (good), also calls Nibutani MoriSummer and not \"Forest Summer (also good).  It carries the humor better than other subs overall."
+                ],
+                "Bad Comments": [
+                    "Nice fonts, karaoke, good translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Glorious ten eighty peas"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Non Non Biyori",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "24 of 26 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent subs. Need to watch their typos, though.",
+                    "Bluray and nice subs",
+                    "Excellent quality of video. Clean looking subs. AND they do Karaoke which not many groups do these days :)",
+                    "tis good",
+                    "Tis good"
+                ],
+                "Bad Comments": [
+                    "Just... Nice.",
+                    "great subs. karaoke. bam.",
+                    "ｷﾀ━━━(ﾟ∀ﾟ)━━━!!",
+                    "coz",
+                    ":) it's really accurate and are genuinely the best guys"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "animeisdead",
+        "Short Name": "animeisdead",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "13",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shisha no Teikoku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 16 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Several mistakes present in the subs. Still mostly understandable, but the dialogue is much more confusing than it should be.",
+                    "I dislike meme crap and stuff. 'Merica and such is not acceptable in proper translations.",
+                    "all the personal opinions and memes in the translation note"
+                ],
+                "Bad Comments": [
+                    "Pure ESL fanfic cancer. Memed up to the point of turning into liberal shit that even Commie wouldn't produce.",
+                    "Super rushed translations especially towards the end. Read as smooth as Google Translate.",
+                    "He is very Sarcastic in the Translator Note and sometimes he would say Hayaku then write TN: it means hurry up"
+                ]
+            }
+        }
+    ]
+}

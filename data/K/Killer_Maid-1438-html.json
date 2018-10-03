@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Killer Maid",
+        "Short Name": "KM",
+        "IRC": "#Killer-Maid@IRCHighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "37",
+            "Users Disapprove": "1",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arai Men to YuYu The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "15 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best group for this."
+                ],
+                "Bad Comments": [
+                    "Well translated, no problem whatsoever"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ryuusei Tenshi Primaveil",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoujo Sect",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "19 of 20 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good job",
+                    "Clear and easy to read subtitles!"
+                ],
+                "Bad Comments": [
+                    "awsome subs!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yunyun☆Paradise",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "19 of 20 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

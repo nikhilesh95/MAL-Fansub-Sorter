@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Lililicious & Otenba",
+        "Short Name": "Lililicious-Otenba",
+        "IRC": "#lililicious@irc.rizon.net & #otenba@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "0",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maria-sama ga Miteru 3rd",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "24 of 24 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because Lililicious is awesome.",
+                    "Well chosen translation style, always provides detailed information to culture specific references."
+                ],
+                "Bad Comments": [
+                    "Really clear accurate.  Gives good side-notes for background info was well."
+                ]
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 3rd Specials",
+            "Show Type": "Special - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

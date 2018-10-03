@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Tasty-subs",
+        "Short Name": "Tasty",
+        "IRC": "#tasty-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better thank SubDesu, not blurry and corrected TL."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiss x Sis",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "decent enough job"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

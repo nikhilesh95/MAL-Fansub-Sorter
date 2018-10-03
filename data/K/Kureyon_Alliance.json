@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Kureyon Alliance",
+        "Short Name": "Kureyon-A",
+        "IRC": "#kureyonalliance@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "3",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Crayon Shin-chan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "3 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ded"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

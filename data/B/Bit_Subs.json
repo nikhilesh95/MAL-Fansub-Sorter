@@ -1,0 +1,84 @@
+{
+    "Group": {
+        "Group Name": "Bit Subs",
+        "Short Name": "Bit",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "35",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anne Happy♪",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Why did they even do this?",
+                    "Worse than Hadena. Literally HS with [bad] karaoke, terrible font, and worse typesetting. Did I mention the encode is far worse than HS too? What are fansubs even for?"
+                ],
+                "Bad Comments": [
+                    "Literally HorribleSubs with karaoke"
+                ]
+            }
+        },
+        {
+            "Show Name": "Bakuon!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Copied HS script, no thanks."
+                ],
+                "Bad Comments": [
+                    "Rehashed CR/HS script, with many of the same errors. Terrible OP/ED subtitles. Slower release sched than HS."
+                ]
+            }
+        },
+        {
+            "Show Name": "Bakuon!! OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Handa-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best thing about this release is that they know when to drop."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari I: Tekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The person who translated it doesn't even know Japanese, so I'm sure you can imagine what the subs are like."
+                ],
+                "Bad Comments": [
+                    "Meme subs with awful translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuma Miko",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

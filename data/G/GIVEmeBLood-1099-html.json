@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "GIVEmeBLood",
+        "Short Name": "GIVEMEBLOOD",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1 of best for this show i think"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

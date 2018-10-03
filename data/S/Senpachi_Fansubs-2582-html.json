@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Senpachi Fansubs",
+        "Short Name": "SFS",
+        "IRC": "#Senpachi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Denpa-teki na Kanojo",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "8 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"^_^\"s and \"",
+                    "url 404"
+                ],
+                "Bad Comments": [
+                    "good"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "mulrich Encoding",
+        "Short Name": "mE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Elfen Lied",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fumiko no Kokuhaku",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Yup, the five-six lines this insanely long anime had were all perfect.",
+                    "lol"
+                ],
+                "Bad Comments": [
+                    "Nothing to complain about."
+                ]
+            },
+            "User Approval": "4 of 4 users approve, 3 comments"
+        }
+    ]
+}

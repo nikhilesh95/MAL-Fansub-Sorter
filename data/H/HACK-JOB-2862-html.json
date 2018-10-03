@@ -1,0 +1,117 @@
+{
+    "Group": {
+        "Group Name": "HACK-JOB",
+        "Short Name": "HACK-JOB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "0",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cat Shit One",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Hatsudou-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fantastic quality, definitely worth it.",
+                    "High Quality+used Shin-Getter's subs"
+                ],
+                "Bad Comments": [
+                    "1080p"
+                ]
+            }
+        },
+        {
+            "Show Name": "Densetsu Kyojin Ideon: Sesshoku-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "First Squad: The Moment of Truth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best 1080p release. just awesome.  dual audio + commentary!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ibara no Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1080p Blu Ray, High Quality, Improved Rabbit-Force subtitles",
+                    "1080p dual audio with Rabbit-Force subs. Flawless."
+                ],
+                "Bad Comments": [
+                    "1080p dual audio"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sennen Joyuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DB with great subs",
+                    "The best around. Niizk subs in glorious 1080p"
+                ],
+                "Bad Comments": [
+                    "1080p dual audio with niizk subs. The best."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Heta Subs",
+        "Short Name": "Heta",
+        "IRC": "#Heta@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "1",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gag Manga Biyori: Jump Festa 2002 Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only option."
+                ],
+                "Bad Comments": [
+                    "Fantastic stuff."
+                ]
+            }
+        },
+        {
+            "Show Name": "Masuda Kousuke Gekijou Gag Manga Biyori +",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only one subbing it, and doing a good job at that. That is, had they cared to actually do it in the first place."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Masuda Kousuke Gekijou Gag Manga Biyori 3",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They subbed it! And they subbed it well!",
+                    "Only team that picked up this amazing series. They have pretty decent subs."
+                ],
+                "Bad Comments": [
+                    "A cursive font is used instead of a simple sans font, which makes it pretty unreadable. That said, this is the only group that has made the effort to create English subs, so the effort must be appreciated nevertheless"
+                ]
+            }
+        }
+    ]
+}

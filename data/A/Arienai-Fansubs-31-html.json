@@ -1,0 +1,164 @@
+{
+    "Group": {
+        "Group Name": "Arienai-Fansubs",
+        "Short Name": "Arienai",
+        "IRC": "#arienai@irc.ChatSpike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "96",
+            "Users Disapprove": "5",
+            "Total": "101"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Futari wa Precure",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great translations, good localization, readable subs.",
+                    "very good",
+                    "[YA]'s release of this with Arienai's subs is the best for this series."
+                ],
+                "Bad Comments": [
+                    "Thsnks for the good work.",
+                    "I wasn't a fan of the 4 minute promotion/credits shit they put on the end of the last episode, but the subs were good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure: Max Heart",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "11 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job.",
+                    "Literally the only option."
+                ],
+                "Bad Comments": [
+                    "=D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure: Max Heart Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs and decent quality, although only 400p instead of 480p. At least one TL error, confusing \"tooshite\" (let me pass) for \"doushite\" (Why?)."
+                ],
+                "Bad Comments": [
+                    "great subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginban Kaleidoscope",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They explained the figures well so I could enjoy the series however I am not adept in figure-skating."
+                ],
+                "Bad Comments": [
+                    "TL notes, honorifics, accurate translation. This is all I need. Thanks [2017]"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hataraki Man",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "27 of 27 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wonderful quality in 360p mp4 100 MB files. Why can't all SD releases be like this?",
+                    "Amazing quality and karaoke. Translations are also accurate. ^_^"
+                ],
+                "Bad Comments": [
+                    "Flawless.",
+                    "It was very well done."
+                ]
+            }
+        },
+        {
+            "Show Name": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hardsubs on the (great) eyecatches."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sugar Sugar Rune",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 6 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wonderful job, shame they shut down and dropped it though.",
+                    "Dropped.",
+                    "Great until they dropped it....."
+                ],
+                "Bad Comments": [
+                    "great quality, great subs",
+                    "they subbed it in high quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tide-Line Blue",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tide-Line Blue: Kyoudai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very accurate translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks a lot."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yume Tsukai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "For this series direct translation of some concepts was impossible. They did their best to approximate."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

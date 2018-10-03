@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Woofnick Fansubs",
+        "Short Name": "W-F",
+        "IRC": "#Woofnick@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wolf's Rain",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Inconsistent. Sometimes just wrong. Inferior to ANBU-Keep & Live-evil."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Hopes and Dreams",
+        "Short Name": "H&D",
+        "IRC": "#[H&D]@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "7",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Jewelpet Sunshine",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senki Zesshou Symphogear GX",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "+",
+                    "Good typesetting, paying extremely close attention to release material to try and keep all the non-japanese phrases correct.",
+                    "ESL subs",
+                    "Commie =  faster & liberal but still accurate (no memes; ignore the blind hate). H&D = literal. Pick your poison. Commie played with a short dialogue exchange in ep 1 a bit (wasn't far of the mark though), but aside from that they've been serious about it",
+                    "Best subs available"
+                ],
+                "Bad Comments": [
+                    "Best subs available for this show.",
+                    "Not Commie",
+                    "Great translations without some of the mistakes Commie made in the first seasons and keep now. (See Heavenrend)",
+                    "They actually translate instead of peppering in memes and sexual innuendos and calling it a day",
+                    "More accurate."
+                ]
+            },
+            "User Approval": "21 of 28 users approve, 10 comments"
+        },
+        {
+            "Show Name": "Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear",
+            "Show Type": "Special - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        }
+    ]
+}

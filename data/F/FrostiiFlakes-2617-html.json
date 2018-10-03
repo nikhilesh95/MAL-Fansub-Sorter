@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "FrostiiFlakes",
+        "Short Name": "FrostiiFlakes",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Miyamoto Musashi: Souken ni Haseru Yume",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible",
+                    "Typos and untranslated text on screen.",
+                    "many typos and bad typesetting"
+                ],
+                "Bad Comments": [
+                    "This isn't the official Frostii release, script full of errors such as \"captivated\" instead of \"captured\", \"nengligble\" and \"ransome\". Typesetting is soft-subbed and frequently cut-off or missing.",
+                    "frostii stinx"
+                ]
+            }
+        }
+    ]
+}

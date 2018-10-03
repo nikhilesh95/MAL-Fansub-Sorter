@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Jouishishi",
+        "Short Name": "Jouishishi",
+        "IRC": "#jouishishi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "good quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinrei Tantei Yakumo",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

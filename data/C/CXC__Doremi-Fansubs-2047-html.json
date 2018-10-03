@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "CXC & Doremi-Fansubs",
+        "Short Name": "CXC-Doremi",
+        "IRC": "#cxc@irc.irchighway.net #doremi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "10",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "RESOLUTION is better than gg but video quality is honestly questionable if not worse. Besides video, some of their lines just don't make sense.",
+                    "Video is better than in gg, but translation is very bad, and many jokes are much more funny in gg release.",
+                    "Just no."
+                ],
+                "Bad Comments": [
+                    "gg is shit, why use it as standard to compare",
+                    "dropped, don't bother",
+                    "Better video quality compared to gg, but sub-par translation."
+                ]
+            }
+        }
+    ]
+}

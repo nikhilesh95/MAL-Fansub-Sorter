@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "SHiN-gx Fansubs & Mamiko",
+        "Short Name": "Mamiko_SHiN",
+        "IRC": "#shin-gx@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaibutsu Oujo (OVA)",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic: I'm Home!",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

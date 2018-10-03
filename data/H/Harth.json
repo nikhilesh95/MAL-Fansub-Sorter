@@ -1,0 +1,73 @@
+{
+    "Group": {
+        "Group Name": "Harth",
+        "Short Name": "Harth",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "44",
+            "Users Disapprove": "2",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amagami SS",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroman Specials",
+            "Show Type": "Special - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Ibara no Ou",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Filled with so many grammatical mistakes and nonsensical sentences, it ruins the experience of the movie.",
+                    "Has a range of quality releases"
+                ],
+                "Bad Comments": [
+                    "Very well done!"
+                ]
+            },
+            "User Approval": "10 of 11 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve"
+        },
+        {
+            "Show Name": "Loups=Garous Picture Drama",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin Specials",
+            "Show Type": "Special - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "18 of 19 users approve"
+        }
+    ]
+}

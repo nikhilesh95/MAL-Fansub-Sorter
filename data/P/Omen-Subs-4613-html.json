@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Omen-Subs",
+        "Short Name": "Omen",
+        "IRC": "#Omen@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Attacker You!",
+            "Show Type": "TV - 58 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fairy Tail x Rave",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haitai Nanafa 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "only subbes few eps"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 5 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Peeping Life: World History",
+            "Show Type": "ONA - 40 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 5 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Peeping Life: YouTuber-kun",
+            "Show Type": "ONA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Senran Kagura Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Only ep6 i cannot find in out fansub"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        }
+    ]
+}

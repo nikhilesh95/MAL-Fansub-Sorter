@@ -1,0 +1,178 @@
+{
+    "Group": {
+        "Group Name": "Spectre Anime",
+        "Short Name": "SpA",
+        "IRC": "#spectre-anime@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "10",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Azumanga Daioh",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Moon wo Sagashite",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gallery Fake",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gensoumaden Saiyuuki",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gensoumaden Saiyuuki OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heppoko Jikken Animation Excel♥Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kai Doh Maru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mujin Wakusei Survive",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pita Ten",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad translations, bad editing, just...bad all around.",
+                    "doesnt look well."
+                ],
+                "Bad Comments": [
+                    "unintelligible gibberish",
+                    "Terrible. Likes to make stuff up, plenty of ???'s and ^_^ emoticons in the subs. Clearly has no idea what they're doing with Japanese."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There was no obvious mistakes, quite decent job"
+                ],
+                "Bad Comments": [
+                    "Very good subs and video quality is ok."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Meikai-hen",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saiyuuki Reload",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The SoulTaker: Tamashii-gari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zone of the Enders: 2167 Idolo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

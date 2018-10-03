@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "Anime Passion Fansub",
+        "Short Name": "APF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "16",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Hana",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good work!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "InuYasha: Kanketsu-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanamemo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nyan Koi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Princess Lover!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Too funny!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seiken no Blacksmith",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora no Manimani",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very nice",
+                    "Troppi errori :\\"
+                ],
+                "Bad Comments": [
+                    "Bellissimo"
+                ]
+            }
+        }
+    ]
+}

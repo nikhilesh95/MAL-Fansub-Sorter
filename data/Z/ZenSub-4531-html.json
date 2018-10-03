@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "ZenSub",
+        "Short Name": "ZenSub",
+        "IRC": "#NeverExist@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "3",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gokukoku no Brynhildr: Kara Sawagi",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inu to Hasami wa Tsukaiyou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "the fact that its NOT self descriptive....er i mean horrible subs is enough reason to like it",
+                    "Better typesetting than HS, but not worth waiting for. Still nice, though."
+                ],
+                "Bad Comments": [
+                    "Lyrics for OP-ED, nice typesetting, & chaptered. There're colour issues for ep.1-3, the contrast & brightness too high, IMO. But it becomes better in ep.4."
+                ]
+            },
+            "User Approval": "7 of 8 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Mangaka-san to Assistant-san to The Animation Specials",
+            "Show Type": "Special - 6 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "it's ok",
+                    "good subs",
+                    "only seemed to have released 1,2 and 3"
+                ],
+                "Bad Comments": [
+                    "As its only one atm who is subbing it its pretty decent job as there is no one to campare with. Keep up the good work",
+                    "accurate subbing"
+                ]
+            },
+            "User Approval": "21 of 21 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Seitokai Yakuindomo* OVA",
+            "Show Type": "OVA - 9 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Subs too literal for dialogue that uses so much wordplay."
+                ],
+                "Bad Comments": [
+                    "Decent translation with good typesetting, this is as good as it gets for this series."
+                ]
+            },
+            "User Approval": "7 of 9 users approve, 2 comments"
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness OVA",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 9 users approve, 2 comments"
+        }
+    ]
+}

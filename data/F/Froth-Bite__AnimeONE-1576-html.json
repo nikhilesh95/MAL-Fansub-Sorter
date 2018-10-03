@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Froth-Bite & AnimeONE",
+        "Short Name": "F-B&AonE",
+        "IRC": "#animeone@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "1",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nodame Cantabile: Paris-hen",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "19 of 20 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great type, encode, timer and style. And the logo is awesome."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

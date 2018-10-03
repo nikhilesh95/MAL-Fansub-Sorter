@@ -1,0 +1,80 @@
+{
+    "Group": {
+        "Group Name": "Tatertotz",
+        "Short Name": "T-T",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "5",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code-E",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Doubutsu no Mori",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, thank you :)",
+                    "Low quality encoding and 400p , go with Soldado for better Encoding.",
+                    "good timing, translations pretty accurate, no line left untranslated"
+                ],
+                "Bad Comments": [
+                    "the only group",
+                    "decent work, no outstanding grammatical errors. the only sub i actually saw anyways."
+                ]
+            }
+        },
+        {
+            "Show Name": "Koi Koi 7",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "failed subs are failed."
+                ],
+                "Bad Comments": [
+                    "...they get a passing grade from me. It could be improved quite a bit though, by removing \"~desu\" and \"~aru\"-suffixes from the subtitles and adding in Japanese text in the karaoke songs, plus some general quality controlling regarding grammar and style."
+                ]
+            }
+        },
+        {
+            "Show Name": "Koi Koi 7 Specials",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To Heart 2 OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "_Summer",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

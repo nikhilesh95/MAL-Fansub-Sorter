@@ -1,0 +1,131 @@
+{
+    "Group": {
+        "Group Name": "Mudabone Subs",
+        "Short Name": "Mudabone",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "53",
+            "Users Disapprove": "4",
+            "Total": "57"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arakawa Under the Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "13 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ridiculous font size"
+                ],
+                "Bad Comments": [
+                    "good BD encode, with revised FORMULA (my choice) or NUTBLADDER subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Arakawa Under the Bridge x Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only BD version out there as of date, but the choice of subs is not the best for everyone (Nutbladder which is heavily localized)."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chu-Bra!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Several mistranslations all over the place. Translated \"It's not like we were following you\" to \"It's not like we are goign to wear those!\". Pathetic.",
+                    "[quote]Several mistranslations all over the place.[/quote]>>They didn't t/l but use other group's script, timing>mux with BD.  Please read more at their site. Meh. you are really PATHETIC for complaining free stuff."
+                ],
+                "Bad Comments": [
+                    "BD version with Doki's subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanasaku Iroha",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x ☆☆☆",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Essentially Nutbladder, but with improvements (Blu-Ray, OP/ED lyrics taken from Tortoise).\nVery good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x ☆☆☆ Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Uses Nutbladder's bad translations."
+                ],
+                "Bad Comments": [
+                    "Bad ? They're Spoon Subs, that did previous seasons..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x Honeycomb",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "best encode"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichiban Ushiro no Daimaou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome quaily!",
+                    "Ryuumaru's subs and awesome blu-ray quality."
+                ],
+                "Bad Comments": [
+                    "Great quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kämpfer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bly-ray with subs from Nuke."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

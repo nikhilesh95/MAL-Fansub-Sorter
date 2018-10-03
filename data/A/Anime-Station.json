@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "Anime-Station",
+        "Short Name": "A-S",
+        "IRC": "#anime-station@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koi Kaze",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They still have it after while",
+                    "accurate, advanced karaoke, good timing, and better typeface than anime.fin's release"
+                ],
+                "Bad Comments": [
+                    "Neat Presentation and no spelling errors."
+                ]
+            }
+        },
+        {
+            "Show Name": "R.O.D the TV",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Champloo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenjou Tenge",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

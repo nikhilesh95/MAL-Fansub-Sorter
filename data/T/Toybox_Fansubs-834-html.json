@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Toybox Fansubs",
+        "Short Name": "ToyBox",
+        "IRC": "#toybox @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "0",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mamoru-kun ni Megami no Shukufuku wo!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "21 of 21 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice Subs.",
+                    "Sub's were done very well, Best of the ones available for mamoru kun"
+                ],
+                "Bad Comments": [
+                    "So many useful translation notes."
+                ]
+            }
+        },
+        {
+            "Show Name": "NHK ni Youkoso!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "21 of 21 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

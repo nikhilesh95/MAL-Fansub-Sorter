@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "Philanthropy / Otacon Fansubs",
+        "Short Name": "Philanthropy / Otacon",
+        "IRC": "#Philanthropy@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "33",
+            "Users Disapprove": "58",
+            "Total": "91"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bokusatsu Tenshi Dokuro-chan 2",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "22 of 26 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "null",
+                    "The fonts are nice, just that it need to be just a LITTLE(and i meant just a little) lower. Explanation are good.",
+                    "Weird censorship, and the sound if not in sync at times.",
+                    "Overall they did fair subs. One thing that needs more attention is appearing of words and timing, but jokes was made very well thou.",
+                    "When they mess up translating the freaking OP, you know you're in for some mediocrity"
+                ],
+                "Bad Comments": [
+                    "good karaoke, good timing.. to bad about bad TV encode in EP3 4",
+                    "good subs",
+                    "Unedited",
+                    "Good quality subs ",
+                    "They know what they're doing, plus they used the uncensored RAWs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "amateur(s)"
+                ],
+                "Bad Comments": [
+                    "Some sentences simply didn't make sense. Conflicting tenses and grammar. \n\n\"I haven't have such times when my heartbeat rises\"\n\n\"I thought it's fun\""
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "0 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku!",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad editing, bad encoding. Playback problems.",
+                    "horrible translation?"
+                ],
+                "Bad Comments": [
+                    "its awe-some",
+                    "low quality subs and errors"
+                ]
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 36 users approve, 20 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Their Video Quality is absolutely horrible, just see their subs of episode 5. It's so dark, you can't see ANYTHING. I stopped watching it and downloaded another. Their translations seem rather off, as well, but it's nothing too big. However, their video q",
+                    "Their grammar is fine and the font they use is nice although they aren't that fast they're quite good..",
+                    "horrendous quality, especially when compared to the other groups subbing this",
+                    "Iffy translations, lots of typos, grammar can be funky. Worst group doing Kai",
+                    "Video quality is subpar at best.",
+                    "Lots of spelling and grammatical errors.",
+                    "Comparing to other sub jobs, this one is very raw, I can say lacking in translation skills, and mostly sentences built very strange.",
+                    "Video quality seemed washed over.  Subs not always easy to read; translation feels off.",
+                    "Many translation and literacy mistakes.",
+                    "The font used is pretty ugly"
+                ],
+                "Bad Comments": [
+                    "Spelling and grammar mistakes abound! ):",
+                    "Great subs for a group that releases their anime fast, if you're using the right video player. Great translations, compared to Hauu~.",
+                    "terrible grammar and uses \"_\" instead of real punctuation marks",
+                    "The first thing I noticed was the overlapping/cut off text in the opening. The spacing they use for the karaoke romaji (the kanji and kana being non existent) is based on syllables, not on words. The timing is off, and lines are left untranslated.",
+                    "quick, but good subbing",
+                    "It has a pretty font. Also, the translation is decent and nice.",
+                    "sucks",
+                    "The quality of the image is really bad",
+                    "Spelling and grammar mistakes galore as well as poor sub placement",
+                    "Subs contained bad grammar and sentence syntax."
+                ]
+            }
+        },
+        {
+            "Show Name": "Seto no Hanayome",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 12 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent job. Many spelling errors and grammatical errors. Decent video quality. Only watch if there aren't any other groups releasing.",
+                    "Multiple grammar mistakes, some to the point where I am unable to understand at all",
+                    "faster",
+                    "Full of spelling errors."
+                ],
+                "Bad Comments": [
+                    "They really need to get a proof reader with some English language skills.  Sometimes the meaning is lost, or the sentence structure is confusing.  They also have been picking series that are hard to sub, they need start with something easy.",
+                    "Well, theyr subs have alot of bugs and typos.But at least they do work.Its not like afk which went MIA",
+                    "Bad english",
+                    "subs were too literal and lost the meaning of the original as a result. also there were errors concerning the tense, gender and the object of the sentences. they also failed to translate the lyrics from the singing contest in episode 8"
+                ]
+            }
+        }
+    ]
+}

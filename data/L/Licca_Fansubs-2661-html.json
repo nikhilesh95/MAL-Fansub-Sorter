@@ -1,0 +1,185 @@
+{
+    "Group": {
+        "Group Name": "Licca Fansubs",
+        "Short Name": "Licca",
+        "IRC": "#licca-fansubs@irc.chatspike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "142",
+            "Users Disapprove": "2",
+            "Total": "144"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai Shoujo Pollyanna Story",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "18 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thank you",
+                    "great",
+                    "splendid work"
+                ],
+                "Bad Comments": [
+                    "Very glad Licca subbed this series.",
+                    "Very good quality, consistent subbing throughout."
+                ]
+            }
+        },
+        {
+            "Show Name": "Alps Monogatari: Watashi no Annette",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "11 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Licca fansub is AWESOME."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Glass no Usagi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "weeaboo"
+                ],
+                "Bad Comments": [
+                    "Legal."
+                ]
+            }
+        },
+        {
+            "Show Name": "Happy Birthday: Inochi Kagayaku Toki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "14 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "thx Licca"
+                ],
+                "Bad Comments": [
+                    "Subbing the stuff no one else would think of touching."
+                ]
+            }
+        },
+        {
+            "Show Name": "Happy Kappy",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "9 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Happy Kappy Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Licca-chan Fushigi na Mahou no Ring",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Licca-chan no Nichiyoubi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Minami no Niji no Lucy",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Perrine Monogatari",
+            "Show Type": "TV - 53 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Porphy no Nagai Tabi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "16 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only group willing to sub Porfy in its entirety. Great subs, great quality, and fast releases!"
+                ],
+                "Bad Comments": [
+                    "great"
+                ]
+            }
+        },
+        {
+            "Show Name": "Princess Sara",
+            "Show Type": "TV - 46 episodes",
+            "User Approval": "28 of 28 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "THey did a pretty good job",
+                    "good subs :)"
+                ],
+                "Bad Comments": [
+                    "GREAT"
+                ]
+            }
+        },
+        {
+            "Show Name": "Super Doll Licca-chan",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "10 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Being the only group to \"translate\" doesn't excuse it for having a bad translation.",
+                    "For the guy criticizing any little thing he can find, you might consider that Licca was the only group to step up and do this. Be appreciative, the translation is fine."
+                ],
+                "Bad Comments": [
+                    "Several careless mistakes in translation (how could they mistake Saint Teresa for \"Saint Terejia\"?). There's a strange amount of swearing for a kids show, showing a poor conception of tone; Japanese invective leaves a lot of choice to the translator and t"
+                ]
+            }
+        },
+        {
+            "Show Name": "Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wakakusa Monogatari: Nan to Jo-sensei",
+            "Show Type": "TV - 40 episodes",
+            "User Approval": "14 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great"
+                ],
+                "Bad Comments": [
+                    "excellent quality and translation"
+                ]
+            }
+        }
+    ]
+}

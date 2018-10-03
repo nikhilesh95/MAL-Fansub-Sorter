@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Kurai-Ken",
+        "Short Name": "",
+        "IRC": "#Kurai-Ken@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Juuni Kokuki",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witch Hunter Robin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

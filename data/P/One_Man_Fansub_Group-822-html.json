@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "One Man Fansub Group",
+        "Short Name": "OMFG",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Initial D Battle Stage",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "well there accurate good txt size good timing .. there just great"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wangan Midnight",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "well there accurate with good timing and a reasonable txt size"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

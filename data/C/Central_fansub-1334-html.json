@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "Central fansub",
+        "Short Name": "CNT",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Casshern Sins",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Genial su versión de casshern."
+                ],
+                "Bad Comments": [
+                    "Entre que la serie es buena y el fansub genial, esto queda de maravilla."
+                ]
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No se puede sacar una serie de 130+ capítulos sacando un capítulo por año."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Majin Tantei Nougami Neuro",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La mejor versión de Neuro en español con muchísima diferencia."
+                ],
+                "Bad Comments": [
+                    "Una muy buena serie de detectives fansubeada por un peque�o fansub pero que le da una calidad excelente, ya dicen que en el frasco peque�o se encuentra la mejor confitura."
+                ]
+            }
+        }
+    ]
+}

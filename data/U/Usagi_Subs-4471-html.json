@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Usagi Subs",
+        "Short Name": "Usagi Subs",
+        "IRC": "#usagisubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "3",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Brothers Conflict",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "Good subs and translation",
+                    "Because they really care about quality subs."
+                ],
+                "Bad Comments": [
+                    "Great subs.",
+                    "Dropped because \"horriblesubs are subbing it\" they must really hate us.",
+                    "Great subs to go with for this anime."
+                ]
+            }
+        },
+        {
+            "Show Name": "Recorder to Randoseru Mi☆",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

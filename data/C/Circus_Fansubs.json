@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Circus Fansubs",
+        "Short Name": "Circus",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "14",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Karneval",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "not even an alternative",
+                    "the both of anime-koi and Circus have mistakes",
+                    "Okay after watching both releases. Seemed Circus used the manga tl but they missed the point that the anime differs a bit which caused errors"
+                ],
+                "Bad Comments": [
+                    "As the above mentioned. Bad timing, bad effects, bad video quality.",
+                    "Bad bad bad... you can't expect a manga group to be doing anime all of the sudden.",
+                    "I decided to watch and didn't like it THEY DIDN'T EVEN INCLUDE THE FONTS. They don't have any experience in subbing anime. MANY ERRORS"
+                ]
+            }
+        }
+    ]
+}

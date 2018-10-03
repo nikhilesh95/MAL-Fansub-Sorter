@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Katanako",
+        "Short Name": "Katanako",
+        "IRC": "#Katanako@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Brothers Conflict",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

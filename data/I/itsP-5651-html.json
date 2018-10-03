@@ -1,0 +1,72 @@
+{
+    "Group": {
+        "Group Name": "itsP",
+        "Short Name": "P",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "1",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "High School DxD BorN: Yomigaeranai Fushichou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Red Dragon Emperor=Sekiryuutei, Prez=Buchou, retarded sub timing. but itsP so its alrite"
+                ],
+                "Bad Comments": [
+                    "Barely English."
+                ]
+            }
+        },
+        {
+            "Show Name": "High School DxD New",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "decent job with the blu ray"
+                ],
+                "Bad Comments": [
+                    "Used FFFs TV subs (fixed of course, because we know FFF never admits mistakes), plus original TL for the extra 3 mins per episode and TL was on point. Best choice"
+                ]
+            }
+        },
+        {
+            "Show Name": "High School DxD New: Oppai, Tsutsumimasu!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good overall"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore, Twintail ni Narimasu.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sorette♡Dakara ne!",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent translation and good typesetting."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

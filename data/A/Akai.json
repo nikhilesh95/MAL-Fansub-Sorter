@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Akai",
+        "Short Name": "Akai",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lupin III (2015)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Babylon no Ougon Densetsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Lupin vs. Fukusei-ningen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III: Russia yori Ai wo Komete",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bluray"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shirobako",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BDs with Cthuko subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

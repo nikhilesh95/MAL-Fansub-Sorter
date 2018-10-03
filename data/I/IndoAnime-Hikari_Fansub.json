@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "IndoAnime-Hikari Fansub",
+        "Short Name": "IndoAnime-Hikari",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "4",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "On a movie that's a remake of a story arc, they took all of Rumbel's TLs of the equivalent eps and a song TL from gendou without giving credit. Out of the small parts they had to do on their own, I counted at least 12 lines with grammar/spelling issues.",
+                    "Many mistakes, sometimes even incoherent. Just wait for Rumbel."
+                ],
+                "Bad Comments": [
+                    "Some mistakes here and there, but generally quite good.",
+                    "Upscaled and incoherent."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nurarihyon no Mago: Sennen Makyou",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

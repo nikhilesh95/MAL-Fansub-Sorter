@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Project Mew Mew",
+        "Short Name": "PMM",
+        "IRC": "#cafemew@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tokyo Mew Mew",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

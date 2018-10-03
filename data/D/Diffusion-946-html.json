@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "Diffusion",
+        "Short Name": "Diffusion",
+        "IRC": "#diffusion@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "11",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach Movie 1: Memories of Nobody",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They seem to be a new group, but they're really good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "CLAMP in Wonderland",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "CLAMP in Wonderland 2",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I really hope they do the Clannad movie! The group has released the movie trailer."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "14 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice subs",
+                    "Alright."
+                ],
+                "Bad Comments": [
+                    "I wish they would sub the TV too..coz' Shinsen"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama: Shiroyasha Koutan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "1 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Superflat First Love",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Marble Chocolate",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usaru-san",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

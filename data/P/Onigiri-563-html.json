@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Onigiri",
+        "Short Name": "Onigiri",
+        "IRC": "#onigiri@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kimi ga Nozomu Eien",
+            "Show Type": "TV - 14 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

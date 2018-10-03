@@ -1,0 +1,308 @@
+{
+    "Group": {
+        "Group Name": "Anime Coalition",
+        "Short Name": "AC, AnimeCo",
+        "IRC": "#animeco@irc.plan9.de or#ac-official@irc.animeco.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "5",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Nadja",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Precise translation and good size letters and font"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Brigadoon: Marin to Melan",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Figure 17: Tsubasa & Hikaru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent overall, but could've used more horizontal padding and replacement of names with \"you.\" And don't expect great A/V quality from these 2001-02 TV-rips."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "First Kiss Monogatari",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Groove Adventure Rave",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanaukyou Maid-tai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Epically bad by today's standards, but then again hardly anybody knew what they were doing back when this show aired."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hanaukyou Maid-tai OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jungle wa Itsumo Hare nochi Guu",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lots of exaggerations (overly many exclamation marks, a lot of caps-only), in addition to some poor translations, such as short expressions being subbed directly as romaji."
+                ],
+                "Bad Comments": [
+                    "Westernization of the main character's name is continually jarring, but otherwise a good fansub project, and very preferrable to the horrible \"official\" subtitles I previously watched"
+                ]
+            }
+        },
+        {
+            "Show Name": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kero Kero Chime",
+            "Show Type": "TV - 30 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Tenshi Angelic Layer",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lodoss-tou Senki",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Senshi Louie",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoujin Guruguru",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "quality work always, nothing is subpar"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Momoiro Sisters",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It does the fansub sin of including a Japanese word in the subtitles once, then translating at the top in a translator note. It also explained what impudent meant in a translator note, It's Japanese I need translating, not English."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mujin Wakusei Survive",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nakoruru: Ano Hito kara no Okurimono",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse awesomse"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Patapata Hikousen no Bouken",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Legends"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Plastic Little",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "R.O.D OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rizelmine",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It aired in 2002, you can't exactly expect awesome HD quality.",
+                    "desu"
+                ],
+                "Bad Comments": [
+                    "bad image, bad sound, gah!"
+                ]
+            }
+        },
+        {
+            "Show Name": "s.CRY.ed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Samurai Deeper Kyou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Eternia The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UFO Princess Valkyrie",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vampire Hunter D",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witch Hunter Robin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "X",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zone of the Enders: 2167 Idolo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

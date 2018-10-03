@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "John Doe Fansub",
+        "Short Name": "JDF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baka to Test to Shoukanjuu Ni!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ha delle potenzialità, e sono quelli piu avanti con le puntate in sub ita, continuate cosi!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Otome: Momoiro Paradox",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

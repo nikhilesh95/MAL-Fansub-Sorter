@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Yoroshiku Fansubs & THORAnime",
+        "Short Name": "Yoroshiku-THORA",
+        "IRC": "#yoroshiku@irc.rizon.net  #thoranime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "50",
+            "Users Disapprove": "0",
+            "Total": "50"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Stranger: Mukou Hadan",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "50 of 50 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pure quality.",
+                    "Fantastic subs.",
+                    "Professional job."
+                ],
+                "Bad Comments": [
+                    "Pro: Awesome 720p quality release Con: Ugly opening credits",
+                    "superb trans and encode",
+                    "Best translations, timing & encodes"
+                ]
+            }
+        }
+    ]
+}

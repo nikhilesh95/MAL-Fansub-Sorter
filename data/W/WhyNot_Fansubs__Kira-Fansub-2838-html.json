@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "WhyNot? Fansubs & Kira-Fansub",
+        "Short Name": "WhyNot-Kira",
+        "IRC": "#kira-fansub@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "4",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yuri Seijin Naoko-san",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "9 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hurf"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

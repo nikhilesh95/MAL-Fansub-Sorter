@@ -1,0 +1,77 @@
+{
+    "Group": {
+        "Group Name": "NarutoFanaticos",
+        "Short Name": "NFnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "12",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Usar el video, los tiempos y todo lo demás de HorribleSubs es MUY MUY perry. Ah, sí, además tienen errores de ortografía."
+                ],
+                "Bad Comments": [
+                    "Best Spanish subbing out there and consistent with subbing."
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 2 - Kizuna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "1 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fansub Hoygan."
+                ],
+                "Bad Comments": [
+                    "ok"
+                ]
+            }
+        }
+    ]
+}

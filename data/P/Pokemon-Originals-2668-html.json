@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Pokemon-Originals",
+        "Short Name": "P-O",
+        "IRC": "#pokemon-originals@irc.hoshinet.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "6",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon",
+            "Show Type": "TV - 276 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Advanced Generation",
+            "Show Type": "TV - 192 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seems good. Cant wait fr more to come out."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes!",
+            "Show Type": "TV - 84 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Uneven quality, script goes from accurate to pure guesswork at the drop of a hat. Untrustworthy."
+                ],
+                "Bad Comments": [
+                    "the one N episode they released was very good quality, too bad they just quit after that"
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes!: Victini to Shiroki Eiyuu Reshiram",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Eila Subs",
+        "Short Name": "Eila",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "2",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Brave Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Chaptered EPs, subbed OP and ED, you can pick subs with or w/o honorifics",
+                    "Some awkward phrasing, but overall okay."
+                ],
+                "Bad Comments": [
+                    "Great stuff"
+                ]
+            }
+        },
+        {
+            "Show Name": "Brave Witches: Petersburg Daisenryaku",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only eng"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches: Operation Victory Arrow",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "16 of 16 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thank you. Wouldn't have subs without it.  Again, this is where groups drop the ball...OVAs and movies. Where they are actually needed."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

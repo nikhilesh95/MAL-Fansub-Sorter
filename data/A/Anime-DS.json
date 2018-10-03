@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Anime-DS",
+        "Short Name": "Anime-DS",
+        "IRC": "#Anime-DS@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "8",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yuru Yuri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 19 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "http://www.whiners.pro/2011/07/fansub-review-anime-ds-yuruyuri-episode-02/",
+                    "font too small",
+                    "a lot better than other. only font style is not good as it should be. (but that's personal taste)",
+                    "Shit font, can't even speak English, much less Japanese.",
+                    "Worst Fonts + Lame Karaoke Effects"
+                ],
+                "Bad Comments": [
+                    "Decent translations, odd typesetting, unnecessary TL notes, no chapters.",
+                    "very good translation, typesetting can be better but considering its their first time subbing, +1 from me.",
+                    "Subs are too small and hard to read",
+                    "they take the time to get things right and won't release an ep untill they feel it's done."
+                ]
+            }
+        }
+    ]
+}

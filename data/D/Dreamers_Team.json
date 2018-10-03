@@ -1,0 +1,2409 @@
+{
+    "Group": {
+        "Group Name": "Dreamers Team",
+        "Short Name": "DT-RU",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "320",
+            "Users Disapprove": "301",
+            "Total": "621"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "И это называется переводом?"
+                ],
+                "Bad Comments": [
+                    "Поучитесь переводу."
+                ]
+            }
+        },
+        {
+            "Show Name": "\"Bungaku Shoujo\" Memoire",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Смысла нет пощады без."
+                ],
+                "Bad Comments": [
+                    "Сделайте меня развидеть это."
+                ]
+            }
+        },
+        {
+            "Show Name": "\"Bungaku Shoujo\" Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Это не перевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "30-sai no Hoken Taiiku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "A-Channel",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Acchi Kocchi (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Такой ужасный перевод для такого милого аниме."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Надмозги\nПричем это применимо к любому тайтлу."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ano Natsu de Matteru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "да уж, паршивенько"
+                ],
+                "Bad Comments": [
+                    "Полнейший и абсолютный отстой, убейте себя."
+                ]
+            }
+        },
+        {
+            "Show Name": "Another",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Another: The Other - Inga",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ну как обычно."
+                ],
+                "Bad Comments": [
+                    "Другой пример того, почему вам нельзя позволять переводить с английского."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoi Bungaku Series",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ужасно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoi Hana",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Чудовищно."
+                ],
+                "Bad Comments": [
+                    "Чтоб вас удар хватил."
+                ]
+            }
+        },
+        {
+            "Show Name": "Arakawa Under the Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Arakawa Under the Bridge x Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu: Matsuri",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuman.",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuman. 2nd Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0твратительно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Lagoon: Roberta's Blood Trail",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0мерзительно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Lagoon: The Second Barrage",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Шлак."
+                ],
+                "Bad Comments": [
+                    "Вторая порция говна."
+                ]
+            }
+        },
+        {
+            "Show Name": "Black★Rock Shooter (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Убейте себя."
+                ],
+                "Bad Comments": [
+                    "Беспросветно."
+                ]
+            }
+        },
+        {
+            "Show Name": "Black★Rock Shooter (TV)",
+            "Show Type": "TV - 8 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blood-C",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Boku wa Tomodachi ga Sukunai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Сдохните уже наконец."
+                ],
+                "Bad Comments": [
+                    "У кого нет друзей? У вас нет друзей! Только одни хомячки да жополизы."
+                ]
+            }
+        },
+        {
+            "Show Name": "Boku wa Tomodachi ga Sukunai Episode 0",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Buta",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "C: The Money of Soul and Possibility Control",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "9 of 13 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Спасибо за отличный перевод!",
+                    " ",
+                    "Быстрый хороший саб."
+                ],
+                "Bad Comments": [
+                    "говняный недоперевод",
+                    "Убейте себя. Это не перевод.",
+                    "0твратительный перевод."
+                ]
+            }
+        },
+        {
+            "Show Name": "Cat Shit One",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit-subs #1."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cencoroll",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Do a barrel roll."
+                ],
+                "Bad Comments": [
+                    "[censored]"
+                ]
+            }
+        },
+        {
+            "Show Name": "Chihayafuru",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вы не умеете переводить даже с английского."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch Picture Drama",
+            "Show Type": "Special - 9 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "В каком-то смысле правильная работа - говносабы для говноаниме."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Colorful (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Какой пидор (не гей) делал этот перевод?"
+                ],
+                "Bad Comments": [
+                    "Кажется, кто-то не умеет переводить от слова \"совсем\"."
+                ]
+            }
+        },
+        {
+            "Show Name": "Copihan",
+            "Show Type": "ONA - 7 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Danshi Koukousei no Nichijou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Корявые конструкции, отсебятина."
+                ],
+                "Bad Comments": [
+                    "отличный русский язык (а не перевод промта, как обычно бывает), отсутствие ошибок"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Deadman Wonderland",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Deadman Wonderland: Akai Knife Tsukai",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denpa Onna to Seishun Otoko",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dog Days",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Какая сука это переводила?"
+                ],
+                "Bad Comments": [
+                    "0 времена, о нравы, когда школота берётся за перевод, а другая школота это одобряет."
+                ]
+            }
+        },
+        {
+            "Show Name": "Double-J",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Double-fail"
+                ],
+                "Bad Comments": [
+                    "Congratulation! You've won one double-anal raping!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Crisis!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Фантастически плохие сабы."
+                ],
+                "Bad Comments": [
+                    "Даже с моим знанием японского понятно, что это отстой."
+                ]
+            }
+        },
+        {
+            "Show Name": "Durarara!!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "7 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ха-ха"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Durarara!! Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Zero",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/Zero 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fireball",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переводчика надо сжечь."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fireball Charming",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вы такие очаровательные. Я бы вас всех сжёг."
+                ],
+                "Bad Comments": [
+                    "Lol, no."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fireball Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переводчик - умственно отсталый."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Неудачный перевод."
+                ],
+                "Bad Comments": [
+                    "Ужасный перевод."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fractale",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Freezing",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Furusato Saisei: Nippon no Mukashibanashi",
+            "Show Type": "TV - 258 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вы всё ещё переводите?"
+                ],
+                "Bad Comments": [
+                    "Банально плохо."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Guilty Crown Kiseki: Reassortment",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Сорт оф говно."
+                ],
+                "Bad Comments": [
+                    "Вы - рак, который убивает русаб."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gunslinger Girl: Il Teatrino",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Перевод ради аригатошек."
+                ],
+                "Bad Comments": [
+                    "Пистолет вам в жопу."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gyo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Иисусе, ну и перевод."
+                ],
+                "Bad Comments": [
+                    "Ух, ну и отстой."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakuouki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ППЦ"
+                ],
+                "Bad Comments": [
+                    "Это называется переводом?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakuouki Hekketsuroku",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Полный ПЦ."
+                ],
+                "Bad Comments": [
+                    "Всё тот же уровень. Нахуй-нахуй."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hakuouki OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Полнейший ПЦ."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakuouki Sekkaroku",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Да сдохните вы уже наконец."
+                ],
+                "Bad Comments": [
+                    "Может, хватить поганить аниме своими говносабами?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanasaku Iroha",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Хороший перевод"
+                ],
+                "Bad Comments": [
+                    "Хуёвый перевод."
+                ]
+            }
+        },
+        {
+            "Show Name": "HenSemi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Соу мач фэйл."
+                ],
+                "Bad Comments": [
+                    "Курицыны дети, прекратите уже."
+                ]
+            }
+        },
+        {
+            "Show Name": "HenSemi (TV)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Живой ПРОМТ, смотреть невозможно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heroman",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Херовый перевод."
+                ],
+                "Bad Comments": [
+                    "hello world"
+                ]
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "нет"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden Movie I: The King of Eden",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Короли говноперевода."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higashi no Eden Movie II: Paradise Lost",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вы всё ещё переводите? Тогда мы идём к вам!"
+                ],
+                "Bad Comments": [
+                    "Говноперевод, фильм второй."
+                ]
+            }
+        },
+        {
+            "Show Name": "Highschool of the Dead",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переводил школьник. Умрите, пожалуйста."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Highschool of the Dead: Drifters of the Dead",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Уйдите."
+                ],
+                "Bad Comments": [
+                    "Вы троллите?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kira",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вай соу фэйл?"
+                ],
+                "Bad Comments": [
+                    "Сорт оф хуйня."
+                ]
+            }
+        },
+        {
+            "Show Name": "Honey Tokyo",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Дорогие вы мои, хватит лепить говно."
+                ],
+                "Bad Comments": [
+                    "Чудовищно."
+                ]
+            }
+        },
+        {
+            "Show Name": "Honto ni Atta! Reibai Sensei",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "доставляет как всегда"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hoshi wo Ou Kodomo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Школоперевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "3а такое убить мало."
+                ],
+                "Bad Comments": [
+                    "Испортили всё удовольствие."
+                ]
+            }
+        },
+        {
+            "Show Name": "Houkago no Pleiades",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Космических масштабов говно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hourou Musuko",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Где вы такого переводчика откопали?"
+                ],
+                "Bad Comments": [
+                    "Вау, ну и хуйня."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hyouge Mono",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ibara no Ou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0уч."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo Mashimaro OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Не умеете - не беритесь."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Может, всё-таки начнёте нормально переводить?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Iron Man",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Подонки, вы все подонки, железно."
+                ],
+                "Bad Comments": [
+                    "Это невозможно."
+                ]
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Бесконечно далеко от реального."
+                ],
+                "Bad Comments": [
+                    "This IS fail."
+                ]
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ну вы и кони."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Dolls",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Волшебно, блеать."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama no Memochou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Боги, какой отстой."
+                ],
+                "Bad Comments": [
+                    "Сделайте меня развидеть это."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kappa no Coo to Natsuyasumi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ваш перевод - как лягушка: выглядит хорошо, но стоит взять в руки - мерзко."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karigurashi no Arrietty",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Недостаточно фэйлово, старайтесь ещё."
+                ],
+                "Bad Comments": [
+                    "А вот и говносабы."
+                ]
+            }
+        },
+        {
+            "Show Name": "Katte ni Kaizou",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "12 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Полный пиздец, реальный смысл даже и не ночевал.",
+                    "Сойдет."
+                ],
+                "Bad Comments": [
+                    "перевод вполне адекватен содержимому этого безумного аниме",
+                    "Петросяны сука штоле?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kämpfer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs? It's a dream."
+                ],
+                "Bad Comments": [
+                    "0й вэй."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kimi no Iru Machi: Tasogare Kousaten",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Что за говно?"
+                ],
+                "Bad Comments": [
+                    "Что я вижу! Да это же говносабы!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kizuna Ichigeki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Что это было?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koe de Oshigoto! The Animation",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Что я только что прочитал?"
+                ],
+                "Bad Comments": [
+                    "Это любовь."
+                ]
+            }
+        },
+        {
+            "Show Name": "Koi☆Sento",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Это любовь, б-бака."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koisuru Boukun",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Бывает, конечно, и хуже."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kono Danshi, Uchuujin to Tatakaemasu.",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ну неужели так трудно взять и нормально перевести?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Нереально плохо."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kujakuou",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Как насчёт нормального перевода?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuragehime",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Беспросветно плохо."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kurogane no Linebarrels",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Do a barrel roll."
+                ],
+                "Bad Comments": [
+                    "You've just been rick-rolled."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kurogane no Linebarrels Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Specially for you: die!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroko no Basket",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Адекватный перевод, лол: говносабы для говноаниме."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuttsukiboshi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Суки."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyou, Koi wo Hajimemasu",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Это любовь, да."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Loups=Garous",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0тсебятина - это не перевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Madoka★Magica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Куда дели Закон Циклов в последней серии, щенки?"
+                ],
+                "Bad Comments": [
+                    "just cool subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maji de Watashi ni Koi Shinasai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Majokko Tsukune-chan",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Волшебно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mardock Scramble: The First Compression",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "В мусорку."
+                ],
+                "Bad Comments": [
+                    "Соу фэйл."
+                ]
+            }
+        },
+        {
+            "Show Name": "Maria†Holic Alive",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "XYNTA"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mashiro-iro Symphony: The Color of Lovers",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Сдохните, пожалуйста."
+                ],
+                "Bad Comments": [
+                    "нет, спасибо\\"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mawaru Penguindrum",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Редактор за два года забыл, чем заканчивается сериал, а заодно чем аквапарк отличается от океанариума. Голову всё же надо иногда включать."
+                ],
+                "Bad Comments": [
+                    "Вы сговорились с адвантами? lol\nполовину фраз неверно переводите вы, а остальную - они?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Чтоб вас трактором переехало."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Megane na Kanojo",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переводчику нужны очки, он не видит явных ошибок."
+                ],
+                "Bad Comments": [
+                    "Что ещё испортите?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Michiko to Hatchin",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Потрачено."
+                ],
+                "Bad Comments": [
+                    "2trash"
+                ]
+            }
+        },
+        {
+            "Show Name": "Minami-ke Betsubara",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "А вот за это и пизды получить можно."
+                ],
+                "Bad Comments": [
+                    "Это ж надо было так испортить."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mirai Nikki",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mirai Nikki OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Кыш обратно в школу."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Monochrome Factor",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ноуп."
+                ],
+                "Bad Comments": [
+                    "Fail Factor"
+                ]
+            }
+        },
+        {
+            "Show Name": "Moshidora",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Факин щит."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mouretsu Pirates",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Фекалии, как обычно."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mouryou no Hako",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Чтоб я ещё раз брался за что-то с вашими сабами."
+                ],
+                "Bad Comments": [
+                    "Перевод, ау, где ты?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsu-iro Kiseki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dreamers-team"
+                ],
+                "Bad Comments": [
+                    "Very good translate, enjoyable."
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit subs, die."
+                ],
+                "Bad Comments": [
+                    "good subs, tnx guys"
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou Shi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nichijou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dream of quality subs that never come true."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nichijou: Nichijou no 0-wa",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Нулевой уровень знаний что английского, что японского."
+                ],
+                "Bad Comments": [
+                    "n0"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nisemonogatari",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "No.6",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile Finale",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Это финиш."
+                ],
+                "Bad Comments": [
+                    "Полный финиш."
+                ]
+            }
+        },
+        {
+            "Show Name": "Norageki!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Найн."
+                ],
+                "Bad Comments": [
+                    "Never forget."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nougyou Musume!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Гм."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nyanpire The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ня."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ojiisan no Lamp",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переведено школьником в свободное от домашних заданий время."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Omamori Himari",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Анонимус не прощает."
+                ],
+                "Bad Comments": [
+                    "Вы что, троллите?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Братишка, я тебе покушать принёс."
+                ],
+                "Bad Comments": [
+                    "go2Hell"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Волки позорные."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oretachi ni Tsubasa wa Nai: Hadairo Ritsu Kyuuwari Zou!?",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Не одобряю."
+                ],
+                "Bad Comments": [
+                    "Why so fail?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Безудержное веселье."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otona Joshi no Anime Time",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Только зря потратил время."
+                ],
+                "Bad Comments": [
+                    "Вы - рак, который убивает русаб."
+                ]
+            }
+        },
+        {
+            "Show Name": "Papa no Iukoto wo Kikinasai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Бля."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Piyoko ni Omakase pyo!",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Пиу-пиу."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rainbow: Nisha Rokubou no Shichinin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Блястательный перевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Recorder to Randoseru Do♪",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "В наше время за такое били кочергой по ебалу."
+                ],
+                "Bad Comments": [
+                    "Перевод, до-о."
+                ]
+            }
+        },
+        {
+            "Show Name": "Recorder to Randoseru Re♪",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Вы всё ещё здесь?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Red Garden",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Адов перевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Red Garden: Dead Girls",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Умрите, пожалуйста."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Redline",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Желание срубить популярности на попсовом тайтле."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rio: Rainbow Gate!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mein Gott."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ristorante Paradiso",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Мои глаза, мой мозг!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ro-Kyu-Bu!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Пидорасы, сэр. (с)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Romeo no Aoi Sora",
+            "Show Type": "TV - 33 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Пираты переводят лучше."
+                ],
+                "Bad Comments": [
+                    "Волшебно, просто волшебно."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sakamichi no Apollon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sankarea",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saraiya Goyou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Хлам."
+                ],
+                "Bad Comments": [
+                    "В Аду для таких, как вы, припасено особое местечко."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sasameki Koto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Идите нахуй, я желаю вам зла."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0пять этот школоперевод."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seirei no Moribito",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ебическая сила, что это было."
+                ],
+                "Bad Comments": [
+                    "Взять и уебать."
+                ]
+            }
+        },
+        {
+            "Show Name": "Seitokaichou ni Chuukoku",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "А вам не пора в школу?"
+                ],
+                "Bad Comments": [
+                    "Переводил школьник?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekaiichi Hatsukoi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Жуть."
+                ],
+                "Bad Comments": [
+                    "И-и... опять говно."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekaiichi Hatsukoi 2",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Всё та же жуть."
+                ],
+                "Bad Comments": [
+                    "Всё ещё говно."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekaiichi Hatsukoi OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Две серии жути."
+                ],
+                "Bad Comments": [
+                    "Говна кусок."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Чистое говно."
+                ],
+                "Bad Comments": [
+                    "\"Чиста на паржать\" сгодится."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Само аниме и так не очень, но ваш перевод сделал ещё хуже."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senkou no Night Raid",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Анонимус не забывает."
+                ],
+                "Bad Comments": [
+                    "Уж лучше бы на чанах сидели."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shin Kujakuou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit Kujakuou"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinrei Tantei Yakumo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Якумо вам в задницу."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinsekai yori",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ужасное качество."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "SKET Dance",
+            "Show Type": "TV - 77 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "So Mu Ch Fa Il"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Star Driver: Kagayaki no Takuto",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Starry☆Sky",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Былинный фэйл."
+                ],
+                "Bad Comments": [
+                    "Вы пизданулись?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Steins;Gate",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sweat Punch",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Взять и уебать."
+                ],
+                "Bad Comments": [
+                    "Дать бы вам в ебало."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tailenders",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Their subs always good quality."
+                ],
+                "Bad Comments": [
+                    "Такое впечатление, что сабы от другого аниме."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tamayura",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Боги, ну и отстой."
+                ],
+                "Bad Comments": [
+                    "Голубцы с говном? Нет, спасибо, сами жрите."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tamayura: Hitotose",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bite my shiny metal ass!"
+                ],
+                "Bad Comments": [
+                    "Вы опять сабите аниме, мудилы?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tansu Warashi.",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0тстой, и точка."
+                ],
+                "Bad Comments": [
+                    "Идите нахуй, и точка."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tasogare Otome x Amnesia",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Бачу я, шо ви таки пидорасы."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi Reverse",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0братно отстой."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Моар отстоя."
+                ],
+                "Bad Comments": [
+                    "Вау, перевод."
+                ]
+            }
+        },
+        {
+            "Show Name": "The Epic Of ZektBach",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Epic Fail"
+                ],
+                "Bad Comments": [
+                    "The Epic 0f Fail"
+                ]
+            }
+        },
+        {
+            "Show Name": "Toaru Hikuushi e no Tsuioku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Рельсу вам в глотку."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tobira wo Akete (1995)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0лдфаг негодуэ."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "IQ переводчика - 8О."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Trigun: Badlands Rumble",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad, very bad."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsuritama",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Understandable and cute in some way"
+                ],
+                "Bad Comments": [
+                    "0тсебятина и жалкие попытки быть оригинальными."
+                ]
+            }
+        },
+        {
+            "Show Name": "UN-GO",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "УГ"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UN-GO: Inga Nikki",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Переводчик - леший, кривдосказ и рукоблудник."
+                ],
+                "Bad Comments": [
+                    "Shitsubbers in da house."
+                ]
+            }
+        },
+        {
+            "Show Name": "UN-GO: Inga-ron",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "УГ episode O"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usagi Drop",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Drop dead."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wasurenagumo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "0тсебятина, перевод и рядом не валялся.",
+                    "Упрощения, недосказанности, пропуски."
+                ],
+                "Bad Comments": [
+                    "Simply, but accurate words."
+                ]
+            }
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Поработайте над своими навыками."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working'!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Go back to school."
+                ],
+                "Bad Comments": [
+                    "Шли бы вы обратно в школу, хотя бы английский выучили, не говоря уже о японском."
+                ]
+            }
+        },
+        {
+            "Show Name": "Xi Avant",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Передовые труженики русаба, блеать."
+                ],
+                "Bad Comments": [
+                    "Авангардистские сабы, блеать."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yojouhan Shinwa Taikei",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Нед."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yondemasu yo, Azazel-san.",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "just i love it"
+                ],
+                "Bad Comments": [
+                    "Fuck you."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yondemasu yo, Azazel-san. (TV)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I hate you."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Я надеюсь, вы умрёте в одиночестве."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuri Seijin Naoko-san",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Эта пздц."
+                ],
+                "Bad Comments": [
+                    "Выпороть бы вас хорошенько."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Съебитесь нахуй."
+                ],
+                "Bad Comments": [
+                    "А вы не охуели так переводить?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Zoku Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

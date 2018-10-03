@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "hwaaa",
+        "Short Name": "hwaaa",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mikagura Gakuen Kumikyoku (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I really like the quality."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

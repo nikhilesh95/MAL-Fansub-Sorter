@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Sleazy Subs",
+        "Short Name": "SleazySubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "20",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sora no Otoshimono: Forte",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Basically remuxed HorribleSubs with some color changed. Unreasonable file size. Poor encoding. v2's.",
+                    "great quallity"
+                ],
+                "Bad Comments": [
+                    "worst",
+                    "best"
+                ]
+            }
+        },
+        {
+            "Show Name": "Super Robot Taisen OG: The Inspector",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shitsubs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi Reverse",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad"
+                ],
+                "Bad Comments": [
+                    "Great 1st episode :D HD"
+                ]
+            }
+        }
+    ]
+}

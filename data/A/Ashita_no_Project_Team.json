@@ -1,0 +1,100 @@
+{
+    "Group": {
+        "Group Name": "Ashita no Project Team",
+        "Short Name": "ANPT",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "0",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Joe",
+            "Show Type": "TV - 79 episodes",
+            "User Approval": "10 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Muy buena traducción.",
+                    "Al principio muchos fallos de traducción y sincronización, pero con el paso de los capítulos los fueron subsanando. Único fansub en español que ha hecho esta serie.",
+                    "great spanish subs, and great traduction. \nSpanish people now can meet joe and his adventures."
+                ],
+                "Bad Comments": [
+                    "La mejor",
+                    "Los unicos en sacar esta gran serie sub en español",
+                    "Salvo algunas erratas al comienzo, la traducción es impecable, adaptando magistralmente los diálogos al español de España. Ha sido una gozada ver esta obra maestra con una traducción tan buena."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ashita no Joe (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ashita no Joe 2",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Son muy buenos",
+                    "Como con la primera serie, el trabajo es impecable y admirable. Muchas gracias por permitirnos a los castellanoparlantes el haber disfrutado de AnJ con una calidad tan perfecta."
+                ],
+                "Bad Comments": [
+                    "Better subtitling quality than in first season. Thank you for bringing us this great anime with Spanish subs ;D"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ashita no Joe 2 (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chameleon (OVA)",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Honoo no Tenkousei",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Kaizoku Captain Herlock",
+            "Show Type": "TV - 42 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

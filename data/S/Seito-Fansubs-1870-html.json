@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Seito-Fansubs",
+        "Short Name": "Seito",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "7",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Higashi no Eden",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only group released in 480p SD."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pandora Hearts",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Even if the video quality is horrible, the translation is actually quite good.",
+                    "Video quality is really low."
+                ],
+                "Bad Comments": [
+                    "Good translation, nice choice of font. The raws that are provided aren't really good quality, but it's not their fault"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tears to Tiara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

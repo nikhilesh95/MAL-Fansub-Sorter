@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Black-Lotus",
+        "Short Name": "B-Lotus",
+        "IRC": "#black-lotus@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "decent subs. Translation was good."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

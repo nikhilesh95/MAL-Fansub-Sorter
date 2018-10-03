@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Volans",
+        "Short Name": "volans",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "54",
+            "Users Disapprove": "9",
+            "Total": "63"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Goku Sayonara Zetsubou Sensei",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "19 of 22 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "We love you guys!",
+                    "Everything right in place. Also, they released AVI version.",
+                    "Good Qualtiy",
+                    "Subs everything, including background text."
+                ],
+                "Bad Comments": [
+                    "Episode 1: Perfect subs, perfect typesetting, minimalistic karaoke that doesn't interfere with the art.  Great, 10/10.",
+                    "Pretty Neat!",
+                    "great"
+                ]
+            }
+        },
+        {
+            "Show Name": "Zoku Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "35 of 41 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "finished the series",
+                    "a.f.k. quality of the subs.Really good alternative since a.f.k. are on a break at the moment.Really hope these people will do ep 5 - 7 too someday unless a.f.k makes a return.",
+                    "Translated just about everything, like afk.",
+                    "These subs are just great.\n1) They are not complicated (its easier to understand SZS)\n2) All (or nearly all) texts (key part of SZS) translated",
+                    "A lot of text was unsubbed."
+                ],
+                "Bad Comments": [
+                    "Just as good as afk.",
+                    "epic quality",
+                    "Did not quit",
+                    "They finished it with spectatular quality!",
+                    "None of the signs are subbed! Including Meru's text messages, which are her whole dialog."
+                ]
+            }
+        }
+    ]
+}

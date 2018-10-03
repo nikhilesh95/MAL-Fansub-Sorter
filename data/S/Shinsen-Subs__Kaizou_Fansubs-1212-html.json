@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Shinsen-Subs & Kaizou Fansubs",
+        "Short Name": "SHS-Kaizou",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lupin III: Kiri no Elusive",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality and accurate translation."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

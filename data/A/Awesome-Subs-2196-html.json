@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Awesome-Subs",
+        "Short Name": "Awesome",
+        "IRC": "#awesome-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "6",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 12 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome subs are awesome",
+                    "good subs",
+                    "not awesome at all"
+                ],
+                "Bad Comments": [
+                    "100% _NOT_ awesome",
+                    "not awesome!!",
+                    "fail to finish projects"
+                ]
+            }
+        }
+    ]
+}

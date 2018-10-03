@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "SkynetSubs",
+        "Short Name": "SkynetSubs",
+        "IRC": "#skynetsubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Freezing Vibration",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: The Kingdom of Magic",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They add the karaoke to the opening and endings of the anime and do a really great job at it too!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senki Zesshou Symphogear G",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online: Extra Edition",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Tortoise Fansubs",
+        "Short Name": "Tortoise",
+        "IRC": "#tortoise@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "7",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Eyecancer, seriously.",
+                    "my eye hurts"
+                ],
+                "Bad Comments": [
+                    "ktkr"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch x ☆☆☆",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "24 of 28 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Has SD version, actually translates all content.",
+                    "Great Quality",
+                    "SD and HD+++Good Translations",
+                    "I chose this group before I started watching. But after I seeing a lot of awkward looking sentences (and English is not even my native language) I went with mudabone. Way better."
+                ],
+                "Bad Comments": [
+                    "Nice typeset, good translaton but no has karaoke effect",
+                    "bad translations,",
+                    "A little slow (haw, pun) but overall very good job.",
+                    "Just try watching this group. They really are better than Nutbladder."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "BuriBuri",
+        "Short Name": "BuriBuri",
+        "IRC": "shindou-anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "1",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Crayon Shin-chan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "7 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "High-quality encodes and translations that try to capture the spirit of the original. This one-man translation team isn't perfect yet, but is the best way I've found to see Shin-chan in the original Japanese.",
+                    "They actually sub it"
+                ],
+                "Bad Comments": [
+                    "keep it up! it's great to be able to watch this in its' original form - and we even get to see shin's elephant - nice..........lovely work!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Gaiden: Alien vs. Shinnosuke",
+            "Show Type": "ONA - 13 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "love these guys for doing this! the puns can be hit or miss, but they at least gave it a game try (nothing's harder than trying to translate a japenese pun to english while keeping the humor) - excellent work overall!"
+                ],
+                "Bad Comments": [
+                    "perfect"
+                ]
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "perfect subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

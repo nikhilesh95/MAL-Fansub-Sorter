@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "AnimeQ",
+        "Short Name": "AnimeQ",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "4",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ghost in the Shell: Stand Alone Complex",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven",
+            "Show Type": "TV - 127 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Horroroso!!! Pior tradução já feita na história do Brasil."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Inazuma Eleven Go",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Relançado do Aya Fansub, não são eles que fazem."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Muv-Luv Alternative: Total Eclipse",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve, 1 comments"
+        }
+    ]
+}

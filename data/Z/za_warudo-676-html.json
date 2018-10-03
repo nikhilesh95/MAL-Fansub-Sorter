@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "za warudo",
+        "Short Name": "zw",
+        "IRC": "#za-warudo@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "6",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Roots",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good clear subs",
+                    "website points to no-domain page",
+                    "the subs of later episodes are bad, episode titles are a joke. looks like they don't respect their work; if you didn't like the series you should've dropped it, there was no need to bullshit like that. I'll get Shinsen instead."
+                ],
+                "Bad Comments": [
+                    "Common use of internet based vocabulary \"noobs, get owned, be emo about it\"",
+                    "So many times using the words noobs and emo after epi 15"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sumomomo Momomo: Chijou Saikyou no Yome",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "7 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Anime Kurabu Fansubs",
+        "Short Name": "AKF",
+        "IRC": "#MEK@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "The Kabocha Wine",
+            "Show Type": "TV - 95 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good for the few episodes they did"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

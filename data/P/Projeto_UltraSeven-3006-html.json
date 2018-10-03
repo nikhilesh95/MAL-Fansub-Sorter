@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Projeto UltraSeven",
+        "Short Name": "PUS",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Uchuu Senkan Yamato",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Opening and ending have no subtitles."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato 2",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato III",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

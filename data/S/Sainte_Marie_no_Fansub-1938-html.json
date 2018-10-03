@@ -1,0 +1,149 @@
+{
+    "Group": {
+        "Group Name": "Sainte Marie no Fansub",
+        "Short Name": "SMnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "24",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Hana",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hasta la versión del masterdiego está mejor que esta."
+                ],
+                "Bad Comments": [
+                    "good translate, timing and encoding"
+                ]
+            }
+        },
+        {
+            "Show Name": "Canaan",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuuchuu Buranko",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It´s been a long time since there last release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Calidad mediocre, no muy mala, pero hay que destacar sus traducciones muy robóticas, errores ortográficos (tampoco tantos)."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th Specials",
+            "Show Type": "Special - 11 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Needless",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nogizaka Haruka no Himitsu: Purezza",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ristorante Paradiso",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sasameki Koto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tatakau Shisho: The Book of Bantorra",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Umineko no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

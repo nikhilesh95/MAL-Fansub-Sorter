@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Whateva Subs",
+        "Short Name": "WhatevaSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's not Horrible nor Chiki.",
+                    "Group consists of staff from Linx/Chiki/Liquid, so autobad"
+                ],
+                "Bad Comments": [
+                    "Better than nothing."
+                ]
+            }
+        }
+    ]
+}

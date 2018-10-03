@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Build Base Fansubs",
+        "Short Name": "BB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koutetsushin Jeeg",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Consistent release times and quality translation.  They've completed the series as it came out."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

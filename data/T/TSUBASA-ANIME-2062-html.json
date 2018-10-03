@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "TSUBASA-ANIME",
+        "Short Name": "TS",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hayate no Gotoku!!",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Всегда в нужное время, всегда в великолепном оформлении"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

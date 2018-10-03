@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "W-Dreamers",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "10",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gantz 2nd Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 15 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some translations make no sense, the fonts are obnoxious and constantly change, and they really like extra punctuation!!!!????",
+                    "The worst video quality I have come across in a long time. ^_^",
+                    "most crap video quality ever"
+                ],
+                "Bad Comments": [
+                    "They switch around to silly fonts and colours. Their translations are okay, but not as sophisticated as other subbers.",
+                    "The video quality is so poor it gave me a headache. Poor translations with plenty of grammatical errors.",
+                    "eye cancer i couldnt watch this"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama",
+            "Show Type": "TV - 178 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

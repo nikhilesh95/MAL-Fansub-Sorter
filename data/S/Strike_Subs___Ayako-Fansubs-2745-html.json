@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Strike Subs &  Ayako-Fansubs",
+        "Short Name": "StrikeS-Ayako",
+        "IRC": "#Strike-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "0",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou",
+            "Show Type": "OVA - ? episodes",
+            "User Approval": "22 of 22 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No major problems here."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

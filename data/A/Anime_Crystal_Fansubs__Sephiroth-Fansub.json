@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Anime Crystal Fansubs & Sephiroth-Fansub",
+        "Short Name": "ACF&=SF=",
+        "IRC": "#anime-crystal@irc.euirc.net #Sephiroth-Fansub@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eureka Seven AO",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven AO: Aratanari Fukaki Ao",
+            "Show Type": "ONA - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

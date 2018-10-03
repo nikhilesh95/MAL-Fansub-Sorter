@@ -1,0 +1,74 @@
+{
+    "Group": {
+        "Group Name": "Anime-Fansubs & AnimeFactory",
+        "Short Name": "A-F&AF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Full Metal Panic!",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "i worked on the scripts"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "I''s",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Macross Zero",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs."
+                ],
+                "Bad Comments": [
+                    "i worked on the scripts"
+                ]
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "R.O.D OVA",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Seikai no Senki",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        }
+    ]
+}

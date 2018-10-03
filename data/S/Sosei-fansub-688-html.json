@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Sosei-fansub",
+        "Short Name": "S-f",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hayate no Gotoku!",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikkitousen: Dragon Destiny",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seirei no Moribito",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "where's the fucking release?\nnot on their tracker, nor on their bot, and not on their DDL list as well :\\"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

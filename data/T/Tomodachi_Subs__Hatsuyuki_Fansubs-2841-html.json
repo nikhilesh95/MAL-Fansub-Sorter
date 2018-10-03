@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Tomodachi Subs & Hatsuyuki Fansubs",
+        "Short Name": "TMD-Hatsuyuki",
+        "IRC": "#tomodachi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "14",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kore wa Zombie Desu ka?",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 33 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "LOL @ \"Perfect balance\" are you implying that there SHOULD be some bad accuracy and bad fitting to situations to a sub to make it good? troll gtfo",
+                    "Best release.",
+                    "Damn, that was some terrible karaoke. Completely unreadable.",
+                    "fabulous karaoke",
+                    "Bad group + Bad group = ???"
+                ],
+                "Bad Comments": [
+                    "Best release. The subs were REALLY good, perfect balance between accuracy and fitting the situation.",
+                    "Slow, but very nice",
+                    "best one....",
+                    "thanks TMD ft Hatsuyuki.. :D"
+                ]
+            }
+        }
+    ]
+}

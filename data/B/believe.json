@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "believe",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "1",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Robot Girls Z",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "14 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I believe.",
+                    "I believe I can touch the sky."
+                ],
+                "Bad Comments": [
+                    "I can fly.",
+                    "I think about it every night and day."
+                ]
+            }
+        }
+    ]
+}

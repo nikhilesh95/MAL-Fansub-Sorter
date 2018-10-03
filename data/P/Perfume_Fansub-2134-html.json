@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Perfume Fansub",
+        "Short Name": "PF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "4",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kanamemo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuttsukiboshi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lentissimi."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th Specials",
+            "Show Type": "Special - 11 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sasameki Koto",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoujo Sect",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

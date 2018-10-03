@@ -1,0 +1,160 @@
+{
+    "Group": {
+        "Group Name": "Manga Suyu",
+        "Short Name": "MS",
+        "IRC": "",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "331",
+            "Users Disapprove": "59",
+            "Total": "390"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoi Bungaku Series",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 16 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "güzel olmuş"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuman.",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "41 of 53 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bavel no Hon",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Denpa-teki na Kanojo",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "13 of 14 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hourou Musuko",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo Mashimaro",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "40 of 46 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it's not in english so i didn't understand shit"
+                ],
+                "Bad Comments": [
+                    "Same"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuragehime",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "44 of 52 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "38 of 43 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Level E",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mirai Nikki OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nurarihyon no Mago",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "43 of 51 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wtf is this shit"
+                ],
+                "Bad Comments": [
+                    "madem türkçe bilmiyorsun ne izliyorsun gerizekalı? biliyorsan da ne bokuma ingilizce yazıyorsun?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sengoku Basara Two",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "40 of 43 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinrei Tantei Yakumo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "37 of 46 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Starry☆Sky",
+            "Show Type": "ONA - 26 episodes",
+            "User Approval": "5 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

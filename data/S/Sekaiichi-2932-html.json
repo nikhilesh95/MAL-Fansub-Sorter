@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Sekaiichi",
+        "Short Name": "Sekaiichi",
+        "IRC": "#Sekaiichi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "6",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sekaiichi Hatsukoi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "LOVE THEM! They did the karaoke for the op and ending!",
+                    "Barbie pink font that's so sickly sweet that some of the words stick to each other (literally). Other than that, subs are very fluid and well proportioned."
+                ],
+                "Bad Comments": [
+                    "not as good as akatsuki",
+                    "Good, but there are several typos."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sekaiichi Hatsukoi 2",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Himarii_nyan"
+                ],
+                "Bad Comments": [
+                    "DROPPED..."
+                ]
+            }
+        }
+    ]
+}

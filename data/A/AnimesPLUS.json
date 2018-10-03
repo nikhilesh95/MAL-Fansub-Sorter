@@ -1,0 +1,605 @@
+{
+    "Group": {
+        "Group Name": "AnimesPLUS",
+        "Short Name": "AnPLUS",
+        "IRC": "#animesPLUS@irc.brmania.org",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "124",
+            "Users Disapprove": "15",
+            "Total": "139"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Assemble Insert",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blue Gender: The Warrior",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Typos and missing words.",
+                    "Tão eficiente quanto jogar no google translator."
+                ],
+                "Bad Comments": [
+                    "Great work!!! I recommend x]",
+                    "Excelente qualidade, só o vídeo que é DVD-Rip, mas nada a se reclamar sobre a qualidade"
+                ]
+            },
+            "User Approval": "8 of 12 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Clannad Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 6 users approve"
+        },
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 6 users approve"
+        },
+        {
+            "Show Name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Crystal Blaze",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Dead Leaves",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Devil May Cry",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "show"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Doubutsu Takarajima",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ergo Proxy",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "bom projeto"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Fire Tripper",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Glass no Kamen (2005)",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Hoshi wo Ou Kodomo",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Itazura na Kiss",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve"
+        },
+        {
+            "Show Name": "Kobato.",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve"
+        },
+        {
+            "Show Name": "Kure-nai",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Les Misérables: Shoujo Cosette",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Lovely★Complex",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great translation and quality",
+                    "erros de timming, tradução, o vídeo de um dos episódios estava danificado...não vale a pena!",
+                    "Good job!"
+                ],
+                "Bad Comments": [
+                    "exelente qualidade",
+                    "bom",
+                    "BR :3"
+                ]
+            },
+            "User Approval": "16 of 17 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Macross: Do You Remember Love?",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bom trabalho, realmente recomendo"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "16 of 17 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Maison Ikkoku",
+            "Show Type": "TV - 96 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "melhor anime feito por um excelente fansub."
+                ],
+                "Bad Comments": [
+                    "A tradução não está ruim, mas a revisão pelo visto não foi feita. Há vários erros de digitação."
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Maison Ikkoku: Ikkokujima Nanpa Shimatsuki",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "melhor anime feito por um excelente fansub."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Maison Ikkoku: Kanketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "melhor anime feito por um excelente fansub."
+                ],
+                "Bad Comments": [
+                    "Perfeito."
+                ]
+            },
+            "User Approval": "4 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Maison Ikkoku: Prelude - Meguru Haru no Sakura no you ni...",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "melhor anime feito por um excelente fansub."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Maison Ikkoku: Utsuriyuku Kisetsu no Naka de",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "melhor anime feito por um excelente fansub."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Majin Tantei Nougami Neuro",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Mobile Suit Gundam F91",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Boa tradução e ótima qualidade de video, bluray rip!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Mokke",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Excelente qualidade de video e tradução. Ao contrário de outros fansubs que ficam inventando palavrão nas legendas."
+                ],
+                "Bad Comments": [
+                    "Muito infantil. Censuram demais palavrões."
+                ]
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Naruto: Shippuuden Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Boa tradução"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Otome wa Boku ni Koishiteru",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Ranma ½",
+            "Show Type": "TV - 161 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "porque têm feito um bom trabalho nas legendagens"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Romeo x Juliet",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Slayers",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Boa tradução."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Slayers Evolution-R",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Slayers Excellent",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve"
+        },
+        {
+            "Show Name": "Slayers Gorgeous",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Slayers Great",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Slayers Next",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Very good translation"
+                ],
+                "Bad Comments": [
+                    "d "
+                ]
+            },
+            "User Approval": "5 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Slayers Premium",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Slayers Return",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Slayers Revolution",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Slayers Special",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "bom"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Slayers Try",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Tradução muito ruinzinha feita do inglês. Vários erros de adaptação."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Slayers: The Motion Picture",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "bom,"
+                ],
+                "Bad Comments": [
+                    "Muito bem traduzido e ótima qualidade de video"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Tonari no Yamada-kun",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+            "Show Type": "Movie - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Urusei Yatsura",
+            "Show Type": "TV - 195 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Urusei Yatsura Movie 1: Only You",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Urusei Yatsura OVA",
+            "Show Type": "OVA - 11 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Versailles no Bara",
+            "Show Type": "TV - 40 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Versailles no Bara to Onna-tachi",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Versailles no Bara: Seimei Aru Kagiri Aishite",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Xiao Qian",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

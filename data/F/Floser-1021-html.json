@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Floser",
+        "Short Name": "Floser",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "12",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blue Drop: Tenshi-tachi no Gikyoku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 13 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lots of errors.  Seems like they don't have an editor/QCer...",
+                    "Speedy subs but lots of errors with typos and grammar.",
+                    "Sound does not match video",
+                    "Decent speed sub - getting better as the episodes progress (esp eps 7 and 8). If you want speed, go FLoser, if you want quality, go Simoun-Fans",
+                    "Repetitive grammar/spelling mistakes that really kill some parts of the story, as well as obnoxious side notes that decreased my overall enjoyment of the series. Used emoticons in the subtitles in the emotional/important parts, thus ruining the mood. :/"
+                ],
+                "Bad Comments": [
+                    "Way too many typos.",
+                    "Tons of really obvious errors and mistranslations.",
+                    "anyone with English as a first language should be able to tell the difference between tenses. simple mistakes that are easy to spot such as 'were' and 'are' 'a - at' etc",
+                    "Too many spelling and grammatical mistakes… and obviously they don't even bother researching the kanji writing for the characters' names (or listening closely to the dialogues…), otherwise they would have gotten Micchi's last name right."
+                ]
+            }
+        }
+    ]
+}

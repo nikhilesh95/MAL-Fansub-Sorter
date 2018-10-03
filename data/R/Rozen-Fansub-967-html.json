@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Rozen-Fansub",
+        "Short Name": "Rozen",
+        "IRC": "#Rozen-Fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kimikiss Pure Rouge",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Instead of putting the translation for the character's name when it was on the class list, they poorly covered it up with their English names. And left some parts of the sign untranslated and it looked generally unprofessional.",
+                    "I did find the \"over-write\" subtitles to be distracting in the first episode...  However, I can no longer watch any more episodes, as they have changed to .mkv, the only format I cannot watch on any computer platform I have access to.  I cannot abide the"
+                ],
+                "Bad Comments": [
+                    "great Karaoke it's wonderful will look up for your future episode =D"
+                ]
+            }
+        }
+    ]
+}

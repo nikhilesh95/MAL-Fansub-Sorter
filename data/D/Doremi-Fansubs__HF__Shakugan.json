@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Doremi-Fansubs & HF & Shakugan",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "33",
+            "Users Disapprove": "2",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pale Cocoon",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "33 of 35 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good job",
+                    "Highest resolution, even though it's an AVI. Styled subtitles are easier to read than other groups plain SRTs in soeme scenes.",
+                    "Very nice, only saw one grammatical error that most people will not even notice at all.\n\nThe quality is great and the font style fit the story perfectly. I strongly suggest this group for Pale Cocoon."
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "no grammar mistakes, decent subs",
+                    "Probably decent subs, but Xvid is shit."
+                ]
+            }
+        }
+    ]
+}

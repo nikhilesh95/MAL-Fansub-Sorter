@@ -1,0 +1,124 @@
+{
+    "Group": {
+        "Group Name": "Rabbit-Force",
+        "Short Name": "Rabbit-Force",
+        "IRC": "#rabbit-force@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "59",
+            "Users Disapprove": "3",
+            "Total": "62"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good till BD's showed up........"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Dragon Ball",
+            "Show Type": "TV - 153 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Very good video quality for such an old series. Nice!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Kamisama Kazoku",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "null",
+                    "Nice."
+                ],
+                "Bad Comments": [
+                    "Good quality, especially considering the small file size."
+                ]
+            },
+            "User Approval": "14 of 14 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Musekinin Kanchou Tylor",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good stuff."
+                ],
+                "Bad Comments": [
+                    "This is the only one I watched. Great translation, sometimes they don't stay on screen long enough and there are a couple TL notes and dumb jokes put in"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Show Type": "TV - 94 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Very good.",
+                    "1080 Dual audio"
+                ],
+                "Bad Comments": [
+                    "Easy to find, informational notes."
+                ]
+            },
+            "User Approval": "26 of 27 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Scrapped Princess",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "DVD source and great subs and fonts.",
+                    "Good subbing"
+                ],
+                "Bad Comments": [
+                    "Accurate and well presented."
+                ]
+            },
+            "User Approval": "6 of 7 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Tetsuwan Birdy",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great A/V quality, but one can only fix these R1 subs so much without a translator on hand.",
+                    "Needs QC by someone that understands Japanese even a little."
+                ],
+                "Bad Comments": [
+                    "r2j dvd rips",
+                    "Audio and video quality are top notch. The translation could have used improvement however."
+                ]
+            },
+            "User Approval": "8 of 9 users approve, 4 comments"
+        }
+    ]
+}

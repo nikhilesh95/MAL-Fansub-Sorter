@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "DASHIT",
+        "Short Name": "DASHIT",
+        "IRC": "#dashit @ irc.anisubs.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "13",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nogizaka Haruka no Himitsu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 15 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "trolls are pure win :) why's MAL tracking TROLLS ?",
+                    "you people are idiots. this was made by moetaku as a unofficial pre-release. that's it had the amv in the middle and also why it wasn't the best quality. get the official release",
+                    "trolls are gay"
+                ],
+                "Bad Comments": [
+                    "they added in this wierd amv of sorts in between the half way point of nogizaka.",
+                    "The subs themselves (ep1) are okay-ish (but sound stilted), but the incredibly obnoxious songvid placed between the eye catchers ruins it.",
+                    "They Put some type of watermark in the middle of the video that involved many anime characters dancing around."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Laughing man fansubs",
+        "Short Name": "GS-9/LMS/LMF",
+        "IRC": "#gits-fans@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "2",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ghost in the Shell: Stand Alone Complex",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Just really good :D"
+                ],
+                "Bad Comments": [
+                    "Clear typesetting, even had pop-outs to translate on-screen items such as labels.  Intro song translation was off however."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "14 of 15 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, nice bits of info",
+                    "The subs is made for GITS subbing, and GITS has some of the most complexed dialogues (no pun intended).",
+                    "Very good translation.",
+                    "Final version is better than the retail discs.  More information and a better translation."
+                ],
+                "Bad Comments": [
+                    "The characters were a good size and had good translations",
+                    "Great subs.",
+                    "Vocabulary used in translation is spot-on most of the time...",
+                    "Frequent mistranslation, even as bad as translating spoken english into something else to fit previous errors"
+                ]
+            }
+        }
+    ]
+}

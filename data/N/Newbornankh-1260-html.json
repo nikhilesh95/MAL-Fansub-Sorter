@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Newbornankh",
+        "Short Name": "NankH",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Elysion-hen",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya: Meiou Hades Meikai-hen",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

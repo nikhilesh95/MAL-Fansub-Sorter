@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Ruri Fansubs Network & Xenon Fansubs",
+        "Short Name": "RFN&XF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mouse",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Poor A/V quality, mistranslations, spelling/grammar errors, gratuitous Japanese, many 3-line and some 4-line subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UFO Princess Valkyrie",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

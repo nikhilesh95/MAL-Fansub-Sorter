@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "Sentosha Fansubs",
+        "Short Name": "Sentosha",
+        "IRC": "#sentosha@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "2",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken: Toki-den",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mutant Turtles: Choujin Densetsu-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shonan Junai Gumi!",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "17 of 19 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple, neat subs.",
+                    "They dropped it at last episode",
+                    "The pnly group with english fansub, subbing this series"
+                ],
+                "Bad Comments": [
+                    "Good subs, only subber i know of who does this anime therefore they're great! :)",
+                    "The only ones to sub it. But dropped it at the last episode"
+                ]
+            }
+        },
+        {
+            "Show Name": "Souten no Ken",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "10 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

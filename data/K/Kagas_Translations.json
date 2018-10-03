@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Kaga's Translations",
+        "Short Name": "Kaga",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "0",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Danball Senki W",
+            "Show Type": "TV - 58 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "kaga is The Best Translator"
+                ],
+                "Bad Comments": [
+                    "Only one person and he's making a great job"
+                ]
+            }
+        },
+        {
+            "Show Name": "Danball Senki Wars",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "9 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "once again kaga is the best"
+                ],
+                "Bad Comments": [
+                    "Fansubber of the whole Danball Senki W series and now Wars"
+                ]
+            }
+        }
+    ]
+}

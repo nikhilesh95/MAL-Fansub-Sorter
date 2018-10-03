@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE & Nandeyane",
+        "Short Name": "AonE & N!",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "2",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Green Green",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "AnimeONE is perfeact as always"
+                ],
+                "Bad Comments": [
+                    "Hi in 2018. Great subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "12 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island Final",
+            "Show Type": "OVA - 14 episodes",
+            "User Approval": "16 of 17 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "clean & accurate subs :)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Group": {
+        "Group Name": "Feline Yogi",
+        "Short Name": "FelineYogi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "34",
+            "Users Disapprove": "5",
+            "Total": "39"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Donten ni Warau",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Unwanted anglicizing ruining the atmosphere of this anime",
+                    "nice subs"
+                ],
+                "Bad Comments": [
+                    "I mean, slightly improved Funi is better than the alternative, but it's still Funi and therefore awful.",
+                    "soft subs, good edits"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ginga Tetsudou 999",
+            "Show Type": "TV - 113 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hybrid Child",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Junjou Romantica 3",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Even worse than HorribleSubs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space☆Dandy",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space☆Dandy 2nd Season",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "18 of 20 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "10/10 would bang",
+                    "FUNi edit with a better video source. Pretty good so far, recommended.",
+                    "Best choice",
+                    "Best subs, go with the CTR BD release"
+                ],
+                "Bad Comments": [
+                    "nice bait",
+                    "best choice, softsubs",
+                    "too many typos and errors, some of them confusing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tenshi no Tamago",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "18 of 20 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

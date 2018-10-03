@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "AnimeINC & Anime-Fansubs",
+        "Short Name": "AI&A-F",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kanon",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great colors/styling/typesetting/karaoke. Very flowing/natural editing. Translatiosns mostly good, except for a few isolated sections, like leaving the preview in ep 10 or 11 untranslated. Best choice on this series."
+                ],
+                "Bad Comments": [
+                    "really good imo"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sakura Taisen: Katsudou Shashin",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Mew Mew",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "STiNX",
+        "Short Name": "STiNX",
+        "IRC": "#ustinx@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "13",
+            "Total": "29"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahouka Koukou no Rettousei",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 21 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sutai-sama pls reassemble rori (U stinx otherwise)",
+                    "shit",
+                    "Subs were okay at best. They used a Forever alone joke which i didn't like. Reminds me of Commie level subbing"
+                ],
+                "Bad Comments": [
+                    "complete SHIT it's just a CR rip with terrible fonts",
+                    "Commie-level crap. Sasuga kamiyan. Go fuck yourself."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsuki ga Kirei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

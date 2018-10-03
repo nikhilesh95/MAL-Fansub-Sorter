@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Chibi Fansubs & Formula Sub",
+        "Short Name": "Chibi-Formula",
+        "IRC": "#chibi@irc.rizon.net & #formula@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "7",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Phantom: Requiem for the Phantom",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation errors.",
+                    "Shitty translations."
+                ],
+                "Bad Comments": [
+                    "Probably the best sub for this show."
+                ]
+            }
+        },
+        {
+            "Show Name": "Umi Monogatari: Anata ga Ite Kureta Koto",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Impressive & great quality!",
+                    "Good translation, does 720p version but is extremely slow right now."
+                ],
+                "Bad Comments": [
+                    "Not quite perfect, but it's the best existing translation.",
+                    "Absolutely perfect."
+                ]
+            }
+        }
+    ]
+}

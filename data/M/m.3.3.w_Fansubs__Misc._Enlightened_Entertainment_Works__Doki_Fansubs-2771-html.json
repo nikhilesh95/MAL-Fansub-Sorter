@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "m.3.3.w Fansubs / Misc. Enlightened Entertainment Works & Doki Fansubs",
+        "Short Name": "m.3.3.w-Doki",
+        "IRC": "#m.3.3.w@irc.rizon.net | #doki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "2",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Friends: Mononoke Shima no Naki",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The only guys who've done it and they did a good job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "HenSemi",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 8 users approve, 1 comments"
+        }
+    ]
+}

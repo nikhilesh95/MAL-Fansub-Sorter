@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Yamiyo Fansubs",
+        "Short Name": "Yamiyo",
+        "IRC": "#yamiyo-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kami nomi zo Shiru Sekai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "More literal than the rest."
+                ],
+                "Bad Comments": [
+                    "troll approval."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kami nomi zo Shiru Sekai: Flag 0",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

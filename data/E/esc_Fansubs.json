@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "esc Fansubs",
+        "Short Name": "esc",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I felt that the font and color choice could have been better, but all in all very solid, good translations!"
+                ],
+                "Bad Comments": [
+                    "Great quality overall. BD release with fonts and karaoke was nice too."
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "2SE-subs!",
+        "Short Name": "2SE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "1",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shin Tennis no Ouji-sama Specials",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "7 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Another Story II - Ano Toki no Bokura",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Another Story II - Ano Toki no Bokura Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tennis no Ouji-sama: Pair Prince",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

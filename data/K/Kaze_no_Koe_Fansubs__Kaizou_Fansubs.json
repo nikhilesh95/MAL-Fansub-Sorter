@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Kaze no Koe Fansubs & Kaizou Fansubs",
+        "Short Name": "KnKF & Kaizou",
+        "IRC": "#kazenokoefansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 01: Conan vs. Kid vs. Yaiba",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 02: 16 Suspects",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 03: Conan and Heiji and the Vanished Boy",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "display★none",
+        "Short Name": "display★none",
+        "IRC": "#display:none;@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Terra Formars: Bugs 2-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well, they actually did both episodes."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Ai-Subs",
+        "Short Name": "Ai",
+        "IRC": "#Ai-Subs@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "3",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ookami to Koushinryou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shit"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shigofumi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Just as good as Menclave's version."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

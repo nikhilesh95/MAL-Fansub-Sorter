@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Clover",
+        "Short Name": "Clover",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "13",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "15 of 16 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile Finale",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 15 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "many typos. awkward translations.",
+                    "At first, I was even thinking about going from Frostii to Clover. I was in love with the literal translations.\nBut then I watched the second half of the episode. Spelling mistakes, grammar mistakes, awful colloquial english. Too many mistakes.",
+                    "Some of their translation are eh.. interesting to say the least. They should improve their use of grammar or recruit a better editor/tlchecker.",
+                    "Awkward phrasing, borderline engrish."
+                ],
+                "Bad Comments": [
+                    "Way too literal translations.  It's hard to read.",
+                    "Typos everywhere, weird wording that makes no sense",
+                    "Translation is so so. But suggest an editor or sth... Silly mistakes... and need better flow... its a bit hard to read."
+                ]
+            }
+        },
+        {
+            "Show Name": "Seikon no Qwaser",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

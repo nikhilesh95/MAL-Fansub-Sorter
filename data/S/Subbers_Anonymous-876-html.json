@@ -1,0 +1,70 @@
+{
+    "Group": {
+        "Group Name": "Subbers Anonymous",
+        "Short Name": "SubsAnon",
+        "IRC": "#SubbersAnonymous@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "43",
+            "Users Disapprove": "0",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code-E",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good enough"
+                ],
+                "Bad Comments": [
+                    "They make up some contextual translations but it's pretty close."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mokke",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "19 of 19 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job.",
+                    "Easy to read."
+                ],
+                "Bad Comments": [
+                    "Well... it's the only choice for now anyways. Encoding is okay, but it's not like I have a choice.",
+                    "The best"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mokke Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shion no Ou",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zombie-Loan",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

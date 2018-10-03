@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "WhyNot? Fansubs & Over-Time",
+        "Short Name": "WhyNot-Over-Time",
+        "IRC": "#WhyNot?@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "5",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "19 of 24 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were the first ones to complete a high quality fansub.",
+                    "Both UTW and the WhyNot collab did a good job, so they both get pluses!",
+                    "Fastest + Good subs"
+                ],
+                "Bad Comments": [
+                    "Poor translation.",
+                    "Full of inaccuracies, UTW's is vastly preferable!",
+                    "because they translate gintama 2nd movie faster"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

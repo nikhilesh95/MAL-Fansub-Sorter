@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Kaishii-Fansub & Mirage-Team & Naku Translate 3",
+        "Short Name": "KF-MT-NT3",
+        "IRC": "#Kaishii-Fansub@irc.recycled-irc.net",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Zetsuen no Tempest",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hormis les fautes très très rares, l'adaptation, l'édition et la traduction sont irréprochables.",
+                    "Fansub de qualité. Que dire de plus ?"
+                ],
+                "Bad Comments": [
+                    "Very clean subs with a very few mistakes, which is enough to make it really enjoyable. Well done EP/ED karaokes as well."
+                ]
+            }
+        }
+    ]
+}

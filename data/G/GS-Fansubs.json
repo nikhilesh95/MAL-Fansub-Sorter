@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "GS-Fansubs",
+        "Short Name": "GS-Fansubs",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "3",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Being cocky with their subs -_-; what do they mean by \"ask before subbing?\" don't tell other groups what to do!"
+                ],
+                "Bad Comments": [
+                    "A lot of misspellings, so, you aren't a true fansubs team."
+                ]
+            }
+        }
+    ]
+}

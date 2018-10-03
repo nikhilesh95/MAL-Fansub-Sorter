@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "French sub alliance",
+        "Short Name": "fsa",
+        "IRC": "#fsa-fansub@kewl.org",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hikaru no Go",
+            "Show Type": "TV - 75 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

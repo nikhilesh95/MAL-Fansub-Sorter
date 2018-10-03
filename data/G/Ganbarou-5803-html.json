@@ -1,0 +1,122 @@
+{
+    "Group": {
+        "Group Name": "Ganbarou",
+        "Short Name": "Ganbarou",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "59",
+            "Users Disapprove": "22",
+            "Total": "81"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ajin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "15 of 23 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Faster than underwater and once they got rolling do a good job for the community which needed a fansub for this show.",
+                    "A poor release group for this anime.\n\n1. Bad subs which requires v2s weekly which are still full of errors.\n2. Timing + Typesetting issues\n3. Using crappy raws"
+                ],
+                "Bad Comments": [
+                    "Awful subs. Requires corrections weekly. Too many errors on translation.\n\nStay away!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ajin Part 1: Shoudou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Objectively, this is unwatchable. Typos, grammar errors & mistranslations everywhere. However, sometimes you have to bite the bullet when it's the only sub available. If a proper sub group, even Commie, were to sub this movie, it'd be a better experience."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aru Hi Inu no Kuni kara Tegami ga Kite",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Big Order",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hai to Gensou no Grimgar: Furo no Kabe ni Kaketa Seishun - One More Centimeter",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast.....and just great sub....waited for this, and only this sub group subbed this"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kokoro ga Sakebitagatterunda.",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 23 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Haters here are dumb. Ganbarou subs were the same as the official subs, only OCR'd. No missing lines, no shitty editing. Perfectly watchable.",
+                    "Bad subs",
+                    "Typesetting was terrible, \"O\" replaced by \"0\", unsubbed lines while singing was subbed... Bad, just bad.",
+                    "The subs sucked. A lot."
+                ],
+                "Bad Comments": [
+                    "Typos were worse than person learning English as 18th language for first week.  Song lyrics would cut off subtitles and make it impossible to read for minutes.",
+                    "Subs display normally, if they cut off it's your fault. And the subs are the official ones, deal with it.",
+                    "Spelling errors. Typesetting errors. Missing dialogue during important parts."
+                ]
+            }
+        },
+        {
+            "Show Name": "Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quite a few lines are mistranslated or leave out too many details of the conversation and thus do not flow well together."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona 3 the Movie 4: Winter of Rebirth",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sarusuberi: Miss Hokusai",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I suppose this is a decent effort, lacking the guide/cheatsheet of a CR script; it is accurate in broad strokes. However, there are times when the meaning is totally warped or inverted. Furthermore, some phrasings are simply strange/misleading."
+                ],
+                "Bad Comments": [
+                    "Only subs available, but overally pretty accurate and with fitting terminology."
+                ]
+            }
+        }
+    ]
+}

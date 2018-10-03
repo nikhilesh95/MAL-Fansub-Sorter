@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Sigh Subs & Genjo Subs",
+        "Short Name": "Sigh-Genjo",
+        "IRC": "#Sigh@irc.rizon.net ; #Genjo-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "2",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Magi: The Labyrinth of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Worth the wait."
+                ],
+                "Bad Comments": [
+                    "Best dialog styling by far, and minus a few derps, the script is pretty good too."
+                ]
+            }
+        },
+        {
+            "Show Name": "Psycho-Pass",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

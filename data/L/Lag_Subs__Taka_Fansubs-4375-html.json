@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Lag Subs & Taka Fansubs",
+        "Short Name": "Lag-Taka",
+        "IRC": "#Lag@irc.rizon.net  & #Taka@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "9",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shingeki no Kyojin",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "18 of 27 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They didn't drop it."
+                ],
+                "Bad Comments": [
+                    "Good subs, but getting a minus for dropping."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shingeki no Kyojin: Ano Hi Kara",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

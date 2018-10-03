@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "KuroTsuki-FanSub",
+        "Short Name": "KT-FS",
+        "IRC": "#KT-FS@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "6",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "48 خطأ في أول حلقة بس"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blood-C: The Last Dark",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Darker than Black: Ryuusei no Gemini",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Evangelion: 1.0 You Are (Not) Alone",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    ":]"
+                ],
+                "Bad Comments": [
+                    "seriously? it's like shit!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Fuse: Teppou Musume no Torimonochou",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kotonoha no Niwa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة"
+                ],
+                "Bad Comments": [
+                    "mohbaboo's better"
+                ]
+            }
+        }
+    ]
+}

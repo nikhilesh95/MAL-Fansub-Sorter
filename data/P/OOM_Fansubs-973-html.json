@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "OOM Fansubs",
+        "Short Name": "OOM",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "3",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kage kara Mamoru!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mission-E",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 9 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "slow but good!",
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "Strange that nobody whined about this Summer '08 show being 100% hardsub, yet a mere 1.5 years later any form of hardsubbing was a mortal sin.",
+                    "Almost without mistakes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Suteki Tantei Labyrinth",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "12 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Several spelling errors and horrible, overly complicated translation"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

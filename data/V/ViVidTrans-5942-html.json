@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "ViVidTrans",
+        "Short Name": "ViVidTrans",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "1",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "ViVid Strike!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 13 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

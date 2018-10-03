@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "MSPN-Fansubs",
+        "Short Name": "MSPN",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "25",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "K-On!!: Keikaku!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 27 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol",
+                    "Possibly the worst group ever. Linx-san needs a lobotomy.",
+                    "LOL at the kid who doesn't know how to use a patch, he must be new...",
+                    "http://www.whiners.pro/2011/04/linx-san-mspn-and-oretachi/ lmao",
+                    "Dropped",
+                    "R.I.P"
+                ],
+                "Bad Comments": [
+                    "Shit subs; thankfully the group is now dead.",
+                    "Subs don't show. Instead of releasing a v2, they release a patch, which doesn't seem to work for me. I'm going for lolgh0st subs on this one!",
+                    "Amateur group who makes stupid mistakes, and which has now been disbanded.",
+                    "The group is dead.",
+                    "only group subbing it or not, it's god awful",
+                    "THE'RE THE ONLY GROUP DOING IT RIGHT NOW."
+                ]
+            }
+        }
+    ]
+}

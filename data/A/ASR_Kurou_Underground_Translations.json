@@ -1,0 +1,91 @@
+{
+    "Group": {
+        "Group Name": "ASR: Kurou Underground Translations",
+        "Short Name": "ASR",
+        "IRC": "#ASR1@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "38",
+            "Users Disapprove": "12",
+            "Total": "50"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "throw-up shitty"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Rei",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "22 of 26 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good speedsub.",
+                    "So infatuated with Japanese words they use them even when there's no need.",
+                    "They have it and no one else does.",
+                    "good for speedsub, but use WinD for archiving.",
+                    "Pretty fast and accurate enough.",
+                    "Subs were good, as well as the quality. Karaoke was missing, but that's really not an important thing at all...great work!",
+                    "Great"
+                ],
+                "Bad Comments": [
+                    "Keep up the good work! :)",
+                    "shit sux + lol at giving yourself good ratings while all other subs were crap. inferior to Wind's release in any way",
+                    "Because I put an assload of work into it, and it was out the day after the raw came out.",
+                    "They actually finished the series. That's a big thing. Easy to understand translation, too.",
+                    "Learn to time and translate.",
+                    "nice, readable subs and karaoke",
+                    "The text's font was the same as it is in most VNs. I found that that was a nice touch."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Flows very nicely and brings out the wit in the series much better than other subs. Wording for other subs seems stilted or too wordy."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some incorrect translations, subtitles too grouped together, don't know how to spell: \"Shepherd\" not \"sheppard\"",
+                    "Missing Subtitles near the end, poor sentence structure and occasional untranslated words",
+                    "Watched a combo of ASR and BSS and while neither was good, ASR's version was better."
+                ],
+                "Bad Comments": [
+                    "mistranslations all over the place!\nHuge SUBS...\nNot worth the hassle of downloading at all!",
+                    "too much text"
+                ]
+            }
+        },
+        {
+            "Show Name": "Utawarerumono OVA",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice alternative to SubSmith but I don't suppose they'll sub episode 2 and 3."
+                ],
+                "Bad Comments": [
+                    "Best video quality available in english until THORA does a 1080 version."
+                ]
+            }
+        }
+    ]
+}

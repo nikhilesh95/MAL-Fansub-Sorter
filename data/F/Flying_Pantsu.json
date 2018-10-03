@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "Flying Pantsu",
+        "Short Name": "FlyingPantsu",
+        "IRC": "#FlyingPantsu@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "1",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Holy Knight",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mangirl!: Asobu Henshuu Girl",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent, save for a grammatical error or two."
+                ],
+                "Bad Comments": [
+                    "Perfect job on subbing it.\n\nHad no problems like text being too slow, fast, big, small.. Everything was in perfect middle"
+                ]
+            }
+        },
+        {
+            "Show Name": "Strike Witches Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it was accurate tl and good fonts"
+                ],
+                "Bad Comments": [
+                    "they tled very well and good quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yama no Susume: Kabe tte Kowakunai no?",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "15 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than commie",
+                    "Good translation, nice font, karaoke, not Commie"
+                ],
+                "Bad Comments": [
+                    "Good",
+                    "It was accurate and it's the only one."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "Group": {
+        "Group Name": "Rocket Gang",
+        "Short Name": "RG",
+        "IRC": "#RocketGang@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "31",
+            "Total": "62"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon Advanced Generation",
+            "Show Type": "TV - 192 episodes",
+            "User Approval": "5 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "@kanji kara complainer: The kanji were there in the opening in the broadcast, RG didn't add it to the video. Good group, only downside is attack names.",
+                    "Crappy encoding, lags at fixed places. Kanji Karaoke is useless; no one can read it and its in the way [AG150]. Manages to confuse the viewers by literary translating attack names. Use English ones as all other Pokemon sub groups ffs. TL+styles are OK.",
+                    "Awesome with another group subbing Pokemon. Great translation, encoding and typesetting. Need to improve their qualitycheck though. Also, I have to jump the bandwagon regarding english attack names. There's a reason _all_ other groups uses them."
+                ],
+                "Bad Comments": [
+                    "Most unique Pokémon subbing group.  They use softsubs.  The episodes are chaptered.  Styles are okay.  Translation is very great and the staff does their research with the terminology.  They keep it true even the attack names. Very nice staff. ^_^",
+                    "Good readable fonts, original attack names are kept in, the karaoke function looks nice, and everything runs smoothly. (AG 147-149)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes!",
+            "Show Type": "TV - 84 episodes",
+            "User Approval": "8 of 19 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"don't know how to translate pokemon moves\" It's just Japanese -> English indeed, or is that too much for your dubbie highness. ._.",
+                    "BWS has a better translation, RG has better typesetting. Go for whichever one comes out first.",
+                    "Pokemon attack names are not supposed to be 100%  literary translated unless you intend to confuse the majority of the viewers. The sub as a whole feels rather sloppily done.",
+                    "They're fine.",
+                    "Translation quality improved? I looked at their BW21 sub, and the first random scene I skipped to, Swanna's dex entry, had the dialogue more or less completely made up by their \"translator\". They're just as bad as they've always been.",
+                    "http://www.ji-hi.net/pokemonBW/ Speaks for itself. No one in the group appear to be particularly skilled in either Japanese or English. Bad English and mistranslations all over the place.",
+                    "terrible, inaccurate translations, don't even bother"
+                ],
+                "Bad Comments": [
+                    "Really, you guys are just hating now.\nThe timing and typesetting is way better than the other groups. The poor timing isn't so, it's scene timed and continuously timed. You're just giving a bad review b/c you have nothing better to do.",
+                    "don't know how to translate pokemon moves",
+                    "By quality improvement, I meant that translation has become better compared to the beginning episodes.  Their translation may still be bad, but not as bad as before, where half the translation was inaccurate.",
+                    "Poor timing - line accuracy off significantly. No scene timing, translation accuracy poor, attacks make no sense as they are too literal.",
+                    "BWS sub was late for this weeks episode and impatient as I am, I downloaded the Rocket Gang sub thinking it would be just as good. Boy was I wrong. Sticking with BWS.",
+                    "Hadena-level group with horrendously wrong translations. Staff obviously upvotes themselves on MAL crying about lack of proof of their incompetence. Here's your proof, then: http://i46.tinypic.com/2emdjs2.jpg http://i48.tinypic.com/s5cwh1.jpg"
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "9 of 17 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast release, 10 bit and ordered chapters! Consistent with sub colours (easier to read). Good karaoke effects. Translation is a bit off though.",
+                    "Better than PM. They also include a second subtitle track with English attack names for people new to anime.",
+                    "Pretty karaoke and fast release.",
+                    "Bad English and sloppy, inaccurate translations. Weaboo \"original translations\" of attack names even when the official name is equally correct, creating nothing but confusion.",
+                    "inaccurate translations"
+                ],
+                "Bad Comments": [
+                    "Great subs. Translations have gotten a LOT better. Those two comments are probably PM staff anyway since that's how they roll. Lmao They mention inaccuracies in translation without backup.",
+                    "their style looks nice",
+                    "Ahead of PM at the moment, but this sub is pretty awful. They dropped season one, too, so don't rely on them too much!",
+                    "Hadena-level group with horrendously wrong translations. Staff obviously upvotes themselves on MAL crying about lack of proof of their incompetence. Here's your proof, then: http://i46.tinypic.com/2emdjs2.jpg http://i48.tinypic.com/s5cwh1.jpg"
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon Diamond & Pearl Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "5 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I did the QCing for this episode, and call me conceited, but I know the subtitles were top quality as far as grammar and syntax are concerned."
+                ],
+                "Bad Comments": [
+                    "Simple subs which were easy to follow, great job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pokemon: Senritsu no Mirage Pokemon",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

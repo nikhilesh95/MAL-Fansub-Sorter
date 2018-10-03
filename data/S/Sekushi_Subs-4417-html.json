@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Sekushi Subs",
+        "Short Name": "Sekushi",
+        "IRC": "#sekushi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "GJ-bu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD releases with remodified EveTaku subs (that were actually remodified before!) so you get nice BD-quality video, nice audio and subs that were re-edited for 3 times now by EveTaku. Best choice."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuyushiki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dead"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuyushiki: Nyanyashiki",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dead"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

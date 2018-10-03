@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Himmel",
+        "Short Name": "Himmel",
+        "IRC": "#himmel@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "15",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Basquash!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Umai better",
+                    "The only good group doing this show.",
+                    "FAGGOTRY"
+                ],
+                "Bad Comments": [
+                    "F-F-F-Fabulous!",
+                    "I prefer Himmel group because i liked their translation... And dialogues' style, after all."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's nice that you guys are subbing such an underrated series."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "One Outs",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Mazinger Shougeki! Z-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

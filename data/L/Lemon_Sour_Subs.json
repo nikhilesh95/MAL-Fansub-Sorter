@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "Lemon Sour Subs",
+        "Short Name": "LSS",
+        "IRC": "#LemonSourSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "4",
+            "Total": "64"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anyamal Tantei Kiruminzoo",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fastest"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "20 of 22 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shit",
+                    "webcast but tl makes sense. Thanks"
+                ],
+                "Bad Comments": [
+                    "good",
+                    "Fine job"
+                ]
+            }
+        },
+        {
+            "Show Name": "K-On!: Ura-On!",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "awesome"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Needless",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Needless Specials",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Average subs. A typo or two.",
+                    "Yeah good no real problems"
+                ],
+                "Bad Comments": [
+                    "Only sub group that's still doing them really. Not bad subs, take it or leave it."
+                ]
+            }
+        },
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "slow, bad, unsure whether they just went ahead and dropped it or whatever."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana S",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana S Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "5 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "LEMONS!",
+                    "Only subs so far and they make sense. Good stuff."
+                ],
+                "Bad Comments": [
+                    "Could have translated the 'urachai' bit better. Maybe more like Eclipse's Shana-tans with 'chut up'",
+                    "Good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Weiß Survive R",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "oi currently the only fansub thats doing it"
+                ],
+                "Bad Comments": [
+                    "Really speedy, thanks! ;)"
+                ]
+            }
+        }
+    ]
+}

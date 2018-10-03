@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "ruSUBan",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yu☆Gi☆Oh! Arc-V",
+            "Show Type": "TV - 148 episodes",
+            "User Approval": "3 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tumblrfags who quit because 1 person complained to them",
+                    "They're fast, within 2 days of air date usually.  Quality is good as well."
+                ],
+                "Bad Comments": [
+                    "Tumblr's speedsubs, most of the time the context they use is wrong."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal Second",
+            "Show Type": "TV - 73 episodes",
+            "User Approval": "3 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "Sora-no Shiro",
+        "Short Name": "SNS",
+        "IRC": "#@sns@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "1",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aa! Megami-sama!",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than E-D, uses an R2 source"
+                ],
+                "Bad Comments": [
+                    "Dvd, high quality, nice karaoke, honorifics. ~sukanime"
+                ]
+            }
+        },
+        {
+            "Show Name": "Battle Programmer Shirase",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Five Star Stories",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Galaxy Angel Z",
+            "Show Type": "TV - 9 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hikyou Tanken Fam & Ihrlie",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam: The 08th MS Team",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Video Girl Ai",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A lot of lines are just flat out wrong."
+                ],
+                "Bad Comments": [
+                    "Good translation and even includes the bonus content"
+                ]
+            }
+        }
+    ]
+}

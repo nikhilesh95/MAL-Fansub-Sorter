@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "LoLiSubs & Cookie-Subs",
+        "Short Name": "LoLi&C-Subs",
+        "IRC": "#LoLiSubs@irc.euirc.net #c-subs@irc.otakubox.de",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "White Album",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

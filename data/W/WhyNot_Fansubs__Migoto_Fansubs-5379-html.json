@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "WhyNot? Fansubs & Migoto Fansubs",
+        "Short Name": "WhyNot-Migoto",
+        "IRC": "#WhyNot?@irc.rizon.net | #migoto@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "0",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yami Shibai 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "13 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perfect just like the first season."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

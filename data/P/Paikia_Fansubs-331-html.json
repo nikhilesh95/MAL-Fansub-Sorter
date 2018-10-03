@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Paikia Fansubs",
+        "Short Name": "paikia",
+        "IRC": "#paikia-fansubs@irc.singnet.com.sg",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "2",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nurse Witch Komugi-chan Magikarte",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "School Days ONA",
+            "Show Type": "ONA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I'm glad that they subbed it but the subs are hard to read.",
+                    "A couple of errors are present, typesetting is sometimes cut off, but overall good translation and not \"unreadable due to font\" like others say",
+                    "Good job. Good subs and ok video quality ^^"
+                ],
+                "Bad Comments": [
+                    "Typesetting is atrocious. Its a cursive font with a terrible choice of fill and outline.",
+                    "no other choice",
+                    "Adequate.  Some grammar and spelling errors but passable."
+                ]
+            },
+            "User Approval": "11 of 13 users approve, 6 comments"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Flomp-Fansubs",
+        "Short Name": "Flomp",
+        "IRC": "#flomp-fansubs@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "6",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "7 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A bit slow but good."
+                ],
+                "Bad Comments": [
+                    "Good for 720p episodes that no other groups did, font was shocking though."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shigurui",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "g"
+                ],
+                "Bad Comments": [
+                    "good"
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Kei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

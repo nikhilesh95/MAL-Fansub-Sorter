@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Momoiro Hime Fansubs",
+        "Short Name": "MomoiroHime",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai wa KAT-TUN",
+            "Show Type": "ONA - 5 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou no Mako-chan",
+            "Show Type": "TV - 48 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

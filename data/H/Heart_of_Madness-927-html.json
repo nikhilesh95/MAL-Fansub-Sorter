@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "Heart of Madness",
+        "Short Name": "HoM",
+        "IRC": "#heart-of-madness@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "58",
+            "Users Disapprove": "1",
+            "Total": "59"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hokuto no Ken",
+            "Show Type": "TV - 109 episodes",
+            "User Approval": "34 of 35 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very good timing and subs!",
+                    "Best subs available for HnK.",
+                    "They're great, simply",
+                    "Clear, easy to understand, and well done with few errors.",
+                    "it's good.",
+                    "best subs and quality",
+                    "Good work"
+                ],
+                "Bad Comments": [
+                    "While their sub work can leave you wondering if it was the right choice, you have to consider that HoM is the only one that's managed to fully sub the whole series. While it has some faults, it's completely watchable.",
+                    "Perfect subs!",
+                    "Very good subbing, few mistakes, if any. Great font choice, too.",
+                    "They regularly miss words, their timing is sometimes off, and their translation choices are silly and archaic. \n\nThe show is watchable with their subs and, unfortunately, these guys are the best you can get for HnK as of April 2009.",
+                    "They create great subs in a relatively small amount of time.",
+                    "Better than ASS, but that's not hard. Not a great job, but best you can get for this show apparently."
+                ]
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken 2",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because the sentences were coherent, and they got peoples names right.",
+                    "Great subbing."
+                ],
+                "Bad Comments": [
+                    "Good quality. Same group as the first series"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken: Raoh Gaiden Junai-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good Subs and video quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken: Toki-den",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hokuto no Ken: Yuria-den",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good Job!"
+                ],
+                "Bad Comments": [
+                    "Subs were good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Souten no Ken",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

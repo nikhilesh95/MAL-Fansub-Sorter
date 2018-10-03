@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Alopex Fansubs",
+        "Short Name": "Alopex",
+        "IRC": "#Alopex@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kaiketsu Zorori (TV)",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great translations, helpful cultural notes, and very professional-looking.  i only wish they would release faster"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shiawase Sou no Okojo-san",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This group simply re-released an existing fansub that had been originallyl done by undercut. (http://www.undercut.org/fansubs/)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

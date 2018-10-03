@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Zone-Anime",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "6",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Isekai no Seikishi Monogatari",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "11 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs. No spelling or grammar errors.",
+                    "Very good subs. Grammar and spelling are great, so it flows nicely which makes it easier to read. And timing's great."
+                ],
+                "Bad Comments": [
+                    "lots of small translation errors, some of which change the meaning of the sentence completely, resulting in confusion until you realize that the translators messed up.",
+                    "lol tl"
+                ]
+            }
+        },
+        {
+            "Show Name": "Major S5",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "9 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Even with a few grammar errors and such, I feel like it's done well. It doesn't have too many errors and feels as if they are correct in their translations",
+                    " 1 cuz major is a must watch ASAP for me"
+                ],
+                "Bad Comments": [
+                    "I'm pretty sure they're the only ones subbing it.",
+                    "DROPPED"
+                ]
+            }
+        }
+    ]
+}

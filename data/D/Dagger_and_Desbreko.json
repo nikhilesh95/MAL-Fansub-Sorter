@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Dagger and Desbreko",
+        "Short Name": "DnD",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The OVA: Arietta",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Goku Sayonara Zetsubou Sensei",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "awesome subs, thank you!"
+                ],
+                "Bad Comments": [
+                    "Very thorough releases -- they sub EVERYTHING, even bits that are onscreen for less than a second -- with clear, excellent translations and no spelling or grammatical errors to be found."
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Lucky☆Star: Original na Visual to Animation",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        }
+    ]
+}

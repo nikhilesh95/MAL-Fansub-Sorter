@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Galaxy Network",
+        "Short Name": "Galaxy Network",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Macross",
+            "Show Type": "TV - 36 episodes",
+            "User Approval": "5 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Ridiculous filesize overkill in the name of preserving every bit of grain, noise, artifacting, cel scratches, etc. from the source. \"15 GB of Macross, 13 GB of grain.\"",
+                    "Consistency and a gunboat"
+                ],
+                "Bad Comments": [
+                    "Yeah like the other guy said the filesizes are ridiculous, but this release is MILES better than all the other ones (including White_Base) since it is ripped from the remastered DVDs. I am talking night and day here.",
+                    "The subtitles are adequate and the video quality is much better than the White Base release."
+                ]
+            }
+        }
+    ]
+}

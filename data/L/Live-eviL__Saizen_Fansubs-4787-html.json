@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Live-eviL & Saizen Fansubs",
+        "Short Name": "Evil-Saizen",
+        "IRC": "#live-evil @irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "0",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koroshiya-san: The Hired Gun",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "11 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "complete series!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Kyoudai: Number Zero",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Warau Salesman",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "14 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finally someone subbing this.",
+                    "Fantastic subbing and a great series! I love Mogu-sama!",
+                    "Simple police, good integration"
+                ],
+                "Bad Comments": [
+                    "Great subtitles!",
+                    "pls make more"
+                ]
+            }
+        }
+    ]
+}

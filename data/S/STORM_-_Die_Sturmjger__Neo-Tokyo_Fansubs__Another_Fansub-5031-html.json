@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "STORM - Die Sturmj채ger & Neo-Tokyo Fansubs & Another Fansub",
+        "Short Name": "STORM&NTFS&AnFs",
+        "IRC": "#storm@irc.otakubox.com #ntfs@irc.euirc.net #anfs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ginga Eiyuu Densetsu",
+            "Show Type": "OVA - 110 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

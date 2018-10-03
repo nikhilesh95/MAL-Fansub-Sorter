@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Mishicorp & PoWaH Subs",
+        "Short Name": "Mishi-PoWaH",
+        "IRC": "#PoWaH@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Vampire Knight: Guilty",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have HD!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

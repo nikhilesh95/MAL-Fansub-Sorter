@@ -1,0 +1,89 @@
+{
+    "Group": {
+        "Group Name": "Yugioh!",
+        "Short Name": "YGO",
+        "IRC": "#yugioh!@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "6",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach: The Sealed Sword Frenzy",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle 2nd Season",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some grammar errors, but good TL and mostly-readable styling. Great karaokes. Overall a worthy followup to A-Kraze's TRC S1.",
+                    "Quality"
+                ],
+                "Bad Comments": [
+                    "Extremely good translation and even ffx and translation of background song 10/10"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "imo best subs out there and great vid quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh!",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Duel Monsters",
+            "Show Type": "TV - 224 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Yu-Gi-Oh! Uncut released by them and their subbing of Yu-Gi-Oh! Duel Monsters is quite good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh!: Duel Monsters GX",
+            "Show Type": "TV - 180 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

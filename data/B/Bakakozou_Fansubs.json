@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Bakakozou Fansubs",
+        "Short Name": "Bakakozou",
+        "IRC": "#bakakozou@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "8",
+            "Total": "38"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black Cat",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Minimal spelling and grammar errors, Subtitles are large enough to read, great translation work, cool font. -_-"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blood+",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "13 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shame they didn't sub past 38. Prefer this much more than SHS."
+                ],
+                "Bad Comments": [
+                    "Nothing special about their translate. That's nor bad nor good, just fine. I prefer SHS"
+                ]
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic! The Second Raid",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Softsubbing in 2005? nope.mkv"
+                ],
+                "Bad Comments": [
+                    "Consistent subbing quality."
+                ]
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witchblade",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They subbed the censored ones. BAKAYARO!"
+                ],
+                "Bad Comments": [
+                    "cool"
+                ]
+            }
+        }
+    ]
+}

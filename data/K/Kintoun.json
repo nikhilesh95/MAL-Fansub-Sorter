@@ -1,0 +1,181 @@
+{
+    "Group": {
+        "Group Name": "Kintoun",
+        "Short Name": "Kintoun",
+        "IRC": "#kintoun@irc.rizon.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "51",
+            "Users Disapprove": "2",
+            "Total": "53"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball",
+            "Show Type": "TV - 153 episodes",
+            "User Approval": "17 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "amazing work!",
+                    "Because they did a great job !",
+                    "foda"
+                ],
+                "Bad Comments": [
+                    "Ótimas legendas!",
+                    "Perfect style on the karaoke and subtitles of opening and ending."
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Ball GT",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Movie 4: Saikyou e no Michi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "péssima qualidade de video e deixaram de traduzir algumas coisas. Muito tosco ficar lendo \"kintoun\" na legenda"
+                ],
+                "Bad Comments": [
+                    "Because they did a great job !"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z",
+            "Show Type": "TV - 291 episodes",
+            "User Approval": "17 of 17 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "perfect!",
+                    "Because they did a great job !",
+                    "nice fansub"
+                ],
+                "Bad Comments": [
+                    "Legendas perfeitas!",
+                    "Awesome!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they did a great job !"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

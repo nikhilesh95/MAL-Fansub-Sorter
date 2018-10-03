@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Lamonae",
+        "Short Name": "Lamonae",
+        "IRC": "#Lamonae@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "0",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cream Lemon",
+            "Show Type": "OVA - 38 episodes",
+            "User Approval": "13 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I like that they're still working on this, and their subs are quite good.",
+                    "Hardsubs are the only real downside to this release."
+                ],
+                "Bad Comments": [
+                    "they did good.",
+                    "I wish they did softsub tho."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuuwaku Countdown: Akira",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

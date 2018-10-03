@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Psylocke",
+        "Short Name": "Psylocke",
+        "IRC": "#psylocke@irc.irchighway.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Donyatsu",
+            "Show Type": "Movie - 12 episodes",
+            "User Approval": "8 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "Accurate and clean"
+                ],
+                "Bad Comments": [
+                    "Only group doing it, you work with what you get... and they also do it quite decently.",
+                    "only subbed 3 eps"
+                ]
+            }
+        }
+    ]
+}

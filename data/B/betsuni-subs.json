@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "betsuni-subs",
+        "Short Name": "betsuni",
+        "IRC": "#betsuni@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "3",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baka to Test to Shoukanjuu Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "12 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped?",
+                    "Good subs, but never finished them and the groups dead according to their site."
+                ],
+                "Bad Comments": [
+                    "Great job overall, hope to see more good things from this new group in the future!",
+                    "really pro"
+                ]
+            }
+        }
+    ]
+}

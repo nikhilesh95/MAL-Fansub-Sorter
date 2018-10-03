@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Wyvern",
+        "Short Name": "Wyvern",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "9",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Slayers Revolution",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tetsuwan Birdy Decode",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only did the first episode"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Hikari Senshi",
+        "Short Name": "H-S",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chousoku Henkei Gyrozetter",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "15 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Super slow but works."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

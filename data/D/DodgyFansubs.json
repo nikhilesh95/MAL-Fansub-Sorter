@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "DodgyFansubs",
+        "Short Name": "dodgysubs",
+        "IRC": "#dodgyfansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "its actually pretty good considering they are new to fansubbing"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Gambler",
+        "Short Name": "Gambler",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakuman.",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "14 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fixing guesssubs? what the fuck?",
+                    "gg in disguise.",
+                    "It came out quick and was good for a solo project"
+                ],
+                "Bad Comments": [
+                    "Slower than other options.",
+                    "Fixes Guesssubs, know what the fuck they're doing.\n\nMature, overall bros\n\nthe chemo saving fansubbers.",
+                    "I like this one. Typos, but very passable."
+                ]
+            }
+        }
+    ]
+}

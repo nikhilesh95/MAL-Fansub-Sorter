@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Baka Neko Subs",
+        "Short Name": "BakaNeko",
+        "IRC": "#bakaneko@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs may be simple, but I love them"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Konjiki no Gash Bell!!",
+            "Show Type": "TV - 150 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

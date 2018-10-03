@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "Yu",
+        "Short Name": "yu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "6",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gokujou!! Mecha Mote Iinchou",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It looks like they dropped this anime sadly...they only subbed 2 episodes and then they stopped. That was too bad seen I liked the anime in thoose two episodes I saw!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kujibiki♥Unbalance",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only English subs available :v"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The horrendous subs make this show even funnier."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sin in the Rain",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lousy grammar."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To Heart: Remember My Memories Specials",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yomigaeru Sora: Rescue Wings",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yomigaeru Sora: Rescue Wings - Saigo no Shigoto",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

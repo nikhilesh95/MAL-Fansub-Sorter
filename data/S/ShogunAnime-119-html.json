@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "ShogunAnime",
+        "Short Name": "SHG",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "13",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lol wtf"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Taiho Shichau zo: Second Season",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

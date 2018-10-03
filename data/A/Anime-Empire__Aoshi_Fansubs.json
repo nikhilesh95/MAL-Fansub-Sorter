@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Anime-Empire & Aoshi Fansubs",
+        "Short Name": "A-E&Aoshi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Konjiki no Gash Bell!!",
+            "Show Type": "TV - 150 episodes",
+            "User Approval": "11 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The very first line in the show is \"We are almost there, Owashi-dono.\" (Note: Owashi-dono means Eagle-dono.)",
+                    "Very impressive translation, they also have honorifics. Although they was miner typos; the overall quality was really good."
+                ],
+                "Bad Comments": [
+                    "the only one i can get"
+                ]
+            }
+        }
+    ]
+}

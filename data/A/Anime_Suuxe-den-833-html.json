@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Anime Suuxe-den",
+        "Short Name": "ASD",
+        "IRC": "#anime-suuxe-den@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "4",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ashita no Joe",
+            "Show Type": "TV - 79 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginga Densetsu Weed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I like this groups dubbing because I easily understood it.",
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "Excellent subbing on Ginga!",
+                    "The only available subs that aren't shit. Great release."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ginga Nagareboshi Gin",
+            "Show Type": "TV - 21 episodes",
+            "User Approval": "4 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "good"
+                ],
+                "Bad Comments": [
+                    "Seemed like a swedish sub group, the english was misspelled and the grammar wasn't any good at all, sometimes I even saw a swedish subtitle, I think I counted them to 5 or so."
+                ]
+            }
+        }
+    ]
+}

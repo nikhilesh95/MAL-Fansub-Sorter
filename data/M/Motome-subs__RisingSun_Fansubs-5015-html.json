@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Motome-subs & RisingSun Fansubs",
+        "Short Name": "MoE&RS-F",
+        "IRC": "#motome@irc.euirc.net #risingsun@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detroit Metal City",
+            "Show Type": "OVA - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

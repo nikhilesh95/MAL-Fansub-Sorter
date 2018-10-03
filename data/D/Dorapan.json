@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Dorapan",
+        "Short Name": "Dorapan",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Doraemon Movie 28: Nobita to Midori no Kyojin Den",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice"
+                ],
+                "Bad Comments": [
+                    "dorapan sugoi na"
+                ]
+            }
+        }
+    ]
+}

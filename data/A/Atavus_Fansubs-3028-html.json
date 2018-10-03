@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Atavus Fansubs",
+        "Short Name": "Atavus",
+        "IRC": "#AtavusFansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amatsuki",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "Comments": {
+                "Good Comments": [
+                    "ok just watched this like 2 seconds ago and i came here immediately to say that this tp28 guy is the ****ing BOMB! amazing group! two thumbs up!"
+                ],
+                "Bad Comments": [
+                    "possibly the greatest fansub EVER... ok this may sound a bit CRAZAY, but i feel like one of the QC guys tp28 MIGHT be the second coming!!!!!"
+                ]
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Kekkaishi",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Kindaichi Shounen no Jikenbo Specials",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

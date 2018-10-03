@@ -1,0 +1,61 @@
+{
+    "Group": {
+        "Group Name": "YarashiiSubs",
+        "Short Name": "Yarashii",
+        "IRC": "#YarashiiSubs@irc.​Tennoko.​org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "7",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fault!!",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate enough for my liking. Its the only subbed version I watched and I thought it was good..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kansen: Inyoku no Rensa",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oni Chichi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "11 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terribly inaccurate translation"
+                ],
+                "Bad Comments": [
+                    "Pure translation just as I like."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yokorenbo: Immoral Mother",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad translation and timing"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Pakuru",
+        "Short Name": "Pakuru",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "5",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 13 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "coalgirls bd comes with these subs.... bad.",
+                    "coalgirls bd comes with these subs.... not bad.",
+                    "CR rips, but whatever. Good enough."
+                ],
+                "Bad Comments": [
+                    "CR rips.",
+                    "CR rips, but sucks",
+                    "A lightly edited version of CR's script. For once, a fan edit does make minor improvements, but the subs are still bad because the numerous (and obvious!) translation errors in the CR script remain. I think it's safe to assume this group had no translator"
+                ]
+            }
+        }
+    ]
+}

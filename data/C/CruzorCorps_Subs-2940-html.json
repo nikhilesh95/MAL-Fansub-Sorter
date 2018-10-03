@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "CruzorCorps Subs",
+        "Short Name": "CCS",
+        "IRC": "#ccs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "9",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nisemonogatari",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ehhhh"
+                ],
+                "Bad Comments": [
+                    "lol dropped."
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "17 of 23 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fastest, HQ",
+                    "Simply the fastest HD releases. Sub quality has improved over time."
+                ],
+                "Bad Comments": [
+                    "wrong translation to some words that i know",
+                    "the best fast subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "UN-GO",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "17 of 23 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

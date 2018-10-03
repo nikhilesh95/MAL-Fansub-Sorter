@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Suiri Otaku & Kaitou Fansubs",
+        "Short Name": "SuiriOtaku-Kaitou",
+        "IRC": "#suiriotaku@irc.rizon.net | #Kaitou-Fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "0",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "13 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice job.. thank you"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

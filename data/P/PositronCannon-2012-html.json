@@ -1,0 +1,112 @@
+{
+    "Group": {
+        "Group Name": "PositronCannon",
+        "Short Name": "Positron",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "123",
+            "Users Disapprove": "7",
+            "Total": "130"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Adventure 02",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "27 of 28 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Does a great job. Excellent Quality. Happy that someone is doing this series in its ORIGINAL format.",
+                    "Regular output, consistent quality.",
+                    "the quality is of the highest and the subbing is done accurately and quickly"
+                ],
+                "Bad Comments": [
+                    "nice quality",
+                    "DVD quality, overall good translation with only some minor slip-ups and the only complete version other than the crappy region locked official subs.",
+                    "Did a great job, only critic for not doing the karaoke and Digimon Analyzer."
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure 02: Diablomon no Gyakushuu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "13 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best quality and translation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "17 of 18 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best quality and translation.",
+                    "He uses the correct words in translations that are closer to the original, where groups like WPP translate VERY loosely."
+                ],
+                "Bad Comments": [
+                    "great work"
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure: Bokura no War Game!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "10 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Frontier",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "25 of 26 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality",
+                    "English is most accurate and video quality is good.",
+                    "he has a great english translations talent."
+                ],
+                "Bad Comments": [
+                    "Finally Frontier gets decent treatment.",
+                    "The best choice for this anime"
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Frontier: Ornismon Fukkatsu!!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate translation & good quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Tamers",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "28 of 32 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tamers",
+                    "Secondary translation.",
+                    "Only group that subs in english without giving up on it =D",
+                    "All 51 episodes subbed"
+                ],
+                "Bad Comments": [
+                    "The phrasing isn't the best, but this group is always accurate (new version 16-51).",
+                    "Loved the quality of the episodes. Exceedingly happy that this series was finally finished. Did a great job with timely releases",
+                    "Mediocre initial release, but now re-subbing everything with proper translations under the tag [PLSP]",
+                    "Removed his subs."
+                ]
+            }
+        }
+    ]
+}

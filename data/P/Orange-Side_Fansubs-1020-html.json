@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "Orange-Side Fansubs",
+        "Short Name": "Orange-Side",
+        "IRC": "#orange-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "48",
+            "Users Disapprove": "24",
+            "Total": "72"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aria The Origination",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "no mistakes, 2 languages, and great tyspetting",
+                    "no mistakes."
+                ],
+                "Bad Comments": [
+                    "good karaoke and accurate translation (even with 2 language tracks)",
+                    "love it, timing could be a bit better but otherwise great"
+                ]
+            }
+        },
+        {
+            "Show Name": "Chi's Sweet Home",
+            "Show Type": "TV - 104 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hatenkou Yuugi",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "6 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nooob"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Persona: Trinity Soul",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "20 of 28 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I think it's the best sub out there.",
+                    "good quality, great translation, and nice font",
+                    "Highly questionable translation, if you could call it that.",
+                    "pretty but  bad translation",
+                    "awesome stuff",
+                    "easy to read. Good subs.",
+                    "the DDL is speed"
+                ],
+                "Bad Comments": [
+                    "Impressive fonts, good timing, quality video clips, TL accuracy, and considerable release pace. This group has the most reliable TL after SHS and AniYoshi. Decent to be kept in your HD.",
+                    "Thorough subs, smooth font, and good translations...",
+                    "Nice translation, nice notes, decent karaoke.",
+                    "Translation is accurate, typesetting and timing is great. Its simply overall a great release.",
+                    "everything and quick release :D",
+                    "they take long to sub though"
+                ]
+            }
+        },
+        {
+            "Show Name": "Vampire Knight",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 15 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "baddd",
+                    "undefined",
+                    "They relied too heavily on the manga for their translations, in which case some parts ended up being wrong."
+                ],
+                "Bad Comments": [
+                    "great quality and font",
+                    "lol are they really workin' on it?"
+                ]
+            }
+        }
+    ]
+}

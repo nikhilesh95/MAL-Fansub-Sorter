@@ -1,0 +1,125 @@
+{
+    "Group": {
+        "Group Name": "DamagedGoodz",
+        "Short Name": "DGz",
+        "IRC": "#DGz@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "153",
+            "Users Disapprove": "15",
+            "Total": "168"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Evangelion: 1.0 You Are (Not) Alone",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Evangelion: 2.0 You Can (Not) Advance",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 14 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "giggity",
+                    "gud",
+                    "just no..."
+                ],
+                "Bad Comments": [
+                    "Nice Work.",
+                    "To be honest, the quality is a bit higher than necessary and the 720p lagged for me a bit (even though I normally have no problems playing 1080p). No other complaints, a very solid release",
+                    "subs is not at good as the dub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hellsing Ultimate",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "73 of 79 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subbers",
+                    "much inferior than sage with episode 9.somtimes left sth out",
+                    "best",
+                    "\"No more release from them...\" -> lol, they released all of OVAs. :P",
+                    "superb",
+                    "No more release from them..."
+                ],
+                "Bad Comments": [
+                    "They are all I could want from a fansub",
+                    "Qualitative Subs",
+                    "very good quality",
+                    "best for episode 1-9 ~sukanime",
+                    "Very good subs;simple and easy to read, good job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "27 of 28 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality DVD rips",
+                    "Translation's seem to be as good or similar enough to Triad, but the video quality is much superior! Being DVD rips. I compared both, Triad is good, but DGz is the same + higher video quality. Go with DGz!",
+                    "Awesome.",
+                    "Best ^^",
+                    "Terrible americanized translation."
+                ],
+                "Bad Comments": [
+                    "Can't comment on translation, but timing, grammar etc. is good.",
+                    "Video is a blury, warpsharped mess. Unfortunately this is still the best release so far.",
+                    "great video, sound quality and translation",
+                    "Yep."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha A's",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "31 of 31 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality DVD rips",
+                    "+1"
+                ],
+                "Bad Comments": [
+                    "Triad script in DVD quality",
+                    "still the best"
+                ]
+            }
+        },
+        {
+            "Show Name": "MM!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

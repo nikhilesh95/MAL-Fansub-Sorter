@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Kienai-Niji",
+        "Short Name": "Kienai",
+        "IRC": "#Kienai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "2",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "12 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translations, Nice job"
+                ],
+                "Bad Comments": [
+                    "Only released a bare handful amount of episodes. Hasn't made a release since 2012."
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "awesome"
+                ],
+                "Bad Comments": [
+                    "Translation is watchable, but has a few unnatural sounding parts here and there. Decent SD encode. Not horrible, but not recommendable."
+                ]
+            }
+        }
+    ]
+}

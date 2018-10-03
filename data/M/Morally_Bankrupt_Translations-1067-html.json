@@ -1,0 +1,91 @@
+{
+    "Group": {
+        "Group Name": "Morally Bankrupt Translations",
+        "Short Name": "mbt",
+        "IRC": "#mbt@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "64",
+            "Users Disapprove": "7",
+            "Total": "71"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chocotto Sister",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "11 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Soft sub is greatly appreciated.",
+                    "It's slightly annoying that they won't translate \"imouto\", among other terms...a sub is, after all, there for translations' sake, no? But I'll plus them, since the subtitles are otherwise very nicely done. Good work with the op/ed sequences, as well."
+                ],
+                "Bad Comments": [
+                    "The subs are really messy, badly written, and they add way to much jibberish that's not needed to show the viewer. Ryo did way better, even if theirs were not that go either they surely beat Mbt. Sadly, no Ryo past ep 11,so had to stick with these."
+                ]
+            }
+        },
+        {
+            "Show Name": "Moetan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "23 of 25 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "matroska ftw!",
+                    "Glad they picked it up when others dumoed it, and great quality too.",
+                    "Stuck with it despite distro, good job.",
+                    "Mistranslations left and right"
+                ],
+                "Bad Comments": [
+                    "Very nice quality, glad I can finally continue on Moetan.",
+                    "Only ones continuing the series. Quality subs, as well.",
+                    "Beautiful OP/ED on Moetan ^^, Overall great subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Moetan Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great",
+                    "Legal."
+                ],
+                "Bad Comments": [
+                    "A miracle. It's finally out."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they're the only group translating this.",
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Because our Joint Partners are awesome."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yotsunoha",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "14 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "non-decimated encode",
+                    "nice subbing and great quality..",
+                    "I couldn't stand the translation, that I had to disable subtitles... Hurray for softsubs!! Hurray!"
+                ],
+                "Bad Comments": [
+                    "Fantastic. Good font, translation, karaoke.",
+                    "Released quickly and check their subs well."
+                ]
+            }
+        }
+    ]
+}

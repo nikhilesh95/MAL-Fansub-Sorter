@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Tenshi Fansubs",
+        "Short Name": "tenshi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "13",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "11 of 23 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible inaccurate translation riddled with typos and grammar mistakes.",
+                    "\"Great quality of translations and video plus it does karaoke.\" Wrong translations = good? Lol.",
+                    "bad",
+                    "Great quality of translations and video plus it does karaoke.",
+                    "FedSubs reincarnate"
+                ],
+                "Bad Comments": [
+                    "Riddled with TL errors and terrible grammar",
+                    "had to change me review from positive to negative because the fucking pussies couldn't even finish this one show and it was their only show.",
+                    "Why are spelling and grammatical errors \"expected\" from fansubs? What prevents fansubbers from being literate?",
+                    "accurate translation",
+                    "Lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "TL errors"
+                ],
+                "Bad Comments": [
+                    "Only english fansubber with good qualities for this episode."
+                ]
+            }
+        }
+    ]
+}

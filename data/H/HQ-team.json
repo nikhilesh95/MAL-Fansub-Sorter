@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "HQ-team",
+        "Short Name": "HQ-team",
+        "IRC": "#hq-team@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "6",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-Channel",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The most accurate group!",
+                    "good subs with karaoke"
+                ],
+                "Bad Comments": [
+                    "^Part of their group...don't believe"
+                ]
+            }
+        },
+        {
+            "Show Name": "IS: Infinite Stratos",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "spelling mistakes, video looks like monstershit etc",
+                    "Okay translation, pretty shit quality video when downloaded in 720p, Karaoke is good; the v2 fixes weird karaoke translation."
+                ],
+                "Bad Comments": [
+                    "Shit encode.",
+                    "lol hq? quality sucks. subs suck. dude above doesn't know how good karaoke looks like."
+                ]
+            }
+        }
+    ]
+}

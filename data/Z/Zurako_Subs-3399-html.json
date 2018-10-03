@@ -1,0 +1,516 @@
+{
+    "Group": {
+        "Group Name": "Zurako Subs",
+        "Short Name": "Zurako",
+        "IRC": "#Zurako@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "226",
+            "Users Disapprove": "52",
+            "Total": "278"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ben-To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "2 sub tracks & BD",
+                    "bd + evetaku. best choice.",
+                    "Non-bloated BD with 2 sub tracks (EveTaku and gg)"
+                ],
+                "Bad Comments": [
+                    "High quality subs. Looks nice.",
+                    "They were good. Fuck you I don't need more reason than that."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ben-To Picture Drama",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "6 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They didn't finish the job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Shinki",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Shinki Moon Angel",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Busou Shinki OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "C: The Money of Soul and Possibility Control",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I would have preferred gg over Whine."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chihayafuru",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "27 of 38 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Uses Commie's subs. Too liberal",
+                    "far and away the best option",
+                    "Some words are mis-translated",
+                    "Best BD",
+                    "They used Commie's subs, and sabotaged their own project as a result. If you voluntarily use terrible subs then it proves you couldn't care less about what you are producing.",
+                    "Hi"
+                ],
+                "Bad Comments": [
+                    "Great explainations",
+                    "BD",
+                    "Translated yakisoba bread as hotdogs, nuff said.",
+                    "Translated yakisoba bread as hotdogs, nuff said.",
+                    "BD release",
+                    "Commie garbage"
+                ]
+            }
+        },
+        {
+            "Show Name": "Chouyaku Hyakuninisshu: Uta Koi.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "27 of 38 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Build Fighters",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "HHH Triple Ecchi",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Rei",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée Picture Drama",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée The Animation: Ongakkai \"Récital\"",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ikoku Meiro no Croisée: Yune & Alice",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Dolls",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Dolls Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "14 of 15 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "37 of 39 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Commie subs + BD rip = WIN!",
+                    "Blu-rays with commie subs.",
+                    "Commie subs + BD"
+                ],
+                "Bad Comments": [
+                    "blu ray + best subs",
+                    "bd quality with good subs",
+                    "Great subs! My only complaint is that they did not sub the previews at the end of each episode; however, I rarely watch those when there is not any relevant info. That was true of this series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon II",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "18 of 19 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were formatted nicely, and the translation quality was top notch.",
+                    "BD + commie"
+                ],
+                "Bad Comments": [
+                    "No 720p release."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyoukaisenjou no Horizon: Kyokutou Naruhodo Kouza",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Log Horizon",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "12 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Uses Commie subs, but good visual quality at least.",
+                    "perfect",
+                    "Decent."
+                ],
+                "Bad Comments": [
+                    "First to give a modern BD release. Nice work.",
+                    "A solid complete BD release"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mawaru Penguindrum",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "16 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Watched a modified version of this release by Flep, was great.",
+                    "Simply the best version to go with gg+ BD rips= Super quality.",
+                    "Gg subs, fuck this trash."
+                ],
+                "Bad Comments": [
+                    "Really nice encode with well styled subtitles. The subs are from gg, which are regarded as the best for this release from what I've read.",
+                    "Best",
+                    "looks good but some of the lines are translated awfully"
+                ]
+            }
+        },
+        {
+            "Show Name": "Motto To LOVE-Ru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "20GB for 12 eps? Blurry as hell. No thanks :P"
+                ],
+                "Bad Comments": [
+                    "bloe ray!!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mouretsu Pirates",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou San",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mistranslating - e.g. Nyanko-sensei, or just sensei  is subbed as Nyanko!\n\nAnd they translate Yokai as Demon, but to a western audience, demon has a very different connotation.",
+                    "Horrible video. Their so call bd 1080p is equal to normal 320p/480p"
+                ],
+                "Bad Comments": [
+                    "Holy fuck, so many scene bleeds. How can you fuck up shifting this badly?",
+                    "perfectly fine for fuck's sake"
+                ]
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou Shi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu-Ray, Commie."
+                ],
+                "Bad Comments": [
+                    "Blu-Ray, CommieSubs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami Kodomo no Ame to Yuki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great BD"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Queen's Blade: Utsukushiki Toushitachi",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "BD Quality + Ryuumaru Subs = win"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement Episode 0",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only English encode to have the correct translation for insert song \"Servante Du Feu\". Nicely styled OP/ED. Uses CoalGG for the OP/ED, EDITED YuS-m.3.3.w for insert song (style same), R1 home release for episode 7.5 and CR for all other subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "So Ra No Wo To Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shit, SHIT!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Super Robot Taisen OG: The Inspector",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tamayura",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Weird translations"
+                ],
+                "Bad Comments": [
+                    "Uses Mamiko subs and the encode is nicer than CGi's."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tiger & Bunny",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "suck because it 10bit, i cannot play it in my Android Tablet."
+                ],
+                "Bad Comments": [
+                    "Who the fuck gives a single flying fuck about your fucking tablet? The only thing we fucking care about is that its the best fucking video quality available with the best fucking subs available. FUCK MAAN"
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Blu-Ray"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UN-GO",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "5 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation is off."
+                ],
+                "Bad Comments": [
+                    "BD"
+                ]
+            }
+        },
+        {
+            "Show Name": "UN-GO: Inga-ron",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's Commie, and still has the typos and mistakes of the original."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usagi Drop",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "19 of 22 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great BD release!",
+                    "Best BD release so far",
+                    "Taka's shitty fansubs when there are CR subs available.",
+                    "bd release."
+                ],
+                "Bad Comments": [
+                    "Uses Taka's script, BD quality and does all the specials!",
+                    "woot for BD release :3",
+                    "Probably the easiest obtainable blu-rays for this.",
+                    "They are done in a profesional matter with more translated words than dokis fansub"
+                ]
+            }
+        },
+        {
+            "Show Name": "Usagi Drop Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "~ is not punctuation."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witchblade",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice bluray quality."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

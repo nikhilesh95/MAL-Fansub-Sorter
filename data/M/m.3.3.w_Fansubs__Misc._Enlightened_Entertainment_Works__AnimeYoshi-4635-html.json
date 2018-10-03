@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "m.3.3.w Fansubs / Misc. Enlightened Entertainment Works & AnimeYoshi",
+        "Short Name": "m.3.3.w-Yoshi",
+        "IRC": "#m.3.3.w@irc.rizon.net | #AnimeYoshi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "4",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nisekoi",
+            "Show Type": "TV - 20 episodes",
+            "User Approval": "4 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped"
+                ],
+                "Bad Comments": [
+                    "Very accurate, little to no mistakes in translation or spelling."
+                ]
+            }
+        }
+    ]
+}

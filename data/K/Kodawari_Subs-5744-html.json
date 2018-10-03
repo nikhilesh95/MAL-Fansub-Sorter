@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kodawari Subs",
+        "Short Name": "Kodawari",
+        "IRC": "#Kodawari@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kuusen Madoushi Kouhosei no Kyoukan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "9 episodes done but it's the best option by far"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

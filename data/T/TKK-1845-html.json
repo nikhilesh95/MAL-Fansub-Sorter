@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "TKK",
+        "Short Name": "TKK",
+        "IRC": "#tkk@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "14",
+            "Total": "34"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hanasakeru Seishounen",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sora no Manimani",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "20 of 33 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs. No spelling or major grammar errors.",
+                    "v2 works",
+                    "Perfect.",
+                    "Personally, didnt mind the styling of the subs, but missed lines, if not for that they would of been acceptable, though i cant comment on the accuracy of the translation",
+                    "good subs, they fixed missing lines in v2. And second episode was well subbed.",
+                    "Good sub, but they left out the OP/ED and five or so sentences.",
+                    "good 720p release"
+                ],
+                "Bad Comments": [
+                    "They missed a lot of lines also got some TS problems. But still since as for now they're the only ones subbing the show they got +  from me.",
+                    "Besides the fact that they didn't sub the op and ed, they also obviously forgot to sub several lines in the episode.",
+                    "impressive job for a lone subber. some lines were skipped, but it was easy enough to be able to figure out what was going on",
+                    "one person job... damn good.",
+                    "missing lines D=",
+                    "overall, was decent, even with a few missing likes"
+                ]
+            }
+        }
+    ]
+}

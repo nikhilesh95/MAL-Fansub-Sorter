@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Garoo Desu",
+        "Short Name": "Garoo",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "0",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Top wo Nerae! Gunbuster",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "25 of 25 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Garoo chama wa totiemoo sogui dakara UvU",
+                    "Brilliant work.",
+                    "Thanks"
+                ],
+                "Bad Comments": [
+                    "العمل جميل وترجمة حلوة",
+                    "sogoi"
+                ]
+            }
+        }
+    ]
+}

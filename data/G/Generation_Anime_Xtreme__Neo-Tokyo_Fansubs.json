@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Generation: Anime Xtreme & Neo-Tokyo Fansubs",
+        "Short Name": "G:AX&NTFS",
+        "IRC": "#GAX@irc.otakubox.de #ntfs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "1",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "10 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "This groups performance sucks like hell, the animes they chose are bad and they need so long to sub an episode and then the quality is bad. Also the video quality is really bad: 720p looks like 480p."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "10 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Premium Collection",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "10 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

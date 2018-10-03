@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE, Mendoi Fansubs & Conclave Fansubbing",
+        "Short Name": "AonE-Menclave",
+        "IRC": "#menclave@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "39",
+            "Users Disapprove": "7",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kara no Kyoukai 1: Fukan Fuukei",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great job"
+                ],
+                "Bad Comments": [
+                    "Coalgirls"
+                ]
+            }
+        },
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "37 of 42 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Perfect quality, no errors or typos, everything's subbed. Menclave, your best choice.",
+                    "Flawless subbing",
+                    "Well, if you want to watch awesome quality subs, watch this group's. If not... why even watch?",
+                    "Good quality and excellent subbing.",
+                    "great quality",
+                    "The subs looked great and were accurate as far as I can tell."
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Why can't you just use the Chinese names instead of romanized Japanese ones?",
+                    "Great encode, good typesetting and useful but not obtrusive notes.",
+                    "To guy who posted negative comment: It's annoying to hear the voice actors say someone's name one way, yet read it differently.",
+                    "they did a good job subbing this series",
+                    "pointless translator notes for literally everything they can think of"
+                ]
+            }
+        }
+    ]
+}

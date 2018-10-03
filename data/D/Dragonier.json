@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Dragonier",
+        "Short Name": "Dragonier",
+        "IRC": "#msoms-fansub@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "0",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chihayafuru",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chihayafuru 2",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "10 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ترجمة ممتازة للأنمي. انتقاء جيّد للكلمات الشعرية"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hotaru no Haka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenkuu no Shiro Laputa",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

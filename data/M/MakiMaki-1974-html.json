@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "MakiMaki",
+        "Short Name": "makimaki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "8",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saki",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "27 of 35 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pretty good subs. No spelling errors but there are a few grammar errors.",
+                    "Not bad at all; Superior to Underwater",
+                    "Horrible video quality and horrible styling.",
+                    "Get subs released quickly with good quality.",
+                    "pretty good"
+                ],
+                "Bad Comments": [
+                    "Fast and reliable! Though the video quality from some episodes had obvious cut lines each time there are heavy-animated scenes. A good speed subber's release for those who can't wait for Underwater's release.",
+                    "great subs",
+                    "Pretty shitty job - Seems like they've just stole CR subs since their episode 1 has the same translation error as the crunchyroll subs.",
+                    "underwater & majong is beter"
+                ]
+            }
+        }
+    ]
+}

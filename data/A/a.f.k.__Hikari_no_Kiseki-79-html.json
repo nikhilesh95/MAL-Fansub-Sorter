@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "a.f.k. & Hikari no Kiseki",
+        "Short Name": "a.f.k. & HnK",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "40",
+            "Users Disapprove": "1",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Princess Tutu",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "38 of 39 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Undertranslated: Keikaku means plan, and Ahiru means Duck.",
+                    "There've been some minor problems with some of the German Names (e.g. Raetsel, Autor), but apart from that, very decent work!",
+                    "good",
+                    "Beautiful looking subtitles, easy to follow, and color-coded for characters.  This is the way to go."
+                ],
+                "Bad Comments": [
+                    "It's nice to view",
+                    "Nice text styles.  Very pretty OP and ED subs.  Overall good translation.",
+                    "Very high quality work, and some obvious love was put into it with the liner notes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Princess Tutu Recaps",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I liked how they included the songs that were played during the episodes, too."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

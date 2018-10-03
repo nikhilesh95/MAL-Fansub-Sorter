@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Aozora Subs & tmusubs",
+        "Short Name": "Aozora-TMU",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Daa! Daa! Daa!",
+            "Show Type": "TV - 78 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

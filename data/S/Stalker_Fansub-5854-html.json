@@ -1,0 +1,92 @@
+{
+    "Group": {
+        "Group Name": "Stalker Fansub",
+        "Short Name": "Stalker",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "2",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "God Eater",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiznaiver",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 16 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A partir do episódio 3 passaram a simplesmente usar a legenda do Crunchyroll (podem conferir, até os erros tão iguaizinhos), e ainda tiveram a cara de pau de colocar os nomes nos créditos. Conheci há pouco tempo a fansub, mas já perdeu totalmente a ",
+                    "Like"
+                ],
+                "Bad Comments": [
+                    "Gostei das legendas, qualidade de vídeo muito boa também, continuem assim."
+                ]
+            }
+        },
+        {
+            "Show Name": "Senyuu.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Senyuu. 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sore ga Seiyuu!: Petit Uchiage",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Teekyuu 5",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Usakame",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wagamama High Spec",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

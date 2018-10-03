@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "katana-subs",
+        "Short Name": "kata-subs",
+        "IRC": "#katana-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "25",
+            "Total": "40"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ao no Exorcist",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "loved it",
+                    "Katana-Subs has dropped Ao no Exorcist"
+                ],
+                "Bad Comments": [
+                    "Video quality is good.",
+                    "dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Morita-san wa Mukuchi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "9 of 22 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not so much \"liberal\" as they are \"wrong.\" And it takes more than dropped honorifics to make a translation liberal.",
+                    "Liberal",
+                    "The translation was mostly off.",
+                    "fun",
+                    "i hope someone else will do it"
+                ],
+                "Bad Comments": [
+                    "Horrible translation",
+                    "I'd wish to vote up, cause they translated it. But there were quite a few mistranslations.",
+                    "The translation is dreadful.",
+                    "The best group I have ever seen at making shit up. It's questionable if anyone on their team is even aware Japanese is a language.",
+                    "Can't even read the title correctly... FAIL"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nana to Kaoru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "not 2 bad",
+                    "Ugly font, not even 16:9 like the other groups. Still 3:2."
+                ],
+                "Bad Comments": [
+                    "lrn2style, lrn2mux"
+                ]
+            }
+        }
+    ]
+}

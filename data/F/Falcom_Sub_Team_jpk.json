@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Falcom Sub Team jpk",
+        "Short Name": "Falcom Sub Team jpk",
+        "IRC": "#falcom@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Minna Atsumare! Falcom Gakuen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs. Thanks.",
+                    "subs are okay, but the typesetting needs a lot of work"
+                ],
+                "Bad Comments": [
+                    "Great script, overall quality job. Falcom fans at their best!",
+                    "Official subtitle team"
+                ]
+            }
+        }
+    ]
+}

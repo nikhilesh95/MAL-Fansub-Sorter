@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "Titanium Subs",
+        "Short Name": "Titanium",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "0",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sekirei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Amazing quality and good translations.",
+                    "Fantastic Quality!!",
+                    "Good quality and nice translation!"
+                ],
+                "Bad Comments": [
+                    "Awesome.",
+                    "Wonderful Quality.",
+                    "Good."
+                ]
+            }
+        }
+    ]
+}

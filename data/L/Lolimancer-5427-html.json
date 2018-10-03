@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Lolimancer",
+        "Short Name": "Lolimancer",
+        "IRC": "#&@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "8",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Francesca",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "10 of 18 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "slow as f*ck",
+                    "Kill yourself already together with your piece of shit Troll Subs.",
+                    "\"gogogogogo\" \"One lamb. Two ram. Tres. Cuatro. Cinco. ¿Todo bien? ¡Todos abajos! ¡Chicos sean ambiciosos!\" when he clearly says \"1 2, 3, 4, 5\" and whatever along with 1 2 is the same word, and more english after 5 that sounds like \"are you okay?'",
+                    "Being the only option doesn't make this any better",
+                    "Translation quality somewhat poor."
+                ],
+                "Bad Comments": [
+                    "I'm kinda split about these translations... Overall they're decent, but I don't quite understand some stuff (like the gratuitous Spanish in episode 1)...",
+                    "honestly they shouldnt even be listed as a sub group since they stopped at 5 episodes",
+                    "Awful translation. Actually, I doubt the translator even knew Japanese as my low level understanding spotted loads of mistakes, not least when it was clear what the characters were saying yet the subs were giving nonsense. Needlessly profanities as well",
+                    "The only one translating it."
+                ]
+            }
+        }
+    ]
+}

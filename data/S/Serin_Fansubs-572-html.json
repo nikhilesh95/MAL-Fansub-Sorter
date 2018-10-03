@@ -1,0 +1,84 @@
+{
+    "Group": {
+        "Group Name": "Serin Fansubs",
+        "Short Name": "SRN",
+        "IRC": "irc://irc.rizon.net/serin",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "21",
+            "Total": "52"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "iDOLM@STER Xenoglossia",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "16 of 23 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Spelling and grammar errors along with ridiculous  and pointless translation notes.",
+                    "Typos, random notes, and not all lines are subbed and replaced with junk.",
+                    "Subs suck. Translater's note for DEBRIS needed. *facepalm*. Also, farts and giggles at viewer's expense."
+                ],
+                "Bad Comments": [
+                    "Glaring spelling and grammatical errors. They will do much better with a QC team, though.",
+                    "Inaccurate translations in pretty much every episode, unnecessary and \"funny\" translator notes.",
+                    "Excellent subbing and translation on this anime series."
+                ]
+            }
+        },
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Overall bad quality",
+                    "Terrible encode, terrible editing, bad kara translations.",
+                    "Only one going for it so far. Has a few mistakes but they're good enough."
+                ],
+                "Bad Comments": [
+                    "Just an upscale vid, not really HD",
+                    "Apparently doesn't know English."
+                ]
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 12 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Touka Gettan",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 16 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Most probably because of the many spelling mistakes and oddly phrased grammar",
+                    "good amount of errors",
+                    "High quality releases.",
+                    "Abysmal translation."
+                ],
+                "Bad Comments": [
+                    "Bad styling, editing, timing, and translations. Most TL notes were useless. Although I do appreciate that they subbed the series, I can't give a +.",
+                    "I just like them~",
+                    "I would love it if they learn to spell, how to do grammar and know the translations of a Japanese word.. Itadakimasu is not I won't stand on a ceremony, it means something like I am going to eat or Let's eat.."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yotsunoha",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

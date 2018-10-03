@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "GinRei Fansubs",
+        "Short Name": "GinRei",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "5",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "7 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "LQ at first but improves"
+                ],
+                "Bad Comments": [
+                    "Merged with DCTP"
+                ]
+            }
+        }
+    ]
+}

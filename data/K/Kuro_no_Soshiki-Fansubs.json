@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Kuro no Soshiki-Fansubs",
+        "Short Name": "KnS-Fansubs",
+        "IRC": "#KnS@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "brilliant quality",
+                    "The best German fansub group for Detective Conan in terms of quality but very slow currently."
+                ],
+                "Bad Comments": [
+                    "Great quality!"
+                ]
+            }
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

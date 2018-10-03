@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Juudaime Famiglia Fansub",
+        "Short Name": "10Th-FF",
+        "IRC": "irc://irc.fansub-irc.org/10th-Famiglia",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

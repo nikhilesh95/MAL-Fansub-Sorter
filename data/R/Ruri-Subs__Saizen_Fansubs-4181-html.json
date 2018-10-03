@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Ruri-Subs & Saizen Fansubs",
+        "Short Name": "Ruri-Saizen",
+        "IRC": "#ruri@irc.rizon.net | #saizen@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "1",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Beast Saga",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lots of great puns"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Line Offline: Salaryman",
+            "Show Type": "TV - 114 episodes",
+            "User Approval": "23 of 24 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The green subtitles are hard to read.",
+                    "okay",
+                    "meh"
+                ],
+                "Bad Comments": [
+                    "Great Subs.",
+                    "Jokes well translated"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

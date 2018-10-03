@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "Shaft Brasil Subs",
+        "Short Name": "SBS",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "41",
+            "Users Disapprove": "6",
+            "Total": "47"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kizumonogatari I: Tekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari II: Nekketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "muito boa tradução, entregaram rapidamente e muito bem feita"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kizumonogatari III: Reiketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Como essa porra tem tantos votos positivos? Que ofensa a nossa língua.",
+                    "bad"
+                ],
+                "Bad Comments": [
+                    "Meh, podia ter sido melhor, é só o suficiente pra entender.",
+                    "Fast and quality subs in portuguese"
+                ]
+            }
+        },
+        {
+            "Show Name": "Koyomimonogatari",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Podia ter sido melhor, algumas partes foram traduzidas de forma errada. Achei fraco."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "11 of 13 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

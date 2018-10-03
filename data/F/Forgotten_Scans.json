@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Forgotten Scans",
+        "Short Name": "FoS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo (TV)",
+            "Show Type": "TV - 373 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "manga, not anime"
+                ],
+                "Bad Comments": [
+                    "I don't even know where you subbing these, just tell me where can i find these episodes"
+                ]
+            }
+        }
+    ]
+}

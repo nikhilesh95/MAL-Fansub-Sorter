@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "İtü Otaku",
+        "Short Name": "ituotaku",
+        "IRC": "#ituotaku@irc.rizon.net",
+        "Primary Language": "Turkish",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they rule in turkish subs. they've got everything, karaokes, wonderful translation quality, and a brilliant encode."
+                ],
+                "Bad Comments": [
+                    "timing and translation was really good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

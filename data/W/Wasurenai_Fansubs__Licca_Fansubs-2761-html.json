@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "Wasurenai Fansubs & Licca Fansubs",
+        "Short Name": "WSRN-Licca",
+        "IRC": "#wasurenai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "1",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Les Misérables: Shoujo Cosette",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "13 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great",
+                    "Researched it, and actually finished subbing it. They're good subs, too.",
+                    "Good subs!"
+                ],
+                "Bad Comments": [
+                    "Excellent subs released at a fast pace. Wasurenai and Licca Fansubs make a great team, and they put a lot of work into subbing this, which included reading the original novel for accurate translation.",
+                    "They actually finished it after many, many other groups abandoning it."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mermaid Melody Pichi Pichi Pitch Pure",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "1 Ep a year"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

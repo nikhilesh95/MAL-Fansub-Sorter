@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "Better Than Nothing Fansubs",
+        "Short Name": "BTN",
+        "IRC": "#BTNSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "6",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Denpa-teki na Kanojo",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 9 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translated: (Betsuni mezurashikunai darou) which means \"That's not too uncommon\" as \"There's an eye-gouger out there\". Who knows what else they got wrong.",
+                    "bad translations",
+                    "TSing and subtitles are good. Like the touch of two scripts. Karaoke was kind of bland though.",
+                    "really lovin' the dual scripts! keep up the awesome work"
+                ],
+                "Bad Comments": [
+                    "Awesome OVA, thanks for the softsub version!",
+                    "Have Easternised and Westernised scripts, nice touch.",
+                    "Thanks!",
+                    "No seeds on torrent, both direct downloads 404d"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mnemosyne: Mnemosyne no Musume-tachi",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "WTF IS THIS SHIT?",
+                    "good"
+                ],
+                "Bad Comments": [
+                    "Pretty good subs, and a lot better than some others",
+                    "It's pretty good, they seem to have a certain attitude about their subs that fits the anime. Most background text is hard translated."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shiki",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really nice scripts, easy to read. I love the signs too!"
+                ],
+                "Bad Comments": [
+                    "Better than i hoped for!"
+                ]
+            }
+        }
+    ]
+}

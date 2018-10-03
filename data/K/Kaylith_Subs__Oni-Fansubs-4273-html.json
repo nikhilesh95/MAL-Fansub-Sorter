@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kaylith Subs & Oni-Fansubs",
+        "Short Name": "Kaylith-Oni",
+        "IRC": "#kaylith@irc.rizon.net | #oni-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "RDG: Red Data Girl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Onmyouji as sorcerer? Elfs spirits and shit? FAIL! Hopefully next they'll translate Catholic Priest as \"wizard\""
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

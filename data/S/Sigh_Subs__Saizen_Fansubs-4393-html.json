@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Sigh Subs & Saizen Fansubs",
+        "Short Name": "Sighzen",
+        "IRC": "#saizen@irc.rizon.net | #sigh@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "H2",
+            "Show Type": "TV - 41 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

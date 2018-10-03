@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Anime.TL",
+        "Short Name": "AnimeTL",
+        "IRC": "#AnimeTL@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "7",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Illegal."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsuyuki Rendezvous",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sword Art Online",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CR rip, but they know it. As good as horriblesubs, and often faster."
+                ],
+                "Bad Comments": [
+                    "Whats this shit?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yuru Yuri♪♪",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Illegal."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

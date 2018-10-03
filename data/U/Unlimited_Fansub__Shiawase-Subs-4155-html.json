@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Unlimited Fansub & Shiawase-Subs",
+        "Short Name": "UF-SS",
+        "IRC": "#Unlimited-Fansub@irc.absoluty-irc.org",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

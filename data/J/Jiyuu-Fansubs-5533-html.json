@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Jiyuu-Fansubs",
+        "Short Name": "JFS",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Free!: Eternal Summer",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Alles super"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

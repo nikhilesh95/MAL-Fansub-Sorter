@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "Anime-Gundam",
+        "Short Name": "AG",
+        "IRC": "#anime-gundam@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "42",
+            "Users Disapprove": "5",
+            "Total": "47"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gundam Build Fighters",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No complaints, seems like a solid translation.  Great A/V quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Build Fighters Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gundam Build Fighters Try",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "15 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "karaoke added, nice type setting, and overall accuracy"
+                ],
+                "Bad Comments": [
+                    "Solid translation and released within decent timeframe"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gundam: G no Reconguista",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than HS. They may be slow and all, but I find them to be good.",
+                    "they are far behind, almost by 2 months"
+                ],
+                "Bad Comments": [
+                    "nice attention to detail",
+                    "The font they picked really supplements the show's aesthetic. Done by fans who really care."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam AGE",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great"
+                ],
+                "Bad Comments": [
+                    "Not so bad, but too slow."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Zeta Gundam",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Turn A Gundam",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "13 of 17 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lazy, overreliance on TL notes, excessive honorifics (\"baker-san,\" etc.)",
+                    "The best version avaible.",
+                    "Good Subs"
+                ],
+                "Bad Comments": [
+                    "very good subs.",
+                    "best version available, but there are some quality control issues and the over use of honorifics get annoying"
+                ]
+            }
+        }
+    ]
+}

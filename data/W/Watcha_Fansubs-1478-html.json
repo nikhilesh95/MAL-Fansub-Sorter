@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Watcha Fansubs",
+        "Short Name": "Watcha!",
+        "IRC": "#Watcha!@irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ergo Proxy",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Seems that doesn't exist anymore"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Urayasu Tekkin Kazoku",
+            "Show Type": "TV - 33 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

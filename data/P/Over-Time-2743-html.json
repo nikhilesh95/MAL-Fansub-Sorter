@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Over-Time",
+        "Short Name": "Over-Time",
+        "IRC": "#over-time@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "61",
+            "Users Disapprove": "3",
+            "Total": "64"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gekkan Shoujo Nozaki-kun Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "50 of 51 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Super hero time.",
+                    "I mean, it's not like anyone else is doing them.",
+                    "1080p because this only source they can find",
+                    "good subs"
+                ],
+                "Bad Comments": [
+                    "They're the subs I've been using, (I think?)",
+                    "Awesome job. Thank you for doing them.  So many sub groups neglect the specials.  OVAs and movies is where fansubbers are still really needed.",
+                    "nice timing\nnice typeset\nnice translation",
+                    "The size, font, and colour are very easy for readers to read. Also, they sub \"Special Feature\" nicely"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kamen Rider Fourze x Crayon Shin-chan",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tentai Senshi Sunred 2nd Season",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "10 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great alternative for the super slow ANBU, there's nothing to complain about."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yami no Teio: Kyuuketsuki Dracula",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "10 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

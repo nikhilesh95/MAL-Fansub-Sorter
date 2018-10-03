@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Super Hyper Racing Imported Max Performance Subbers",
+        "Short Name": "SHRIMPS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "16",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gun x Sword",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "School Rumble",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Didn't bother translating on-screen text, even when it is a plot point.",
+                    "Ugly fonts. Horrible quality. Lack of -- Oh skip it. They are just awful. I'm glad they didn't try continuing after making 2 releases.",
+                    "no subbing of OP, ED and the written captions at the beginning"
+                ],
+                "Bad Comments": [
+                    "Horrible video quality, inaccurate subs, didn't even bother to translate the opening and ending songs.",
+                    "A lot of the text wasn't subbed"
+                ]
+            },
+            "User Approval": "1 of 17 users approve, 5 comments"
+        }
+    ]
+}

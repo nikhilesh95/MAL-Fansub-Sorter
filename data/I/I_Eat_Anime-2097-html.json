@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "I Eat Anime",
+        "Short Name": "IEA",
+        "IRC": "#ieatsoul@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "43",
+            "Users Disapprove": "30",
+            "Total": "73"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "38 of 65 users approve, 18 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fast and ok quality",
+                    "horrible, waiting for a decent group",
+                    "Noticed inconsistency in some of their releases talking about the Joint wise.",
+                    "decent speed sub",
+                    "They're ok.",
+                    "Bad quality",
+                    "I am a Japanese major, but even us Japanese majors have friends who don't speak it and need a good fansub. These guys have 100% the best translation out of all the groups I looked at. Video could be better, so in my case, I re-encode it :). Problem solved",
+                    "Fast, nice font, good quality",
+                    "Paired with KSH? Absolutely awful translations. Again, people who don't speak/understand Japanese shouldn't comment on translation if they don't know what they're talking about"
+                ],
+                "Bad Comments": [
+                    "Shitty group that uses official English spellings for names.",
+                    "dropped",
+                    "Ok so I compared IEA's subs with Mamiko's. On the surfaces Mamiko's encode seems superior, but in reality IEA's subs were less distracting and the encode was good.  Thumbs up for this version.",
+                    "Picked up KSH-IEA as of ep 25+. Don't know what all the bitching is about. Visually appealing fonts, good karaoke, accurate translations and good quality 720p releases. These guys are now my new main group for FT",
+                    "They are friends of mine, and i like their work",
+                    "These guys are doing scanlations of KHR, so I'll  give them a + for that.",
+                    "nice font..but Ryugan more superior in translation",
+                    "\" Tail of the Fairy\" - lol, fucking failsubs",
+                    "dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Major S5",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tegamibachi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

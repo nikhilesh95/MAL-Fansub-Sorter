@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "EmoFanSub",
+        "Short Name": "EMO",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "22",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shinryaku! Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 33 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simplistic, but the best we've got so far.",
+                    "Horrible work all around.",
+                    "Spelling mistakes and the like. Unlike these other guys, I'm fine with the font though.",
+                    "They provided decent subtitles in a text style that matched the anime.",
+                    "Don't know about their subs but they're emo so...I like emos :D",
+                    "bad translation. just because they're the only one, doesnt mean they get a plus",
+                    "bad translation and absolutely horrible styling with small fonts"
+                ],
+                "Bad Comments": [
+                    "Very bad. Wrong timings, mistranslation and too liberal translations. Tons of them.",
+                    "Umm.. It wasn't that good. Horrible styling.",
+                    "i liek their fonts",
+                    "wut",
+                    "man i wanna give them + but the translation not that good,elso the style are too bad, hope you improve your translation on the next ep",
+                    "Multiple dumb errors, starting at like the fourth sentence in. Not exactly impressive"
+                ]
+            }
+        }
+    ]
+}

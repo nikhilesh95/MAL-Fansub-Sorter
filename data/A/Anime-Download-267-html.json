@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Anime-Download",
+        "Short Name": "ADown",
+        "IRC": "#anime-download@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Captain Tsubasa: Road to 2002",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible Translations, Timing is off as well."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

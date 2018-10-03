@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "NotAjin",
+        "Short Name": "NotAjin",
+        "IRC": "#glue@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "9",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Demi-chan wa Kataritai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 21 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Liberal crap.",
+                    "No honorifics, constant use of internet slang that is not present in the original dialogue.",
+                    "Memeshit. Lack of honorifics is the least problem of those subs. By retards for retards."
+                ],
+                "Bad Comments": [
+                    "Good.",
+                    "You fucking mouthbreathers have no idea what you're talking about. You fucks are the embodiment of ignorance. Open any dictionary, and you'll see your photo right next to the word. You fucking morons. Thanks for your work, Pyro!",
+                    "No. Just no."
+                ]
+            }
+        },
+        {
+            "Show Name": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "12 of 21 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

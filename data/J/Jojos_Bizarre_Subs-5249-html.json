@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Jojo's Bizarre Subs",
+        "Short Name": "JoJo",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "3",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "11 of 14 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good attempt to localize the language, in the spirit of the original JoJo manga.",
+                    "Best subbers"
+                ],
+                "Bad Comments": [
+                    "Uses Commie's typesetting, and has a script with gg's style from Jojo 2012 (meaning very over-the-top dialogues, and character-nationality words inserted.)",
+                    "ok, if you're fine with british talk"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Loli-Wolf Fansubs",
+        "Short Name": "Loli-Wolf",
+        "IRC": "#loli-wolf@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "21",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Disgusting.Spin-off group who don't know fansubbing.",
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Because we are awesome."
+                ]
+            }
+        },
+        {
+            "Show Name": "Strike Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 19 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Using horrible raw with artifacts, interlacing, and horrible encoding glitches. Hard to read font, and no karaoke translations?!",
+                    "Terrible",
+                    "Their subbing was good enough. I can understand well with no major mistakes"
+                ],
+                "Bad Comments": [
+                    "garbage",
+                    "fucking terrible."
+                ]
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Kei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

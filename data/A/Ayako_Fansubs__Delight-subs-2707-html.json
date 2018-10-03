@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Ayako Fansubs & Delight-subs",
+        "Short Name": "Ayako-Delight",
+        "IRC": "#ayako@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "your wish."
+                ],
+                "Bad Comments": [
+                    "Menma -\"But I think I came to grant YOUR wish!\"..........That was a deal breaker line"
+                ]
+            }
+        },
+        {
+            "Show Name": "MM!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "animera",
+        "Short Name": "AKH-SWE",
+        "IRC": "#animera@irc.rizon.net",
+        "Primary Language": "Swedish",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "1",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "ChäoS;HEAd",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Elfen Lied",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best quality out there.",
+                    "SWEET UNCEN HEADS"
+                ],
+                "Bad Comments": [
+                    "They also provide English subs of very nice quality. IMO the best subs for this show.",
+                    "Translations for 1st half are excellent, but the 2nd half (of series) had many wrong translations. Lines meaning opposite of what's said, too simplifed or trying to be too fancy sometimes, etc."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Brotherhood",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gedo Senki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Animera have put a start to swedish-fansubs. When subbing the serie, they did a great jog and did their best. The parts they didnt know how to express, they asked a japanese friend of theirs. Thanks too that, their subs are really high-class!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

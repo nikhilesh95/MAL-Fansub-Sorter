@@ -1,0 +1,77 @@
+{
+    "Group": {
+        "Group Name": "Luurah Productions",
+        "Short Name": "LUURAH",
+        "IRC": "#luurahproductions@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chogattai Majutsu Robot Ginguiser",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Saving old robot cartoons!"
+                ],
+                "Bad Comments": [
+                    "Free subs with good quality. Those guys are doing god's work."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kikou Keisatsu Metal Jack",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mach GoGoGo",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mirai Robo Daltanias",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They subbed it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Majin Daikengou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Recently finished subbing it,obviously the only subs we'll ever have."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "UFO Senshi Dai Apolon",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

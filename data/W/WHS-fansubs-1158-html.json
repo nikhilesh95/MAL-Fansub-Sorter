@@ -1,0 +1,71 @@
+{
+    "Group": {
+        "Group Name": "WHS-fansubs",
+        "Short Name": "WHS",
+        "IRC": "#WHS-fansubs@irc.dal.net",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "3",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Нет проблем с таймингом, сами сабы очень хороши))"
+                ],
+                "Bad Comments": [
+                    "undefined"
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "Very good quality of translation, including songs and colloquial phrases. Beautiful fonts."
+                ],
+                "Bad Comments": [
+                    "Hollow молодец ~же."
+                ]
+            }
+        },
+        {
+            "Show Name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sola",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

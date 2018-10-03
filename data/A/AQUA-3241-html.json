@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "AQUA",
+        "Short Name": "AQUA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "7",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shinryaku!? Ika Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Inserts \"squid-puns\" everywhere possible, and then some.",
+                    "Honerifics and squid puns"
+                ],
+                "Bad Comments": [
+                    "as shitty as Underwater, stick to FFpeeps..."
+                ]
+            }
+        }
+    ]
+}

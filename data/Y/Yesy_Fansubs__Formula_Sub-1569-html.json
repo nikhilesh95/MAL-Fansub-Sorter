@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Yesy Fansubs & Formula Sub",
+        "Short Name": "yesy-Formula",
+        "IRC": "#FormulaSub@irc.Rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mouryou no Hako",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

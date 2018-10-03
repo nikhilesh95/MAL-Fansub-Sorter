@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Boobz",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "2",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No grammatical or spelling errors; subtitles timed right"
+                ],
+                "Bad Comments": [
+                    "only ~7 minutes ;_;"
+                ]
+            }
+        }
+    ]
+}

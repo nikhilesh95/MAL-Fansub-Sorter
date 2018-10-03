@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "Shindou-Anime",
+        "Short Name": "Shindou",
+        "IRC": "#Shindou-Anime@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "59",
+            "Users Disapprove": "5",
+            "Total": "64"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hunter x Hunter",
+            "Show Type": "TV - 62 episodes",
+            "User Approval": "35 of 38 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD Rips, so superior quality. They are still releasing their eps though (they are at 48 at the time of writing this)",
+                    "Awesome quality, nice subs.",
+                    "great quality",
+                    "Great quality subs. Finished the complete TV series.",
+                    "The best release"
+                ],
+                "Bad Comments": [
+                    "Definitely the best quality subs for HxH. They haven't finished subbing it though.",
+                    "decent subs complete 01-62, non-shit video quality. [S-A] best choice for this series",
+                    "best quality for DVD-Rip. I hope they continue the release until finished",
+                    "What the heck, they misspelled probably EVERY name in that series!",
+                    "by far the best subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter Movie 1: Phantom Rouge",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "20 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fine.",
+                    "Okay editing, but I noticed lots of double spacers in the script, words without spaces that needed them and some bad phrasing; however, it's the only group with a timely release and you won't find it anywhere better.",
+                    "A next to flawless translation, superb editing, very fitting typesetting, gorgeous encoding in both 1080 and 720p. A masterful release by S-A."
+                ],
+                "Bad Comments": [
+                    "Just perfect in all possible ways.. Epic experience, THANKS! :D",
+                    "pretty accurate, standard typesetting"
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: The Cross Roads",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good"
+                ],
+                "Bad Comments": [
+                    "They did a good job, the subs were simple and easy to follow."
+                ]
+            }
+        }
+    ]
+}

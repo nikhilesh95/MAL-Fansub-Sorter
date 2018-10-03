@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Anime-Dominion",
+        "Short Name": "A-D",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality, nice OP, perfect file size."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ima, Soko ni Iru Boku",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "R.O.D OVA",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The SoulTaker: Tamashii-gari",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

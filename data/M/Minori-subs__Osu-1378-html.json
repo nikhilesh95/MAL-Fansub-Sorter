@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Minori-subs & Osu!",
+        "Short Name": "Minori-Osu!",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "11",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "20 of 29 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped, bad episode 4 release",
+                    "Dropped",
+                    "Fast subbing,comes out before some RAW companies bring it out.",
+                    "they picked it bnack up :D",
+                    "they have a nice karaoke and quality subs"
+                ],
+                "Bad Comments": [
+                    "very quick and accurate releases",
+                    "bad video quality",
+                    "Horrible font, no karaoke, awful encoding, terrible timing. At least their translations are good.",
+                    "video quality is teh suck lol"
+                ]
+            }
+        }
+    ]
+}

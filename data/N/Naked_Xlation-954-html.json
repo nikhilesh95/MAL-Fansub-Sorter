@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Naked Xlation",
+        "Short Name": "NX\t\t\t\t\tnaked",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "6",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Taiho Shichau zo: Full Throttle",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "xxxHOLiC Kei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "14 of 19 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "decent speedsub, but they can be a little loose in their translations.",
+                    "No subs on the OP. Lazy. Also, annoying font.",
+                    "They are good for a fastsub.",
+                    "Very quick releases coupled with good quality subbing."
+                ],
+                "Bad Comments": [
+                    "Not a quality group that's for sure. Go for Mishicorp or Shinsen if you want quality.",
+                    "undefined",
+                    "expresses meaning to the fullest"
+                ]
+            }
+        }
+    ]
+}

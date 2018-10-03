@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Shinsen-Subs & Anime-Station",
+        "Short Name": "Shinsen-subs & A-S",
+        "IRC": "#Shinsen-Subs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tenjou Tenge: The Past Chapter",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenjou Tenge: The Ultimate Fight",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very nicelly done!!!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

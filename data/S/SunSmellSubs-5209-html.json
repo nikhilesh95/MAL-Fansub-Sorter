@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "SunSmellSubs",
+        "Short Name": "SSS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "15",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akuma no Riddle",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 22 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Riddled with terrible grammar mistakes throughout. Their grasp of English is dubious at best.",
+                    "timing wrong at times, no typesetting, hard to read font, low translation quality",
+                    "Thanks anons!",
+                    "most solid subs for this anime; no grave translation faults, that told you the opposite from what was actually being said, like other groups. sadly they won't do more than episode 1"
+                ],
+                "Bad Comments": [
+                    "Dropped.",
+                    "Riddled with terrible translation mistakes throughout. Their grasp of Japanese is dubious at best.",
+                    "Poor grammar",
+                    "95% certain this was done using Google Translate."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Hubuki Subs & ShinRanSubs",
+        "Short Name": "Hubuki-SRS",
+        "IRC": "#shinran@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan Movie 18: The Sniper from Another Dimension",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurately timed, simple fonts."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

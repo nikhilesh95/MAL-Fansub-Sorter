@@ -1,0 +1,106 @@
+{
+    "Group": {
+        "Group Name": "Anime Factory",
+        "Short Name": "AF",
+        "IRC": "#animefactory@irc.linkirc.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Boys Be...",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Took almost 3 years to release 13 eps, but the subbing holds up well against modern releases."
+                ],
+                "Bad Comments": [
+                    "The only good option. Video quality is rather poor, but translation is 200% better than any other release."
+                ]
+            }
+        },
+        {
+            "Show Name": "Comic Party",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Considerably better than E-F on all levels. Too bad they only did 1 episode."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Escaflowne",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gate Keepers",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Geneshaft",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hana yori Dango (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "As with A-F, pretty good work for a mid-2000 release."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Love Hina Again",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Megami Kouhosei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "You don't see creative typesetting like this anymore."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

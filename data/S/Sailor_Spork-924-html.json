@@ -1,0 +1,148 @@
+{
+    "Group": {
+        "Group Name": "Sailor Spork",
+        "Short Name": "Spork",
+        "IRC": "#SailorSpork@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "37",
+            "Users Disapprove": "5",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cutey Honey",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They were the only ones working on it. And it was a pretty good job too. Too bad they dropped it."
+                ],
+                "Bad Comments": [
+                    "Started subbing this. :)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Cutey Honey F",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "11 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dai Mahou Touge",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not very good."
+                ],
+                "Bad Comments": [
+                    "Straight out of Gaia"
+                ]
+            }
+        },
+        {
+            "Show Name": "Iriya no Sora, UFO no Natsu",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subtitles. Some minor errors, but nothing serious."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mutant Turtles: Choujin Densetsu-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "PetoPeto-san",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Althought i believe there are some mistakes in there subs, i do think it is really well done.",
+                    "I subbed it."
+                ],
+                "Bad Comments": [
+                    "Only english one i could find",
+                    "I've been rewatching Petopeto-san now that I understand a little Japanese, and their translation occasionally doesn't match what was said at all."
+                ]
+            }
+        },
+        {
+            "Show Name": "Pugyuru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice subs, some weirdness with ep3 fps, but overall great.",
+                    "The translations were accurate."
+                ],
+                "Bad Comments": [
+                    "The word is \"autograph.\" Please learn English."
+                ]
+            }
+        },
+        {
+            "Show Name": "Re: Cutey Honey",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subtitles are bright and clear, plus the translation is spot-on."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The SoulTaker: Tamashii-gari - Komugi Daisakusen",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible font and color choice, but tl itself was good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta Kata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta Kata Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wish",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

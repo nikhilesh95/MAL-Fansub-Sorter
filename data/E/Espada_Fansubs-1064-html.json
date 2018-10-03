@@ -1,0 +1,67 @@
+{
+    "Group": {
+        "Group Name": "Espada Fansubs",
+        "Short Name": "Espada",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "20",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eyeshield 21",
+            "Show Type": "TV - 145 episodes",
+            "User Approval": "4 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible, they also felt the need to change the word magnum for whatever the helll reason, to derringer.",
+                    "Started off terrible, but got much better.",
+                    "Lots of grammar errors, some words capitalized when they shouldn'tbe  etc."
+                ],
+                "Bad Comments": [
+                    "just horrible! Akward sentences, horrible grammar mistakes and every sentence contains at least 3 misspelled words.\n\n\nBUT  it seems like they got a new translator after episode 85, who translates things much better!",
+                    "Choice of words used makes the translated sentences very odd at times"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 12 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "English level of a first grader.",
+                    "I hope I had better english in first grade than this",
+                    "Shocking grammar/no proof reading. Translation should be an aid to understanding, not a hindrance.",
+                    "Seems like they dropped, 7 episodes behind as of Jun 29th"
+                ],
+                "Bad Comments": [
+                    "Troll. JLPT level 5 standards. Google translate can sub better or did this group babelfish the whole script?",
+                    "Horribly butchered English.",
+                    "LOL, SPECTACULAR"
+                ]
+            }
+        },
+        {
+            "Show Name": "MÄR",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "3 of 12 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shinkyoku Soukai Polyphonica",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

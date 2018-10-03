@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Eval Powar",
+        "Short Name": "EP",
+        "IRC": "#evalpowar@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "8",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Erementar Gerad",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 17 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "weak translations/grammar",
+                    "Subs came quickly, translation generally flawless.",
+                    "Awkward translations. Not recommended.",
+                    "the names were better translated",
+                    "After section dropped this, they managed to provide goos subs."
+                ],
+                "Bad Comments": [
+                    "many grammar and translation mistakes. untranslated \"songs\". and so on, and so on. not recommended subs.",
+                    "Its well-done and was easy to download.All the names were correct and it was translated well~",
+                    "cause they suck ass, seem like they just put whatever the hell they want.",
+                    "its good"
+                ]
+            }
+        }
+    ]
+}

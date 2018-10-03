@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Jisatsu Translations",
+        "Short Name": "Jisatsu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "1",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kodomo no Jikan: Ni Gakki",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "15 of 16 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "looks great"
+                ],
+                "Bad Comments": [
+                    "Good translation"
+                ]
+            }
+        }
+    ]
+}

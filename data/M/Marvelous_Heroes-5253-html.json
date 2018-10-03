@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Marvelous Heroes",
+        "Short Name": "Marvelous Heroes",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Marvel Disk Wars: The Avengers",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "10 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice font. Readable.  Subs seem to match to me.",
+                    "The only one doing fansub, so no competition :)"
+                ],
+                "Bad Comments": [
+                    "They are the only one crazy enough to sub this stuff.",
+                    "only"
+                ]
+            }
+        }
+    ]
+}

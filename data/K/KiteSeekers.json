@@ -1,0 +1,168 @@
+{
+    "Group": {
+        "Group Name": "KiteSeekers",
+        "Short Name": "KiteSeekers",
+        "IRC": "#kiteseekers@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "71",
+            "Users Disapprove": "15",
+            "Total": "86"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "12-sai.",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "8 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Like half of the translation is wrong... but half is correct! So I will at least appreciate their effort XD"
+                ],
+                "Bad Comments": [
+                    "Bad translation"
+                ]
+            }
+        },
+        {
+            "Show Name": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 11 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Guesslation",
+                    "Bad typesetting. Many lines are shortened and generalized, leaving out info.",
+                    "Blindingly awful butterfly font. They focused on making it unique and beautiful and forgot that readability is what's actually important.",
+                    "Good translation that's faithful to the game. :3"
+                ],
+                "Bad Comments": [
+                    "Senpai translated as \"Miss\" and \"mentor\", even worse? No honorifics. Seeing doll_licca in the credits is enough to know that the translation is terrible.",
+                    "Less liberal than Underwater.",
+                    "Underwater's subs are absolute liberal trash. And somehow, these subs are worse in every way. Which is quite an achievement considering how bad the competition is."
+                ]
+            }
+        },
+        {
+            "Show Name": "Lime-iro Ryuukitan X",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They are the only ones finishing subbing the anime"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lovely★Complex",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Meisou! Underworld",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was accurate, easily legible, and not obtrusive."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mizuiro Jidai",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "7 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moonrakers",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mou Hitotsu no Mirai wo.",
+            "Show Type": "ONA - 3 episodes",
+            "User Approval": "8 of 13 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "You must really hate the people who download your subs if you present them with a font this horrible.",
+                    "I can't imagine a worse font choice. Unwatchable.",
+                    "Oh the voices of leeches, noice. You never had watched X with purple subs amirite? Also better than Youtube-subs."
+                ],
+                "Bad Comments": [
+                    "indeed, worst font choice",
+                    "Lol"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nijiiro☆Prism Girl",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Prism Magical: Prism Generations!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "12 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "thumbs up! ^^"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rio: Rainbow Gate!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 7 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No complaints, excellent work.",
+                    "slooow",
+                    "at least they are doing a good job in subbing a garbage show"
+                ],
+                "Bad Comments": [
+                    "All around bad. Bad typesetting bad Karaoke and slow.",
+                    "good",
+                    "Only fansub group doing it. Great quality too!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ultraviolet: Code 044",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job. Good subs and video quality. Issues with the mkv's crashing VLC but not WMP."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Weiß Survive R",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

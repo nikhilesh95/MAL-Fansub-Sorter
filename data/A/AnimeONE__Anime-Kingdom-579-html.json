@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE & Anime-Kingdom",
+        "Short Name": "AonE_A-Kingdom",
+        "IRC": "#animeone@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "2",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Full Metal Panic! The Second Raid",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job. Notes provided for military terms too.",
+                    "The subtitles are well done and the little translator notes, while not necessary, are a nice touch."
+                ],
+                "Bad Comments": [
+                    "Lots of notes (which I like), but sometimes the main text flashed by too fast.  Either because they used too many words on a short Japanese reply or just poor TS/Timing.",
+                    "Good quality subs and a decent amount of notes. ^_^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sousei no Aquarion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent work, going as far as to even translate the songs in foreign languages.",
+                    "perfect timing and really good sub, text looking good, not blending into the background"
+                ],
+                "Bad Comments": [
+                    "Terrible editing."
+                ]
+            }
+        }
+    ]
+}

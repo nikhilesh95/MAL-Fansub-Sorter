@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Tatsu-Subs",
+        "Short Name": "Tatsu-subs",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ginga Kikoutai Majestic Prince",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "doing great job :-)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

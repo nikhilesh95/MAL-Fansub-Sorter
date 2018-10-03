@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Force Works",
+        "Short Name": "Force-Works",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "2",
+            "Total": "62"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Iron Man",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "60 of 62 users approve, 20 comments",
+            "Comments": {
+                "Good Comments": [
+                    "http://img10.imageshack.us/img10/7808/ironfw.png  normally unnacceptable, but the subs are good overall.",
+                    "subs are fine, but the mkv is muxed using a version of liibmatroska and libebml that doesn't jive with mplayer. I unmuxed and remuxed and can play fine.",
+                    "I love their subs for Iron Man, but where the fuck are Episodes 6 & 7?!",
+                    "Not like there's anyone else.",
+                    "Not bad subs at all really. Odd encode though, doesn't work in Mplayer but does in VLC. The latter of which I don't want to use. But, no alternative so whatever.",
+                    "Bad encode job, but then again, who else is doing this?",
+                    "better than every group for this show!",
+                    "Was wonderful didn't notice much wrong with the tl or quality",
+                    "good and fast",
+                    "Great work! I would like to mention that in some of the Marvel Animes the OP has been taken out and switched with it's exact amount of time with the beginning scene of the episode. The same was sometimes the case for the ED. I don't remember if it happene"
+                ],
+                "Bad Comments": [
+                    "Great subs. No spelling or grammar errors.",
+                    "Great subs.  Consistent.",
+                    "No website or IRC or anything really",
+                    "consistent",
+                    "TL seemed accurate, and there were negligible, if any, spelling/grammar errors. Very well done sub.",
+                    "fast and good",
+                    "Really liked their subs... they were pretty decent for a new sub group...",
+                    "Good subs, bad encoding.",
+                    "They have been fast, great quality subs, and very little to no errors. I hope they open a official site cause I would love to support them more.",
+                    "Good job."
+                ]
+            }
+        }
+    ]
+}

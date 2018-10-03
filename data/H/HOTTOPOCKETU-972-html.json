@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "HOTTOPOCKETU",
+        "Short Name": "",
+        "IRC": "#HOTTOPOCKETU@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No kara for OP and ED, but not much else to really complain about IMO."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

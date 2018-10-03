@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Keroro-Fansubs",
+        "Short Name": "",
+        "IRC": "#keroro@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "2",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Keroro Gunsou",
+            "Show Type": "TV - 358 episodes",
+            "User Approval": "20 of 22 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job with subs! ^_^",
+                    "You don't downvote a group that subs 150 solid episodes of a show, you ungrateful pricks. If only we could ban people like you from watching anime. /concerned fan"
+                ],
+                "Bad Comments": [
+                    "They used a hardsubbed XviD format way too long."
+                ]
+            }
+        },
+        {
+            "Show Name": "Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "20 of 22 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

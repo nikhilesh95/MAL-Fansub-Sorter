@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Stardust Fansubs & Tondemonai Fansubs",
+        "Short Name": "Stardust-Tonde",
+        "IRC": "#stardust@irc.rizon.net & Tondemonai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wagamama☆Fairy Mirumo de Pon!",
+            "Show Type": "TV - 172 episodes",
+            "User Approval": "9 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

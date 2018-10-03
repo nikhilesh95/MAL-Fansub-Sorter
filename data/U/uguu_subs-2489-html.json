@@ -1,0 +1,76 @@
+{
+    "Group": {
+        "Group Name": "uguu~ subs",
+        "Short Name": "uguu~",
+        "IRC": "#uguu~subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "42",
+            "Users Disapprove": "1",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Air",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 20 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finally, an excellent-quality group that is going to finish Air Blu-ray. Video quality, editing, and pretty much everything are amazing.",
+                    "excellent BD rip. uses edited Koi subs.",
+                    "Great QUALITY. They are the ony ones where you can get BD episodes of this anime (year 2012). [Z]",
+                    "Just about perfect. Also, they are the only actually watchable subs for the show."
+                ],
+                "Bad Comments": [
+                    "awesome!",
+                    "Great quality",
+                    "Gao~. 1080p, and at least they use honorifics.",
+                    "Perfect."
+                ]
+            }
+        },
+        {
+            "Show Name": "Air in Summer",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "5 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality subs, 1080p."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kemono to Chat",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Working!!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zoku Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD"
+                ],
+                "Bad Comments": [
+                    "needs to continue subbing"
+                ]
+            }
+        }
+    ]
+}

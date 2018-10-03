@@ -1,0 +1,80 @@
+{
+    "Group": {
+        "Group Name": "Zettai Unmei Mokushiroku",
+        "Short Name": "ZUM",
+        "IRC": "#ZUM@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "2",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eve no Jikan (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "actually v2 of Chaos-MII"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night Movie: Unlimited Blade Works",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mawaru Penguindrum",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tonari no Yamada-kun",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yokohama Kaidashi Kikou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Mahero",
+        "Short Name": "Mahero",
+        "IRC": "irc.chatspecial.nl (6667)",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hajime no Ippo: New Challenger",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Low Quality SubsLow Quality VideoNo Karaoke"
+                ],
+                "Bad Comments": [
+                    "Fast/Speed Subbing"
+                ]
+            }
+        }
+    ]
+}

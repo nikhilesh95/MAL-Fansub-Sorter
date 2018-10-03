@@ -1,0 +1,61 @@
+{
+    "Group": {
+        "Group Name": "Watashi-Subs & Anime-Koi",
+        "Short Name": "Watashi-Koi",
+        "IRC": "#watashi@irc.rizon.net | #Anime-koi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "56",
+            "Users Disapprove": "26",
+            "Total": "82"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seikoku no Dragonar",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "14 of 27 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Group dropped the show after 1st ep",
+                    "Dropped Kappa",
+                    "good",
+                    "Anime-koi",
+                    "\"natively speaks English\" You need someone to edit your downvote comments they sound really awkward.",
+                    "Both Anime Koi and Watashi Subs dropped this show.",
+                    "This fansub dropped the series"
+                ],
+                "Bad Comments": [
+                    "One of these days, Anime-Koi will hire an editor that natively speaks English. But this is not that day.",
+                    "Translation is Accurate, Good Quality, & Subs and Typesetting are easier to read than FFFansubs",
+                    "Uses uncensored AT-X raw while Funimation actually cut out a whole scene from 13:35 to 15:00.",
+                    "accurate subs, no typos, good timing. did the opening and endings too.",
+                    "Decent subs, editing could use some work but it's definitely not engrish.",
+                    "good as always :)",
+                    "dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Wizard Barristers: Benmashi Cecil",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "42 of 55 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Anime-Koi release-- people saying it's good... What's this world come to?",
+                    "Troll subs on last episode, don't support a group like that.",
+                    "Haha. Good April Fool's joke.",
+                    "ep13 includes absurd translates, for instance, justin bieber. It has no purpose at all but looks unfavorable.",
+                    "Early episodes are decent, but incorrect/made up dialogue ruin the rest. Avoid."
+                ],
+                "Bad Comments": [
+                    "Good, a little behind though",
+                    "they went troll mode last episode",
+                    "Great Subs, seemed to be even better than normal for an Anime-Koi release (already good to begin with).",
+                    "Ehh they havent subbed the next episode yet which launched more than 1 month ago. WTF. Now the launch april fools joke... pretending to have uploaded episode 12. go to hell",
+                    "Aprils fools stopped being funny 15 years ago."
+                ]
+            }
+        }
+    ]
+}

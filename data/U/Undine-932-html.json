@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Undine",
+        "Short Name": "Und",
+        "IRC": "",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "2",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Okusama wa Mahou Shoujo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "VERY GOOD quality.",
+                    "There was something wrong with the audio in episode 1, but otherwise good quality."
+                ],
+                "Bad Comments": [
+                    "constant grammar and spelling problems, overall it was good, but sometimes i felt like i was watching a hong kong sub job.",
+                    "Good quality subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saishuu Shiken Kujira",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "11 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some minor grammatical mistakes, but it makes sense. Typesetting is good. Picture quality a bit low, but probably due to raw.",
+                    "Video quality is really low. But translation is perfect."
+                ],
+                "Bad Comments": [
+                    "Besides being the only fansub who is doing it, they make a nice work. I've seen their releases of Okusama wa Mahou Shoujo and they were pretty good. Upon watching their releases of Kujira, I must say I'm satisfied ;)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Saishuu Shiken Kujira Progressive",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

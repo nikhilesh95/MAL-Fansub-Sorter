@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Live-eviL & Ideology",
+        "Short Name": "L-E&IDE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "36",
+            "Users Disapprove": "0",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gallery Fake",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D Fourth Stage",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "20 of 20 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent A/V and sub quality.",
+                    "Accurate and Consistant"
+                ],
+                "Bad Comments": [
+                    "Its accurate and fast.",
+                    "Good quality. Sub font goes great with the show."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tantei Gakuen Q",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "9 of 9 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

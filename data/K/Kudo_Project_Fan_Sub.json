@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kudo Project Fan Sub",
+        "Short Name": "KPFS",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Releases the episodes very quickly with a great quality."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

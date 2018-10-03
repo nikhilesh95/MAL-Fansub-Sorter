@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Otakixus",
+        "Short Name": "Otakixus",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good work, although unfortunately he didn't seem to continue it... =("
+                ],
+                "Bad Comments": [
+                    "Great video quality"
+                ]
+            }
+        }
+    ]
+}

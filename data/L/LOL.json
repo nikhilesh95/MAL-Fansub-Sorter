@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "LOL",
+        "Short Name": "LOL",
+        "IRC": "",
+        "Primary Language": "Japanese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cowboy Bebop: Tengoku no Tobira",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ghost in the Shell: Stand Alone Complex",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "LOL"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

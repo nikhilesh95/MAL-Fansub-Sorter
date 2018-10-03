@@ -1,0 +1,47 @@
+{
+    "Group": {
+        "Group Name": "Toki-Doki & Baka-Chi Subs",
+        "Short Name": "Toki-D x Baka-Chi",
+        "IRC": "#toki-doki@irc.rizon.net | #bakachisubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "46",
+            "Users Disapprove": "1",
+            "Total": "47"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Wake Up, Girls!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "34 of 35 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesomesauce.",
+                    "Proper translation and encoding. A quality release.",
+                    "First episode some minor errors but they are aware of it. Song TL'd and a decent sub track to a nice but somewhat dark idol anime. Take your pick.",
+                    "Idols = love. Idols = life. Oh wait, this is about the subs? My bad. Way better than HS and worth the day or so wait. Consistent speed and quality."
+                ],
+                "Bad Comments": [
+                    "Main issue is the ugly dialogue font but that will supposedly be fixed in the batch.",
+                    "Don't let their white release status on nyaa fool you, these subs are by far superior to HorribleSubs.",
+                    "Good subtitles, styling and flow."
+                ]
+            }
+        },
+        {
+            "Show Name": "Wake Up, Girls! Shichinin no Idol",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good typesetting and they sub the insert song.",
+                    "Great!"
+                ],
+                "Bad Comments": [
+                    "Awesomesauce."
+                ]
+            }
+        }
+    ]
+}

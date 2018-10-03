@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "BATMAN",
+        "Short Name": "BATMAN",
+        "IRC": "#ryuumaru@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "5",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Currently the best (and only) speedy alternative to dragon team since they seem to be falling behind (Future Trunks Arc).... will still get dragon team for archiving purposes when the eventually release it"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's just Ryuumaru with a different name. Still the same shit, though."
+                ],
+                "Bad Comments": [
+                    "Well... It has quality, till now"
+                ]
+            }
+        }
+    ]
+}

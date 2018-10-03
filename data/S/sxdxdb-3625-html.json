@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "sxdxdb",
+        "Short Name": "sxdxdb",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "0",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chameleon (OVA)",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really Accurate"
+                ],
+                "Bad Comments": [
+                    "Not his sub, from R1."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kyou kara Ore wa!!",
+            "Show Type": "OVA - 10 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really good subs"
+                ],
+                "Bad Comments": [
+                    "Nicely done and the only subs available in English."
+                ]
+            }
+        },
+        {
+            "Show Name": "Slam Dunk",
+            "Show Type": "TV - 101 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

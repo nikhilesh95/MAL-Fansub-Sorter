@@ -1,0 +1,79 @@
+{
+    "Group": {
+        "Group Name": "Baka-Wolf",
+        "Short Name": "BakaWolf",
+        "IRC": "#Baka-Wolf@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "7",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "13 of 16 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "old [gg]: tv version, hard-to-find... {dominos}: dvd version, better fonts, too big (350MB / episode)... this one: dvd version, almost the same scripts and fonts as the old [gg], half the size of the {dominos} subs with the exact same quality",
+                    "Nice encoding, subs by GG and they rock!"
+                ],
+                "Bad Comments": [
+                    "Subtitles were well timed and as far as now well translated.  Quality was great.",
+                    "they deleting the beginning song in Code Geass so no one can use another subtitles files on their releases >"
+                ]
+            }
+        },
+        {
+            "Show Name": "Goshuushou-sama Ninomiya-kun",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himesama Goyoujin",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Myself; Yourself",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs were sometimes too big and sometimes too small.."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rosario to Vampire",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "awesome subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Kuroi-Subs",
+        "Short Name": "Kuroi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "9",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Probs most literal subs ever. Oi, ano, anego, aniki, minna, tsukkomi you name it... font or use of \"\\q2\" not so good sometimes text went out of screen, few mishearings, mistranslations, mistypes but mostly fine!",
+                    "terrible English translation and grammar"
+                ],
+                "Bad Comments": [
+                    "Awesome subs!!!!  good fonts, 1080p, reference, and HQ.",
+                    "Slight spelling errors are forgivable, but the constant bad grammar makes these subs unreadable for an enjoyable experience."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama': Enchousen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "11 of 16 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great quality, and has notes that explain Gintama's references",
+                    "Translation looks okay... I think everything is fine. Keep up the good work!",
+                    "Their grammar is beyond terrible.",
+                    "Good video quality, but the subs were often very poor english, or just very awkward translations."
+                ],
+                "Bad Comments": [
+                    "Because Zeust is just simply awesome. That's all.",
+                    "didn't translate some words ('hai', 'jukutou')",
+                    "Subtitle style (especially for the OP and ED) is done very well. However, the translation isn't entirely accurate and there aren't any explanations for the less obvious references. There are also at least 10-15 mistyped scenes per episode.",
+                    "lol at this keikaku means plan level CR edit."
+                ]
+            }
+        }
+    ]
+}

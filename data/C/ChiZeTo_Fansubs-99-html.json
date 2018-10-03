@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "ChiZeTo Fansubs",
+        "Short Name": "ChiZ",
+        "IRC": "#chizeto@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "7",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ajimu: Kaigan Monogatari",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "10 of 14 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs, no spelling or grammar errors.",
+                    "Shitty sub. They don't translate right most of the time, making the story beyond understanding.",
+                    "the subs were decent. but don't randomly add emoticons to the subs !",
+                    "Good."
+                ],
+                "Bad Comments": [
+                    "This is no translation, it mostly seemed like they just guessed what was being said.",
+                    "decently subbed but some of the interpretation was somewhat \"off\", so to speak",
+                    "Clear and nice subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Koutetsu Tenshi Kurumi Zero",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Down-sized video. LQ. Hard-subbed. Terrible TL. Ugly TS."
+                ],
+                "Bad Comments": [
+                    "Fonts are a bit annoying. Loads of TL errors and made-up lines. Poor encode."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Yuugi 2D",
+            "Show Type": "ONA - 24 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Yuugi 3D",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

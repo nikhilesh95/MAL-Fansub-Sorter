@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Shinhwa-Subs",
+        "Short Name": "Shinhwa-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal",
+            "Show Type": "TV - 73 episodes",
+            "User Approval": "3 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "dropped after the first episode"
+                ],
+                "Bad Comments": [
+                    "dropped after episode 1",
+                    "Dropped."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Hitode Fansubs & Anime Softsubs",
+        "Short Name": "Hitode-AnimeSS",
+        "IRC": "#hitode@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "3",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Crystal Blaze",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality of subs alright, but AniYoshi is much better.",
+                    "A Lot of the people speaking in the background were left untranslated",
+                    "Hitode-Animess is much faster and quality of subs is superb. Much better than Aniyoshi. Aniyoshi is also very slow with their releases."
+                ],
+                "Bad Comments": [
+                    "Many background lines were left untranslated, the sub font and quality of translations leaves plenty to be desired.",
+                    "Not too shaby",
+                    "Subs are good as they use TL notes, video can't complain. Only downside was annoying font colour other then that good 7/10."
+                ]
+            }
+        },
+        {
+            "Show Name": "Yakushiji Ryouko no Kaiki Jikenbo",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

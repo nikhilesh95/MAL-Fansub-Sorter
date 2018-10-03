@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Frenchies Subs",
+        "Short Name": "",
+        "IRC": "irc://irc.rizon.net/frenchies-subs",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "6",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Captain Tsubasa",
+            "Show Type": "TV - 128 episodes",
+            "User Approval": "14 of 18 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They seem accurate, and are the only subs I was able to find."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Quest: Abel Yuusha Densetsu",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Quest: Dai no Daibouken (TV)",
+            "Show Type": "TV - 46 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wayyyyyy to slow."
+                ],
+                "Bad Comments": [
+                    "The series from this group is OK regarding it being converted from VHS, but they only did the first 14 episodes :("
+                ]
+            }
+        },
+        {
+            "Show Name": "Ring ni Kakero 1: Kage Dou-hen",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shin Captain Tsubasa",
+            "Show Type": "OVA - 13 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

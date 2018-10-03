@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Midori",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dash! Kappei",
+            "Show Type": "TV - 65 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Missing lines, even the most easiest lines are incorrect, also bad timing. Horrible group.",
+                    "Even if subs/translations quality isn't so good I'm happy anyway to be able to hear original sound and read English subtitles. I've seen it as a child but with french/spanish dub and polish lector on it... It was worse :P"
+                ],
+                "Bad Comments": [
+                    "very happy to re-watch this series, all i could find was spanish subs and spanish dubbed stuff so I'm very glad to watch any kind of fansub of this anime in english, as long as  I can tell what the heck is going on I approve :) watching anime raw isn't fu"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shippuu! Iron Leaguer",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

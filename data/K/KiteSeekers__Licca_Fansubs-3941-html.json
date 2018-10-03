@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "KiteSeekers & Licca Fansubs",
+        "Short Name": "KiteSeekers-Licca",
+        "IRC": "#Kiteseekers@irc.rizon.net & #licca-fansubs@irc.chatspike.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Idol Densetsu Eriko",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

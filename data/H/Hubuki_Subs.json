@@ -1,0 +1,117 @@
+{
+    "Group": {
+        "Group Name": "Hubuki Subs",
+        "Short Name": "Hubuki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "18",
+            "Total": "37"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "11 of 20 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Overall low quality and often nonsensical. Seriously, dog barks need not be translated...",
+                    "good translation, not so good video + very slow",
+                    "Inconsistent, poorly timed every now and then, unprofessional at times. Got better as time passed, but their fonts for subs are sometimes really ugly and hard to read.",
+                    "Um, same thing as \"Kaitou and Hubuki.\""
+                ],
+                "Bad Comments": [
+                    "Shit",
+                    "fast releases but bad typesetting",
+                    "I like the additional kanji subtitles, increases re-watch value for someone learning Japanese in context. This is definitely a hardworking fansub group!",
+                    "Poor typesetting, occasionally odd timing. Script is decent enough, but M-L's scripts are definitely better. M-L also has higher quality encoding than them."
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 16: The Eleventh Striker",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Streaming video by parts. Also they already delete those videos...",
+                    "Very bad quality. In both video and translation, very bad."
+                ],
+                "Bad Comments": [
+                    "Unlike DCTP, this group didn't sub everything to the fullest, leaving gaps in the story."
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very accurate translations and good quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Detective Conan OVA 12: The Miracle of Excalibur",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ketsuekigata-kun!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Hubuki Subs did a great job. I can't say anything about the translation's accuracy though... I can't speak Japanese after all... :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ketsuekigata-kun! 3",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lupin III vs. Detective Conan: The Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magic Kaito",
+            "Show Type": "Special - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

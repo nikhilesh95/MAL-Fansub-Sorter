@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "S.E.E.S. Fansubs",
+        "Short Name": "SEES",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because S.E.E.S is the best group"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Moyashimon",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job. Recommended.",
+                    "They delivered Moyashimon when others failed!"
+                ],
+                "Bad Comments": [
+                    "awkward translation",
+                    "THESE ARE THE WORST SUBS I HAVE EVER SEEN.  S.E.E.S must be the worst subbing group ever.  They couldn't even translate the opening song right, and made up their own crap. Obviously they don't know Japanese at all.  To top it off, they don't even know ENG"
+                ]
+            }
+        }
+    ]
+}

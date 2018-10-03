@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Lemon Sour Subs & Wasurenai Fansubs",
+        "Short Name": "LSS-WSRN",
+        "IRC": "#LemonSourSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "0",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Anyamal Tantei Kiruminzoo",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "21 of 21 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Finalmente alguém fazendo.",
+                    "As of May 2011 it's still being subbed. Good job, too."
+                ],
+                "Bad Comments": [
+                    "They still need to fansub Episode 41 (Recap) though.",
+                    "They finished it!"
+                ]
+            }
+        }
+    ]
+}

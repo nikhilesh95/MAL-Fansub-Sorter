@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Hoshi-no-Yume Fansubs",
+        "Short Name": "HnY",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakuten Shoot Beyblade",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuten Shoot Beyblade G Revolution",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 2 users approve"
+        },
+        {
+            "Show Name": "Beyblade Burst",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "doing god's work",
+                    "Their subtitles are pretty good but they pronounce the main character's name wrong all the time; it's 'Bart' not 'Valt'."
+                ],
+                "Bad Comments": [
+                    "Timely releases, and when there are delays they release double episodes, good typesetting and timing, clear, pleasant subtitles etc."
+                ]
+            },
+            "User Approval": "8 of 8 users approve, 3 comments"
+        }
+    ]
+}

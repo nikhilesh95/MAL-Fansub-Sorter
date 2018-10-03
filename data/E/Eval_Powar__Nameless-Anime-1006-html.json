@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Eval Powar & Nameless-Anime",
+        "Short Name": "EP&N-A",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Erementar Gerad",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs came quickly, standard raised even higher than EP's already stellar quality with NA on board."
+                ],
+                "Bad Comments": [
+                    "Subs were good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mahou Sensei Negima!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

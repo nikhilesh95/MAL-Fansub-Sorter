@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Dami",
+        "Short Name": "Dami",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "1",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "21 of 22 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "cause there is no someone else doing it and the quality of subs are actualy quite good.",
+                    "They use some weird punctuation (\"?...\", several times capitalized after a comma), but translation is accurate"
+                ],
+                "Bad Comments": [
+                    "This is a decent translation. However, there certainly are a few mistranslations, of which ep 4 has the most.",
+                    "\"Vengeful sprint\". Except for that one typo, 10/10, way better than GG (not saying GG is unwatchable, just inferior)."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun! Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only group to have subbed this so far."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

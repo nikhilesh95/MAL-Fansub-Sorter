@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "AnimeFiends",
+        "Short Name": "afriends",
+        "IRC": "#animefiends@irc.efnet.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "4",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cardcaptor Sakura",
+            "Show Type": "TV - 70 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Macross",
+            "Show Type": "TV - 36 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The subs were clear and accurate.",
+                    "When there's a song in the background,it's not necessary to ALWAYS sub it you know.It makes following the dialogue impossible.",
+                    "^^^ The person who wrote the negative comment is a retard. He doesn't even know that AnimeFiend didn't translate the series, they just ripped Animeigo's DVDs."
+                ],
+                "Bad Comments": [
+                    "^ The person who wrote the negative is an idiot.",
+                    "It doesn't matter where they came from. The subtitles still suck."
+                ]
+            },
+            "User Approval": "10 of 13 users approve, 5 comments"
+        },
+        {
+            "Show Name": "Weiß Kreuz",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "its easier to read web-dings than the font style they chose"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 4 users approve, 1 comments"
+        }
+    ]
+}

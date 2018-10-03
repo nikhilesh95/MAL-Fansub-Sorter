@@ -1,0 +1,82 @@
+{
+    "Group": {
+        "Group Name": "shi0n-subs",
+        "Short Name": "shi0n",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "46",
+            "Total": "55"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "no"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "SoniAni: Super Sonico The Animation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "no",
+                    "disgusting... only watch if you want to have scam artist make money off you"
+                ],
+                "Bad Comments": [
+                    ">hadena"
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 12 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice try Hadena",
+                    "I think I feel another Hadena coming..."
+                ],
+                "Bad Comments": [
+                    "Yup, another Hadena. And holy fuck those fucking font styles, they look so shitty. Also, shi0n (leader of the group) a shit",
+                    "typesetting, karaoke OP and ED,"
+                ]
+            }
+        },
+        {
+            "Show Name": "To LOVE-Ru Darkness OVA",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Witch Craft Works",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 11 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "Zombie Pegasus",
+        "Short Name": "z_p",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Buddy Go!",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice shitpost zombie"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Docchi mo Maid",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore-sama Kingdom",
+            "Show Type": "OVA - 14 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Osake wa Fuufu ni Natte kara",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It was funny :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Seiyuu Deka",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

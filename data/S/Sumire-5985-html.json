@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Sumire",
+        "Short Name": "Sumire",
+        "IRC": "#sumire@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "9",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DameDesuYo's subtitles restyled on a shittier encode."
+                ],
+                "Bad Comments": [
+                    "Unreadable restyle of DDY on lower grade video."
+                ]
+            }
+        },
+        {
+            "Show Name": "Osake wa Fuufu ni Natte kara",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Far better script than HS's, nice typesetting and styling."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ryuu no Haisha",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingeki no Bahamut: Virgin Soul",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow =/= dropped",
+                    "they dropped the project :,)"
+                ],
+                "Bad Comments": [
+                    "Better to stick with HorribleSubs.",
+                    "Terribly edited CR script, introduced several TL errors that didn't exist originally. Re-encode of HS video into lower quality."
+                ]
+            }
+        }
+    ]
+}

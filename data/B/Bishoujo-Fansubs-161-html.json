@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Bishoujo-Fansubs",
+        "Short Name": "B-F",
+        "IRC": "#bishoujo-fansubs@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "To Heart",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "There were a few rough spots that I heard, but otherwise pretty accurate translators.  My vote.",
+                    "Amazing how completely different the spoken lines are written in the subs"
+                ],
+                "Bad Comments": [
+                    "good sus"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 3 comments"
+        }
+    ]
+}

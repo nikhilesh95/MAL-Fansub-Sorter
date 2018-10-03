@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Animezone.fr",
+        "Short Name": "AZ.fr",
+        "IRC": "#AnimeZone.Fr@irc.enterthegame.com",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Onegai☆Teacher",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Onegai☆Teacher: Himitsu na Futari",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Dango Fansub (Italian)",
+        "Short Name": "DF",
+        "IRC": "",
+        "Primary Language": "Italian",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "7",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "K-On!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Inguardabile... Imparate a tradurre in italiano prima di proporre errori e traduzioni insensate ad altri.",
+                    "Pessimo encoding."
+                ],
+                "Bad Comments": [
+                    "gruppo ai primi inizi ma che comincia gia' con il piede giusto e una buona scelta di anime! continuate cosi^^",
+                    "L'HQ dovrebbe essere proposta in .mkv o .mp4, ma prima o poi ci arriveranno. Del primo episodio (la cui traduzione lasciava a desiderare) è stata rilasciata una seconda versione, dove diversi errori sono stati corretti."
+                ]
+            }
+        },
+        {
+            "Show Name": "Minami-ke Okawari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Il font è di colore fucsia con bordo bianco, e ciò ostacola la lettura. Cambiate traduttore e checker. L'unica nota positiva, il karaoke niente male."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokyo Magnitude 8.0",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

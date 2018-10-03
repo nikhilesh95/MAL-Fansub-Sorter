@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Jinsei Subs",
+        "Short Name": "Jinsei",
+        "IRC": "#jinsei@rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nana",
+            "Show Type": "TV - 47 episodes",
+            "User Approval": "5 of 6 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast, quality releases of a great show!",
+                    "the best. ignore the red comment, it's fixed",
+                    "One of the few small groups that made a great work on this."
+                ],
+                "Bad Comments": [
+                    "Since all the characters talk about the lyrics to Shadow of Love, you really should translate the song.",
+                    "All problems seem to be fixed in V2. These are the best subs by far."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nana Recaps",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "5 of 6 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

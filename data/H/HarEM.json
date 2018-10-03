@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "HarEM",
+        "Short Name": "HarEM",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "2",
+            "Total": "33"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seitokai no Ichizon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "31 of 33 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice work replicating the hardsubbed TS from SS-E. Cleaned up the script a bit, though some awkward lines remain, and horizontal padding is still lacking.",
+                    "a solo project from UTW member, so can't be bad. It's DVD quality"
+                ],
+                "Bad Comments": [
+                    "Uses SS-Eclipse script on DVD sourced raw.",
+                    "Some important typesettings were missing"
+                ]
+            }
+        }
+    ]
+}

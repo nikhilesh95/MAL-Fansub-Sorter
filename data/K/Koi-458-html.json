@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Koi",
+        "Short Name": "Koi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "60",
+            "Users Disapprove": "3",
+            "Total": "63"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Air",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "58 of 60 users approve, 16 comments",
+            "Comments": {
+                "Good Comments": [
+                    "One of the best fansubs I've ever seen in all departments. Only drawback is that white subs + blue outlines + water/sky scenes can be hard to read.",
+                    "Pretty accurate translations",
+                    "hands down the best fansubs for Air",
+                    "The font used was excellent. The effects were also simple, yet nice. The word choice was also a reason I chose them.\n\nI usually download each groups to compare.",
+                    "best sub out of all of them",
+                    "An overall excellent fansub - great translation, nice extra information etc etc etc.",
+                    "great translator's notes, flawless grammar",
+                    "Has TL Notes"
+                ],
+                "Bad Comments": [
+                    "Great additional information, no complaints at all about everything else.. like quality of encoding and translation.",
+                    "Decent sub quality",
+                    "Great quality release with excellent translation, styling and encode quality.",
+                    "Koi did an awesome job subbing AIR. I approve 100%",
+                    "I really enjoyed their subs.The translator notes before the show were really helpful, because I didn't need to stop show for watching, and they helped to understand events. HOWEVER. The notes during the show were disturbing, because they were on screen fo",
+                    "Perfect.",
+                    "lots of additional info, perfect translation, nice font...go for this one",
+                    "\"Has TL Notes\" And you are a complete idiot if you are down-voting it because of superior way to sub. Fuck you hamburger."
+                ]
+            }
+        },
+        {
+            "Show Name": "Air Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

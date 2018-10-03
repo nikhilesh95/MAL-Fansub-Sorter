@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Alpha Numbers",
+        "Short Name": "Alpha-Numbers",
+        "IRC": "#alphanumbers@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shippuu! Iron Leaguer",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome guys, keep up the good work!"
+                ],
+                "Bad Comments": [
+                    "Superb Subs"
+                ]
+            }
+        }
+    ]
+}

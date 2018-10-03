@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "After Watch Anime",
+        "Short Name": "AWA-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "15",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 21 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mistranslations everywhere.",
+                    "Mistranslations/Grammar error/Signs of laziness everywhere.",
+                    "Horrible.",
+                    "Hideously large subs, typos in almost EVERY SINGLE LINE. If the movie wasn't mostly recap I probably would've downloaded a different version.",
+                    "Poor grammar, typos, incorrect or unfavorable translations on some words."
+                ],
+                "Bad Comments": [
+                    "Dem typo's are strong",
+                    "It looks horrid, and the TL may as well not be there.",
+                    "Terrible.  Had to stop watching and find better subs.",
+                    "shit tier audio, badly grouped subs, mistranslations",
+                    "They took the initiative and actually made a sub."
+                ]
+            }
+        }
+    ]
+}

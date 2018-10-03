@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Choco",
+        "Short Name": "Choco",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "8",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kuromajo-san ga Tooru!!",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "16 of 20 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "good subs."
+                ],
+                "Bad Comments": [
+                    "No romaji in karaoke"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Yami no Yami",
+        "Short Name": "YY",
+        "IRC": "",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Witch Craft Works",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yu☆Gi☆Oh! Zexal",
+            "Show Type": "TV - 73 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Fairly fast and does two languages."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

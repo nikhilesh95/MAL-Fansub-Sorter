@@ -1,0 +1,85 @@
+{
+    "Group": {
+        "Group Name": "zomgSubs",
+        "Short Name": "ZOMG",
+        "IRC": "currently none",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "28",
+            "Total": "51"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "3 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quite fast release, good video quality and good translation. Better than DB.",
+                    "What happened to these guys?? Better than DB though"
+                ],
+                "Bad Comments": [
+                    "good quality video  in h.264 and .avi. subs are OK"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gunslinger Girl: Il Teatrino",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 19 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Unsure translations (parts of a sentence marked with a '?'). Missing lines (5 in episode 08). Missing punctuation. Missing capitalization in the beginning of the sentences. Episode titles are left untranslated. Amateurish encoding. No Karaoke.",
+                    "Missing lines in episode 8. Some unsure translations. Errors in grammar and punctuation. Character names often misspelled.",
+                    "It's \"you're\" not \"your\".",
+                    "Not perfect, but overall they did a great job. Thanks.",
+                    "At least they finished it.",
+                    "Subtitles overlayed on other subs, random insertions in subs, bad grammar and spelling, bad encode on ep7... but they finished it",
+                    "If you find missing lines in episode 8, it means you downloaded a wrong version. there was one member who released episode 8 unedited on own terms, the dl on the official website is the correct one."
+                ],
+                "Bad Comments": [
+                    "Poor translation job. Errors in character/place names. Only download from them as last resort.",
+                    "Finally someone finished the series!",
+                    "They are bad, but at least they finished it",
+                    "Decent translation, and they finished the series.",
+                    "dedicated",
+                    "Poor grammar, too many unrequired additions from subbers such as \"xD\""
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam 00 Second Season",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "zomg!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "10 of 26 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some of the lines were skipped altogether.  The rest of it wasn't terribly bad, though.",
+                    "not as good as but more reliable than DB",
+                    "DB downfall.",
+                    "they have a lot of potential, constantually improving episode by episode",
+                    "Watching DB, which has little to no errors, and then watching Zomg, you can tell the difference. It's just not a quality sub. If I see DB didn't release it yet and Zomg did, I would wait for DB"
+                ],
+                "Bad Comments": [
+                    "They sub in english and allow their files streamed in social video websites.",
+                    "If I had to choose between zomg and Dattebayo, I'd choose zomg, because they translate and publish anime new episodes in net more quickly, than DB. Plus the quality of translation improves with every new episode, and it even may reach and surpass the leve",
+                    "Worst video quality I've seen since early 90s VIVO releases. Many many errors on top of that.",
+                    "very good fansub group that have the ability to surpass DB",
+                    "Several grammar and spelling errors, rendering the anime incoherent without having to pause and decipher it yourself. Among other mistakes."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Abesu",
+        "Short Name": "Abesu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's good, because it has 720p resolution. It's bad, because it uses FuktLogik subs, and to top it off, they are mistimed."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

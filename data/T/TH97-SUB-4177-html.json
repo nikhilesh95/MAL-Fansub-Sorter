@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "TH97-SUB",
+        "Short Name": "TH97-SUB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "2",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sekai Tougou-hen",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "0 of 2 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hadena quarity",
+                    "This release tries to pretend it's in English. It fails spectacularly. Unwatchable."
+                ],
+                "Bad Comments": [
+                    "worst sub i've ever watched"
+                ]
+            }
+        }
+    ]
+}

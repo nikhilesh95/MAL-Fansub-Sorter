@@ -1,0 +1,86 @@
+{
+    "Group": {
+        "Group Name": "Psychlo-Anime",
+        "Short Name": "P-A",
+        "IRC": "#psychlo-anime@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "14",
+            "Users Disapprove": "5",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Great Teacher Onizuka",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translation sucks not to mention reversed name order.",
+                    "All subs are present and easy to read and understand. No text missing or unintelligible."
+                ],
+                "Bad Comments": [
+                    "sub quality isn't very good especially on the first opening.",
+                    "From my perspective I see no problem with the sub, translation seemed good they also had honorifics."
+                ]
+            }
+        },
+        {
+            "Show Name": "Jikuu Tenshou Nazca",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 7 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kachou Ouji",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good dual audio relase with english subs - perfect for me ;]",
+                    "Only english subs I found"
+                ],
+                "Bad Comments": [
+                    "Bad timing, but the rest was fine."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kenpuu Denki Berserk",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible. Didn't even get the names right."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Show Type": "TV - 94 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sound does not fit picture in most episdoes"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The SoulTaker: Tamashii-gari",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pretty nice rip. Font was terrible though."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

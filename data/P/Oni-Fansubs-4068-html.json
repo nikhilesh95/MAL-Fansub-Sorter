@@ -1,0 +1,139 @@
+{
+    "Group": {
+        "Group Name": "Oni-Fansubs",
+        "Short Name": "Oni",
+        "IRC": "#oni-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "23",
+            "Total": "40"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Accel World: Acchel World.",
+            "Show Type": "Special - 8 episodes",
+            "User Approval": "1 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Blood Lad",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Free!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Part of NSOnii."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inari, Konkon, Koi Iroha.",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kakumeiki Valvrave",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Machine-Doll wa Kizutsukanai",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Machine-Doll wa Kizutsukanai Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "1 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only did the first special"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: The Labyrinth of Magic",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Many of the turns of phrases that they used worked really well to both fit in with the character’s nature and to make for a natural, entertaining conversation. While there were some typos, overall I quite enjoyed them."
+                ],
+                "Bad Comments": [
+                    "Quite good editing. (CR script)"
+                ]
+            }
+        },
+        {
+            "Show Name": "RDG: Red Data Girl",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "late release. but good quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Space☆Dandy",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "English too hard for Oni."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

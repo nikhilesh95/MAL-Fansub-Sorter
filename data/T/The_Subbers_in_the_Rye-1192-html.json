@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "The Subbers in the Rye",
+        "Short Name": "TSR",
+        "IRC": "#TSR@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "6",
+            "Total": "31"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "25 of 31 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "small fonts",
+                    "Good subs mother fucker.",
+                    "Great subs and great quality. The previews, two OP's and ED's are separate from the real episodes and they are coded (using CCCP and Zoomplayer) that when you watch an episode in the player, it'll automatically play the OP, episode, ending and preview. Th",
+                    "A complete DVD version with good, albeit small-font, subs.",
+                    "The subtitles are nicely timed and mostly accurate.",
+                    "dat typesetting",
+                    "The only ones who have it available in batch. Maybe I'm wrong, I don't o all that much research."
+                ],
+                "Bad Comments": [
+                    "Great quality, can't go wrong.",
+                    "Morons",
+                    "They did a very good job making this, their version is DVD version, so it has better quality than TV version, but it's not a huge difference, anyway, I'd say this is the version to archieve.",
+                    "The font they use is really pleasant to read and fits the theme of the anime. Plus, it's obvious they have put effort in making the text on books etc be placed accordingly.",
+                    "Good quality subs, albeit an odd font choice. Thanks!",
+                    "I liked their subs on Death Note"
+                ]
+            }
+        }
+    ]
+}

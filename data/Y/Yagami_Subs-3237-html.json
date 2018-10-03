@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Yagami Subs",
+        "Short Name": "Yagami",
+        "IRC": "#yagami@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "3",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kimi to Boku.",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Steals OP/ED Translation from sage. 'Nice' o_O"
+                ],
+                "Bad Comments": [
+                    "well, its the exact same subs, but they are slower than sage and have the worse font."
+                ]
+            }
+        }
+    ]
+}

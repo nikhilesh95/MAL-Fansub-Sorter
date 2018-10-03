@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Grand Line Fansubs",
+        "Short Name": "GLFS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fastest HD Releases"
+                ],
+                "Bad Comments": [
+                    "timing is superb xD"
+                ]
+            }
+        }
+    ]
+}

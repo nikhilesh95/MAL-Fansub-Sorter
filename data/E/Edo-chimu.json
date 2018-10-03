@@ -1,0 +1,93 @@
+{
+    "Group": {
+        "Group Name": "Edo-chimu",
+        "Short Name": "Edo",
+        "IRC": "irc://irc.Fansub-IRC.eu/Edo-Chimu",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "41",
+            "Users Disapprove": "2",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "28 of 30 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "La team la plus avancée sur gintama en français, c'est les meilleurs !!",
+                    "Travail parfait, les nombreuses explications sont excellente et permettent d'apprécier encore plus cette anime.",
+                    "Sub soigné et de qualité, excellente sub.",
+                    "The references are very important to understand the parody and it's very good job they did!",
+                    "Great  sub, with all the references needed to understand the jokes/parodies !",
+                    "They explain all the refernces"
+                ],
+                "Bad Comments": [
+                    "I'm one of the translators",
+                    "Excellent travail, notamment à travers les explications des innombrables références de l'anime.",
+                    "Description et explications de toutes les références, en plus qu'il n'y a que très rarement des fautes ( j'en ai peut-être vu 3 dans 185 épisodes )",
+                    "No, I'm the one of the translators",
+                    "Très bon fansub pour Gintama avec notes pour ne passer à coté d'aucune subtilité, merci !",
+                    "Les traductions comportent très peu de fautes et les karaokés sont lisibles."
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama Movie 1: Shinyaku Benizakura-hen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Les seuls à l'avoir fait (et magnifiquement en plus) :D"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama'",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They explain all jokes in details and they are carefully with shade of difference in their traduction"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gégé +10"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Shinyaku Benizakura-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Parce que,se sont les MEILLEUR !"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gintama: Shiroyasha Koutan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gégé :)"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

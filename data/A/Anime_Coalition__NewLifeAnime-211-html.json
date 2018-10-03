@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Anime Coalition & NewLifeAnime",
+        "Short Name": "AC-NLA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good quality rip, good subtitles",
+                    "Good quality and clear subs."
+                ],
+                "Bad Comments": [
+                    "Good rip with equally good subs. Good quailty!"
+                ]
+            }
+        }
+    ]
+}

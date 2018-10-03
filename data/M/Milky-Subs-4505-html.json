@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Milky-Subs",
+        "Short Name": "Milky",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Futari wa Milky Holmes",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 8 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "fast ~",
+                    "Late and miserable quality, just watch the raws."
+                ],
+                "Bad Comments": [
+                    "They are fast and I think they care more about this than Kiteseekers-Wasurenai.",
+                    "They're fast."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tantei Kageki Milky Holmes TD",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

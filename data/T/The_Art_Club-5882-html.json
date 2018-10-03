@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "The Art Club",
+        "Short Name": "ArtClub",
+        "IRC": "#artclub@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "9",
+            "Total": "29"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kono Bijutsubu ni wa Mondai ga Aru!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "20 of 29 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great but slow",
+                    "Removing honorific title such as sensei on their release. Feels pretty awkward when the teacher addressed with name only.",
+                    "they seemed to fix that in later eps with Mr and Ms, I guess?",
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Dropped it.",
+                    "dropped the show",
+                    "Americanized shit without honorifics. Gtfo. Even CR subs are better than this. They left in honorifics at least."
+                ]
+            }
+        }
+    ]
+}

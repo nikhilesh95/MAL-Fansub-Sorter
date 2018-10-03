@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Deserves Subs",
+        "Short Name": "Deserves-Subs",
+        "IRC": "#deserves-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mazinger Z",
+            "Show Type": "TV - 92 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Superiour to the HKsubs. Too bad it was dropped at episode 5"
+                ],
+                "Bad Comments": [
+                    "They're doing a great job."
+                ]
+            }
+        }
+    ]
+}

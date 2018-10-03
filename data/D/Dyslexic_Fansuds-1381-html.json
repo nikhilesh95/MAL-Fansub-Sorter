@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Dyslexic Fansuds",
+        "Short Name": "Dyslexic",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saint October",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Tries to disguise bad TL errors with clever/liberal editing. Serif fonts, multiple colors, hardsubs, etc."
+                ],
+                "Bad Comments": [
+                    "Fine subs, also the only group even still doing this. Even if they're really... really slow."
+                ]
+            }
+        }
+    ]
+}

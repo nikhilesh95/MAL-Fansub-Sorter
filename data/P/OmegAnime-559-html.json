@@ -1,0 +1,72 @@
+{
+    "Group": {
+        "Group Name": "OmegAnime",
+        "Short Name": "O-A",
+        "IRC": "#omeganime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "33",
+            "Users Disapprove": "2",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cardcaptor Sakura",
+            "Show Type": "TV - 70 episodes",
+            "User Approval": "26 of 28 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quality is definitely good, these are soft subs though.",
+                    "1080p batch is 204GB. Plan on getting a new HDD before you download.",
+                    "fairly good for old tv version and soft sub",
+                    "Hi"
+                ],
+                "Bad Comments": [
+                    "Amazing job",
+                    "no problems",
+                    "There were no problems with timing or comprehension",
+                    "Overblated crap. It shouldn't be bigger than 50GB."
+                ]
+            }
+        },
+        {
+            "Show Name": "Cardcaptor Sakura Movie 1",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "There were no problems with timing or comprehension"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Cardcaptor Sakura: Kero-chan ni Omakase!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Omishi Mahou Gekijou: Risky★Safety",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

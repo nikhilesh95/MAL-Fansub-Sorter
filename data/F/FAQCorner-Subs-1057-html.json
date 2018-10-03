@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "FAQCorner-Subs",
+        "Short Name": "FAQ",
+        "IRC": "#faqcorner@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "9",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Rockman.EXE Stream",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "3 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Wrong names, words, inaccurate subs. Release speed better than the others.Did NOT improve it sucked just look at their 'website'",
+                    "Poor accuracy in translation."
+                ],
+                "Bad Comments": [
+                    "Improved a lot over a short period of 4 episodes; Fairly quick release speed"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ryuusei no Rockman Tribe",
+            "Show Type": "TV - 21 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "First group to get this out, BUT! who cares if they aren't going to finish it? And their subs sucked compared to all the other anime out there. If you want real quality, go DATS"
+                ],
+                "Bad Comments": [
+                    "First group to get this out. If quality gets as good as the Stream episodes, then it'll be something to look forward to"
+                ]
+            }
+        }
+    ]
+}

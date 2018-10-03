@@ -1,0 +1,99 @@
+{
+    "Group": {
+        "Group Name": "Anime-RG",
+        "Short Name": "Anime-RG",
+        "IRC": "irc://irc.rizon.net/anime-rg",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "16",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Byousoku 5 Centimeter",
+            "Show Type": "Movie - 3 episodes",
+            "User Approval": "4 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nothing particularly bad about it, but there are many other much better quality versions. I'd reccomend either Sugoi Hikouki or THORA.",
+                    "easy to locate and understand"
+                ],
+                "Bad Comments": [
+                    "Typos, bad grammar, bad translation, generally a crappy job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Galaxy Angel Rune",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Giniro no Olynsis: Tokito",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo Mashimaro Encore",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "11 of 20 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not translating puns that they really should translate, forgetting parts of a sentence (2 sentences, and im only 15 minutes in).",
+                    "Nothing wrong with V.3.",
+                    "Bad just bad"
+                ],
+                "Bad Comments": [
+                    "Grammatical errors, typos or spelling errors, incomplete translation.",
+                    "Left puns and whole words untranslated. For example, they just sub \"Welcome to the shouten!\" where shouten can mean either \"my little shop\" or \"the christian afterlife.\" They don't even bother translating either meaning of shouten and just leave the word.",
+                    "Awful translation, woeful."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good"
+                ],
+                "Bad Comments": [
+                    "too slow"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tsuyokiss",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Venus Versus Virus",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best subbing."
+                ],
+                "Bad Comments": [
+                    "Fine Quality"
+                ]
+            }
+        }
+    ]
+}

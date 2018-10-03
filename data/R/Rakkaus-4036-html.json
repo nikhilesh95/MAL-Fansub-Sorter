@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Rakkaus",
+        "Short Name": "Rakkaus",
+        "IRC": "#rakkaus@irc.rizon.net",
+        "Primary Language": "Finnish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Accurate and entertaining."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Strike Witches Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Meemejä"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Vividred Operation",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

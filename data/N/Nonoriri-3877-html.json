@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Nonoriri",
+        "Short Name": "Nonoriri",
+        "IRC": "#lolibattlestream@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Top wo Nerae 2! Diebuster",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "KAA's subs with improved video. Excellent stuff.",
+                    "There are no problems with the font. The English is correct, there is maybe one untranslated sentence in the whole release, but you can get by without it. Nicely done karaoke and good video."
+                ],
+                "Bad Comments": [
+                    "Hey, know how I can tell someone's shouting without you making the subs larger? I use my ears. Throw in incorrect English and typos, and you've got some shoddy subs! The encode is poor, too."
+                ]
+            }
+        }
+    ]
+}

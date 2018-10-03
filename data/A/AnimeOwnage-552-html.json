@@ -1,0 +1,85 @@
+{
+    "Group": {
+        "Group Name": "AnimeOwnage",
+        "Short Name": "aO",
+        "IRC": "#AnimeOwnage@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hunter x Hunter",
+            "Show Type": "TV - 62 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hunter x Hunter (2011)",
+            "Show Type": "TV - 148 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "they are very good and almost every week they are releasing a episode, magnificent",
+                    "Their releases have consistently good quality."
+                ],
+                "Bad Comments": [
+                    "Only German group doing this (TnF are dickheads). The typesetting is very STYLISH and awkward at times but once you get over it it's pretty good overall.",
+                    "Good Translation!"
+                ]
+            },
+            "User Approval": "9 of 9 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Hunter x Hunter Movie 1: Phantom Rouge",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island",
+            "Show Type": "OVA - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Hunter x Hunter: Greed Island Final",
+            "Show Type": "OVA - 14 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "they is good"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+            "Show Type": "OVA - 8 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

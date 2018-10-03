@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "HI-C Fansubs",
+        "Short Name": "HI-C",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Rockman.EXE Stream",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

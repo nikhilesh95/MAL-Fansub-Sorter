@@ -1,0 +1,111 @@
+{
+    "Group": {
+        "Group Name": "ChocoFansubs",
+        "Short Name": "CF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "3",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Di Gi Charat Ohanami Special",
+            "Show Type": "Special - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Di Gi Charat: Hoshi no Tabi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Di Gi Charat: Kuchi Kara Bazooka",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 2 users approve"
+        },
+        {
+            "Show Name": "Good Morning Call",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Really bad quality"
+                ],
+                "Bad Comments": [
+                    "decent subs for a anime that's so bad its' almost good with a horrible encode of a melting vhs tape........."
+                ]
+            },
+            "User Approval": "5 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Gravitation: Lyrics of Love",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "5 of 6 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Groove Adventure Rave",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They're good, but they tend to skip some punctuations and use many shorts."
+                ],
+                "Bad Comments": [
+                    "Good"
+                ]
+            },
+            "User Approval": "8 of 8 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Pia Carrot e Youkoso!! 2 DX",
+            "Show Type": "OVA - 6 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Rizelmine",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        },
+        {
+            "Show Name": "Trouble Chocolate",
+            "Show Type": "TV - 20 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

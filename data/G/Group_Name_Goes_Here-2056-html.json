@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Group_Name_Goes_Here",
+        "Short Name": "GNGH",
+        "IRC": "#channel_name_goes_here@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fight Ippatsu! Juuden-chan!!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

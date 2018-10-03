@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "miscellaneous",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akage no Anne",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The first subs to bring the marvellous Anne. We should be indebted to Kaorimoch."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

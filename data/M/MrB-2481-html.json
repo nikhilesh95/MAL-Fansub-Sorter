@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "MrB",
+        "Short Name": "MrB",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Black Lagoon Omake",
+            "Show Type": "Special - 7 episodes",
+            "User Approval": "10 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

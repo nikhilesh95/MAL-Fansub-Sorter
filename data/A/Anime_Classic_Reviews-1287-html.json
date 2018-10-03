@@ -1,0 +1,101 @@
+{
+    "Group": {
+        "Group Name": "Anime Classic Reviews",
+        "Short Name": "ACR",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "5",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aoki Honoo",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subtitles far too big for the video"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Aoki Ryuusei SPT Layzner",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "5 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Stalled indefinitely, no release over a whole year (only 8 episodes).",
+                    "Sometimes there's too much text on screen at once (imo), but otherwise fine."
+                ],
+                "Bad Comments": [
+                    "Glad they started subbing this show; it helped it get picked up by a later group."
+                ]
+            }
+        },
+        {
+            "Show Name": "California Crisis: Tsuigeki no Juuka",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Delpower X Bakuhatsu Miracle Genki!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dirty Pair",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hi-Speed Jecy",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seemed fluent and sensible. Good timing and quality over all."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nineteen 19",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "accurate with no grammatical errors",
+                    "Great subs, clear translations."
+                ],
+                "Bad Comments": [
+                    "I'm just very happy that they have rescued this title from oblivion!\nGreat job guys!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Violence Jack: Harlem Bomber-hen",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

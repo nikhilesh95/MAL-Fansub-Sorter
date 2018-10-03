@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "MUJI",
+        "Short Name": "MUJI",
+        "IRC": "-",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "0",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gallery Fake",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "13 of 13 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

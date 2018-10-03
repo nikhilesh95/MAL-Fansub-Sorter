@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Sketchbook-Anon",
+        "Short Name": "Sketchbook-Anon",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "1",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sketchbook: Full Color's Picture Drama",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"Three colored cat?\" It's called a \"calico,\" dingus."
+                ],
+                "Bad Comments": [
+                    "the download links didnt worked"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Doki Fansubs & HiNA-subs",
+        "Short Name": "Doki-HiNA",
+        "IRC": "#doki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "4",
+            "Total": "35"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "31 of 34 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "All the quality you'd expect from a Doki release. Great subs.",
+                    "Awesome subs.",
+                    "Awesome Doki quality",
+                    "Incorrect colours in the video. Out of the 4 groups that done this movie, only Doki's is washed out."
+                ],
+                "Bad Comments": [
+                    "As usual Doki has easy to read subtitles with no mistakes in translation or grammar that are noticable.",
+                    "Sunny is so kakkoi",
+                    "So cute!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "MAL is fucking retarded. They didn't sub this"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

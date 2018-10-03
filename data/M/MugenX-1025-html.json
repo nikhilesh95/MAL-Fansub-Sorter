@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "MugenX",
+        "Short Name": "MugenX",
+        "IRC": "#mugenx@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Juuni Senshi Bakuretsu Eto Ranger",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Its very well translated"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

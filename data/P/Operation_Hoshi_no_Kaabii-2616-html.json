@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Operation Hoshi no Kaabii",
+        "Short Name": "OP HnK",
+        "IRC": "#kirby@irc.criten.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "1",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hoshi no Kirby",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible. Gave up on subbing HnK several years ago. These guys might have been the only hope for Kirby subs, since no formal subgroup out there has any reason to pick it up. The Kirby anime has never been subbed or dubbed in its entirety.",
+                    "because the words are better."
+                ],
+                "Bad Comments": [
+                    "They have been more accurate with English subtitles than some guys on YouTube."
+                ]
+            }
+        }
+    ]
+}

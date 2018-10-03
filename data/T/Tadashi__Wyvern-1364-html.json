@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Tadashi & Wyvern",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "3",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Slayers Revolution",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not bad!"
+                ],
+                "Bad Comments": [
+                    "Overly localized and they tried to retain the stupid feel of the outdated official translation. I.E. dubshit."
+                ]
+            }
+        }
+    ]
+}

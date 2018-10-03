@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Shangri-la Subs",
+        "Short Name": "S-LS",
+        "IRC": "#huh?!@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "7",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shangri-La",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "garbage",
+                    "Subs failed. This anime is being OFFICIALLY subbed by Gonzo at Crunchyroll - Support the makers, not the fakers."
+                ],
+                "Bad Comments": [
+                    "Their timing needs work, and choice of typesetting is iffy.",
+                    "This approval is not based on the quality of the subs, but how funny it is - the guy in charge don't even speak Japanese, everything is copied and it doesn't even have a tracker!! haha. salute you man"
+                ]
+            }
+        }
+    ]
+}

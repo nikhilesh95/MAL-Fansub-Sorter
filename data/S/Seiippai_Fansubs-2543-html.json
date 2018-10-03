@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "Seiippai Fansubs",
+        "Short Name": "Seiippai",
+        "IRC": "#seiippai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "7",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "11eyes: Momoiro Genmutan",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "10 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Highschool of the Dead",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "21 of 28 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "720p.",
+                    "Excellent",
+                    "Not bad at all.",
+                    "X3OY",
+                    "Best sub with their v2 \nBesides, AWSOME KARAOKE *_*",
+                    "Better than gg and coalguys.",
+                    "Best subs, but you won't get them anywhere. All torrents are dead. AFAIK they haven't subbed past episode one..."
+                ],
+                "Bad Comments": [
+                    "crappy TAN edit",
+                    "good subs",
+                    "I can't even download it. Seed the shit you released a few days ago.",
+                    "really good subs",
+                    "Commendable effort but I prefer TMD's release, just. Karaoke SFX is awesome.",
+                    "the translation felt natural, there were no glaring errors, overall everything was pretty good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

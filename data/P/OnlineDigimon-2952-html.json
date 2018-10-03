@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "OnlineDigimon",
+        "Short Name": "OD",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "10",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 10 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "money mongers",
+                    "steal subs from other groups."
+                ],
+                "Bad Comments": [
+                    "Horrible Translations.",
+                    "'money monger dude', they never forced you to donate, it's completely voluntary. The fact that they buy soundtracks and stuff and simply give them away for free is enough to show they don't care about money. TROLL!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Horrible Translations.",
+                    "Great job."
+                ],
+                "Bad Comments": [
+                    "Dropped"
+                ]
+            }
+        }
+    ]
+}

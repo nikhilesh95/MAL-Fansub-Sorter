@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Elite-Fansubs & AnimeForce",
+        "Short Name": "E-F&FORCE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "2",
+            "Total": "34"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Azumanga Daioh",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hikaru no Go",
+            "Show Type": "TV - 75 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Words are nice and visible....on time...song lyrics are correct",
+                    "Great t/l notes",
+                    "Easy to read and understand"
+                ],
+                "Bad Comments": [
+                    "unnecessary and annoying commentary in the notes.  don't want to see their opinion or thoughts on the show.",
+                    "It's easy to keep up with and they even add footnotes .. they're just wonderful!",
+                    "Although i dont speak or read japanese, I can comment on their use of words, ahich are well-chosen considering age and personality of the characters. Moreover, I relly like the joke on the 4th episode opening."
+                ]
+            },
+            "User Approval": "32 of 34 users approve, 6 comments"
+        }
+    ]
+}

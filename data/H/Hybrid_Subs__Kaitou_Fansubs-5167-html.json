@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Hybrid Subs & Kaitou Fansubs",
+        "Short Name": "Kaibrid",
+        "IRC": "#kaitou-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bayonetta: Bloody Fate",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good release."
+                ],
+                "Bad Comments": [
+                    "Best version available"
+                ]
+            }
+        }
+    ]
+}

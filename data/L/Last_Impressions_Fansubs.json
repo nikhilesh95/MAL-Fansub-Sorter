@@ -1,0 +1,46 @@
+{
+    "Group": {
+        "Group Name": "Last Impressions Fansubs",
+        "Short Name": "L-I Fansubs, L-I-F",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "13",
+            "Total": "42"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "07-Ghost",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The fonts are horrible"
+                ],
+                "Bad Comments": [
+                    "Horrible font..."
+                ]
+            }
+        },
+        {
+            "Show Name": "Needless",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "26 of 37 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I've seen HK bootleg subs better than this shit. :|",
+                    "they didnt have spelling errors",
+                    "Great subs, acceptable quality.",
+                    "its easy to follow and the colouring is easy to read"
+                ],
+                "Bad Comments": [
+                    "pretty nice subbing overall",
+                    "Ayako is better",
+                    "Nothing truly wrong with these subs. More than worthy of a watch"
+                ]
+            }
+        }
+    ]
+}

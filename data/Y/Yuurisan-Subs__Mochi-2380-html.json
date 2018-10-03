@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Yuurisan-Subs & Mochi",
+        "Short Name": "YuS-Mochi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shakugan no Shana S",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Decent enough"
+                ],
+                "Bad Comments": [
+                    "Good"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana S Specials",
+            "Show Type": "Special - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

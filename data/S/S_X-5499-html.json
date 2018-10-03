@@ -1,0 +1,56 @@
+{
+    "Group": {
+        "Group Name": "S_X",
+        "Short Name": "S_X",
+        "IRC": "#s_x@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "12",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Saenai Heroine no Sodatekata",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 13 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Speedy and well meme'd :^)",
+                    "good edits",
+                    "meme subs, bad translations, worse then cr",
+                    "watch if terrible translations + memes are your thing"
+                ],
+                "Bad Comments": [
+                    "Commie pls hire these guys",
+                    "more memes than comemes",
+                    "unnecessary memes with some really cringe-worthy lines here and there. file size is the biggest one too (smh). good font choice though there could be more padding between the lines."
+                ]
+            }
+        },
+        {
+            "Show Name": "Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 13 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Trinity Seven",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "速い",
+                    "Stole DDY's kfx, and barely edits CR's script."
+                ],
+                "Bad Comments": [
+                    "fast"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "Solstice Fansubs",
+        "Short Name": "Solstice",
+        "IRC": "#solstice@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "84",
+            "Users Disapprove": "8",
+            "Total": "92"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Summer Wars",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Go to their website, they have all extra stuff explained there with signs that were not done, and if there was a line that wasn't translated point it out to them, not here.",
+                    "Noticed some lines not translated, other than that, pretty good."
+                ],
+                "Bad Comments": [
+                    "Untranslated lines, shitty 720p encode, etc.",
+                    "Thought they did a brilliant job. I didn't notice any untranslated lines apart from some signs they said they didn't bother translating... So if people above could explain themselves"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tears to Tiara",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "76 of 81 users approve, 19 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Consistent and reasonable subtitles.",
+                    "great subs. No spelling or grammar errors.",
+                    "Bad encode and editing; please take fansubbing seriously.",
+                    "good subs and fonts ^_^~",
+                    "translations are fine ... its just people are used to liberal which is sad",
+                    "it has good quality. :D",
+                    "Nice fonts for the subs. Nice quality as well.",
+                    "^ Your grammar is worse than what Solstice is doing. \n\nIt's funny how everyone only starts saying they suck after they made a mistake in episode 5.",
+                    "^^Wtf? Get some grammar lessons before saying that good grammar sucks.",
+                    "Clear subs and easy to read, made the show enjoyable."
+                ],
+                "Bad Comments": [
+                    "Horrible Grammar! Its like they don't even check what they're writing!",
+                    "Fine translation and type-setting. A bit slow with the few last episodes, but very nice subbing. Looking forward to a new project!",
+                    "Nice translations but crappy font.",
+                    "Great subs.",
+                    "Not many, but there are some mistakes.\nI'll recommend to check few things with game. For example sword names: Dawnwin, not Darwin, Edrum, not Edram. And so on. But that asside, not bad.",
+                    "Not as accurate as would have liked.",
+                    "I don't know japanese, so i can't comment on there accuracy, but they seem like good subs are are easy to understand. And while font isn't my favorite, but it is still perfectly readable.",
+                    "Dutchie? Prating is an English word. It means FOOLISH talk.",
+                    "Good quality, consistent subs, occasional errors in grammar; but still enjoyable and suprisingly decent font. Kareoke fine."
+                ]
+            }
+        }
+    ]
+}

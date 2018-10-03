@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Nyako-dan",
+        "Short Name": "",
+        "IRC": "#anime-ru@irg.freenode.net",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "3",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Charady no Joke na Mainichi",
+            "Show Type": "TV - 365 episodes",
+            "User Approval": "2 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good and speed"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Oyatsu Fansubs & EveTaku",
+        "Short Name": "Otaku",
+        "IRC": "#Oyatsu@irc.rizon.net | #Evetaku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "31",
+            "Users Disapprove": "5",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Glasslip",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "31 of 36 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "accurate and nice to look at the subs",
+                    "very nice kfx, i like it... ~sukanime",
+                    ">weebsubs",
+                    "This show is terrible either way.",
+                    "Good quality with translation",
+                    "subtitles and karaoke looks better."
+                ],
+                "Bad Comments": [
+                    "It's Eve-Taku, nuff said.",
+                    "Dialogue font was a bit meh, and felt that some line's meanings were stretched.",
+                    "Good script, TS, kara, etc. but pls use better font and what even are margins.",
+                    "Great!  Awesome pairing name as well.",
+                    "Good job, don't listen stupid hamburgers, keep doing good work, I want more literal subs like this!",
+                    "Great subs. Red comments comes from memecartel"
+                ]
+            }
+        }
+    ]
+}

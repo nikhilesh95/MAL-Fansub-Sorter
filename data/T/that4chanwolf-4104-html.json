@@ -1,0 +1,123 @@
+{
+    "Group": {
+        "Group Name": "that4chanwolf",
+        "Short Name": "t4w",
+        "IRC": "#ligitimaterape@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "22",
+            "Total": "44"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gokicha!!",
+            "Show Type": "ONA - 2 episodes",
+            "User Approval": "4 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "matteo"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "12 of 16 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really bad!",
+                    "Good translation",
+                    "9/10 you win again t4w"
+                ],
+                "Bad Comments": [
+                    "Better than Commie.",
+                    "Subs are not positioned in a viewer-friendly way. Also, some lines are just plain incorrect."
+                ]
+            }
+        },
+        {
+            "Show Name": "Issho ni Sleeping: Sleeping with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamisama Hajimemashita",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Miyakawa-ke no Kuufuku",
+            "Show Type": "ONA - 10 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "holy shit the fansub doesn't give access to mac owners!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Puchimas!: Petit iDOLM@STER",
+            "Show Type": "ONA - 64 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pupa",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Upotte!! OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 17 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I highly doubt this \"translator\" even speaks Japanese.",
+                    "what the fuck am i reading",
+                    "Realistic dialogue, lack of mistakes. I wish they had more Japansims, hikkikomori is an acceptable word."
+                ],
+                "Bad Comments": [
+                    "Too many TL errors to be fully understood.",
+                    "LMFAO HAHAHAHAHAHAHAHAHAHAHHA!!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yama no Susume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

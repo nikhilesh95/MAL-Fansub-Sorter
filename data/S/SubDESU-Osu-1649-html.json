@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "SubDESU-Osu!",
+        "Short Name": "SubDESU-Osu!",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "5",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 8 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "^ seconded",
+                    "huh, like you know quality from shit."
+                ],
+                "Bad Comments": [
+                    "We prefer Eclipse, this is automatically shit"
+                ]
+            }
+        }
+    ]
+}

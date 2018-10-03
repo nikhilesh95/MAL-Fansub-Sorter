@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Kami Translation",
+        "Short Name": "Kami Translation",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "30",
+            "Users Disapprove": "9",
+            "Total": "39"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Getsuyoubi no Tawawa",
+            "Show Type": "ONA - 12 episodes",
+            "User Approval": "10 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Does this guy even know English? Because this release tells me he doesn't."
+                ],
+                "Bad Comments": [
+                    "TAC is the best option for this series"
+                ]
+            }
+        },
+        {
+            "Show Name": "Getsuyoubi no Tawawa Specials",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "10 of 14 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magi: Sinbad no Bouken (TV)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "20 of 25 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "At least its released so you can actually follow the show as it's airing. Hatsuyuki will finish it well into next season...or longer.",
+                    "Lot of translation errors.",
+                    "You could throw a fucking stone in any direction and it'll hit a native English-speaker who desperately needs validation to the point that they'll be willing to become a fansubber and edit this for you.",
+                    "I think the people working on it are doing their best on the show."
+                ],
+                "Bad Comments": [
+                    "Top notch, super sub quality with honorifics.",
+                    "the subs absolutely suck, but there isn't any other options",
+                    "They do an amazing job at subbing Sinbad's speeches and making feel authentic and great."
+                ]
+            }
+        }
+    ]
+}

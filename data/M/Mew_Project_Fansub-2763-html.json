@@ -1,0 +1,124 @@
+{
+    "Group": {
+        "Group Name": "Mew Project Fansub",
+        "Short Name": "Mew Project",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "48",
+            "Users Disapprove": "11",
+            "Total": "59"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chicchana Yukitsukai Sugar",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ginban Kaleidoscope",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Houkago no Pleiades",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hourou Musuko",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ni Todoke 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mermaid Melody Pichi Pichi Pitch",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mermaid Melody Pichi Pichi Pitch Pure",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nichijou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 15 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Começaram bem mas com o tempo foram relaxando. Pena que não há opções melhores em português."
+                ],
+                "Bad Comments": [
+                    "Tradução boa no começo. Na segunda metade, relaxaram bastante, a ponto de deixar diálogos inteiros traduzidos parcialmente/no inglês/sem nada escrito."
+                ]
+            }
+        },
+        {
+            "Show Name": "Nichijou: Nichijou no 0-wa",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Boa subbagem"
+                ],
+                "Bad Comments": [
+                    "Faltou o softsub no encode do vídeo."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tokyo Mew Mew",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "8 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "If the MP fansub doesn't exist, most of shojo animes would be forgotten/se n existe o MP, mtos desses animes seriam esquecidos."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

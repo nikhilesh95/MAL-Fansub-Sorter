@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "AznAnime",
+        "Short Name": "AznA",
+        "IRC": "#AznAnime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hikaru no Go: Tokubetsu-hen - Sabaki no Ichikyoku! Inishie no Hana yo Sake!!",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saint Seiya",
+            "Show Type": "TV - 114 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "A pity they stopped subbing it"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "6 of 6 users approve, 1 comments"
+        }
+    ]
+}

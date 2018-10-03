@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Mirakuru Fansubs",
+        "Short Name": "MF",
+        "IRC": "#mirakuru@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kumo no You ni Kaze no You ni",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

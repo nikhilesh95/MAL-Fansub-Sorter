@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Menudo-Fansub",
+        "Short Name": "M-F",
+        "IRC": "#menudo-fansub@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "1",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aiura",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Una gran traducción a un tiempo récord."
+                ],
+                "Bad Comments": [
+                    "Spanish pls."
+                ]
+            }
+        },
+        {
+            "Show Name": "Death Billiards",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "K-On! Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Buena traducción tanto de los diálogos como de las canciones, cuidando como siempre el estilo y la ortografía."
+                ],
+                "Bad Comments": [
+                    "Una calidad bestial con una traducción y una  edición que da gusto. ¿Qué más se puede pedir?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Little Witch Academia",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pequeña película de 25 minutos que sacaron con la calidad con la que acostumbran. ¡GENIAL! :3"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mangirl!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Hicieron un trabajo muy rápido y con una traducción realmente buena. Lástima que no editaran los carteles, pero aun así merece la pena para verla en español."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soul Eater",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Manga Fansubers!!!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

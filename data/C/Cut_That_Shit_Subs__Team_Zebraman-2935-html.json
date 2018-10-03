@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Cut That Shit Subs & Team Zebraman",
+        "Short Name": "CTSS & TZM",
+        "IRC": "#ctss@irc.rizon.net #teamzebraman@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hoshizora e Kakaru Hashi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "English, not engrish, but that's to be expected from editing a cr script."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "Group": {
+        "Group Name": "Dekats Fansub",
+        "Short Name": "Dekats",
+        "IRC": "#dekats@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "1",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "\"Bungaku Shoujo\" Memoire",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Akame ga Kill!",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Barakamon",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ben-To",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Danshi Koukousei no Nichijou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hotarubi no Mori e",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kowarekake no Orgel",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nisemonogatari",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Ookami-san to Shichinin no Nakama-tachi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Los mejores."
+                ],
+                "Bad Comments": [
+                    "Buen anime en español"
+                ]
+            }
+        },
+        {
+            "Show Name": "Sousei no Aquarion",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

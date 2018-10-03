@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Ncha Subs",
+        "Short Name": "nchasubs",
+        "IRC": "#n-chasubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "0",
+            "Total": "22"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great picture quality"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dr. Slump: Arale-chan",
+            "Show Type": "TV - 243 episodes",
+            "User Approval": "19 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subs, great video quality and the only group actively subbing this show",
+                    "beautiful encode of a classic show that should be more widely recognized!",
+                    "Great translation, keeps the feel of the original. Does a good job of explaining any of the pun-style jokes, and does it quickly so you don't have to pause the video to read the explanation."
+                ],
+                "Bad Comments": [
+                    "Good, clean, and nice quality while subbing the episodes.",
+                    "Good stuff generally",
+                    "They provide explanation for the jokes which would otherwise go over my head as I do not understand Japanese culture"
+                ]
+            }
+        }
+    ]
+}

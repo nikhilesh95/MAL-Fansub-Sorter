@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Midnight Crew Subs",
+        "Short Name": "MCS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "0",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Densetsu no Yuusha Da Garn",
+            "Show Type": "TV - 46 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks for doing this lesser known entry in the Brave series!~"
+                ],
+                "Bad Comments": [
+                    "Great attention to detail."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Ryuu-Rogue & Rocket Gang",
+        "Short Name": "RG-RyRo",
+        "IRC": "#ryuu-rogue@irc.rizon.net & #RocketGang@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "0",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Danball Senki",
+            "Show Type": "TV - 44 episodes",
+            "User Approval": "15 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Because they're awesome!",
+                    "They did the whole season !"
+                ],
+                "Bad Comments": [
+                    "the only one that finish it"
+                ]
+            }
+        }
+    ]
+}

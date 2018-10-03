@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "SEED-Fansubs",
+        "Short Name": "SEED-Fansubs",
+        "IRC": "#seed-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "4",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "4 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "20 of 23 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It can't have been easy translating this anime, but I think they did a good job and I like the font they used :]",
+                    "I'm a big fan of gundam seed and gundam seed Destiny."
+                ],
+                "Bad Comments": [
+                    "speedy",
+                    "I enjoyed this fan-sub because they were actually good at translations between the japanese and english unlike some DVD's plus they were fast to bring out the episodes compared to most.  I believe they did an excellent job."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "MADAOmon",
+        "Short Name": "MADAOmon",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "9",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Digimon Adventure 02",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Adventure Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Digimon Xros Wars",
+            "Show Type": "TV - 30 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Grammar errors, and hardsubbed mkv is fail and defeats the purpose of using mkv.",
+                    "translations that sound as if the translator didn't know neither english nor japanese. typos. and these kids are flaming the wpp release? lol.",
+                    "Either of the other two groups is better, really.",
+                    "the best video quality and subs."
+                ],
+                "Bad Comments": [
+                    "translation went downhill in the first and last 10 minutes of episode 1.",
+                    "Their translation for ep2 looks suspiciously similar to Ryuu-Rogue, and their grammar still sucks. I have doubts about this group.",
+                    "changed staff for episode 2,improved subtitle quality and hired new QC who actually is an English speaker instead of greek"
+                ]
+            },
+            "User Approval": "4 of 13 users approve, 7 comments"
+        }
+    ]
+}

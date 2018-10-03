@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Anime Noobs Fansubbers",
+        "Short Name": "ANFS",
+        "IRC": "#anfs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "45",
+            "Total": "56"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "4 of 18 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Terrible editing.",
+                    "inaccurate translation...",
+                    "The audio didn't match up with the video, the kareoke didn't match up with the lyrics, and the video quality was kind of blurry. However, I finally know that it's saying \"This program is brought to you by our sponsors.\"",
+                    "A lot of spelling errors, e.g. \"tough\" instead of \"thought. Didn't use capital letters most of the time. Left out a lot of fullstops, commas and question marks. Thick, ugly font."
+                ],
+                "Bad Comments": [
+                    "lots of errors, poor quality",
+                    "This is the group where Kuro-Hana branched out, so they also did a good job, but KH's work is preferable.",
+                    "Retarded translations."
+                ]
+            }
+        },
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "6 of 33 users approve, 16 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad grammar/spelling/overall translation and use of chatspeak. It irks me that I as someone who doesn't understand Japanese have to put my faith in people whose English is worse than mine, while it's not even my first language!",
+                    "poor quality - 'nuff said",
+                    "Bad grammar. Used non-HD quality videos when they were available.",
+                    "eps 443 to 445 are an amalgamation of typos, bad translation and bad timing. 3 characters dialog in 1 run-on subtitle, too lazy to time it for each character.. bleh",
+                    "Bad translation.",
+                    "They subbed some episodes, so can't hate them a ton or anything",
+                    "No differentiating between speakers, bad spelling, using \"u\" instead of you. Bad grammar. Terrible overall.",
+                    "Bad grammar and missing subs"
+                ],
+                "Bad Comments": [
+                    "You can see how they put many \"i\"s at the end of the karaoke of the opening theme, which is wrong because the voice only sang \"i\" twice. Bad spelling/grammar/translations and used chatting spelling and grammar",
+                    "Epic fail at translating, plus typos, bad grammar, and timing/walls of text. Do not want",
+                    "Feels like I'm reading Chinese subs (do these guys really know Japanese?).",
+                    "just bad",
+                    "fail without doubt... but! in most cases their subs are only subs available =(",
+                    "Really bad. Ep448: Missing dialogue (starting with the first line!), mistranslations, bad timing, hard to read font... second only to XCHKS lol",
+                    "These subs aren't even understandable. Any eps they made where considered \"unsubbed\" and where remade by DCTP.",
+                    "Poor translation, poor quality, terrible grammar.\n\nIts sad to see that i need to rely on subbed episodes of this show that is worse spelling and grammar then mine."
+                ]
+            }
+        },
+        {
+            "Show Name": "Over Drive",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Poor editing.",
+                    "RIDICULOUS. Why would you do this if you don't know CRAP?\nPlease stop staining the image of the fansub scene!"
+                ],
+                "Bad Comments": [
+                    "Timing, karaoke, video encode, typesetting are average. (6/10) Translation is very bad. (2/10)",
+                    "translations were wrong!"
+                ]
+            }
+        }
+    ]
+}

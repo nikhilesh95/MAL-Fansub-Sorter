@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Call To Arms",
+        "Short Name": "CTA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "1",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hellsing: The Dawn",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs",
+                    "Swift usage of language quirks - British English, German"
+                ],
+                "Bad Comments": [
+                    "Great"
+                ]
+            }
+        }
+    ]
+}

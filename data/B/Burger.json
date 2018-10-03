@@ -1,0 +1,105 @@
+{
+    "Group": {
+        "Group Name": "Burger",
+        "Short Name": "Burger",
+        "IRC": "#MAL.fi@irc.quakenet.org",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "64",
+            "Users Disapprove": "2",
+            "Total": "66"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blossom",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good as always"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Danshi Koukousei no Nichijou Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "21 of 21 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Awesome",
+                    "Some minor issues with translation, but good work overall."
+                ],
+                "Bad Comments": [
+                    "Good I guess",
+                    "Great job in general"
+                ]
+            }
+        },
+        {
+            "Show Name": "Down Load: Namu Amida Butsu wa Ai no Uta",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Seems a bit barebones and rough around the edges at points, but hey, Burger bailed out this subless show, so I appreciate it."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jungle wa Itsumo Hare nochi Guu",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 9 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Certainly an exquisite deed Burger accomplished here. Retain the satisfactory toil, my fine sirs.",
+                    "Good",
+                    "better than the rest"
+                ],
+                "Bad Comments": [
+                    "Fucking awesome",
+                    "Best subs around for this show."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shiawasette Naani",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "15 of 15 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great",
+                    "Better than Commie."
+                ],
+                "Bad Comments": [
+                    "Excellent",
+                    "bueno."
+                ]
+            }
+        },
+        {
+            "Show Name": "Usavich IV",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Wakako-zake",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Bad"
+                ],
+                "Bad Comments": [
+                    "how so?"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Naisho-Fansubs",
+        "Short Name": "Naisho",
+        "IRC": "#naisho-fansubs@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "1",
+            "Total": "25"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gakuen Alice",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "23 of 24 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Messed up image, hard to read the subs nearly all the time.",
+                    "Good Quality"
+                ],
+                "Bad Comments": [
+                    "undefined"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mermaid Melody Pichi Pichi Pitch Pure",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

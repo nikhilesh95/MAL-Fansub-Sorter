@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Whitelight",
+        "Short Name": "",
+        "IRC": "#WhiteLight@irc.​rizon.​net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "3",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto: Natsu no Sora",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs, good quality."
+                ],
+                "Bad Comments": [
+                    "Better then Rumi"
+                ]
+            }
+        },
+        {
+            "Show Name": "Neo Angelique Abyss",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "TweakAnime & DATS",
+        "Short Name": "Tweak-DATS",
+        "IRC": "#tweakanime@irc.rizon.net #DATS@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "3",
+            "Total": "27"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+            "Show Type": "ONA - 7 episodes",
+            "User Approval": "11 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The one to watch, definitely. Great quality.",
+                    "Not as fine as F-B, but still watchable. Fast."
+                ],
+                "Bad Comments": [
+                    "Quality subs, great with different colors on the subs for each person! And they are fast to \\o_"
+                ]
+            }
+        },
+        {
+            "Show Name": "Candy☆Boy: Side Story For Archive",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "13 of 13 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No real issues. Fine sub.",
+                    "Great subs, no flaws. Good font!"
+                ],
+                "Bad Comments": [
+                    "Good job",
+                    "Translation seemed good, and subtitle style was nice."
+                ]
+            }
+        }
+    ]
+}

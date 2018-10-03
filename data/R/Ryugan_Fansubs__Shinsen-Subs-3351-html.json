@@ -1,0 +1,30 @@
+{
+    "Group": {
+        "Group Name": "Ryugan Fansubs & Shinsen-Subs",
+        "Short Name": "Ryugan-Shinsen",
+        "IRC": "#Ryugan@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "3",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guilty Crown",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "3 of 6 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Just DROP it guys! ~_~",
+                    "best one for this show. But they're very slow"
+                ],
+                "Bad Comments": [
+                    "lulz if they finish...",
+                    "best group doing the show = no \nvery slow subs = ...understatement \nquality improvement over what is already available = none\nreason to follow = good question?\npredictable release window = ??????"
+                ]
+            }
+        }
+    ]
+}

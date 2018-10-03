@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "SSS Fansub",
+        "Short Name": "SSS",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "7",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 16 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's not french either...........",
+                    "fail fansub",
+                    "Good subs ,great quality",
+                    "Nice subs, clear typesetting."
+                ],
+                "Bad Comments": [
+                    "FUCK YEAH",
+                    "not english",
+                    "Super team rapide"
+                ]
+            }
+        },
+        {
+            "Show Name": "Madobe Nanami no Windows 7 de PC Jisaku Ouen Commercial!!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "10 of 16 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "crap sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mayoi Neko Overrun!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 16 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "crap sub"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yutori-chan",
+            "Show Type": "ONA - 25 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "holy shit subs"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

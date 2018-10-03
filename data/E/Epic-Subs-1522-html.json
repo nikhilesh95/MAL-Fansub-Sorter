@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Epic-Subs",
+        "Short Name": "EpS",
+        "IRC": "#Epic-Subs@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Casshern Sins",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sin karaoke =("
+                ],
+                "Bad Comments": [
+                    "Muy buen sub, me gusta la traduccion que hacen y la velocidad con que lo estrenan. Aguante Casshern!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kannagi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shadow Subs",
+        "Short Name": "Shadow Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chibi☆Devi!",
+            "Show Type": "TV - 75 episodes",
+            "User Approval": "4 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Shadow Subs (Chiki, Liquid, etc.) as usual. Awful translation, editing and typesetting."
+                ]
+            }
+        }
+    ]
+}

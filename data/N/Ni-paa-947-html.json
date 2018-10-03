@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Ni-paa~",
+        "Short Name": "Nipaa",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "9",
+            "Total": "44"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "first release of Hauu",
+                    "Несмотря на небольшое отставание группы от sstyle, текст перевода на мой взгляд вышел лучше, да и оформление .ass-сабов радует глаз"
+                ],
+                "Bad Comments": [
+                    "No complaints here, nipaa~",
+                    "They did an excellent job subbing this show."
+                ]
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Rei",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "30 of 39 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Keep up the good work!",
+                    "The [Nipaa] ones are really good although not HD. Dunno about [Nipaa~]",
+                    "Good, on time subs",
+                    "Their subbing is nothing short of spectacular.They make subs easy to read and understand without makeing it too long."
+                ],
+                "Bad Comments": [
+                    "Ni-paa~ > Tomodachi. Though TMD has better karaoke. Also TMD's 'Sea Bear' > Nipa's 'Little Bro'",
+                    "great subs",
+                    "Great translation, was much more understandable than TMD."
+                ]
+            }
+        }
+    ]
+}

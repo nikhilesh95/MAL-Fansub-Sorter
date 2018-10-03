@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Hikari no Tamashii",
+        "Short Name": "HnT",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hitsuji no Uta",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good font, and clear quality."
+                ],
+                "Bad Comments": [
+                    "These! Are decent."
+                ]
+            }
+        }
+    ]
+}

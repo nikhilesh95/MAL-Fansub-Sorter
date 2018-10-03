@@ -1,0 +1,151 @@
+{
+    "Group": {
+        "Group Name": "moo-shi",
+        "Short Name": "moo-shi",
+        "IRC": "#moo-shi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "89",
+            "Users Disapprove": "18",
+            "Total": "107"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakuretsu Tenshi",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lacks the English audio that actually makes this show enjoyable."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Basilisk: Kouga Ninpou Chou",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "17 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "packed episodes:D (hd)",
+                    "missing some translations",
+                    "bad font"
+                ],
+                "Bad Comments": [
+                    "Accurate subbing with excellent quality",
+                    "it's efficient",
+                    "Nice font choice, subs were accurate and the encode was good as well. A good choice of sub groups for this anime."
+                ]
+            }
+        },
+        {
+            "Show Name": "Eureka Seven",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "8 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No English audio.",
+                    "Above Averange"
+                ],
+                "Bad Comments": [
+                    "I like the font color used, lacks OP and ED, video quality less than G_P"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hotaru no Haka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice video quality."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Monster",
+            "Show Type": "TV - 74 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD rips, softsubbed, and overall really nicely done"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mushishi",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "12 of 19 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dissaprove, horrible timing.",
+                    "Problems with timing, a/v sync, missing lines, typesetting...",
+                    "They do it well ^_^",
+                    "Wery good rip, 2 subs to choose from, chapters, mkv vith dvd kvalety",
+                    "Two episodes are were partially out of sync and the typesetting could've been better, but overall good."
+                ],
+                "Bad Comments": [
+                    "terrible timing.",
+                    "their slowness",
+                    "2 sets of accurate subtitles correctly timed",
+                    "god awful",
+                    "great tl, no grammatical errors. only problem is the font."
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Natsume Yuujinchou",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "15 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Apparently moo-shi never got the hang of re-releasing without adding video/audio/subtitle glitches. Previews are missing. Video is not even higher res than BSS' 400p TV-rips.",
+                    "high quality subbing. great fontyping. better than BSS's speed subs"
+                ],
+                "Bad Comments": [
+                    "ideal group",
+                    "No OP or ED"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shakugan no Shana",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "5 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Adds mistakes to the already undertranslated SS-Eclipse subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sunabouzu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "21 of 22 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "CDR-scrimping R1 rip that lacks the excellent English dub. They could've at least used the \"Japanese\" angle to make it look like an R2 DVD-rip.",
+                    "perfect",
+                    "Perfect"
+                ],
+                "Bad Comments": [
+                    "amazing!",
+                    "Except for a few weird translation choices here and there it's an awesome job but their release is getting harder to find. Unfortunately I first watched Sunabouzu with VCL player so the subs were fucked up but that was my fault."
+                ]
+            }
+        }
+    ]
+}

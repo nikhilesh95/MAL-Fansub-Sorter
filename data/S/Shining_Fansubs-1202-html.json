@@ -1,0 +1,92 @@
+{
+    "Group": {
+        "Group Name": "Shining Fansubs",
+        "Short Name": "Shi-Fa",
+        "IRC": "irc://irc.rizon.net:6667/Shi-Fa",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "0",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cluster Edge",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dragon Quest: Dai no Daibouken (TV)",
+            "Show Type": "TV - 46 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Futakoi Alternative",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fuujin Monogatari",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Great.",
+                    "they seem to match up perfectly"
+                ],
+                "Bad Comments": [
+                    "Truly great example of the art of subbing"
+                ]
+            },
+            "User Approval": "11 of 11 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Ginyuu Mokushiroku Meine Liebe",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I respect that they corrected the mistakes they made because it proves that they really tried hard to get it right, and it really was quite difficult to deal with all the names and titles in this anime :)"
+                ],
+                "Bad Comments": [
+                    "Not only their subs were very accurate but they also provided some extra information and or explanation on various names and terminology this anime had"
+                ]
+            },
+            "User Approval": "11 of 11 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Ginyuu Mokushiroku Meine Liebe Wieder",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        },
+        {
+            "Show Name": "Shin Angyo Onshi",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve"
+        }
+    ]
+}

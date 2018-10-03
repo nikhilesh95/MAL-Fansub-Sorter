@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Bro-Team",
+        "Short Name": "Bro",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Glasslip",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "C'était beau, bien que l'anime soit nul, du bon travail"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Selector Spread WIXOSS",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

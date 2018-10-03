@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Soshiki",
+        "Short Name": "Soshiki",
+        "IRC": "#soshiki@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sekirei: Pure Engagement",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sekirei: Pure Engagement Episode 0",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Buena traducción, gran calidad de imagen y genial trabajo en general. Único fansub que la ha sacado en Castellano de España."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

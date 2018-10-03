@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kamina Fansubs",
+        "Short Name": "Kamina",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "3",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "5 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great fansub.  Watched Gurren Lagann with these subs.  No mistakes come to mind and great quality.  Not really sure about timing of releases because I watched after everything was released.  Thanks for the subs, Kamina."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

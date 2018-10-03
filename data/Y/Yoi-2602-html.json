@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Yoi",
+        "Short Name": "Yoi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seikimatsu Occult Gakuin",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very bad",
+                    "Best video quality, subtitles are also good :D"
+                ],
+                "Bad Comments": [
+                    "More CR"
+                ]
+            }
+        }
+    ]
+}

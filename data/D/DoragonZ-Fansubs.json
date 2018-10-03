@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "DoragonZ-Fansubs",
+        "Short Name": "DZ-Subs",
+        "IRC": "#DZ-Fansubs",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball Kai",
+            "Show Type": "TV - 97 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

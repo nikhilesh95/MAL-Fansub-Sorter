@@ -1,0 +1,43 @@
+{
+    "Group": {
+        "Group Name": "Kingmenu",
+        "Short Name": "Kingmenu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kurenai Sanshirou",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tiger Mask",
+            "Show Type": "TV - 105 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Tiger Mask Nisei",
+            "Show Type": "TV - 33 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Their subs for Tiger Mask Nisei are clearly translated using an automatic translation program. This makes them hard to understand at times and in their rendition the series is barely watchable."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve, 1 comments"
+        }
+    ]
+}

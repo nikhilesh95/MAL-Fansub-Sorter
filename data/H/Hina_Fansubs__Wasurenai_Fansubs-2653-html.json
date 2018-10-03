@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "Hina Fansubs & Wasurenai Fansubs",
+        "Short Name": "HiNA-Wasurenai",
+        "IRC": "#hina@irc.rizon.net  &  #wasurenai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "10",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "HenSemi",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "14 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    ">NOPE",
+                    "Good-looking, nice timing, no mistakes spotted"
+                ],
+                "Bad Comments": [
+                    "Excellent work.",
+                    "Good."
+                ]
+            }
+        },
+        {
+            "Show Name": "HenSemi (TV)",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "8 of 15 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "audio glitches",
+                    "Terrible styling, translation and editing. Doesn't make sense at all.",
+                    "I thought this group did a great job until they dropped it.",
+                    "Shit subs are shit"
+                ],
+                "Bad Comments": [
+                    "Dropped",
+                    "not bad",
+                    "HiNA-Wasurenai have dropped this. Wasurenai are carrying it on. But very slowly."
+                ]
+            }
+        }
+    ]
+}

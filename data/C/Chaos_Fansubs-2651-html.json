@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Chaos Fansubs",
+        "Short Name": "Chaos",
+        "IRC": "#chaos@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tengen Toppa Gurren Lagann: Kirameki★Yoko Box - Pieces of Sweet Stars",
+            "Show Type": "Music - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

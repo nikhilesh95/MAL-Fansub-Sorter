@@ -1,0 +1,88 @@
+{
+    "Group": {
+        "Group Name": "JPz Records",
+        "Short Name": "JPz",
+        "IRC": "#JPzRecords@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "23",
+            "Users Disapprove": "13",
+            "Total": "36"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Final Fantasy VII: Advent Children",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hayate no Gotoku! Heaven Is a Place on Earth",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Newmanoid Cam: Cam Castin",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Oni Chichi",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 9 users approve"
+        },
+        {
+            "Show Name": "Rance: Sabaku no Guardian",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "School Days",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Learn to QC FOOLS!!! So much grammar mistakes weird line etc... Just stick to Aniyoshi's release.",
+                    "Better video quality than AniYoshi, uses AniYoshi's and Menclaves subtitles too, I'm satisfied with this release and can recommend it to anyone",
+                    "My HEART isn't MENTALLY prepared yet.\n^Also, A LOT OF GRAMMAR MISTAKES other than this one.",
+                    "Great video quality, but some grammar mistakes."
+                ],
+                "Bad Comments": [
+                    "No QC, some translations are just random/wrong.",
+                    "Seems fine to me. Some really sad spelling/grammer errors here and there, but atleast quality is decent.",
+                    "Video quality is good. The subtitle font is great and translations seem fairly accurate to me. It could drop the karaoke when the songs play in the episodes, though.",
+                    "Very good."
+                ]
+            },
+            "User Approval": "17 of 23 users approve, 8 comments"
+        },
+        {
+            "Show Name": "Triangle Blue",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve, 1 comments"
+        }
+    ]
+}

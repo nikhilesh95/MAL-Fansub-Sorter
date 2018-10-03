@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Loxagon Sub & Shinigami-Neko-Fansubs",
+        "Short Name": "LX-SUBS&SN-SUBS",
+        "IRC": "#LoxagonSub@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Macross F Movie 2: Sayonara no Tsubasa",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

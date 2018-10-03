@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "_MasterPiece",
+        "Short Name": "_MasterPiece",
+        "IRC": "#msoms-anime@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "38",
+            "Users Disapprove": "3",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kidou Keisatsu Patlabor the Movie",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Monster",
+            "Show Type": "TV - 74 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "أحسنت وشكرًا على الجهود. أفضل ترجمة للأنمي بلا منازع",
+                    "الترجمة رهيبة\nيكفي أنه أعطى انمي مظلوم مثله حقه",
+                    "يوجد اخطاء بسيطة لكن على اي حال الترجمة جيدة"
+                ],
+                "Bad Comments": [
+                    "بطل لكن عندي تعقيب على ترجمت كلمة دكتور الى طبيب لو تكون دكتور تكون افضل",
+                    "a very bad translation \na lot of mistakes and difference between the English version and this Arabic one !",
+                    "أشكركم على العمل الجميل"
+                ]
+            },
+            "User Approval": "31 of 34 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Porphy no Nagai Tabi",
+            "Show Type": "TV - 52 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "أحسنت وشكرًا على الجهود. أفضل ترجمة للأنمي بلا منازع والوحيدة حسب علمي"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "7 of 7 users approve, 1 comments"
+        }
+    ]
+}

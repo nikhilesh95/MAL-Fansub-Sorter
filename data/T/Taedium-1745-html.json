@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Taedium",
+        "Short Name": "Taedium",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "4",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Hangyaku no Lelouch",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sky Girls",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Microscopic text size, nonexistent padding, uses the subpar Ayako subs without any editing or corrections. Previews missing. At least there's some adequate song and text translations.",
+                    "Grammatical errors, direct word translations instead of forming coherent sentences. Also changed Oppama base to Obama base. A bunch of weird things like that.",
+                    "Grammatical errors everywhere. More than any other fansub group I've seen in a long time."
+                ],
+                "Bad Comments": [
+                    "Great",
+                    "Episodes are on usenet instead of torrent. This makes finding the episodes easier.",
+                    "ESL subs. And they understand Japanese about as well as they understand English."
+                ]
+            },
+            "User Approval": "3 of 7 users approve, 6 comments"
+        },
+        {
+            "Show Name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The Triad but better."
+                ],
+                "Bad Comments": [
+                    "DVD + Triad\n\nYou can now discard of those mediocre TV rips"
+                ]
+            },
+            "User Approval": "6 of 6 users approve, 2 comments"
+        }
+    ]
+}

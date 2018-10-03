@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "LoLiSubs & DesoxyriboNukleinSubs",
+        "Short Name": "LoLi&DNS",
+        "IRC": "#LoLiSubs@irc.euirc.net #dns@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hakushaku to Yousei",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

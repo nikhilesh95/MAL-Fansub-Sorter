@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Sudeki FanSubs & Hontô-Subs & Newgene Fansubs",
+        "Short Name": "SFS&Honto&NG",
+        "IRC": "#Sudeki-FanSubs@irc.euirc.net #Honto@irc.euirc.net #Templaworld@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

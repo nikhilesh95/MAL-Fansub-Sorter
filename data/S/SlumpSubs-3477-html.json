@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "SlumpSubs",
+        "Short Name": "SlumpSubs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dr. Slump: Arale-chan",
+            "Show Type": "TV - 243 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Link to their website leads to a publicity site."
+                ],
+                "Bad Comments": [
+                    "great and consistent but they dropped after 2 episodes"
+                ]
+            }
+        }
+    ]
+}

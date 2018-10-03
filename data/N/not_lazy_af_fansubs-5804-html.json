@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "not lazy af fansubs",
+        "Short Name": "NotLFF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "2",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "12 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs, nothing to fault here."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

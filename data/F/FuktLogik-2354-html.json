@@ -1,0 +1,150 @@
+{
+    "Group": {
+        "Group Name": "FuktLogik",
+        "Short Name": "FuktLogik",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "37",
+            "Users Disapprove": "26",
+            "Total": "63"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Doujin Work",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Took Spoon's TV softsubs and removed OP/ED translations for DVD release. Agenda-based subbing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gunslinger Girl",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Crisp (afaict) 720p release using KAA subs."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hidamari Sketch",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "19 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Songs not translated, most awkward and inaccurate translations for dialogue out of any version.",
+                    "Good all around.",
+                    "DVD rips, good translations, used translations notes where the original Japanese words need to be used to understand certain jokes.  Best choice for this show.",
+                    "Clean, Good explanation on puns.",
+                    "They were very careful and explicit in capturing the words on signs throughout the anime which I feel is a detail sometimes overlooked"
+                ],
+                "Bad Comments": [
+                    "Upscaled video, blurry subtitles. Stick to the Shintani-Spoon release.",
+                    "Best release for this series. To the guy complaining about upscale: It's encoded in DVD source resolution, it is NOT upscale.",
+                    "Best subs available, nice surprise to see a less common group",
+                    "Good translation notes, though I wish they would have subbed the OP/ED."
+                ]
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Pointless subtractive remux of E-D's release. Just add your song-hating/weeaboofied/typeset subs and leave the original subs and audio tracks alone, kthx."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamen no Maid Guy",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "TK-Y + DVD + some translation fixed but no Karaoke for opening and ending"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamen no Maid Guy OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karas",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi ga Aruji de Shitsuji ga Ore de",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koharu Biyori",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Muteki Kanban Musume",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Removes song translations that were already present in the DVD subs they edited. Inane agenda-based subbing."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 29 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Songs not translated, some signs missing (beyond TV-DVD differences), poor styling on some other signs, added huge blog-post-esque trolling messages to the ends of episodes.",
+                    "Actually do a good job with a.f.k.'s TLs. DVDrips are nice.",
+                    "karaoke is for fags",
+                    "Besides minor errors, high quality, fluent, and accurate.",
+                    "A poor edit of AFK's.",
+                    "Doesn't like karaoke, so he didn't feel the need to translate it. What a fag.",
+                    "(Most) signs are subbed and there are no problems with translation, but there is no karaoke and each time you have to manually disable the end notes which cover the end cards. Meme subs rather than a serious endeavor."
+                ],
+                "Bad Comments": [
+                    "bunch of elitist fags",
+                    "too much screen text untranslated, several mistakes, and very poor translation of puns",
+                    "Much appreciated DVD rip.",
+                    "no karaoke",
+                    "Though it seems the subs are ripped from other sources, the typesetting and overall quality are very good.",
+                    "I regret watching this over a.f.k.'s release. Translation errors, no karaoke, and the version I downloaded had timing issues with the subs. At least it was close to 720p quality, but it wasn't really worth it. Just stick with a.f.k."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "SukiPawa - English Releases",
+        "Short Name": "SukiPawa-EN",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamen no Maid Guy OVA",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nonsense translation, 2 out of 50 lines were translated properly... very poor translation",
+                    "good enough job"
+                ],
+                "Bad Comments": [
+                    "Decent subs."
+                ]
+            }
+        }
+    ]
+}

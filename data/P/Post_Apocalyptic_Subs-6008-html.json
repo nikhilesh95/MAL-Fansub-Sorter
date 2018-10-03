@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Post Apocalyptic Subs",
+        "Short Name": "PAS",
+        "IRC": "#pa-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Houseki no Kuni",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "yes"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ito Junji: Collection",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

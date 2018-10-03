@@ -1,0 +1,113 @@
+{
+    "Group": {
+        "Group Name": "TacoCat",
+        "Short Name": "TacoCat",
+        "IRC": "#TacoCat@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "44",
+            "Users Disapprove": "26",
+            "Total": "70"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamisama no Inai Nichiyoubi: Kioku",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "10 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very odd sounding. I recommend waiting for someone else's subs.",
+                    "Very good subs for an unknown group :)"
+                ],
+                "Bad Comments": [
+                    "Inaccurate translations."
+                ]
+            }
+        },
+        {
+            "Show Name": "Keroro",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great subs and good grammar"
+                ],
+                "Bad Comments": [
+                    "Dropped"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kiniro Mosaic",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 11 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuromajo-san ga Tooru!!",
+            "Show Type": "TV - 60 episodes",
+            "User Approval": "12 of 14 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "\"Nutella\" oh god",
+                    "fast",
+                    "great work and the only one to stick with the show - nice encode with creative typesetting!"
+                ],
+                "Bad Comments": [
+                    "Not very accurate on the translations.",
+                    "thanks"
+                ]
+            }
+        },
+        {
+            "Show Name": "Miss Monochrome: The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Miss Monochrome: The Animation - Soccer-hen",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "6 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Momo Kyun Sword",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translating character names is stupid",
+                    "*staaares*"
+                ],
+                "Bad Comments": [
+                    "For a reason known only to retarded idiots, this group decided to translate the character names. No words can do justice to how stupid that is. They also never finished it, which is actually a good thing considering how terrible a job they  were doing.",
+                    "First One To Upload So I Would Approve."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Even on the v3 this is still bad. Give up."
+                ],
+                "Bad Comments": [
+                    "No WEBSITE???"
+                ]
+            }
+        }
+    ]
+}

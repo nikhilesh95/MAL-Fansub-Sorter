@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Little Subbers",
+        "Short Name": "LittleSubbers",
+        "IRC": "#lilsubbers@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "13",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Little Busters!",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "15 of 28 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "jokes were funny because not as liberal as utw",
+                    "yawn..",
+                    "Errors, errors everywhere. http://crymore.net/2012/10/22/fansub-review-littlesubbers-little-busters-episode-02",
+                    "Sorry, but the Oliver Sauce joke was horrible. UTW's version is much better, since they need to make it sense in English, and of course, these guys choose the Engrish route.",
+                    "Untranslated jokes.",
+                    "positive"
+                ],
+                "Bad Comments": [
+                    "their sub is not as good as utw's",
+                    "UP, but I prefer, \"Even cats fall from poles.\" or something like that.",
+                    "Not Overhyped UTW or bad Mazui",
+                    "Underlocalized. I guess that's why other people liked it though.",
+                    "UTW did much better.",
+                    "Some of the jokes were bad, some bad typesetting as well."
+                ]
+            }
+        }
+    ]
+}

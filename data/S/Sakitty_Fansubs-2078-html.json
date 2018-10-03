@@ -1,0 +1,55 @@
+{
+    "Group": {
+        "Group Name": "Sakitty Fansubs",
+        "Short Name": "Sakitty",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "1",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hipira-kun",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I've seen Sa and VS, and Sa's was better quaility."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaitou Reinya",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kotatsu Neko",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuruneko",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "14 of 15 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Never going to finish it."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

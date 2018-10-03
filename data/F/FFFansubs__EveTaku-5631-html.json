@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "FFFansubs & EveTaku",
+        "Short Name": "FFFaku",
+        "IRC": "#FFFpeeps@irc.rizon.net | #evetaku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "2",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "15 of 17 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing",
+                    "the archive-able version right here. +1"
+                ],
+                "Bad Comments": [
+                    "over liberal subs with obnoxious karaoke. if you can't stop yourself from drawing graffiti over the show then don't bother subbing."
+                ]
+            }
+        }
+    ]
+}

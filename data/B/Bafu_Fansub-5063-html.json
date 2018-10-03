@@ -1,0 +1,42 @@
+{
+    "Group": {
+        "Group Name": "Bafu Fansub",
+        "Short Name": "BaF",
+        "IRC": "#bafu-fansub@ir.ff.st",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Maison Ikkoku: Kanketsu-hen",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maison Ikkoku: Prelude - Meguru Haru no Sakura no you ni...",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maison Ikkoku: Utsuriyuku Kisetsu no Naka de",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I noticed a few errors, but overall they definitely put in a decent effort."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve, 1 comments"
+        }
+    ]
+}

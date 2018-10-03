@@ -1,0 +1,48 @@
+{
+    "Group": {
+        "Group Name": "AniLibria.Tv",
+        "Short Name": "AniLibria.Tv",
+        "IRC": "",
+        "Primary Language": "Russian",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "7",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Girls & Panzer",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Уебанский недоперевод с английского? Уебанский недоперевод с английского."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Joshiraku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Съебитесь уже нахуй, пожалуйста."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Suisei no Gargantia",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "stawp"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

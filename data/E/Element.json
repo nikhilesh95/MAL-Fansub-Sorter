@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Element",
+        "Short Name": "Element",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "10",
+            "Total": "29"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "14 of 22 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better quality video than DB but just as many stupid mistakes",
+                    "Down.",
+                    "Much faster then DB, and nice quality.",
+                    "tl = ass",
+                    "terrible translations",
+                    "i didnt mind it being late and stuff but 400mb an episode was the end for me. check out ryugan a real group, not one person. plus the torrents die real fast and have to use megaupload. it looks pretty but not worth it",
+                    "I couldve done better. Inaccuracies: 85%"
+                ],
+                "Bad Comments": [
+                    "example of poor translations? Much better than SGKK though, editing is better too",
+                    "fuckin upscale that looks like shit.",
+                    "Post-Dattebayo review: Best I've seen. I like the translations more than SGKK, and overall the quality is not something you're used to seeing in Bleach.\n\nEpisodes take a while to release, though. It's only one guy.",
+                    "Poor translation",
+                    "upscaled Xvids",
+                    "Good quality, adequate subs. The subtitles aren't always accurate either. Overall it is tolerant.",
+                    "Not bad at all, but it's no SGKK."
+                ]
+            }
+        },
+        {
+            "Show Name": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "accurate subs",
+                    "no typeset, ending song karaoke, or ending song subs"
+                ],
+                "Bad Comments": [
+                    "Not very accurate subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fairy Tail",
+            "Show Type": "TV - 175 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

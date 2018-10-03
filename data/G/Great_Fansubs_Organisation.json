@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Great Fansubs Organisation",
+        "Short Name": "GFO",
+        "IRC": "#GFO@irc.aniverse.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "7",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Great Teacher Onizuka",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "16 of 23 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translations seriously need to be proofread and edited. So many mistakes.",
+                    "too many errors",
+                    "Easy to read and understandable subs. There are quite a few spelling mistakes and lines that could be better phrased, but it doesn't stop you understanding what's going on.",
+                    "spelling errors, missing words, extra letters, sometimes too fast to read",
+                    "Hm... I just like them? I... guess...? o.o",
+                    "Only a major mistake, in Kansaki's french in ep. 18. But that was because it was plot relevant. Nice subs",
+                    "Way too many mistakes."
+                ],
+                "Bad Comments": [
+                    "sometimes it does not have any translating notes",
+                    "nice translation and i liked the way the subs looked like :P",
+                    "Clear and easy to understand, nice typestetting as well.",
+                    ".avi ftw.",
+                    "The subtitles are very easy to read and the fansub group explains certain things that people might not know",
+                    "Subs are wrong."
+                ]
+            }
+        }
+    ]
+}

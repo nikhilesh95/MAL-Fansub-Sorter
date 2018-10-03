@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Manko Fansubs",
+        "Short Name": "Manko",
+        "IRC": "#MANKO@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "49",
+            "Users Disapprove": "4",
+            "Total": "53"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam Thunderbolt",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "23 of 23 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only ones doing it. Good encode, good translation. Rescued this show from the abyss of Sunrise's silly marketing decisions. etc. etc."
+                ],
+                "Bad Comments": [
+                    "Whiles they took their time it was worth it in the end."
+                ]
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam Thunderbolt 2nd Season",
+            "Show Type": "ONA - 4 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "where;s episode 8?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "26 of 29 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Slow and steady wins the race",
+                    "Manko = Tekkadan. HS = Gjallarhorn",
+                    "Fantastic.",
+                    "Accurate translation and good quality all round, best group subbing this show",
+                    "Their subs are pretty and they do the OP and ED. I also like the font they use and the guys there seem cool.",
+                    "BASED"
+                ],
+                "Bad Comments": [
+                    "Only choice.",
+                    "They can't even phrase properly. Please learn English.",
+                    "random group but good subs",
+                    "Loving these subs so far.",
+                    "Never heard of these guys, but their subs have been good so far.",
+                    "Good subs. This is their first project too, so extra props for that.\n\n~3 days after HS, regular sched."
+                ]
+            }
+        }
+    ]
+}

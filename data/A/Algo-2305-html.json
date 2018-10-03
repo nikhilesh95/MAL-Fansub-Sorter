@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Algo",
+        "Short Name": "Algo",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "2",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cheburashka Arere?",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katanagatari",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kuuchuu Buranko",
+            "Show Type": "TV - 11 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They just translated GG´s subs. Missing lines."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Ookamikakushi",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Lanzamiento de excelente calidad. Sin karaoke."
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "So Ra No Wo To",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 4 users approve, 1 comments"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Anime Studio",
+        "Short Name": "A S",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "6",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "JoJo no Kimyou na Bouken",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 8 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mistakes & Missing lines everywhere and the dialogue that's there hasn't been timed well. Shame this is the only version I could find.",
+                    "Bad translations, mis-timed subs, missing lines, extremely low audio, terrible overall.",
+                    "Bad quality",
+                    "Awful; some lines and all text are not translated. Some lines are split at odd spots and poor translations overall."
+                ],
+                "Bad Comments": [
+                    "missing lines, timing is off in places",
+                    "Good release",
+                    "Better then nothing but subs were not the best."
+                ]
+            }
+        }
+    ]
+}

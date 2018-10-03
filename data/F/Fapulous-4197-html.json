@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Fapulous",
+        "Short Name": "Fapulous!",
+        "IRC": "#fapulous@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "12",
+            "Total": "15"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kotoura-san",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped",
+                    "No.",
+                    "Jesus Christ how horrifying."
+                ],
+                "Bad Comments": [
+                    "shit",
+                    "DIABEETUS.",
+                    "Best encode and good typesetting, but sadly the script isn't very good. CR edit, but the changes don't seem to make much sense. A few mistakes too. Not terrible for a new group, but Commie's better for this one."
+                ]
+            }
+        },
+        {
+            "Show Name": "Miss Monochrome: The Animation",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "dropped"
+                ],
+                "Bad Comments": [
+                    "nice OP/ED. Probably the best choice."
+                ]
+            }
+        }
+    ]
+}

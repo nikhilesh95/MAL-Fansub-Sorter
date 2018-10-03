@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Sixtydeuce Fansub Productions",
+        "Short Name": "Sixtydeuce",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "4",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "8 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A worthy effort to bring us MSG in original Japanese dub."
+                ],
+                "Bad Comments": [
+                    "No japanese karaoke, bad subs during them. They seems to enjoy the use of rude translations. Seriously why so many \"fucking\", \"shit\" and other \"suck\" words... Furthermore, their translation are often inaccurate"
+                ]
+            }
+        },
+        {
+            "Show Name": "Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

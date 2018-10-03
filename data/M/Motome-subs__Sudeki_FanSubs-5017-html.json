@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Motome-subs & Sudeki FanSubs",
+        "Short Name": "MoE&SFS",
+        "IRC": "#motome@irc.euirc.net #Sudeki-FanSubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Onegai☆Twins",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

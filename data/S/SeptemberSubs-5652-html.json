@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "SeptemberSubs",
+        "Short Name": "SS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "3",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Free!: Eternal Summer – Kindan no All Hard!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "9 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs easy to find."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Haikyuu!!: Lev Genzan!",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they delivered."
+                ],
+                "Bad Comments": [
+                    "No need to watch these poor quality subs since Commie translated it."
+                ]
+            }
+        }
+    ]
+}

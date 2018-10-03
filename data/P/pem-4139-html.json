@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "pem",
+        "Short Name": "pem",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "3",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bakemonogatari",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "0 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nekomonogatari: Kuro",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better than Commie, But not as good as UTW"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

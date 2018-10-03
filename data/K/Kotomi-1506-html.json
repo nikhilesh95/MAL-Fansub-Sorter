@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Kotomi",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Too-loose translation, exclusions, stupid useless \"Editor's Notes\""
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Renkin San-kyuu Magical? Pokaan Specials",
+            "Show Type": "Special - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

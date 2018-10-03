@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shadow Ryders Subs",
+        "Short Name": "SR-S",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blue Drop: Tenshi-tachi no Gikyoku",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fine subs"
+                ],
+                "Bad Comments": [
+                    "Accurate translations and faithful rendition rather than overlocalization"
+                ]
+            }
+        }
+    ]
+}

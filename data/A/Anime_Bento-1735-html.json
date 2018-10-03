@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Anime Bento",
+        "Short Name": "AB",
+        "IRC": "irc.rizon.net/AnimeBento",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "2",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Naruto: Shippuuden",
+            "Show Type": "TV - 500 episodes",
+            "User Approval": "1 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they started with very high quality, but lately they raws quality has dropped a lot, so they video quality is just awfull -_-'"
+                ],
+                "Bad Comments": [
+                    "its pretty good nice lettering but no notes."
+                ]
+            }
+        }
+    ]
+}

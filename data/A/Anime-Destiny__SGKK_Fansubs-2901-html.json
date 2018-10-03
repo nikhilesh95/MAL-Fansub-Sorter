@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Anime-Destiny & SGKK Fansubs",
+        "Short Name": "A-Destiny_SGKK",
+        "IRC": "#sgkk@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "48",
+            "Users Disapprove": "11",
+            "Total": "59"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only subbed ep 492 (2nd part of the crossover with Toriko) but they've done a really god job."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko",
+            "Show Type": "TV - 147 episodes",
+            "User Approval": "35 of 45 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Yo. Dark_Sage here (writer of the whiners post). I watched their 02 and it was a lot better. Definitely deserving of a +. Just wanted to say that.",
+                    "SGKK",
+                    "SGKK droped it, but A-Destiny goes on with new staff for this & they are good",
+                    "KUGI PANTSU!",
+                    "Screw SGKK, since they dropped the show. Thank God A-Destiny keeps up the good work.",
+                    "typesetting gave me a seizure during the map at the beginning, the timing is off and makes long lines difficult to read, and the script itself... just wow.  Typos, awful grammar... lots of facepalms.  I never thought I'd say this... but do yourself a favo"
+                ],
+                "Bad Comments": [
+                    "a bit liberal, but... at least it contains no errors.",
+                    "http://www.whiners.pro/2011/04/fansub-review-a-destiny_sgkk-toriko/",
+                    "Decent subs! However, they're pretty slow.",
+                    "Win",
+                    "The subs look great and all the cultural reference is explained (the same goes for puns and jokes).",
+                    "dropped"
+                ]
+            }
+        }
+    ]
+}

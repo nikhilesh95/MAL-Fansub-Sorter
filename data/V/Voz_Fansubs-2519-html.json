@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Voz~ Fansubs",
+        "Short Name": "Voz",
+        "IRC": "#Voz~Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "7",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amagami SS",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "6 of 13 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Where the hell is the opening? And many spelling mistakes etc",
+                    "Missing signs and the entire preview",
+                    "bad. just this.",
+                    "slow"
+                ],
+                "Bad Comments": [
+                    "Novice group starting out",
+                    "good job",
+                    "Translation good, like the font for the end karaoke (good choice)."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Insomnia Subs",
+        "Short Name": "Insomnia-subs",
+        "IRC": "#insomnia-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "7",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cross Game",
+            "Show Type": "TV - 50 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tears to Tiara",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "They fell for the Engrish trap in the OP, the translation seemed a bit iffy in some places, and most importantly the wording of everything was just downright wonky."
+                ],
+                "Bad Comments": [
+                    "Well, the subs are of low quality (spelling/\"translating\" [english op seq.]) and the speed isn't outstanding, too."
+                ]
+            },
+            "User Approval": "1 of 8 users approve, 2 comments"
+        }
+    ]
+}

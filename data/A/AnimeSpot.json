@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "AnimeSpot",
+        "Short Name": "ASpot",
+        "IRC": "#AnimeSpot@irc.dal.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Cardcaptor Sakura",
+            "Show Type": "TV - 70 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

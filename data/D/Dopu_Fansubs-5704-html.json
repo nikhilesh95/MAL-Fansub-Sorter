@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Dopu Fansubs",
+        "Short Name": "Dopu",
+        "IRC": "#dopu@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dragon Ball Super",
+            "Show Type": "TV - 131 episodes",
+            "User Approval": "3 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "High quality encoding with perfect translation."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

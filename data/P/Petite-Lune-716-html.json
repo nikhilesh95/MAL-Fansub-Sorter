@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Petite-Lune",
+        "Short Name": "P-L",
+        "IRC": "#Petite-Lune@irc.Fansub-IRC.org",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Claymore",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent job with a real will to perform well"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saiunkoku Monogatari",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

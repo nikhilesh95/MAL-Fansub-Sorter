@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Miaou Subs",
+        "Short Name": "M-S",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Qualité."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Jinrui wa Suitai Shimashita",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Qualité BluRay, et traduction impeccable."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nozo x Kimi",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Qualité."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Akatsuki",
+        "Short Name": "Akatsuki",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "7",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sekaiichi Hatsukoi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "well..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sengoku Otome: Momoiro Paradox",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

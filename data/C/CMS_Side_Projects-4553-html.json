@@ -1,0 +1,104 @@
+{
+    "Group": {
+        "Group Name": "CMS Side Projects",
+        "Short Name": "CMSSide",
+        "IRC": "#colormesubbed@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "45",
+            "Users Disapprove": "1",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//G.U. Returner",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//G.U. Trilogy",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Dantalian no Shoka",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hime Gal♥Paradise",
+            "Show Type": "OVA - 9 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kimi no Iru Machi OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "14 of 14 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kira Kira 5th Anniversary Live Anime: Kick Start Generation",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "7 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs were very stylish, and I liked the lyrics they went with."
+                ],
+                "Bad Comments": [
+                    "beautiful styling +1"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "13 of 13 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit show, great subs."
+                ],
+                "Bad Comments": [
+                    "Great job! Accurate subs ^_^"
+                ]
+            }
+        },
+        {
+            "Show Name": "Suzumiya Haruhi no Shoushitsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tekken: Blood Vengeance",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

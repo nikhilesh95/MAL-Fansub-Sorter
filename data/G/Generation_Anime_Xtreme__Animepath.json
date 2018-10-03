@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Generation: Anime Xtreme & Animepath",
+        "Short Name": "GAX&AP",
+        "IRC": "#GAX@irc.otakubox.de #animepath@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Roots",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

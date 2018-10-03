@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Rumbel-subs & Higure-Subs",
+        "Short Name": "Rumbel-Higure",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "53",
+            "Users Disapprove": "5",
+            "Total": "58"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "User Approval": "52 of 56 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined",
+                    "Not bad. Could improve the encoding and a couple of missing lines.",
+                    "nice job",
+                    "They are the best!",
+                    "Rumbel FTW"
+                ],
+                "Bad Comments": [
+                    "The only group providing quality subs for KHR right now; slower releases but worth waiting for imo.",
+                    "Unlike the other groups subbing Hitman now, they can actually speak and understand english.",
+                    "A joint project with no coordination. It is obvious that they have no set positions due to the lack of consistency in the episodes.",
+                    "It's Rumbel, nothing else needed to say.",
+                    "Hadou-ken"
+                ]
+            }
+        }
+    ]
+}

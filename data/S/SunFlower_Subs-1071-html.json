@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "SunFlower Subs",
+        "Short Name": "",
+        "IRC": "#sunflowersubs@irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "6",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamichama Karin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 9 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Poor translation, skipped lines and general lack of professionalism.",
+                    "the only sub that continue from 18 - 26",
+                    "Skip lines, changes font through out."
+                ],
+                "Bad Comments": [
+                    "Pretty good but occassionally skips translating some dialogue. Will make you go WTF at times.",
+                    "They do not translate many lines and mistranslate others."
+                ]
+            }
+        },
+        {
+            "Show Name": "Sugar Sugar Rune",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "2 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not so good at first. But quality improves dramatically from episode 33 onward, after the joint project kicked in."
+                ],
+                "Bad Comments": [
+                    "Well for one they picked up this series even though they were busy and are trying their best release episode"
+                ]
+            }
+        }
+    ]
+}

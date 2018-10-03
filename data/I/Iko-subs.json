@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Iko-subs",
+        "Short Name": "",
+        "IRC": "#iko-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "1",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kansen: Inyoku no Rensa",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "9 of 10 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

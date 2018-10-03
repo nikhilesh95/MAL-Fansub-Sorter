@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Morai-Subs & OtakuKingdom Subs",
+        "Short Name": "Morai&OK-Subs",
+        "IRC": "#morai-subs@irc.euirc.net #otakukingdom@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Amagami SS",
+            "Show Type": "TV - 25 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Amagami SS: Tachibana Miya-hen - Imouto",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

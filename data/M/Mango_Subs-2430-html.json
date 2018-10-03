@@ -1,0 +1,84 @@
+{
+    "Group": {
+        "Group Name": "Mango Subs",
+        "Short Name": "Mango",
+        "IRC": "#mango@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "64",
+            "Users Disapprove": "11",
+            "Total": "75"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arakawa Under the Bridge",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only did episode 1."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hiyokoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "26 of 26 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "pretty good",
+                    "Nice job."
+                ],
+                "Bad Comments": [
+                    "Great!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kuroshitsuji II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "subs are nice!"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "28 of 34 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Only real TL. Great releases so far. They are a bit slow though.",
+                    "+ for the ONLY GOOD FANSUB that is doing the show",
+                    "A bit liberal, but fine.",
+                    "derp",
+                    "nice subs.",
+                    "Only real fansubs out, and they're pretty good."
+                ],
+                "Bad Comments": [
+                    "zz",
+                    "No CR Rip",
+                    "Unnecessary TL notes, horrible editing, translation mistakes, bloated encodes, slow as hell. CR subs are a lot better choice for this.",
+                    "...very good subs. Video, audio and TL, everything's fine.",
+                    "Great font choice very nice version 2 of episodes 1 and 2, good editing"
+                ]
+            }
+        },
+        {
+            "Show Name": "Otome Youkai Zakuro Picture Drama",
+            "Show Type": "Special - 2 episodes",
+            "User Approval": "6 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good shit."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

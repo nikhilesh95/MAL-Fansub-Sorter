@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "sage & Anime-Koi",
+        "Short Name": "sage-koi",
+        "IRC": "#sage@irc.​rizon.​net / #Anime-Koi@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "68",
+            "Users Disapprove": "3",
+            "Total": "71"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code:Breaker",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "68 of 71 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "better than hs by a mile",
+                    "pretty much the only option.",
+                    "It's sage! Great subs as always.",
+                    "The translations are often off the point, losing the nuance the sentences would otherwise have."
+                ],
+                "Bad Comments": [
+                    "Well done!",
+                    "ok",
+                    "good enough."
+                ]
+            }
+        }
+    ]
+}

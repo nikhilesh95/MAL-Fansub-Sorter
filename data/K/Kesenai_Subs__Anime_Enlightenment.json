@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Kesenai Subs & Anime Enlightenment",
+        "Short Name": "KSN-AEN",
+        "IRC": "#Kesenai-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "13",
+            "Users Disapprove": "7",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blade of the Immortal",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "13 of 20 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They're just the best out there!",
+                    "undefined",
+                    "Hardsubbed and sloppy translation"
+                ],
+                "Bad Comments": [
+                    "Bad translation, bad quality. One episode froze several times during OP and ED.",
+                    "Good subbing"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Good Job! Media & FFFansubs",
+        "Short Name": "GJM-FFF",
+        "IRC": "#goodjob@irc.rizon.net | #FFFpeeps@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "71",
+            "Users Disapprove": "4",
+            "Total": "75"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "71 of 75 users approve, 12 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job, best option for this anime.",
+                    "Great subs. The best you'll find for this series.",
+                    "bland shitty script. go with μtw",
+                    "\"they'll fall behind\"\nyour brain that's gonna be fall behind\ngood choice for this show",
+                    "love gjm",
+                    "It was nice"
+                ],
+                "Bad Comments": [
+                    "decent sub",
+                    "Great work, with an apparent level of care taken in putting these subs out. But, they can be a little slow.",
+                    "Downvoting in advance because they'll fall behind.",
+                    "μtw has bland shitty script. go with GJM",
+                    "Very appealing, easy to read text. Good translation.",
+                    "best."
+                ]
+            }
+        }
+    ]
+}

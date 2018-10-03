@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Gokmen Subs",
+        "Short Name": "Gokmen",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Space Cobra",
+            "Show Type": "TV - 31 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bluray 1080p, ridiculous filesize but the quality is incomparable"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

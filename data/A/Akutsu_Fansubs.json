@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Akutsu Fansubs",
+        "Short Name": "akutsu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Honoo no Haramase Tenkousei",
+            "Show Type": "OVA - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oshiete Re: Maid",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "did a pretty good job."
+                ],
+                "Bad Comments": [
+                    "ep1: Much incorrect guesslation. Also mistiming and untranslated lines. Translator's comprehension of Japanese seems to be quite low which is a shame as they are the only translator for this."
+                ]
+            },
+            "User Approval": "6 of 7 users approve, 2 comments"
+        }
+    ]
+}

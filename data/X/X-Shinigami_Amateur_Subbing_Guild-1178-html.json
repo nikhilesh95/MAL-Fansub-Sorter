@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "X-Shinigami Amateur Subbing Guild",
+        "Short Name": "X-SASG",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "1",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ane Jiru The Animation: Shirakawa Sanshimai ni Omakase",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "3 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Himekishi Lilia",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hitozuma Cosplay Kissa 2: Hitozuma LoveLove - Cosplay OVA",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tokubetsu Byoutou",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

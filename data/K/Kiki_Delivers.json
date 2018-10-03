@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Kiki Delivers",
+        "Short Name": "Kiki Delivers",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Moyashimon",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "4 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not a great font choice, but definitely a watchable group. Good video quality too.",
+                    "The color was a sore choice, and their grip of the English language was just...AWFUL."
+                ],
+                "Bad Comments": [
+                    "High quality video, good translations.. yeah."
+                ]
+            }
+        }
+    ]
+}

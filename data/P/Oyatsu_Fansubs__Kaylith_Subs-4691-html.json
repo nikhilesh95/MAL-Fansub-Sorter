@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Oyatsu Fansubs & Kaylith Subs",
+        "Short Name": "Oyatsu-Kaylith",
+        "IRC": "#oyatsu@irc.rizon.net | #kaylith@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "White Album 2",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "So far best option. Subs are matching BD release so get it."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "TokiDokiSubs",
+        "Short Name": "TDS",
+        "IRC": "#TokiDokiSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Houkago no Pleiades (TV)",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "A nice start for a new group. Good typesetting and multiple tracks to choose from."
+                ],
+                "Bad Comments": [
+                    "this shit is fire"
+                ]
+            }
+        }
+    ]
+}

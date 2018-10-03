@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Hybrid-Fansubs and Kaitou Fansubs",
+        "Short Name": "Hybrid-Kaitou",
+        "IRC": "#kaitou-fansubs@irc.rizon.net ; #hybrid@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "3",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Robotics;Notes",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "4 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

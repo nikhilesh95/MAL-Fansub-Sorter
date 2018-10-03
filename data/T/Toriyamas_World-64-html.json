@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "Toriyama`s World",
+        "Short Name": "TW",
+        "IRC": "#ToriyamaWorld@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "54",
+            "Users Disapprove": "3",
+            "Total": "57"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Death Note",
+            "Show Type": "TV - 37 episodes",
+            "User Approval": "50 of 53 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The font matched nicely and the quality of the episodes were superb.",
+                    "Nice, clear translation",
+                    "This group's style really stands out, and I especially like the way they do \"L\".",
+                    "All timing and translations where perfect to me"
+                ],
+                "Bad Comments": [
+                    "Very good fansub : graphical \"L\", color-coding, text styles, and good translation... It's just too bad that they dropped the series",
+                    "Death Note was actually licensed after ep. 12, so TW dropped it, but during their run, I say this group was the BEST fansub who did Death Note. The fonts change to the speaker's \"handwriting\". Neat stuff.",
+                    "pure win",
+                    "they did an excellent job"
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto",
+            "Show Type": "TV - 220 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "OK"
+                ],
+                "Bad Comments": [
+                    "Good timing and easy to read fonts.\nTranslation is pretty stable."
+                ]
+            }
+        },
+        {
+            "Show Name": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

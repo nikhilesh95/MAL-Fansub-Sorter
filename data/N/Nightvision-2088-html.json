@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Nightvision",
+        "Short Name": "NV",
+        "IRC": "irc://irc.rizon.net/NV_FANSUB",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lady Georgie",
+            "Show Type": "TV - 45 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped."
+                ],
+                "Bad Comments": [
+                    "They sub it mostly in English which is what I understand and really clear too."
+                ]
+            }
+        }
+    ]
+}

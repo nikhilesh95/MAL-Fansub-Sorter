@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Flomp-Fansubs & Rumbel Subs",
+        "Short Name": "Flomp-Rumbel",
+        "IRC": "#rumbel @ irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "59",
+            "Users Disapprove": "15",
+            "Total": "74"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bleach",
+            "Show Type": "TV - 366 episodes",
+            "User Approval": "39 of 52 users approve, 22 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better video quality than DB.",
+                    "Quick, and accurate subs, with hilarious comments in the OP sequence",
+                    "Their subs are easy to understand,the font also nice.Although they subs slower than DB,but I still prefer their quality.",
+                    "A good alternative to DB. ^_^",
+                    "missing sentences in subs vs original",
+                    "Kinda slow, but their translations are better than DB's, and they do a much better job with the songlyrics as well.",
+                    "They're the only ones releasing in HD!!!",
+                    "Best for archive",
+                    "Too many spelling mistakes. Compared to the other companies, they just don't stack up.",
+                    "Their HD releases are awesome.. and the quality of the subs are also great.",
+                    "Dropped"
+                ],
+                "Bad Comments": [
+                    "Their MKVs and AVIs are the same quality as DBs AVIs. Not to mention they aren't as fast as DB either.",
+                    "So much better than DB. Anybody who says otherwise doesn't know what quality is. :P",
+                    "my opinion better then DB, the MKV and AVI might look the same but MKV take less space and the quality is a little better then AVI",
+                    "slow",
+                    "HDTV and h264...what's not to like?",
+                    "Good, available in .mkv",
+                    "good quality subs and good quality video",
+                    "Dropped everything.",
+                    "dropped it.",
+                    "shoud be removed, no longer sub bleach.",
+                    "Best in quality among Bleach Eng Fansubbers for later episodes , although they are not subbing Fillers(227 afterwards)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "20 of 22 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the subs are GREAT",
+                    "very high quality subs with references explained incredibly well"
+                ],
+                "Bad Comments": [
+                    "Thank you for subbing Gintama"
+                ]
+            }
+        }
+    ]
+}

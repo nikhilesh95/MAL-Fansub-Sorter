@@ -1,0 +1,144 @@
+{
+    "Group": {
+        "Group Name": "Ushi-Ai",
+        "Short Name": "Ushi",
+        "IRC": "",
+        "Primary Language": "Finnish",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "1",
+            "Total": "30"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fate/stay night Movie: Unlimited Blade Works",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Only one in Finnish, but they're still great, with karaoke and accurate translation.",
+                    "Good translation and nice karaoke-effects."
+                ],
+                "Bad Comments": [
+                    "It's in finnish"
+                ]
+            },
+            "User Approval": "6 of 6 users approve, 3 comments"
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "It's in finnish"
+                ],
+                "Bad Comments": [
+                    "Good translation and nice karaoke-effects"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Kai Specials",
+            "Show Type": "Special - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Good translation and nice karaoke-effects"
+                ],
+                "Bad Comments": [
+                    "ainoo jonka tiedän tätä fansubanneen niin tekee jo siinä siitä aivan mahtavan :p"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Higurashi no Naku Koro ni Rei",
+            "Show Type": "OVA - 5 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Hyvät subit",
+                    "It's in finnish"
+                ],
+                "Bad Comments": [
+                    "Good stuff",
+                    "Good translation and nice karaoke-effects"
+                ]
+            },
+            "User Approval": "6 of 7 users approve, 4 comments"
+        },
+        {
+            "Show Name": "Makiba no Shoujo Katri",
+            "Show Type": "TV - 49 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Nicely done"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Rozen Maiden",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "8 of 8 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Rozen Maiden: Meitantei Kunkun - Duell Walzer",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Contains English subs as well"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Rozen Maiden: Ouvertüre",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Rozen Maiden: Träumend",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Shingetsutan Tsukihime",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "3 of 3 users approve, 1 comments"
+        }
+    ]
+}

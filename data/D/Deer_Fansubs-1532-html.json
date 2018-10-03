@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "Deer Fansubs",
+        "Short Name": "Deer",
+        "IRC": "#deer@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "6",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hidamari Sketch x 365",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tytania",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 13 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Better quality and although not as fast at the moment, they are overall the better group.",
+                    "shitsubs",
+                    "good sub"
+                ],
+                "Bad Comments": [
+                    "Those are the subs you sould get to watch it, great quality, good translation",
+                    "Previous comment must be trolling, as I saw nothing wrong with this release. Good translation, good font, good encode (easily better than Aero's) and overall a good quality release.",
+                    "ordered chapters"
+                ]
+            }
+        }
+    ]
+}

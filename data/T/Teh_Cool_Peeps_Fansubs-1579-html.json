@@ -1,0 +1,54 @@
+{
+    "Group": {
+        "Group Name": "Teh Cool Peeps Fansubs",
+        "Short Name": "TCPF",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "5",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "6 of 10 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Countless missing punctuation.",
+                    "They're good. Nothing unacceptable about them. Maybe not the best, but if you can't get the SS-E version...",
+                    "lolz"
+                ],
+                "Bad Comments": [
+                    "so shitty its not even worth commenting something actually",
+                    "Overall good sub. A couple parts were missing punctuation but that's it.",
+                    "good"
+                ]
+            }
+        },
+        {
+            "Show Name": "ef: A Tale of Memories.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "i guess they're using niizks script with their encoded blu ray so its quite good."
+                ],
+                "Bad Comments": [
+                    "1080p blu-ray rip, with I believe Menclave's subtitles, which are quite good. I recommend this until THORA finishes 1080p."
+                ]
+            }
+        }
+    ]
+}

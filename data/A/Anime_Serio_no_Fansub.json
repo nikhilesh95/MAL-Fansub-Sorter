@@ -1,0 +1,83 @@
+{
+    "Group": {
+        "Group Name": "Anime Serio no Fansub",
+        "Short Name": "ASnF",
+        "IRC": "NO",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "16",
+            "Users Disapprove": "1",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koe no Katachi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "4 of 5 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nada que objetar, todo correcto.",
+                    "Sin typesetting, pero muy buena traducción."
+                ],
+                "Bad Comments": [
+                    "Vaya, veo que a lo perris de Anime-GX les duele que haya mejores versiones que su porquería. Con Anime Serio no, señores. Con Gakuensai, háganlo mierda si quiere, total, son de su misma calaña.",
+                    "ewww"
+                ]
+            }
+        },
+        {
+            "Show Name": "Re:Creators",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shoujo Shuumatsu Ryokou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Me encantan sus subs, han quedado preciosas sus ediciones y espero que sigan asi con el ultimo episodio de las chicas en esta emocionante serie! GRACIAS CABROS! SE PASARON!"
+                ],
+                "Bad Comments": [
+                    "Traducción muy profesional. Ningún error y buen trabajo haciendo entendibles en español los juegos de palabras en japonés."
+                ]
+            }
+        },
+        {
+            "Show Name": "Skirt no Naka wa Kedamono Deshita.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Grande Saitama (One Punch Man)"
+                ],
+                "Bad Comments": [
+                    "El anime gana con este fansub."
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero kara Hajimeru Mahou no Sho",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

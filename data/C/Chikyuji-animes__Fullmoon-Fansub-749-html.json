@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Chikyuji-animes & Fullmoon-Fansub",
+        "Short Name": "Chikyuji-Fullmoon",
+        "IRC": "",
+        "Primary Language": "French",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ghost Hunt",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    ">Animes"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

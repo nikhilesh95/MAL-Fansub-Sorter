@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Shiawase",
+        "Short Name": "Shiawase",
+        "IRC": "#shiawase@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "0",
+            "Total": "9"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Happiness!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "quality over quantity."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

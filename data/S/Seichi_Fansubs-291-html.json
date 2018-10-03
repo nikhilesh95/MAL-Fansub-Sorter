@@ -1,0 +1,198 @@
+{
+    "Group": {
+        "Group Name": "Seichi Fansubs",
+        "Short Name": "Seichi",
+        "IRC": "#seichi@irc.efnet.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "32",
+            "Users Disapprove": "2",
+            "Total": "34"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chibi Maruko-chan Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chobits",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chobits Recap",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gunslinger Girl",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Too much TL's notes; hard subs too close to the frame border."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Karakurizoushi Ayatsuri Sakon",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoutsukai ni Taisetsu na Koto",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Matantei Loki Ragnarok",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Very detailed and informational.",
+                    "Hands down no doubt that this is the group to go with. I did not notice any mistakes, they had good translations and honorific."
+                ],
+                "Bad Comments": [
+                    "Very detailed and informational. +1"
+                ]
+            }
+        },
+        {
+            "Show Name": "Mermaid Melody Pichi Pichi Pitch",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Midori no Hibi",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nanaka 6/17",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Neko no Ongaeshi",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Oruchuban Ebichu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "picked it up nicely from where ampg finished",
+                    "AnimeMPEG but not horridly shit"
+                ],
+                "Bad Comments": [
+                    "they are awesome clear subs!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Peace Maker Kurogane",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Popotan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Saiunkoku Monogatari",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sensei no Ojikan: Doki Doki School Hours",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "13 of 13 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shingetsutan Tsukihime",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenbatsu Angel Rabbie☆",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ultra Maniac",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

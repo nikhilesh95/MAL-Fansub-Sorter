@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Eyaculación Precoz",
+        "Short Name": "EP",
+        "IRC": "#EP@irc.rizon.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "9",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Angel Beats!",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "9 of 18 users approve, 11 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice",
+                    "Great edition although they needs a karaokes",
+                    "Fuck Yeah",
+                    "not english",
+                    "en taco no libre el apora loco!",
+                    "Que fansub más rico"
+                ],
+                "Bad Comments": [
+                    "FTL",
+                    "Good spanish fansub, well written. Received many postivive feedback in their blog.",
+                    "engrish",
+                    "el fansub murió",
+                    "lol -> Not English."
+                ]
+            }
+        }
+    ]
+}

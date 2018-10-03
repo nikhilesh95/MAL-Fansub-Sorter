@@ -1,0 +1,75 @@
+{
+    "Group": {
+        "Group Name": "Hard Gay Fansubs",
+        "Short Name": "HG-F",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "68",
+            "Users Disapprove": "10",
+            "Total": "78"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Nodame Cantabile",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "37 of 41 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They do a good job considering their lame name. Accurate translations (with a few exceptions) and not a lot of spelling errors.",
+                    "Great subs, very professional :)",
+                    "Best name lol",
+                    "It was just wonderful~"
+                ],
+                "Bad Comments": [
+                    "undefined",
+                    "Uses annoying untranslated words, like baka and hentai. Also \"No good-desu\" really got on  my nerves. Weird phrases sometimes, but otherwise bearable subs.",
+                    "this is very  gd yr"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nodame Cantabile: Paris-hen",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "17 of 21 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good translations and very fast realeses",
+                    "Great fansubs :)"
+                ],
+                "Bad Comments": [
+                    "it's avi!",
+                    "easy-to-read subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "5 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The subs were clear and easy to read. I found other groups subs, and they were pretty and colorful, but they were blurry and hard to read at times."
+                ],
+                "Bad Comments": [
+                    "gd frnd"
+                ]
+            }
+        },
+        {
+            "Show Name": "Wangan Midnight",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "quality is ok, tho translation is a bit dodgy.",
+                    "HOOOOOOO"
+                ],
+                "Bad Comments": [
+                    "great quality, clear subtitles"
+                ]
+            }
+        }
+    ]
+}

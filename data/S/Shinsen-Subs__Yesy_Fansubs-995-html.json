@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Shinsen-Subs & Yesy Fansubs",
+        "Short Name": "SHS & Yesy",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "0",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Night Wizard",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did an excellent job for the three episodes they completed. ;)"
+                ],
+                "Bad Comments": [
+                    "The only ones not to sub \"That's a unique bracelet.\" as \"That's an interchangable bracelet.\" ;O"
+                ]
+            }
+        }
+    ]
+}

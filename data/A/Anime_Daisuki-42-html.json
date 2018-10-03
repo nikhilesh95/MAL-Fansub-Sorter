@@ -1,0 +1,87 @@
+{
+    "Group": {
+        "Group Name": "Anime Daisuki",
+        "Short Name": "A-D",
+        "IRC": "#anime_daisuki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ayashi no Ceres",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juuni Kokuki",
+            "Show Type": "TV - 45 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kamikaze Kaitou Jeanne",
+            "Show Type": "TV - 44 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "I liked this anime as it was subtittled, I didn't find any mistakes neither :)"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Panyo Panyo Di Gi Charat",
+            "Show Type": "TV - 48 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Shin Shirayuki-hime Densetsu Prétear",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tenchi Muyou! in Love",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "9 of 9 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        },
+        {
+            "Show Name": "Youseiki Suikoden",
+            "Show Type": "OVA - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "1 of 1 users approve"
+        }
+    ]
+}

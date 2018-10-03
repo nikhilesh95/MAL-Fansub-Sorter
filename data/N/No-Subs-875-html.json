@@ -1,0 +1,58 @@
+{
+    "Group": {
+        "Group Name": "No-Subs",
+        "Short Name": "NoS",
+        "IRC": "#no-subs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "11",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mizu no Kotoba",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "16 of 22 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "n1",
+                    "poor grammer/spelling",
+                    "It's \"grammar\".",
+                    "Absolutely terrible. Despite only being 9 minutes long, they couldn't even be bothered to capitalise letters or use punctuation. The translations barely made sense either. Go with Kokoromi's subs if you can find them.",
+                    "Awful grammar, punctuation, and sentence flow. Reeks of an English second language translation."
+                ],
+                "Bad Comments": [
+                    "nice",
+                    "non-english subs",
+                    "crappy TL, timing, video...",
+                    "ترجمة سيئة مررة"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nurse Witch Komugi-chan Magikarte Z",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "5 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great sub and ok av quality.",
+                    "With english sub"
+                ],
+                "Bad Comments": [
+                    "pewpew"
+                ]
+            }
+        },
+        {
+            "Show Name": "Pale Cocoon",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "0 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

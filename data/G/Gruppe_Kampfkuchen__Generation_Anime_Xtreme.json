@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Gruppe Kampfkuchen & Generation: Anime Xtreme",
+        "Short Name": "GK&GAX",
+        "IRC": "#Kampfkuchen@irc.otakubox.de #GAX@irc.otakubox.de",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "0",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Basquash!",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Katekyo Hitman Reborn!",
+            "Show Type": "TV - 203 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toaru Kagaku no Railgun",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "best german sub for this anime"
+                ],
+                "Bad Comments": [
+                    "dito :)"
+                ]
+            },
+            "User Approval": "3 of 3 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index",
+            "Show Type": "TV - 24 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "best german sub for this anime"
+                ],
+                "Bad Comments": [
+                    "dito :)"
+                ]
+            },
+            "User Approval": "7 of 7 users approve, 2 comments"
+        },
+        {
+            "Show Name": "Toaru Majutsu no Index-tan",
+            "Show Type": "Special - 2 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "2 of 2 users approve"
+        }
+    ]
+}

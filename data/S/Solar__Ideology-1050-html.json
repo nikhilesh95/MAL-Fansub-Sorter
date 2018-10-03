@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Solar & Ideology",
+        "Short Name": "Solar-IDE",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "0",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hachimitsu to Clover II",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "26 of 26 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They did a wonderful job. A quality release by some humble folk.",
+                    "Great! See Solar fansubs, as they simply did the first four episodes together.",
+                    "Clean subtitles, excellent video quality.  And they even took the time to translate insert songs (and added karaoke lyrics too!)"
+                ],
+                "Bad Comments": [
+                    "pretty well",
+                    "Can't fault it."
+                ]
+            }
+        }
+    ]
+}

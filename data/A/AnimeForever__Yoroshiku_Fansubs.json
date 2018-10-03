@@ -1,0 +1,60 @@
+{
+    "Group": {
+        "Group Name": "AnimeForever & Yoroshiku Fansubs",
+        "Short Name": "AF-F&Y-F",
+        "IRC": "#yoroshiku@irc.rizon.net #anime-forever@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "71",
+            "Users Disapprove": "4",
+            "Total": "75"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Freedom",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "16 of 17 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they're doing great job!",
+                    "Best encodes.",
+                    "They did a very good job and are, if not mistaken, the only group to finish this series.",
+                    "undefined"
+                ],
+                "Bad Comments": [
+                    "It not that i dnt like it in general but for this series they jus taking 2 long 2 months and still waiting for epi 5 of freedom",
+                    "good subs, and good groups",
+                    "Video and subtitle quality was great!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kemonozume",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "38 of 40 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice work.",
+                    "Subs are okay but hard-subbed, upscaled .mkvs?"
+                ],
+                "Bad Comments": [
+                    "What's so fundamentally wrong with hardsubbing .mkvs? Isn't .mkv the container that can handle virtually  anything the encoder wants it to?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Shounen Onmyouji",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "17 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Meaningful translations"
+                ],
+                "Bad Comments": [
+                    "undefined"
+                ]
+            }
+        }
+    ]
+}

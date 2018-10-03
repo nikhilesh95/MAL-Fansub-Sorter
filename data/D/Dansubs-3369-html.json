@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Dansubs",
+        "Short Name": "D∀N",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "9",
+            "Users Disapprove": "2",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Seitokai Yakuindomo OVA",
+            "Show Type": "OVA - 8 episodes",
+            "User Approval": "9 of 11 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nothing to nipaa about.",
+                    "There's an improved version of their subs, which makes up for the [???] and makes 'em great."
+                ],
+                "Bad Comments": [
+                    "A lot better than other groups despite missing translations. Jokes and puns are express correctly. Great!"
+                ]
+            }
+        }
+    ]
+}

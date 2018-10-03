@@ -1,0 +1,44 @@
+{
+    "Group": {
+        "Group Name": "Lunamaria",
+        "Short Name": "Lunamaria",
+        "IRC": "#PervertedSubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "0",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Suit Gundam SEED Destiny",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "HD Remaster"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Stella Jogakuin Koutou-ka C³-bu",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

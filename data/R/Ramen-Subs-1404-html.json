@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Ramen-Subs",
+        "Short Name": "RMN",
+        "IRC": "irc://irc.rizon.net/Ramen-Subs",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "1",
+            "Total": "3"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Michiko to Hatchin",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Translates nothing short of everything, and not a spelling error in sight."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

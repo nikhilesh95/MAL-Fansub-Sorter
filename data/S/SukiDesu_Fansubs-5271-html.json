@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "SukiDesu Fansubs",
+        "Short Name": "SukiDesu",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "5",
+            "Total": "11"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Break Blade",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 11 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped & Disbanded. Not Surprised."
+                ],
+                "Bad Comments": [
+                    "New group, and the only one to provide a good english mkv of \"Break Blade\"."
+                ]
+            }
+        }
+    ]
+}

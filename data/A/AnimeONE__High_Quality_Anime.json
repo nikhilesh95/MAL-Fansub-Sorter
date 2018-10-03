@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "AnimeONE & High Quality Anime",
+        "Short Name": "AonE&HQA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "20",
+            "Users Disapprove": "0",
+            "Total": "20"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "D.C.: Da Capo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 18 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Aside from consistently mis-subbing \"Nii-san\" as \"Onii-san,\" this release is fine. A/V quality are decent for the time this series aired.",
+                    "excellent",
+                    "I wish that there would be still fansubs like this nowadays. Helpful TLR notes, honorifics and original meaning. Highly recommended subs."
+                ],
+                "Bad Comments": [
+                    "Subs are clear and easy to read",
+                    "Nice."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ikkitousen",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

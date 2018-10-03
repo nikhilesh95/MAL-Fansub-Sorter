@@ -1,0 +1,38 @@
+{
+    "Group": {
+        "Group Name": "Timo",
+        "Short Name": "Timo",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mainichi Kaasan",
+            "Show Type": "TV - 142 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "because they picked up Mainichi Kaa-san",
+                    "Slow as fuck."
+                ],
+                "Bad Comments": [
+                    "good subs\nhigh quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "Phantom: Requiem for the Phantom",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "5 of 5 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

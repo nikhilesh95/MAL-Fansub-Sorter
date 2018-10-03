@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "esc fansubs & ShinBunBu-Subs",
+        "Short Name": "ESC-ShinBunBu",
+        "IRC": "#shinbunbu_ESC@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "20",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ano Natsu de Matteru",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kill Me Baby",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "5 of 16 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Well I guess this says it all....http://www.whiners.pro/2012/01/fansub-review-esc-shinbunbu-kill-me-baby-episode-01/",
+                    "I helped."
+                ],
+                "Bad Comments": [
+                    "Very shitty. There's no fucking point when UTW are doing it.",
+                    "fucking horrible"
+                ]
+            }
+        },
+        {
+            "Show Name": "Rinne no Lagrange",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 14 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good",
+                    "Fast, accurate subs."
+                ],
+                "Bad Comments": [
+                    "Hadena 2.0. Same staff and everything."
+                ]
+            }
+        }
+    ]
+}

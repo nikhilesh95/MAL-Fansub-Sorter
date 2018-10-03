@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Guardian Project",
+        "Short Name": "GP",
+        "IRC": "#gp-recruit@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guardian Hearts-Power UP!",
+            "Show Type": "OVA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

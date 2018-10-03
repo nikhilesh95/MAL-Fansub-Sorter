@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Irregular Hunter Productions",
+        "Short Name": "IHP",
+        "IRC": "#ihp@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "10",
+            "Users Disapprove": "0",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Rockman.EXE Stream",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "10 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They are actually working on the series and plan to finish it (along with Beast +)",
+                    "They are a dedicated group who makes accurate subs at a very professional rate."
+                ],
+                "Bad Comments": [
+                    "They are awesome!"
+                ]
+            }
+        }
+    ]
+}

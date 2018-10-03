@@ -1,0 +1,41 @@
+{
+    "Group": {
+        "Group Name": "JPthugnificent FanSubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "A-jang.com",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fairly accurate. Easy to read."
+                ],
+                "Bad Comments": [
+                    "We loved it, Please submit more"
+                ]
+            }
+        },
+        {
+            "Show Name": "Noblesse: Pamyeol-ui Sijak",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "9 of 10 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Poor video encode, it kept lagging. Subs were good."
+                ],
+                "Bad Comments": [
+                    "Good subs. Easy to read."
+                ]
+            }
+        }
+    ]
+}

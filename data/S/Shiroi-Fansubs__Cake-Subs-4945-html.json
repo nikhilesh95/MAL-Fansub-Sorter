@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Shiroi-Fansubs & Cake-Subs",
+        "Short Name": "SHFS&Cake",
+        "IRC": "#shiroi-fansubs@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Arcana Famiglia",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

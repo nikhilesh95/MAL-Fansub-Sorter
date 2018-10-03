@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "MaruChanSubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "24",
+            "Users Disapprove": "0",
+            "Total": "24"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Chibi Maruko-chan",
+            "Show Type": "TV - 142 episodes",
+            "User Approval": "8 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Excellent translation and speedy releases. Great stuff.",
+                    "This series really needed subs. High quality translations.",
+                    "It's of a high quality translation"
+                ],
+                "Bad Comments": [
+                    "the only ones willing to give the original series an english sub, doing god's work, truly.",
+                    "excellent!! such heart!!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Chibi Maruko-chan Movie: Italia kara Kita Shounen",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Chibi Maruko-chan: Watashi no Suki na Uta",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "8 of 8 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoru wa Mijikashi Arukeyo Otome",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "16 of 16 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fantastic script.",
+                    "It was the first group to translate, the person responsible knows other Yuasa works",
+                    "bueno, my child"
+                ],
+                "Bad Comments": [
+                    "They subbed it",
+                    "Only very simple typesetting, but it does the job until a better sub group emerges.",
+                    "They did it!!!!!! :O"
+                ]
+            }
+        }
+    ]
+}

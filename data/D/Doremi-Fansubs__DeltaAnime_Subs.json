@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Doremi-Fansubs & DeltaAnime Subs",
+        "Short Name": "Dorem.DA-Subs",
+        "IRC": "irc://irc.rizon.net/doremi",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "0",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kyou no 5 no 2",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "NICE QUALITY"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

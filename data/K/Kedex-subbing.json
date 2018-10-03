@@ -1,0 +1,80 @@
+{
+    "Group": {
+        "Group Name": "Kedex-subbing",
+        "Short Name": "",
+        "IRC": "#kedex @ irc.rizon.net",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "39",
+            "Users Disapprove": "14",
+            "Total": "53"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kamichama Karin",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "14 of 19 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the timing are jsut perfect",
+                    "Constant, extremely obvious, translation errors throughout.  They even managed to make mistakes when they didn't have to translate anything \"GOD THUNDER\" does not, for instance, sound anything like \"I AM GOD\" and yet they managed to get those confused at "
+                ],
+                "Bad Comments": [
+                    "they keep their promise and is working really hard to sub out the episodes"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kirarin☆Revolution",
+            "Show Type": "TV - 153 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "their translations are okay some of the time, but other times they use the wrong word. Like using \"know\" when \"knew\" would be way more appropriate.",
+                    "Poor quality subs. Correct grammar and spelling is rare."
+                ],
+                "Bad Comments": [
+                    "my gf love it."
+                ]
+            }
+        },
+        {
+            "Show Name": "Moetan",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "took it off for distribution."
+                ],
+                "Bad Comments": [
+                    "Good Sub work, just slow as hell :P Well its not like any of the other fansubbers are doing any better, their just as slow XD"
+                ]
+            }
+        },
+        {
+            "Show Name": "Nanatsu-iro★Drops",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 19 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they deliver on time. and they're the onli group so far doing on Nanatsuiro drops! ^^",
+                    "Incorrect translation"
+                ],
+                "Bad Comments": [
+                    "Good fonts, easy to follow.",
+                    "good quality and nice font"
+                ]
+            }
+        },
+        {
+            "Show Name": "Potemayo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

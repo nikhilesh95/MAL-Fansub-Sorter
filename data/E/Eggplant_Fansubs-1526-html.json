@@ -1,0 +1,65 @@
+{
+    "Group": {
+        "Group Name": "Eggplant Fansubs",
+        "Short Name": "Eggplant",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "22",
+            "Users Disapprove": "1",
+            "Total": "23"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Onegai My Melody",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "11 of 11 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "http://forums.animesuki.com/member.php?u=165369"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Onegai My Melody Sukkiri♪",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Crossing my fingers they finish this series as well."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Onegai My Melody: Kuru Kuru Shuffle!",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "6 of 6 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they do really good subs :D",
+                    "Subbed the whole show with good and easy to read subs."
+                ],
+                "Bad Comments": [
+                    "http://forums.animesuki.com/member.php?u=165369"
+                ]
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "3 of 3 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Thanks!",
+                    "http://forums.animesuki.com/member.php?u=165369"
+                ],
+                "Bad Comments": [
+                    "Despite being an unknown group, they did a great job with Yes! PreCure 5!I hope to see more great releases from them "
+                ]
+            }
+        }
+    ]
+}

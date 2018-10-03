@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Kinsei-Anime",
+        "Short Name": "Kinsei",
+        "IRC": "",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan: The Fugitive Kogorou Mouri",
+            "Show Type": "ONA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Everything was translated, including the songs and film trailer and Conan's babble + Karaoke"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

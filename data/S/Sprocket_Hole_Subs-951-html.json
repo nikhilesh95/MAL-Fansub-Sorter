@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Sprocket Hole Subs",
+        "Short Name": "Sprocket",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "2",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Clannad",
+            "Show Type": "TV - 23 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Quick speed and fairly more accurate than comparable subbing groups."
+                ],
+                "Bad Comments": [
+                    "The subs always came out under 24 hours after the episode came out, but the timing and editing; everything is high quality!"
+                ]
+            }
+        },
+        {
+            "Show Name": "Kanon (2006)",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Their fonts were really cute."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

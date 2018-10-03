@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "ReDone-Subs & MDC-Fansubs",
+        "Short Name": "ReDone-MDC",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "1",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ichigo 100%",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Get [ReDone-MDC] over [ReDone], since this is encoded from DVD .iso, and the earlier release was a remuxed raw. Higher video bitrates and lossless audio."
+                ],
+                "Bad Comments": [
+                    "Good."
+                ]
+            }
+        },
+        {
+            "Show Name": "Ichigo 100% OVA",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Lots of errors..."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo 100% Special 2",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

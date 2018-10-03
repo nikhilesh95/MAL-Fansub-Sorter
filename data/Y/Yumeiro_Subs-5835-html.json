@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Yumeiro Subs",
+        "Short Name": "Yumeiro",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "17",
+            "Users Disapprove": "0",
+            "Total": "17"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hakuouki: Otogisoushi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 7 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast and consistent uploads"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kare Baka: Wagahai no Kare wa Baka de R",
+            "Show Type": "ONA - 8 episodes",
+            "User Approval": "10 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Fast and consistent uploads"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

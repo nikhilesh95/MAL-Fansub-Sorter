@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Tenchi Forum Translations",
+        "Short Name": "TenchiforumTranslations",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "7",
+            "Users Disapprove": "3",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai Tenchi Muyou!",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "7 of 10 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "google machine translator + shill site",
+                    "lol shit subs"
+                ],
+                "Bad Comments": [
+                    "Professional quality subs!  I like that they even translate the signs in the background!"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Group": {
+        "Group Name": "Otaku no Power",
+        "Short Name": "OnP",
+        "IRC": "#OnP@irc.immortal-anime.net",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ajimu: Kaigan Monogatari",
+            "Show Type": "ONA - 4 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hakaima Sadamitsu",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Noir",
+            "Show Type": "TV - 26 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Otaku no Video",
+            "Show Type": "OVA - 2 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Spelling, punctuation mistakes and mistranslations."
+                ],
+                "Bad Comments": [
+                    "Apparently was the only spanish fansub that translated this ova"
+                ]
+            },
+            "User Approval": "1 of 2 users approve, 2 comments"
+        }
+    ]
+}

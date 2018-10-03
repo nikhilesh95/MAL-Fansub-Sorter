@@ -1,0 +1,39 @@
+{
+    "Group": {
+        "Group Name": "Gayako",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Guin Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 3 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs and video look good, didn't have noticeable mistakes. Hopefully they'll keep up the pace."
+                ],
+                "Bad Comments": [
+                    "quality is average. translation seems a bit off."
+                ]
+            }
+        },
+        {
+            "Show Name": "Issho ni Training: Training with Hinako",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "lolgay"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

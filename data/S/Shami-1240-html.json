@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Shami",
+        "Short Name": "Shami",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Lucky☆Star",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Sem frescuras!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

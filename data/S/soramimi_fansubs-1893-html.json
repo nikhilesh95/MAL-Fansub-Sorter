@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "soramimi fansubs",
+        "Short Name": "soramimi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "2",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hatsukoi Limited.",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "shitsux fansub"
+                ],
+                "Bad Comments": [
+                    "fast and good"
+                ]
+            }
+        }
+    ]
+}

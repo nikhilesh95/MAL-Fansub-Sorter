@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Suiri Otaku",
+        "Short Name": "SuiriOtaku",
+        "IRC": "#suiriotaku@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "8",
+            "Users Disapprove": "2",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "8 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Shit"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

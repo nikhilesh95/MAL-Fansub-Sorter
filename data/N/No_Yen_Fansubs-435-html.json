@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "No Yen Fansubs",
+        "Short Name": "NYF",
+        "IRC": "#NYF@irc.atomicchat.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon: Celebi Toki wo Koeta Deai",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon: Mizu no Miyako no Mamorigami Latias to Latios",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        }
+    ]
+}

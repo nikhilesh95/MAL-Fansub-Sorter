@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "HentaiLegends Fapsubs",
+        "Short Name": "HF-Fap",
+        "IRC": "n/a",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "0",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Doukyuusei 2 (OVA)",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Come sub next episode"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "SM no Susume",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Group": {
+        "Group Name": "Vyrsalia",
+        "Short Name": "Vyrsalia",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "65",
+            "Users Disapprove": "5",
+            "Total": "70"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Blood-C",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Did one episode when Daiz was busy being dead."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "gdgd Fairies",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "11 of 12 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they picked this show up"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uta no☆Prince-sama♪ Maji Love 1000%",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "52 of 55 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "sho's name was spelled syo. i really hate that kind of spelling mistakes!",
+                    "Very fast releases Good Video quality. Script based on Nico Nico release heavily. Nice Karaoke."
+                ],
+                "Bad Comments": [
+                    "love it"
+                ]
+            }
+        }
+    ]
+}

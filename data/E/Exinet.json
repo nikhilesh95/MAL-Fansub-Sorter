@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Exinet",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "4",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Genji Monogatari Sennenki",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "3 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The timing issue was fixed in a later release. Subs were good afterward."
+                ],
+                "Bad Comments": [
+                    "Audio screws up at around 1:30, obviously they missed that out in the QC - doubt there even was one. They should have taken some more time to actually check what they subbed, considering they want to provide quality."
+                ]
+            }
+        }
+    ]
+}

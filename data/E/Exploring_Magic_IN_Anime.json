@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Exploring Magic IN Anime",
+        "Short Name": "EMiNA",
+        "IRC": "#emina@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "3",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Eve no Jikan",
+            "Show Type": "ONA - 6 episodes",
+            "User Approval": "13 of 13 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "isn't the project joint with Pireze?"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tetsuwan Birdy Decode",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "12 of 15 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not great, but the best for birdy.",
+                    "Only watched first and second episode atm, several awkward sentences and one or two outright incorrect translations. Mistakes are mostly rare and it's overall a good sub though."
+                ],
+                "Bad Comments": [
+                    "Pretty well done, no complaints."
+                ]
+            }
+        }
+    ]
+}

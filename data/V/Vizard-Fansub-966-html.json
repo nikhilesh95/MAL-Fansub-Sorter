@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "Vizard-Fansub",
+        "Short Name": "",
+        "IRC": "#Vizard-Fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "1",
+            "Total": "7"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good spelling and good translation"
+                ],
+                "Bad Comments": [
+                    "First to release this Movie =DD"
+                ]
+            }
+        },
+        {
+            "Show Name": "Over Drive",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "6 of 7 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

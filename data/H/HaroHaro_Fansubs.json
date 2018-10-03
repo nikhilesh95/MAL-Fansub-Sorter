@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "HaroHaro Fansubs",
+        "Short Name": "Haro2",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "1",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Mobile Suit Gundam SEED",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "bad quality with misspelled names"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

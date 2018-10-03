@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "Keepu Subs",
+        "Short Name": "Keepu",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pokemon Best Wishes! Season 2: Decolora Adventure - Iris vs. Ibuki! Dragon Master e no Michi!!",
+            "Show Type": "Special - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Pokemon XY",
+            "Show Type": "TV - 93 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "The Best"
+                ],
+                "Bad Comments": [
+                    "lolis"
+                ]
+            },
+            "User Approval": "4 of 5 users approve, 2 comments"
+        }
+    ]
+}

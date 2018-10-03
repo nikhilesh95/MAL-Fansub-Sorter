@@ -1,0 +1,33 @@
+{
+    "Group": {
+        "Group Name": "Sonzai",
+        "Short Name": "Sonzai",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "10",
+            "Total": "16"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Yozakura Quartet",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 16 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They seems to like 4:3 so much that they cropped the fucking video",
+                    "hahahahahaha!!!!",
+                    "Mistranslated (e.g. leaking roof = woods). Encode made LQ raw even worse (e.g. errors, blocking). Misuse of notes (e.g. should’ve just translated “sakura saku” instead of spelling out the romaji and adding a note).",
+                    "Translation is quite good and there the first to fansub this series"
+                ],
+                "Bad Comments": [
+                    "Very poor translations. Absolutely no editing.",
+                    "As someone else said; they are the only ones doing it...",
+                    "The only ones doing it!"
+                ]
+            }
+        }
+    ]
+}

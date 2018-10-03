@@ -1,0 +1,36 @@
+{
+    "Group": {
+        "Group Name": "SpeedStar",
+        "Short Name": "SpeedStar",
+        "IRC": "http://a.scarywater.net/speedstar/",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "18",
+            "Users Disapprove": "8",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hajime no Ippo: New Challenger",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "18 of 26 users approve, 10 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Surprisingly good for a speed group. Very few spelling errors and easily readable font. Great encoding.",
+                    "Annoying commentaries by subber in every episode",
+                    "Good speed subs.",
+                    "Pretty good quality and really fast releases",
+                    "Fast releases."
+                ],
+                "Bad Comments": [
+                    "Background speaches are untranslaited, spelling is very primitive. Even if it's  speedsubs that ain't cool.",
+                    "Outstanding quality for a speedsub group",
+                    "I can't STAND the commentary in every single Episode. Totally unprofessional. I recommend people to look elsewhere for subbing if possible.",
+                    "Really nice speed, decent grammar",
+                    "speed purposes only"
+                ]
+            }
+        }
+    ]
+}

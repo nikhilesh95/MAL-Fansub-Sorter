@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Otenba",
+        "Short Name": "Otenba",
+        "IRC": "#otenba@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "5",
+            "Users Disapprove": "0",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Shoujo Sect",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "5 of 5 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good pase and english understanding"
+                ],
+                "Bad Comments": [
+                    "Great translation, timing, encoding and QC. Everything you need for a sub."
+                ]
+            }
+        }
+    ]
+}

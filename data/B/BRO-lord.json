@@ -1,0 +1,58 @@
+{
+    "Group": {
+        "Group Name": "BRO-lord",
+        "Short Name": "BRO-lord",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "19",
+            "Users Disapprove": "0",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Giant Gorg",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "His choice of words always is superior to mine, makes quite natural English subs. Knows when to be liberal and when to be literal."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms: Gen-ei Hen",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple, clean, clear translation. Nothing at all to complain about.",
+                    "Great job taking up an old series that seriously needed to be subbed."
+                ],
+                "Bad Comments": [
+                    "*brofist*"
+                ]
+            }
+        },
+        {
+            "Show Name": "Soukou Kihei Votoms: Koei Futatabi",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "12 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

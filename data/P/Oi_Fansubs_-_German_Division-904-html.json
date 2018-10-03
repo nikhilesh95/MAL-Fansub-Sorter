@@ -1,0 +1,61 @@
+{
+    "Group": {
+        "Group Name": "Oi! Fansubs - German Division",
+        "Short Name": "Oi!",
+        "IRC": "#oi-germany@irc.rizon.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "5",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Binbou Shimai Monogatari",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "D.Gray-man",
+            "Show Type": "TV - 103 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 1 users approve"
+        },
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "Comments": {
+                "Good Comments": [
+                    "they don't have it!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "School Days",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 4 users approve, 1 comments"
+        },
+        {
+            "Show Name": "Yoake Mae yori Ruriiro na: Crescent Love",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            },
+            "User Approval": "0 of 4 users approve, 1 comments"
+        }
+    ]
+}

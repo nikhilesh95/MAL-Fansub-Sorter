@@ -1,0 +1,73 @@
+{
+    "Group": {
+        "Group Name": "Kaihou Fansub",
+        "Short Name": "Kaihou",
+        "IRC": "#kaihou@irc.irchighway.net",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "40",
+            "Users Disapprove": "1",
+            "Total": "41"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bokurano",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "8 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great job here. Simple, but good"
+                ],
+                "Bad Comments": [
+                    "It's written well, almost no errors, really good translation and timing. Readable font."
+                ]
+            }
+        },
+        {
+            "Show Name": "Fantastic Children",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great translation! great job with types too"
+                ],
+                "Bad Comments": [
+                    "otimo"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama",
+            "Show Type": "TV - 201 episodes",
+            "User Approval": "24 of 25 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great subs quality",
+                    "Explica todas as referências de um jeito ótimo, pena que depois ele fez parte da Punch... o que acabou com a sub, a partir do ep 53, assista pela Hacchi"
+                ],
+                "Bad Comments": [
+                    "•"
+                ]
+            }
+        },
+        {
+            "Show Name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Top Secret: The Revelation",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

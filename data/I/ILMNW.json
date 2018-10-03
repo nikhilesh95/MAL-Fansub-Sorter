@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "ILMNW",
+        "Short Name": "ILMNW",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "2",
+            "Users Disapprove": "4",
+            "Total": "6"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Astarotte no Omocha!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "oh shit. that font, that punctuation, those translations... kill all o' them with fire, please."
+                ],
+                "Bad Comments": [
+                    "+ encoding, + timing, - no kara"
+                ]
+            }
+        }
+    ]
+}

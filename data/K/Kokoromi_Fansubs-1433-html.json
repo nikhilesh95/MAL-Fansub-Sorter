@@ -1,0 +1,64 @@
+{
+    "Group": {
+        "Group Name": "Kokoromi Fansubs",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "27",
+            "Users Disapprove": "1",
+            "Total": "28"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bavel no Hon",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "12 of 12 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Deserves kudos just for subbing this obscure piece; doesn't hurt that they did a good job with it too."
+                ],
+                "Bad Comments": [
+                    "Because they were the only English subbers for this show. In the end, I could understand every word without it but they did a good job."
+                ]
+            }
+        },
+        {
+            "Show Name": "Jack to Mame no Ki (OVA)",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mizu no Kotoba",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "9 of 10 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Everything seemed in order; no complaints.",
+                    "The words flowed more smoothly in this version. Better translation too. I didn't notice any spelling or grammar errors. This is the version to keep.",
+                    "yes",
+                    "pretty good"
+                ],
+                "Bad Comments": [
+                    "Added black bars to make it 3:2 for some stupid reason, but the translation itself is good.\nNote: Couldn't find a torrent for this, but search on filestube and there's a direct download on rapidshare.",
+                    "Wrong aspect ratio.",
+                    "The best available."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tori no Uta",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "5 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

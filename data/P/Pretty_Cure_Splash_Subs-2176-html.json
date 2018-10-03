@@ -1,0 +1,50 @@
+{
+    "Group": {
+        "Group Name": "Pretty Cure Splash Subs",
+        "Short Name": "PCSS",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "29",
+            "Users Disapprove": "0",
+            "Total": "29"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Futari wa Precure: Splash☆Star",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "19 of 19 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Puts out better quality episodes and is making the entire series available. Awesome job !",
+                    "=)"
+                ],
+                "Bad Comments": [
+                    "Good work. :)",
+                    "Literally the only option."
+                ]
+            }
+        },
+        {
+            "Show Name": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yes! Precure 5",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They have finished subbing this season! :D"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

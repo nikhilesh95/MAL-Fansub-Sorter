@@ -1,0 +1,57 @@
+{
+    "Group": {
+        "Group Name": "Dream Subtitles",
+        "Short Name": "Dream",
+        "IRC": "irc://irc.rizon.net/dream",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "21",
+            "Users Disapprove": "5",
+            "Total": "26"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Asu no Yoichi!",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "16 of 18 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple sub ",
+                    "Best subs and quality.",
+                    "Slow but awesome subs.",
+                    "Wonderfully done."
+                ],
+                "Bad Comments": [
+                    "Dead group is dead.\nAlso dropped quite early.",
+                    "I hate Chihiro and CoalGuys. And Dream did a pretty good job! :D",
+                    "Subs were really nice, but they dropped the project after Ep 2."
+                ]
+            }
+        },
+        {
+            "Show Name": "Asura Cryin'",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "2 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best subs and quality so far."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "RideBack",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "most accurate subtitles out there"
+                ],
+                "Bad Comments": [
+                    "passable... to say the least"
+                ]
+            }
+        }
+    ]
+}

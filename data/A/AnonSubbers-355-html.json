@@ -1,0 +1,73 @@
+{
+    "Group": {
+        "Group Name": "AnonSubbers",
+        "Short Name": "anon\t\t\t\t\tAnon",
+        "IRC": "#anonsubbers@irc.enterthegame.com",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "43",
+            "Users Disapprove": "13",
+            "Total": "56"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Potemayo",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "6 of 7 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The person who subbed this didn�ft know much Japanese and left all parts they couldn�ft understand (pretty much all of the verbal humor) as ** symbols.",
+                    "The only sub groups to deliver timely subs.  Everyone else sputtered out within two episodes, and only picked it back up after the Potemayo specials finished."
+                ],
+                "Bad Comments": [
+                    "Fast, accurate subs"
+                ]
+            }
+        },
+        {
+            "Show Name": "Potemayo Specials",
+            "Show Type": "Special - 6 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good subs that are quickly released in soft nd hard format."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Shaman King",
+            "Show Type": "TV - 64 episodes",
+            "User Approval": "9 of 9 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zoku Sayonara Zetsubou Sensei",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "28 of 40 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs were pretty good. Some of them even had the blackboard and extra writings.",
+                    "To notice these are just emergency subs, I think the quality is fine and you can make trough just fine these three episodes.",
+                    "It appears Anonymous CAN use their powers for good!",
+                    "too much left untranslated",
+                    "Did not translate every single detail.",
+                    "worst subs ever, shame uguu~ couldnt have replaced all of them. dont translate any background info; hardsubbed.",
+                    "Doesn't translate the text frames in 3 out of 5 episodes, but it's not like you have a choice anyway."
+                ],
+                "Bad Comments": [
+                    "Because I'm addicted to the show and a.f.k. are on vacation.",
+                    "Cool subs",
+                    "got the job done!",
+                    "Didn't translate every single detail which is part of the funniness of this show... though these are probably 'last-choice' subs.",
+                    "There are no alternatives for this show. Glad somebody got it done.",
+                    "only dialogues subbed"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Group": {
+        "Group Name": "Shiroi-Fansubs & kA-Oz Subs",
+        "Short Name": "SHFS&kA-Oz",
+        "IRC": "#shiroi-fansubs@irc.euirc.net #kA-Oz@irc.euirc.net",
+        "Primary Language": "German",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Koihime†Musou",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

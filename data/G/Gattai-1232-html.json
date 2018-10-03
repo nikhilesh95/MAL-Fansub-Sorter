@@ -1,0 +1,77 @@
+{
+    "Group": {
+        "Group Name": "Gattai",
+        "Short Name": "Gattai",
+        "IRC": "#gattai@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "73",
+            "Users Disapprove": "14",
+            "Total": "87"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Macross F",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "30 of 40 users approve, 18 comments",
+            "Comments": {
+                "Good Comments": [
+                    "ROW ROW FIGHT THE POWAH",
+                    "undefined",
+                    "Fast and use closed captions for greater accuracy.",
+                    "Clean encodes, no awful karaoke subtitles",
+                    "Lousy encoding filesize.",
+                    "bad subs intro subing was confusing and missed some lines",
+                    "Horrible, thanks god they passed it to more capable ppl (ggs)",
+                    "Nice looking subs, good translation.",
+                    "Good translation and encodes."
+                ],
+                "Bad Comments": [
+                    "Great subbing!  No karaoke though.",
+                    "Bad translation, bad video quality.",
+                    "Doesn't go weaboo on fans with honorifics and transliterations that other groups typically do. Karaoke is left relatively simple and unintrusive, so it doesn't take up half the screen during fight scenes. Too bad they stopped subbing. They were the best f",
+                    "They put a great deal of effort into this, but unfortunately they turned it over to gg.",
+                    "undefined",
+                    "using .mkv, and downloadable torrent",
+                    "MKV with softsubs, HD res, translation seems accurate.",
+                    "hd and accurate subs but no karakoke",
+                    "Very accurate translations, that come out fast. Also the only group with high-quality video.But foganime sucks. Their timing is atrociously bad and ruins the whole thing."
+                ]
+            }
+        },
+        {
+            "Show Name": "Shin Mazinger Shougeki! Z-hen",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "43 of 47 users approve, 22 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Gattai is a group of nothing but super robot lovers, and this is a series of everything to love about super robots.  Do the math.",
+                    "They take their time to add the extra clips from the Bandai channel stream thats why the video quality is different in certain scenes, but most of those scenes are key to the show and are really taken out for reasons unknown. A good fansubber.",
+                    "Fantastic work bridging the exclusive stream content with the high resolution broadcast.  Consistent quality of translation and decent speed.",
+                    "stupid negative comment the \"bad\" encode your talking about is the streamed version which is removed from the tv version",
+                    "fantastic job!!",
+                    "Video quality drops and raises as if alive.",
+                    "BAD ENCODING MY ASS. Read their godamn notes about the channel and realize how hard-working they are. GARest group ever.",
+                    "Better dialogue: doesn't read like the usual stilted fansub translation",
+                    "Great translation",
+                    "they provided quality translations that the others did not. also produced reliable updates",
+                    "Very good job overall"
+                ],
+                "Bad Comments": [
+                    "Some translations are a bit awkward, and there is some noticeable blocking, and I'm not talking about the cut in parts from the stream, but overall a decent watch.",
+                    "Too literal translations, makes language feel stiff and unnatural. Also, bad encoding (at least on episode 3).",
+                    "Fastest group, but they also had an eye for quality that surpasses any other group!",
+                    "Gattai's always awesome. Glad they picked it up.",
+                    "Excellent subs, quick translation. The only group (so far) who are adding the three minutes of extra content that is cut from the TV broadcast version (only available streamed from the Bandai Channel website, hence the slightly blurry footage).",
+                    "wow i guess people are just dumb, the video quality drops because they included the extra bits and pieces from the bandai stream which is low quality",
+                    "3 out of 3 subs have a glitchy video performance, and sometimes no subtitles. shame about this sloppiness..",
+                    "Excellent subs!",
+                    "Faster releases and includes the excluded web content.",
+                    "Exclusive web content added, which makes the show actually make sense.",
+                    "Good translation."
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Group": {
+        "Group Name": "Anime-Avatar",
+        "Short Name": "avatar",
+        "IRC": "#Anime-Avatar@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "28",
+            "Users Disapprove": "4",
+            "Total": "32"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ai Tenshi Densetsu Wedding Peach",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Video quality is good. :)"
+                ],
+                "Bad Comments": [
+                    "It's better than ADV"
+                ]
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon",
+            "Show Type": "TV - 46 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it's great. that is all."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon R",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon R: The Movie",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon S",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon S: Kaguya Hime no Koibito",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon SuperS",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+            "Show Type": "TV - 34 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kodomo no Omocha (TV)",
+            "Show Type": "TV - 102 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Koi Koi 7",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD version which means more ecchi!  Good typesetting, good video quality.  Translation seems ok.  Only drawback is they haven't subbed all the episodes."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maison Ikkoku",
+            "Show Type": "TV - 96 episodes",
+            "User Approval": "10 of 14 users approve, 7 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not good but better than TD.",
+                    "Best rippers for this series.",
+                    "They are consistent and easy to read.",
+                    "Terrible distortion about 2/3 in. Ruins everything"
+                ],
+                "Bad Comments": [
+                    "DVD Rip, fine to watch. Nothing wrong with it.",
+                    "bad quality in audio :/",
+                    "great rips. has a few annoying typos and localizations, but nothing to get up in arms about."
+                ]
+            }
+        }
+    ]
+}

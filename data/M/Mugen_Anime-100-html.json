@@ -1,0 +1,59 @@
+{
+    "Group": {
+        "Group Name": "Mugen Anime",
+        "Short Name": "Mugen",
+        "IRC": "#mugen@irc.enterthegame.com",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "11",
+            "Users Disapprove": "2",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Bobobo-bo Bo-bobo",
+            "Show Type": "TV - 76 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "stopped at episode 6"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "G-On Riders",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The poor A/V quality is forgivable since this release dates to 2002. However, the TL is full of mistakes, even on basic words."
+                ],
+                "Bad Comments": [
+                    "Mistranslations/guesslations as well as bad timing, incorrect tl notes, bad visual and audio quality, and weird editing. Typesetting is decent for those times, maybe... translation is horrendous tho, so I have to give them a neg."
+                ]
+            }
+        },
+        {
+            "Show Name": "Glass no Kamen (2005)",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kogepan",
+            "Show Type": "TV - 10 episodes",
+            "User Approval": "10 of 10 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

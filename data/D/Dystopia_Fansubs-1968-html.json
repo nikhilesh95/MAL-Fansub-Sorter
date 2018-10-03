@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Dystopia Fansubs",
+        "Short Name": "Dystopia",
+        "IRC": "#Anime-Dystopia@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "1",
+            "Total": "2"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Pandora Hearts",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Worse Group Ever. LOL."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

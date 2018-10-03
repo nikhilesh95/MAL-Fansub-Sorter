@@ -1,0 +1,25 @@
+{
+    "Group": {
+        "Group Name": "Shinji Subs",
+        "Short Name": "SSubs",
+        "IRC": "",
+        "Primary Language": "Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "K-On!: Ura-On!",
+            "Show Type": "Special - 7 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Bom, mas ta faltando o epi 1 :P"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

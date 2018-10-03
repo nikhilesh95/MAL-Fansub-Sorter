@@ -1,0 +1,34 @@
+{
+    "Group": {
+        "Group Name": "VersusSubs",
+        "Short Name": "vs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Baton",
+            "Show Type": "Movie - 3 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Hipira-kun",
+            "Show Type": "TV - 10 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Perfect for a one-man sub group!"
+                ],
+                "Bad Comments": []
+            },
+            "User Approval": "4 of 4 users approve, 1 comments"
+        }
+    ]
+}

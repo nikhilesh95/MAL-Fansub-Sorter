@@ -1,0 +1,621 @@
+{
+    "Group": {
+        "Group Name": "Baka-Anime",
+        "Short Name": "B-A",
+        "IRC": "#Baka-Anime@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "194",
+            "Users Disapprove": "45",
+            "Total": "239"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": ".hack//Gift",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "9 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's a good release, but they're not fansubbers.",
+                    "Best quality"
+                ],
+                "Bad Comments": [
+                    "Baka-Anime shows why they're one of the best fansubbers these days. Good job, guys!"
+                ]
+            }
+        },
+        {
+            "Show Name": ".hack//Intermezzo",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//Liminality",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Mediocre"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//Sign",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": ".hack//Tasogare no Udewa Densetsu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "7 of 9 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "DVD quality greatness"
+                ],
+                "Bad Comments": [
+                    "Very Poor.  Missing lines and de-syncing issues."
+                ]
+            }
+        },
+        {
+            "Show Name": ".hack//Unison",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Bakuretsu Tenshi",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Black Jack",
+            "Show Type": "OVA - 12 episodes",
+            "User Approval": "6 of 6 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "only subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "14 of 16 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Most likely R1  DVD subs, untouched. Many errors but overall a serviceable translation.",
+                    "best you can get",
+                    "US DVD-rips (ADV) = stolen translation.  \"Mokkori\" intact."
+                ],
+                "Bad Comments": [
+                    "Good subs. Never had a problem with them",
+                    "Good job, nice and simple."
+                ]
+            }
+        },
+        {
+            "Show Name": "City Hunter '91",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter 2",
+            "Show Type": "TV - 63 episodes",
+            "User Approval": "7 of 9 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not especially literal or well-edited, but they're good enough.",
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": [
+                    "Phenomenally bad video quality"
+                ]
+            }
+        },
+        {
+            "Show Name": "City Hunter 3",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 5 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter: Ai to Shukumei no Magnum",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": [
+                    "Americanized script. honorifics are replaced with \"mr.\", \"ms.\" and other English equivalents. All instances of \"Mokkori\" are replaced with \"Nookie\". It also has a few small grammatical errors that aren't horrible but are definitely noticeable."
+                ]
+            }
+        },
+        {
+            "Show Name": "City Hunter: Bay City Wars",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter: Goodbye My Sweetheart",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter: Hyakuman Dollar no Inbou",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "City Hunter: The Secret Service",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, nice and simple."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Devilman Lady",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "El Hazard: The Wanderers",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Full Metal Panic? Fumoffu",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gankutsuou",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Giant Robo Gaiden Ginrei",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Gilgamesh",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Great Teacher Onizuka",
+            "Show Type": "TV - 43 episodes",
+            "User Approval": "62 of 76 users approve, 23 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Double translation, every caharacter the same color",
+                    "just fucking awful",
+                    "Subs are better with little grammar mistakes compared to a4e",
+                    "Done well! Better than the translation.",
+                    "I probably like this group because I have no experiance with other groups that did this series.",
+                    "clean subs",
+                    "Some errors, but good.",
+                    "Translation could have been better but the video quality was elegant. I recommend this group for this show.",
+                    "Butchers the OP/ED",
+                    "good subs, very few mistakes.",
+                    "it's in english",
+                    "Unfortunately probably the best release"
+                ],
+                "Bad Comments": [
+                    "There are some translation errors as well as some minor typing errors.",
+                    "Yoroshiku = Nice to meet you. Translate it you retards :P\nShit subs.",
+                    "Easily the best video quality, dual audio and good subs but i not as funny as the mix of the other subs. \nCan't have it all i suppose.",
+                    "good subs only noticed a few errors in what it should have said in english like sensai=onizuka instead of just teacher.",
+                    "Several lines of dialogue left unsubbed with no explanation.",
+                    "The karaoke effects kill the openings",
+                    "plenty of translating mistakes, lots of purposely mistranslated things",
+                    "I can't even.",
+                    "worst encoding ever, bad translations, ugly subs, defaults to dub and sub at the same time, no ordered chapters",
+                    "It's really horrible if you compare it to today's anime subbing, but don't expect much from oldie like this. A plus from me, considering when this was done.",
+                    "Why the fuck would you leave a word untranslated in dialogue, and then proceed to translate it in parentheses immediately after it? Are they devoid of common sense?"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hellsing",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "another quality release from B-A :)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Heppoko Jikken Animation Excel♥Saga",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Herlock Saga: Nibelung no Yubiwa",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Simple and easy to understand."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "I: Wish You Were Here",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D Extra Stage",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D First Stage",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No big errors, just a couple minor spacing problems, f.e word \"The\" spelled \"T he\"."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Initial D Second Stage",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No errors this time."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kiddy Grade",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Lodoss-tou Senki: Eiyuu Kishi Den",
+            "Show Type": "TV - 27 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "No problems."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Majutsushi Orphen",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Matantei Loki Ragnarok",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mobile Fighter G Gundam",
+            "Show Type": "TV - 49 episodes",
+            "User Approval": "15 of 16 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best subs for this series. Timing could be a little better though, the subs pop up a little bit to late most of the time.",
+                    "they love to use \"L\"s instead of \"I\"s"
+                ],
+                "Bad Comments": [
+                    "it was good enough for me I guess"
+                ]
+            }
+        },
+        {
+            "Show Name": "RahXephon",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It's Baka-Anime, so it's OK! ;)"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "RahXephon: Pluralitas Concentio",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Show Type": "TV - 94 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "s.CRY.ed",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [
+                    "Good ole DVD-rip."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sakigake!! Cromartie Koukou",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "15 of 33 users approve, 13 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Subs are all over the screen. Stay away.",
+                    "If this anime wasn't awesome, I wouldn't of even bothered watching these guys. Terrible subbing, at least the typesetting.",
+                    "Translations are okay but their typesetting is absolute garbage",
+                    "lies",
+                    "lol?",
+                    "Subtitles are everywhere~",
+                    "Subtitles everywhere, makes it very confusing to read and enjoy."
+                ],
+                "Bad Comments": [
+                    "Should've used vobsub style to preserve the on-screen text positioning present in the ADV DVD release.",
+                    "Ripped subs from the DVD",
+                    "Subs look crap",
+                    "Awkward on-screen text translation.",
+                    "Their typesetting is absolutely horrible but translations are correct.",
+                    "Good subs."
+                ]
+            }
+        },
+        {
+            "Show Name": "Samurai 7",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Scrapped Princess",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Slayers Special",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "thanks for wonderful subs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Street Fighter Alpha: Generations",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Sunabouzu",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenchi Muyou! GXP",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenjou Tenge",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoroiden Samurai Troopers",
+            "Show Type": "TV - 39 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoroiden Samurai Troopers Gaiden",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yoroiden Samurai Troopers Message",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Yuu☆Yuu☆Hakusho",
+            "Show Type": "TV - 112 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

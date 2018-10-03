@@ -1,0 +1,40 @@
+{
+    "Group": {
+        "Group Name": "Animearth Fansubs & Kaen Subs",
+        "Short Name": "AE-Kaen",
+        "IRC": "#Animearth@irc.​rizon.​net | #Kaen@irc.​rizon.​net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "6",
+            "Total": "10"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "One Piece",
+            "Show Type": "TV - ? episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Toriko",
+            "Show Type": "TV - 147 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Dropped. or VERY slow",
+                    "some errors",
+                    "Minus since they dropped it, and A-Destiny_SGKK was better in the first place. But now that SGKK dropped it too, A-Destiny is the best and only choice."
+                ],
+                "Bad Comments": [
+                    "dropped?",
+                    "are they even doing this?",
+                    "Awesome quality"
+                ]
+            },
+            "User Approval": "4 of 10 users approve, 6 comments"
+        }
+    ]
+}

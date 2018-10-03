@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Mikata Subs",
+        "Short Name": "Mikata Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "6",
+            "Users Disapprove": "7",
+            "Total": "13"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kami nomi zo Shiru Sekai: Megami-hen",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Magical☆Star Kanon 100%",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 10 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Oh man, colored fonts and other shit like that. Language reads like a piano artist's wrinkly ass trying to play piano itself. Do not watch.",
+                    "Awful",
+                    "Use Karoshi instead"
+                ],
+                "Bad Comments": [
+                    "Lots of errors in translation, spelling, and grammar",
+                    "They did great, considering only one translator worked on it to time and sub, then an editor fixed up a bit of grammar."
+                ]
+            }
+        }
+    ]
+}

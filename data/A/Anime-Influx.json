@@ -1,0 +1,125 @@
+{
+    "Group": {
+        "Group Name": "Anime-Influx",
+        "Short Name": "A-Flux",
+        "IRC": "#anime-influx@irc1.datamachine.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "47",
+            "Users Disapprove": "2",
+            "Total": "49"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Battle Programmer Shirase",
+            "Show Type": "TV - 15 episodes",
+            "User Approval": "34 of 34 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not so good, not so bad.",
+                    "cuz",
+                    "Pretty damn good subs back in 2003"
+                ],
+                "Bad Comments": [
+                    "Good Q",
+                    "the only decent sub"
+                ]
+            }
+        },
+        {
+            "Show Name": "D.C.: Da Capo",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "34 of 34 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Ichigeki Sacchuu!! Hoihoi-san",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "undefined"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kaleido Star",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kidou Shinsengumi Moeyo Ken",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mahoromatic 2 End Year Special",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "1 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mamotte Shugogetten!",
+            "Show Type": "TV - 22 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "very good subbs"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Massugu ni Ikou.",
+            "Show Type": "TV - 4 episodes",
+            "User Approval": "7 of 8 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Memories Off 2nd",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Nurse Witch Komugi-chan Magikarte",
+            "Show Type": "OVA - 5 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tenshi no Shippo Chu!",
+            "Show Type": "TV - 11 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

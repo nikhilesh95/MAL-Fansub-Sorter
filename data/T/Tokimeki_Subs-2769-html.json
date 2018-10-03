@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Tokimeki Subs",
+        "Short Name": "Tokimeki",
+        "IRC": "#tokimeki-subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "9",
+            "Total": "21"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gosick",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "translation on par with SS and better than the rest, but the video quality is not as good as SS's. Also, they are slower."
+                ],
+                "Bad Comments": [
+                    "Great translation."
+                ]
+            }
+        },
+        {
+            "Show Name": "Kamisama no Memochou",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 6 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Maria†Holic Alive",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "8 of 15 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "great typsetting, great timing. Well done! Going for this one",
+                    "Good, but hey, why not finish it?",
+                    "great sub"
+                ],
+                "Bad Comments": [
+                    "Finally a proper fansub, hope they finish the whole season",
+                    "They will never finish."
+                ]
+            }
+        },
+        {
+            "Show Name": "Megane na Kanojo",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "8 of 15 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Group": {
+        "Group Name": "YOUSMELL",
+        "Short Name": "YOUSMELL",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "15",
+            "Total": "19"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Tiger & Bunny",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "4 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "hulu rips. Unreadable typesetting",
+                    "same quality and faster than commie",
+                    "Poor audio quality."
+                ],
+                "Bad Comments": [
+                    "poor audio quality.",
+                    "Looks like shit, smells like shit, MUST BE SHIT",
+                    "smell not good"
+                ]
+            }
+        }
+    ]
+}

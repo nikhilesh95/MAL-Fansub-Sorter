@@ -1,0 +1,63 @@
+{
+    "Group": {
+        "Group Name": "Muteki Fansubs",
+        "Short Name": "Muteki",
+        "IRC": "#Muteki@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "26",
+            "Users Disapprove": "17",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kill Me Baby",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "10 of 18 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "If you don like utw use this condom instead.",
+                    "Dropped",
+                    "Stalled.",
+                    "Best group available, better than UTW-Mazui's.",
+                    "first try doing subs but it's perfect"
+                ],
+                "Bad Comments": [
+                    "I like this",
+                    "better than UTW-Mazui",
+                    "Script has less errors than UTW-Mazui's, typesetting and translation are quite good.\n\nImpressive for a new group.",
+                    "lol @ the staff upvoting themselves and downvoting their competition. crap group is crap."
+                ]
+            }
+        },
+        {
+            "Show Name": "Poyopoyo Kansatsu Nikki",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "12 of 17 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Illegal.",
+                    "Subbed Opening"
+                ],
+                "Bad Comments": [
+                    "Legal.",
+                    "It's better and more accurate."
+                ]
+            }
+        },
+        {
+            "Show Name": "Tantei Opera Milky Holmes Dai 2 Maku",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "4 of 8 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they aint even subbing it why are they here."
+                ],
+                "Bad Comments": [
+                    "said they were going to do this series but never did"
+                ]
+            }
+        }
+    ]
+}

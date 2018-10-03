@@ -1,0 +1,28 @@
+{
+    "Group": {
+        "Group Name": "Horseiuchi Translations",
+        "Short Name": "Horse/Seiuchi",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "15",
+            "Users Disapprove": "3",
+            "Total": "18"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Aggressive Retsuko",
+            "Show Type": "TV - 100 episodes",
+            "User Approval": "15 of 18 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "the only grup who translated retsuko"
+                ],
+                "Bad Comments": [
+                    "horrible typesetting"
+                ]
+            }
+        }
+    ]
+}

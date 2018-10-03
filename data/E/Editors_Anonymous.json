@@ -1,0 +1,29 @@
+{
+    "Group": {
+        "Group Name": "Editors Anonymous",
+        "Short Name": "EA",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "9",
+            "Total": "12"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Toaru Majutsu no Index II",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "3 of 12 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "wat",
+                    "Discontinued"
+                ],
+                "Bad Comments": [
+                    "do"
+                ]
+            }
+        }
+    ]
+}

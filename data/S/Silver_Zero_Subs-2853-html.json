@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Silver Zero Subs",
+        "Short Name": "Silver_Zero_Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "43",
+            "Users Disapprove": "0",
+            "Total": "43"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Akage no Anne",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "19 of 19 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Great translation and the quality of the video is much better than the other groups",
+                    "Great quality. Subs are accurate as well",
+                    "great subs. Would be nice to know what the songs mean though."
+                ],
+                "Bad Comments": [
+                    "They did their research, and while some parts may be unchecked or a little bit awkward, the translation is GREAT overall.",
+                    "High quality video. Decent subs.",
+                    "Some forgivable errors here and there, but its to be expected for such an old and long series. However, the dialogue and descriptions of events are written is a very relevant and believable way. Really helped bring out the setting on Anne even more."
+                ]
+            }
+        },
+        {
+            "Show Name": "Alps no Shoujo Heidi",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "16 of 16 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Best subs out there!!!",
+                    "Theirs was the best sub available."
+                ],
+                "Bad Comments": [
+                    "Because they rock.  Do I need any other reason?  (Also I'm part of the team)"
+                ]
+            }
+        },
+        {
+            "Show Name": "Flanders no Inu",
+            "Show Type": "TV - 52 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They rock!  And I'm working with them so I can't disagree."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone",
+            "Show Type": "TV - 50 episodes",
+            "User Approval": "4 of 4 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

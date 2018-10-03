@@ -1,0 +1,49 @@
+{
+    "Group": {
+        "Group Name": "Eleven no Fansub",
+        "Short Name": "ElevenFansub",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Ginga e Kickoff!!",
+            "Show Type": "TV - 39 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go",
+            "Show Type": "TV - 47 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: Chrono Stone",
+            "Show Type": "TV - 51 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Awful grammar and spelling. Little to no punctuation whatsoever. Sentences that don't make sense at all. I think that pretty much sums it up."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon",
+            "Show Type": "Movie - 1 episodes",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

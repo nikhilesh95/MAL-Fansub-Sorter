@@ -1,0 +1,37 @@
+{
+    "Group": {
+        "Group Name": "RoR!p0P",
+        "Short Name": "3g10N",
+        "IRC": "#r0r1p0p@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Boku wa Imouto ni Koi wo Suru",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "its accurate and the timing is good"
+                ],
+                "Bad Comments": [
+                    "Great translation, and probably the best for this anime."
+                ]
+            }
+        },
+        {
+            "Show Name": "Cowboy Bebop",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "4 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

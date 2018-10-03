@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Mogumiwani no Fansub",
+        "Short Name": "MnF",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "3",
+            "Users Disapprove": "1",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Sola",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "3 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "I eatched this anime with this fansub."
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

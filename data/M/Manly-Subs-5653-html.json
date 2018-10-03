@@ -1,0 +1,31 @@
+{
+    "Group": {
+        "Group Name": "Manly-Subs",
+        "Short Name": "Manly-Subs",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "1",
+            "Total": "5"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "The Rapeman",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 5 users approve, 5 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Literally the best subs I've ever seen.",
+                    "They made the Rapeman so much better, and more much likeable character.",
+                    "Some of the worst dated meme subs I've ever seen, but I can't say it's not fitting for Rapeman."
+                ],
+                "Bad Comments": [
+                    "proto commie",
+                    "The  sub kept me smiling the entire time. Nicely presented- well done."
+                ]
+            }
+        }
+    ]
+}

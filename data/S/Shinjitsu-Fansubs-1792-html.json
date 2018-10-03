@@ -1,0 +1,45 @@
+{
+    "Group": {
+        "Group Name": "Shinjitsu-Fansubs",
+        "Short Name": "S-F",
+        "IRC": "#shinjitsu-fansubs@irc.rizon.net",
+        "Primary Language": "Arabic",
+        "Member Opinions And Votes": {
+            "Users Approve": "25",
+            "Users Disapprove": "4",
+            "Total": "29"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Detective Conan",
+            "Show Type": "TV - ? episodes",
+            "User Approval": "25 of 27 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "They are AWESOME group",
+                    "best Arabic subtitle for conan ever",
+                    "They are highly qualified to do their job. I uphold them in the highest standard in any group because of their remarkable performances due to heavily influencing sub culture."
+                ],
+                "Bad Comments": [
+                    ":D",
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ....",
+                    "ليش تحجبون المشاهد 😞"
+                ]
+            }
+        },
+        {
+            "Show Name": "Maria-sama ga Miteru 4th",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "they are not subbing this anime"
+                ],
+                "Bad Comments": [
+                    "هنالك اخطاء وتحريف في الترجمة ومشاهد محجوبة ومقطوعة ...."
+                ]
+            }
+        }
+    ]
+}

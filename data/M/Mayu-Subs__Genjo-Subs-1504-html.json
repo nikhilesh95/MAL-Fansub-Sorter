@@ -1,0 +1,66 @@
+{
+    "Group": {
+        "Group Name": "Mayu-Subs & Genjo-Subs",
+        "Short Name": "Mayu-Genjo",
+        "IRC": "#mayu-subs@irc.rizon.net ; #Genjo-Subs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "72",
+            "Users Disapprove": "24",
+            "Total": "96"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Hyakko",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "48 of 57 users approve, 14 comments",
+            "Comments": {
+                "Good Comments": [
+                    "FINISH WHAT YOU STARTED, YOU IDIOTS !!",
+                    "Dropped",
+                    "Don't start what you can't finish.",
+                    "didn't finish",
+                    "i love genjo",
+                    "I'm in it :)",
+                    "epic subs  "
+                ],
+                "Bad Comments": [
+                    "Great encode, translation and fonts. Very nice!",
+                    "Biased? What the hell's that comment about? 0_0",
+                    "great job",
+                    "Died after 10 episodes.",
+                    "nice jobs ...as usual",
+                    "dropped",
+                    "pretty biased on what they believe is a good show. they never gave it a shot"
+                ]
+            }
+        },
+        {
+            "Show Name": "Toradora!",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "24 of 39 users approve, 15 comments",
+            "Comments": {
+                "Good Comments": [
+                    "good release",
+                    "slow",
+                    "shit subs, also, taiga is mai waifu",
+                    "some senseless translations, without clarifying notes",
+                    "Too slow.",
+                    "one of popular baka group, so i don't have any doubt on them",
+                    "Luv everytg like the add. bubbles- shows pride in subs, but translation holdin u guys back... ''yobisute'' in ep1 was not rendered well; gg's translation of taiga's insult in the garlic rice scene in ep1 was more on the mark to name a few...",
+                    "Subs are accurate, funny, easy to read, and have great on screen translations of on screen writing."
+                ],
+                "Bad Comments": [
+                    "Looks good!",
+                    "2 subbers = twice as good, nice animation/fonts for intro and ending and hurray for .avi.",
+                    "Change that horrible font, please. My eyes hurt.",
+                    "Respectfully good. One of my own favorites!",
+                    "Way too much self-promotion. \"Mayu-Genjo\" could have been placed somewhere else instead of slapped onto the entire friggin title screen. And they also need to work on TC.",
+                    "better thangg",
+                    "I really like Mayu-Genjo and think their the best subbers for Toradora.  Nice job."
+                ]
+            }
+        }
+    ]
+}

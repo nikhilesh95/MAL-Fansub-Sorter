@@ -1,0 +1,26 @@
+{
+    "Group": {
+        "Group Name": "Goat",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gedo Senki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "watched the subs from this goat ... and I have to say that they were great! ;D One typo near the ending though ... but overall fine!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

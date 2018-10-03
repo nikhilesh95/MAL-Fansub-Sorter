@@ -1,0 +1,90 @@
+{
+    "Group": {
+        "Group Name": "MWizard",
+        "Short Name": "MW",
+        "IRC": "#MWizard@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "12",
+            "Users Disapprove": "2",
+            "Total": "14"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gedo Senki",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "1 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Flowed well. Didn't notice any real awkward dialog. Font choice was a bit odd."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kanashimi no Belladonna",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "2 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good subbing"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "3 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tamala 2010: A Punk Cat in Space",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "3 of 3 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good release"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "The Cockpit",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "3 of 4 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "The only subs I could find. Though there were some typos"
+                ],
+                "Bad Comments": [
+                    "messy timing, mistranslations"
+                ]
+            }
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato (Movie)",
+            "Show Type": "Movie - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Not a fansub."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+            "Show Type": "Special - 1 episodes",
+            "User Approval": "0 of 1 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

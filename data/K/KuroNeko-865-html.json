@@ -1,0 +1,140 @@
+{
+    "Group": {
+        "Group Name": "KuroNeko",
+        "Short Name": "KuroNeko",
+        "IRC": "irc://irc.rizon.net:6667/kuroneko",
+        "Primary Language": "",
+        "Member Opinions And Votes": {
+            "Users Approve": "89",
+            "Users Disapprove": "15",
+            "Total": "104"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Fate/stay night",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist",
+            "Show Type": "TV - 51 episodes",
+            "User Approval": "1 of 3 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Fullmetal Alchemist: Premium Collection",
+            "Show Type": "OVA - 3 episodes",
+            "User Approval": "11 of 11 users approve, 4 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Good job, plus they are the only people who subbed it ;)",
+                    "Great work. The subs are good and easy to follow."
+                ],
+                "Bad Comments": [
+                    "They are the only ones who subbed this, but it doesn't mean that the work is good. Translation is good and everything, but the video quality is kinda... sh*t, but otherwise good work :)",
+                    "well done and clear to read"
+                ]
+            }
+        },
+        {
+            "Show Name": "Hanbun no Tsuki ga Noboru Sora",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Innocent Venus",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "2 of 2 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Juushin Enbu: Hero Tales",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "9 of 16 users approve, 6 comments",
+            "Comments": {
+                "Good Comments": [
+                    "It may look pretty, but you'll be deceived by the translation. Not worth watching.",
+                    "many typo errors in subtitles",
+                    "Links on site don't work."
+                ],
+                "Bad Comments": [
+                    "Made-up lines for the OP song. ~kathy",
+                    "I don't know why this particular fansub has gathered so few positive votes. Grammar, choice of typeface and encode are all good. I've only noticed one or two typos, which I think is acceptable.",
+                    "Pretty good but they leave some things untranslated which could easily be translated like \"baka-aniki\" which means \"stupid brother\""
+                ]
+            }
+        },
+        {
+            "Show Name": "Shinigami no Ballad.",
+            "Show Type": "TV - 6 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "Show Type": "OVA - 4 episodes",
+            "User Approval": "7 of 7 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima",
+            "Show Type": "TV - 13 episodes",
+            "User Approval": "23 of 26 users approve, 9 comments",
+            "Comments": {
+                "Good Comments": [
+                    "nice font used",
+                    "Very quality.",
+                    "Great quality and easy to understand",
+                    "Much clearer and easier to understand ",
+                    "I noticed mistakes here and there. SS-Ayu is recommended."
+                ],
+                "Bad Comments": [
+                    "There type setting rocks",
+                    "Inaccurate translations. Go with SS-AYU.",
+                    "wrong translations, wrong name spellings.",
+                    "All around good subing."
+                ]
+            }
+        },
+        {
+            "Show Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Show Type": "TV - 12 episodes",
+            "User Approval": "26 of 28 users approve, 8 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Nice releasing speed, size/quality ratio, and overall stylistics. On the bad sides are typos, hardsubbing, and lack of 5.1 sound.",
+                    "i like the font",
+                    "Great Video-Quality, extremely well done subs",
+                    "Good subs. I like that."
+                ],
+                "Bad Comments": [
+                    "good subs and pretty fast.",
+                    "Horrible flow, frequent grammatical errors, as well as consistency issues and obvious pronunciation problems.",
+                    "good subbsy lol",
+                    "the lesser evil"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Group": {
+        "Group Name": "Chamelenia",
+        "Short Name": "",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "8",
+            "Total": "8"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Dokidoki♡Densetsu: Mahoujin Guruguru",
+            "Show Type": "TV - 38 episodes",
+            "User Approval": "0 of 2 users approve, 2 comments",
+            "Comments": {
+                "Good Comments": [
+                    "it's bad. don't watch this sub unless you REALLY want to watch the anime"
+                ],
+                "Bad Comments": [
+                    "It seems like subs were not done by native English speakers, leading to regular inaccuracies. Some character names were incorrectly/inconsistently spelt."
+                ]
+            }
+        },
+        {
+            "Show Name": "Firestorm",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "0 of 2 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some sentences make no sense and character names are miss-interpretated"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Monkey Turn",
+            "Show Type": "TV - 25 episodes",
+            "User Approval": "0 of 4 users approve, 3 comments",
+            "Comments": {
+                "Good Comments": [
+                    "That english is horrendous and doesnt even make sense. Especially when the character has name X and in the subs you read name Y.",
+                    "terrible subs"
+                ],
+                "Bad Comments": [
+                    "HK subs"
+                ]
+            }
+        }
+    ]
+}

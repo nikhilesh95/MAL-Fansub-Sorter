@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "Group Name": "Jojo's Bizarre Alliance",
+        "Short Name": "JJBAlliance",
+        "IRC": "",
+        "Primary Language": "Brazilian Portuguese",
+        "Member Opinions And Votes": {
+            "Users Approve": "35",
+            "Users Disapprove": "11",
+            "Total": "46"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "JoJo no Kimyou na Bouken",
+            "Show Type": "OVA - 6 episodes",
+            "User Approval": "4 of 6 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken (TV)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "11 of 13 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Adventure",
+            "Show Type": "OVA - 7 episodes",
+            "User Approval": "2 of 5 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "6 of 8 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season",
+            "Show Type": "TV - 24 episodes",
+            "User Approval": "12 of 14 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Really funny subtitles, loved it!"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "WXC SubS",
+        "Short Name": "WXC",
+        "IRC": "",
+        "Primary Language": "Spanish",
+        "Member Opinions And Votes": {
+            "Users Approve": "0",
+            "Users Disapprove": "0",
+            "Total": "0"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Gokukoku no Brynhildr",
+            "Show Type": "TV - 13 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Best encode and good translation"
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Mangaka-san to Assistant-san to The Animation",
+            "Show Type": "TV - 12 episodes",
+            "Comments": {
+                "Good Comments": [
+                    "Best encode and  very good translation"
+                ],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

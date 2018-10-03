@@ -1,0 +1,24 @@
+{
+    "Group": {
+        "Group Name": "Guyver-Fansubs",
+        "Short Name": "Guyver",
+        "IRC": "#guyver-fansubs@irc.rizon.net",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "1",
+            "Users Disapprove": "0",
+            "Total": "1"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Kyoushoku Soukou Guyver (2005)",
+            "Show Type": "TV - 26 episodes",
+            "User Approval": "1 of 1 users approve",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}

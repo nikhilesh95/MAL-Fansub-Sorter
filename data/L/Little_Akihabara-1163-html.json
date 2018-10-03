@@ -1,0 +1,35 @@
+{
+    "Group": {
+        "Group Name": "Little Akihabara",
+        "Short Name": "LAkiba",
+        "IRC": "",
+        "Primary Language": "English",
+        "Member Opinions And Votes": {
+            "Users Approve": "4",
+            "Users Disapprove": "0",
+            "Total": "4"
+        }
+    },
+    "Subbed Projects": [
+        {
+            "Show Name": "Handsome Girl",
+            "Show Type": "OVA - 1 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [
+                    "Some grammatical errors and awkward phrasing. Otherwise, pretty good."
+                ],
+                "Bad Comments": []
+            }
+        },
+        {
+            "Show Name": "Kouryuu Densetsu Villgust",
+            "Show Type": "OVA - 2 episodes",
+            "User Approval": "4 of 4 users approve, 1 comments",
+            "Comments": {
+                "Good Comments": [],
+                "Bad Comments": []
+            }
+        }
+    ]
+}
