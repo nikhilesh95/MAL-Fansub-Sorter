@@ -1,10 +1,11 @@
 import json
 from pprint import pprint
 
-# #Show object
-# class Show:
-#     def __init__(self, showname):
-#         self.showname = showname
+#TODO
+#Prettify string result of shows list
+
+#Master dictionary of shows to list of groups, rating for current show)
+shows = {}
 
 #Holds a group's details and its rating for a particular show
 #Multiple Group objects can share a name for different shows
@@ -13,34 +14,43 @@ class Group:
         self.showname = showname
         self.groupname = groupname
         self.grouplang = grouplang
-        self.show_approval = show_approval[0:show_approval.find(',')]   #cuts the 'e' from approve when no comments
+        if ',' in show_approval:
+            self.show_approval = show_approval[0:show_approval.find(',')]
+        else:
+            self.show_approval = show_approval
         self.show_comments = show_comments 
     def __repr__(self):
-        result = "\nGroup: "+self.groupname+"\nRating: "+self.show_approval
-        return result
-
-#Master dictionary of shows to list of groups, rating for current show)
-shows = {}
-
-#Open file and read one group's data
-with open("data/3x3m.json") as f:
-    data = json.load(f)
-
-groupname = data["Group"]["Group Name"]
-grouplang = data["Group"]["Primary Language"]
-numshows = len(data["Subbed Projects"])
-
-for show in data["Subbed Projects"]:
-    showname = show["Show Name"]
-    show_approval = show["User Approval"]
-    show_comments = show["Comments"]
-    group = Group(groupname, grouplang, showname, show_approval, show_comments)
-    #append current group to list of groups for a show
-    if (showname in shows):
-        shows[showname].append(group)
-    else:
-        shows[showname] = [group]
+        return "\nGroup: "+self.groupname+"\nRating: "+self.show_approval
 
 
-#pprint(data)
-pprint (shows)
+
+def parse_data(data):
+    groupname = data["Group"]["Group Name"]
+    grouplang = data["Group"]["Primary Language"]
+    numshows = len(data["Subbed Projects"])
+
+    for show in data["Subbed Projects"]:
+        showname = show["Show Name"]
+        show_approval = show["User Approval"]
+        show_comments = show["Comments"]
+        group = Group(groupname, grouplang, showname, show_approval, show_comments)
+        #append current group to list of groups for a show
+        if (showname in shows):
+            shows[showname].append(group)
+        else:
+            shows[showname] = [group]
+
+    print (shows)
+
+def main():
+    #Open file and read one group's data
+    with open("data/3x3m.json") as f:
+        data = json.load(f)
+    parse_data(data)
+
+    #Open a different file that shares some shows
+    with open("data/Gayako.json") as f:
+        data = json.load(f)
+    parse_data(data)
+
+main()
