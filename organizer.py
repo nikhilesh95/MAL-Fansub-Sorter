@@ -21,7 +21,7 @@ class Group:
         self.showup = show_approval[0]
         self.showdown = show_approval[1]
     def __repr__(self):
-        return "\n"+self.groupname+" - "+str(self.showup)+"/"+str(self.showdown)
+        return "\n"+self.groupname+" ("+self.grouplang+") - "+str(self.showup)+"/"+str(self.showdown)
 
 
 
