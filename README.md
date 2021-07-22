@@ -1,4 +1,4 @@
-## MAL Fansub data organizer
+## MyAnimelist.com Fansub data organizer
 
 Organizes fansub data for anime that has since been removed by myanimelist.net ([Original page](https://myanimelist.net/fansub-groups.php?letter= )).
 
